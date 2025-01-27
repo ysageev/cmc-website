@@ -78,7 +78,7 @@ const config = {
 			navbar: {
 				title: "CMC",
 				logo: {
-					alt: "My Site Logo",
+					alt: "Construction Monitoring Consultants",
 					src: "img/cmc-icon.png",
 				},
 				items: [

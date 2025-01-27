@@ -44,3 +44,7 @@
 .invertgray {
   filter: grayscale(1) invert(1);
 }
+
+.blurb-strip {
+  background-color: var(--ifm-color-primary-lightest);
+}

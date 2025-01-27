@@ -1,18 +1,18 @@
-import React from "react"
-import Marquee from "react-fast-marquee"
-import CompanyLogo from "./CompanyLogo"
+import React from "react";
+import Marquee from "react-fast-marquee";
+import CompanyLogo from "./CompanyLogo";
 
 function CompaniesUsing() {
-	return <ClientLogoTicker />
+	return <ClientLogoTicker />;
 }
 
-export default CompaniesUsing
+export default CompaniesUsing;
 
 const ClientLogoTicker = () => (
 	<div>
 		{/* <div style={{ float: "left", fontSize: ".8em", paddingBottom: 10 }}>Who uses our reports?</div> */}
-		<div style={{ float: "left", marginRight: 60, width: "100%", paddingRight: 10 }}>
-			<Marquee pauseOnHover={true} speed={90} style={{ height: 38 }}>
+		<div style={{ float: "left", width: "100%" }}>
+			<Marquee pauseOnHover={true} speed={40} style={{ height: 38 }}>
 				<CompanyLogo src="/img/company-logos/cpc.png" />
 				<CompanyLogo src="/img/company-logos/fsb.png" />
 				<CompanyLogo src="/img/company-logos/foss.png" />
@@ -54,4 +54,4 @@ const ClientLogoTicker = () => (
 			</Marquee>
 		</div>
 	</div>
-)
+);
