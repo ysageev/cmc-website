@@ -3,10 +3,10 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
-
+import CompaniesUsing from "@site/src/components/CompaniesUsing";
 import Heading from "@theme/Heading";
 import styles from "./index.module.css";
-
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 // function HomepageHeader() {
 // 	const { siteConfig } = useDocusaurusContext();
 // 	return (
@@ -37,6 +37,7 @@ function Home() {
 			<Consultation />
 			<WhatWeDo />
 			<ServicesBrochure />
+			<ProblemsWeSolve />
 		</Layout>
 	);
 }
@@ -50,6 +51,9 @@ function Hero() {
 				backgroundRepeat: "no-repeat",
 			}}
 		>
+			<div style={{ clear: "both", paddingTop: 15, height: 38 }}>
+				<CompaniesUsing />
+			</div>
 			<div style={{ padding: 40 }}>
 				<h1
 					style={{
@@ -94,7 +98,6 @@ function Hero() {
 		</div>
 	);
 }
-
 function Consultation() {
 	return (
 		<div
@@ -115,7 +118,8 @@ function Consultation() {
 					className="button button--primary button--lg"
 					to="/docs/introvideo"
 				>
-					Free Consultation <i className="fa-duotone fa-solid fa-paper-plane" />
+					Free Consultation
+					<i className="fa-duotone fa-solid fa-paper-plane" />
 				</Link>
 			</span>
 		</div>
@@ -203,6 +207,132 @@ function ServicesListItem({ icon, title, details }) {
 				<div style={{ fontWeight: "bold", fontSize: "1.3em" }}>{title}</div>
 				<div>{details}</div>
 			</div>
+		</div>
+	);
+}
+
+function ProblemsWeSolve() {
+	return (
+		<div style={{ paddingLeft: 40 }}>
+			<span style={{ fontSize: "2em", fontWeight: "bold" }}>
+				Problems we solve...
+			</span>
+			<p style={{ fontSize: "1.2em", maxWidth: 800 }}>
+				We provide solutions to the following problems when dealing with
+				Commercial Real Estate Lending
+			</p>
+			<div style={{ display: "flex", flexWrap: "wrap" }}>
+				<PainPoints />
+				<Capabilities />
+			</div>
+		</div>
+	);
+}
+
+const painStyle = {
+	"--fa-primary-color": "red",
+	"--fa-secondary-color": "red",
+	marginRight: 10,
+};
+
+function PainPoints() {
+	return (
+		<div>
+			<span style={{ fontSize: "1.5em", fontWeight: "bold" }}>
+				Pain Points:{" "}
+			</span>
+			<ul>
+				<li>
+					<i className="fa-duotone fa-solid fa-fire" style={painStyle} />
+					Slow Underwriting Process
+				</li>
+				<li>
+					<i className="fa-duotone fa-solid fa-fire" style={painStyle} />
+					Difficulty Assessing Property Risk
+				</li>
+				<li>
+					<i className="fa-duotone fa-solid fa-fire" style={painStyle} />
+					Regulatory Compliance Challenges
+				</li>
+				<li>
+					<i className="fa-duotone fa-solid fa-fire" style={painStyle} />
+					Inaccurate Asset Valuation
+				</li>
+				<li>
+					<i className="fa-duotone fa-solid fa-fire" style={painStyle} />
+					Inaccurate 3rd Party Analytics
+				</li>
+				<li>
+					<i className="fa-duotone fa-solid fa-fire" style={painStyle} />
+					Limited Visiblity of Portfolio
+				</li>
+				<li>
+					<i className="fa-duotone fa-solid fa-fire" style={painStyle} />
+					Lack of Borrower Transparency
+				</li>
+				<li>
+					<i className="fa-duotone fa-solid fa-fire" style={painStyle} />
+					Difficulty managing Distressed Assets
+				</li>
+			</ul>
+		</div>
+	);
+}
+
+const capabStyle = {
+	"--fa-primary-color": "black",
+	"--fa-secondary-color": "green",
+	marginRight: 10,
+};
+
+function Capabilities() {
+	return (
+		<div>
+			<span style={{ fontSize: "1.5em", fontWeight: "bold" }}>
+				Our Capabilities:
+			</span>
+			<ul>
+				<li>
+					<i className="fa-duotone fa-solid fa-wrench" style={capabStyle} />
+					Risk Mitigation
+				</li>
+				<li>
+					<i className="fa-duotone fa-solid fa-wrench" style={capabStyle} />
+					Portfolio Diversification
+				</li>
+				<li>
+					<i className="fa-duotone fa-solid fa-wrench" style={capabStyle} />
+					Loan Underwriting Efficiency
+				</li>
+				<li>
+					<i className="fa-duotone fa-solid fa-wrench" style={capabStyle} />
+					Data-Driven Decision Making
+				</li>
+				<li>
+					<i className="fa-duotone fa-solid fa-wrench" style={capabStyle} />
+					Accurate Asset Valuation
+				</li>
+				<li>
+					<i className="fa-duotone fa-solid fa-wrench" style={capabStyle} />
+					Predictive Analytics
+				</li>
+				<li>
+					<i className="fa-duotone fa-solid fa-wrench" style={capabStyle} />
+					Deep Due Diligence
+				</li>
+				<li>
+					<i className="fa-duotone fa-solid fa-wrench" style={capabStyle} />
+					Loan Portfolio Visiblity
+				</li>
+				<li>
+					<i className="fa-duotone fa-solid fa-wrench" style={capabStyle} />
+					Loan Monitoring Automation
+				</li>
+				<li>
+					<i className="fa-duotone fa-solid fa-wrench" style={capabStyle} />
+					Integrated Financial Reporting
+				</li>
+			</ul>
 		</div>
 	);
 }
