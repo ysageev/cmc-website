@@ -69,7 +69,7 @@ const config = {
 			}),
 		],
 	],
-
+	//<img src="/img/map-marker.png" style="width:20px;"/>
 	themeConfig:
 		/** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 		({
@@ -113,58 +113,98 @@ const config = {
 					// },
 				],
 			},
-			// footer: {
-			// 	style: "dark",
-			// 	links: [
-			// 		{
-			// 			title: "Docs",
-			// 			items: [
-			// 				{
-			// 					label: "Tutorial",
-			// 					to: "/docs/intro",
-			// 				},
-			// 			],
-			// 		},
-			// 		{
-			// 			title: "Community",
-			// 			items: [
-			// 				{
-			// 					label: "Stack Overflow",
-			// 					href: "https://stackoverflow.com/questions/tagged/docusaurus",
-			// 				},
-			// 				{
-			// 					label: "Discord",
-			// 					href: "https://discordapp.com/invite/docusaurus",
-			// 				},
-			// 				{
-			// 					label: "X",
-			// 					href: "https://x.com/docusaurus",
-			// 				},
-			// 			],
-			// 		},
-			// 		{
-			// 			title: "More",
-			// 			items: [
-			// 				{
-			// 					label: "Blog",
-			// 					to: "/blog",
-			// 				},
-			// 				{
-			// 					label: "GitHub",
-			// 					href: "https://github.com/facebook/docusaurus",
-			// 				},
-			// 			],
-			// 		},
-			// 	],
-			// 	copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-			// },
+			footer: {
+				style: "dark",
+				links: [
+					{
+						title: "Contact",
+						items: [
+							{
+								html: `
+										<div style="font-size:1em;">
+											<i class="fa-thin fa-location-dot" />
+											<a href="https://maps.app.goo.gl/8Zin2gwTQMMo3hkG6" style="float:right;font-family:Lexend;font-weight:normal;width:200px;line-height:1.3;padding-left: 10px;"
+												<br/>
+												CMC
+												<br/>
+												4855 Ridge Lea Rd
+												<br/>
+												Suite 217
+												<br/>
+												Amherst, NY  14226
+											</a>
+										</div>`,
+							},
+							{
+								html: `<div style="width:200px;font-size:1em;margin-top:10px;clear:both;">
+											<div style="float:left;">
+												<i class="fa-thin fa-envelope"></i>
+											</div>
+											<a href="mailto:info@go-cmc.com" style="font-family:Lexend;font-weight:normal;float:left;width:160px;padding-left: 10px;">
+												info@go-cmc.com
+											</a>
+										</div>`,
+							},
+							{
+								html: `<div style="width:200px;font-size:1em;margin-top:10px;clear:both;">
+											<div style="float:left;">
+												<i class="fa-thin fa-phone"></i>
+											</div>
+											<a href="tel:7169894417" style="font-family:Lexend;font-weight:normal;float:left;width:160px;padding-left: 10px;">
+												(716) 989-4417
+											</a>
+										</div>`,
+							},
+							{
+								html: `<div style="width:200px;font-size:1em;margin-top:10px;clear:both;">
+											<div style="float:left;">
+												<i class="fa-brands fa-linkedin"></i>
+											</div>
+											<a href="https://www.linkedin.com/company/cmc-monitoring" target="_blank" style="font-family:Lexend;font-weight:normal;float:left;width:160px;padding-left: 10px;">
+												LinkedIn
+											</a>
+										</div>`,
+							},
+						],
+					},
+					{
+						title: "Site",
+						items: [
+							{
+								label: "About",
+								href: "/about",
+							},
+							{
+								label: "Services",
+								href: "/services",
+							},
+							{
+								label: "Resources",
+								href: "resources",
+							},
+						],
+					},
+					// {
+					// 	title: "More",
+					// 	items: [
+					// 		{
+					// 			label: "Blog",
+					// 			to: "/blog",
+					// 		},
+					// 		{
+					// 			label: "GitHub",
+					// 			href: "https://github.com/facebook/docusaurus",
+					// 		},
+					// 	],
+					// },
+				],
+				copyright: `Copyright © ${new Date().getFullYear()} CMC, Inc.`,
+			},
 			prism: {
 				theme: prismThemes.github,
 				darkTheme: prismThemes.dracula,
 			},
 			scripts: ["https://kit.fontawesome.com/9201d8e0d6.js"],
-
-			// <script src="https://kit.fontawesome.com/9201d8e0d6.js" crossorigin="anonymous"></script>
 		}),
 };
 

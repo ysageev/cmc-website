@@ -23,7 +23,7 @@ function Hero() {
 					paddingTop: 20,
 					paddingLeft: 20,
 					marginBottom: 0,
-					height: 140,
+					maxHeight: 140,
 				}}
 			/>
 			<div
