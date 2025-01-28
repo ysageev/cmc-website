@@ -97,19 +97,16 @@ const config = {
 						label: "Contact",
 						position: "left",
 					},
-
 					{
-						type: "docSidebar",
-						sidebarId: "tutorialSidebar",
-						position: "left",
+						to: "resources",
 						label: "Resources",
+						position: "left",
 					},
-
-					// { to: "/blog", label: "Blog", position: "left" },
 					// {
-					// 	href: "https://github.com/facebook/docusaurus",
-					// 	label: "GitHub",
-					// 	position: "right",
+					// 	type: "docSidebar",
+					// 	sidebarId: "tutorialSidebar",
+					// 	position: "left",
+					// 	label: "Resources",
 					// },
 				],
 			},
@@ -122,8 +119,8 @@ const config = {
 							{
 								html: `
 										<div style="font-size:1em;">
-											<i class="fa-thin fa-location-dot" />
-											<a href="https://maps.app.goo.gl/8Zin2gwTQMMo3hkG6" style="float:right;font-family:Lexend;font-weight:normal;width:200px;line-height:1.3;padding-left: 10px;"
+											<i class="fa-thin fa-location-dot" style="margin-top:5px;"/>
+											<a href="https://maps.app.goo.gl/8Zin2gwTQMMo3hkG6" style="float:right;font-family:Lexend;font-weight:normal;width:200px;line-height:1.3;padding-left: 10px;">
 												<br/>
 												CMC
 												<br/>
@@ -168,7 +165,7 @@ const config = {
 						],
 					},
 					{
-						title: "Site",
+						title: "Directory",
 						items: [
 							{
 								label: "About",
@@ -180,23 +177,10 @@ const config = {
 							},
 							{
 								label: "Resources",
-								href: "resources",
+								href: "/resources",
 							},
 						],
 					},
-					// {
-					// 	title: "More",
-					// 	items: [
-					// 		{
-					// 			label: "Blog",
-					// 			to: "/blog",
-					// 		},
-					// 		{
-					// 			label: "GitHub",
-					// 			href: "https://github.com/facebook/docusaurus",
-					// 		},
-					// 	],
-					// },
 				],
 				copyright: `Copyright © ${new Date().getFullYear()} CMC, Inc.`,
 			},
