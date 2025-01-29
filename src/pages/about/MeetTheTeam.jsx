@@ -51,7 +51,7 @@ function PhotoCard({ photo, title, linkedInURL, details }) {
 				rel="noreferrer"
 				style={{ position: "relative", left: 270, top: 80, zIndex: 1000 }}
 			>
-				<i class="fa-brands fa-linkedin fa-2x" />
+				<i className="fa-brands fa-linkedin fa-2x" />
 			</a>
 			<div
 				style={{

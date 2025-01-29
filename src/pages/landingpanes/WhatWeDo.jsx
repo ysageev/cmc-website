@@ -1,8 +1,8 @@
 function WhatWeDo() {
 	return (
-		<div style={{ margin: 40 }}>
+		<div style={{ marginLeft: 30 }}>
 			<span style={{ fontSize: "2em", fontWeight: "bold" }}>
-				What we do for you..
+				Our services...
 			</span>
 			<br />
 			<br />
@@ -53,9 +53,9 @@ function ServicesListItem({ icon, title, details }) {
 			style={{
 				display: "flex",
 				alignItems: "center",
-				paddingRight: 40,
+				paddingRight: 20,
 				paddingBottom: 20,
-				width: 360,
+				width: 400,
 			}}
 		>
 			<i
