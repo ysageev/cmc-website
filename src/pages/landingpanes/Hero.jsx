@@ -68,12 +68,15 @@ function Hero() {
 							marginTop: 20,
 						}}
 					>
-						<Link className="button button--secondary button--lg" to="services">
+						<Link
+							className="button button--secondary button--lg"
+							to="/services"
+						>
 							Learn More
 						</Link>
 						<Link
 							className="button button--primary button--lg"
-							to="docs/videos/introvideo"
+							to="/docs/videos/introvideo"
 						>
 							Watch Video <i className="fa-duotone fa-solid fa-video" />
 						</Link>

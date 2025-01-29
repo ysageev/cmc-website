@@ -38,7 +38,7 @@ function ApprovedVendor() {
 			<div>
 				<Link
 					className="button button--primary button--lg"
-					to="/docs/introvideo"
+					to="/docs/videos/introvideo"
 				>
 					Approval Materials &nbsp;
 					<i className="fa-duotone fa-solid fa-download" />

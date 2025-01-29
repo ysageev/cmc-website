@@ -22,7 +22,7 @@ function ServicesBrochure() {
 				<span style={{ color: "#C4F1FF" }}> Brochure</span> &nbsp;
 				<Link
 					className="button button--primary button--lg"
-					to="/docs/introvideo"
+					to="/docs/videos/introvideo"
 				>
 					Download Brochure <i className="fa-duotone fa-solid fa-download" />
 				</Link>
