@@ -12,7 +12,7 @@ const ClientLogoTicker = () => (
 	<div>
 		{/* <div style={{ float: "left", fontSize: ".8em", paddingBottom: 10 }}>Who uses our reports?</div> */}
 		<div style={{ float: "left", width: "100%" }}>
-			<Marquee pauseOnHover={true} speed={40} style={{ height: 38 }}>
+			<Marquee pauseOnHover={true} speed={45} style={{ height: 38 }}>
 				<CompanyLogo src="/img/company-logos/cpc.png" />
 				<CompanyLogo src="/img/company-logos/fsb.png" />
 				<CompanyLogo src="/img/company-logos/foss.png" />

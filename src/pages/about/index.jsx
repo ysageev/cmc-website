@@ -1,13 +1,15 @@
 import Layout from "@theme/Layout";
 import React from "react";
+import MeetTheTeam from "./MeetTheTeam";
 
-const About = (props) => {
+const Services = (props) => {
 	return (
 		<Layout>
-			<h1>About</h1>
-			<i class="fa-duotone fa-solid fa-eraser" />
+			<div className="container">
+				<MeetTheTeam />
+			</div>
 		</Layout>
 	);
 };
 
-export default About;
+export default Services;

@@ -36,6 +36,12 @@ function WhatWeDo() {
 					title="Completion Certificates and Closeout"
 					details="Certified Success.  Close with Certainty."
 				/>
+				<br />
+				<ServicesListItem
+					icon="fa-landmark-flag"
+					title="Historic Tax Credit Monitoring"
+					details="Track Tax Credits."
+				/>
 			</div>
 		</div>
 	);

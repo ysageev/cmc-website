@@ -27,7 +27,8 @@ function Consultation() {
 				}}
 			>
 				<span style={{ color: "#C4F1FF" }}>Master </span> &nbsp;your portfolio,
-				<span style={{ color: "#C4F1FF" }}> Maximize</span> &nbsp; potential...
+				<span style={{ color: "#C4F1FF" }}>&nbsp;Maximize</span> &nbsp;
+				potential...
 			</span>
 			<Link className="button button--primary button--lg" to="/docs/introvideo">
 				Free Consultation

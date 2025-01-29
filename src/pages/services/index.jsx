@@ -1,12 +1,13 @@
 import Layout from "@theme/Layout";
 import React from "react";
 
-const Services = (props) => {
+const About = (props) => {
 	return (
 		<Layout>
-			<h1>Services</h1>
+			<h1>services</h1>
+			<i class="fa-duotone fa-solid fa-eraser" />
 		</Layout>
 	);
 };
 
-export default Services;
+export default About;
