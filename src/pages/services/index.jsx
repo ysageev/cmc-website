@@ -4,8 +4,10 @@ import React from "react";
 const About = (props) => {
 	return (
 		<Layout>
-			<h1>services</h1>
-			<i class="fa-duotone fa-solid fa-eraser" />
+			<div className="container">
+				{/* <i class="fa-duotone fa-solid fa-eraser" /> */}
+				<h1>SERVICES</h1>
+			</div>
 		</Layout>
 	);
 };

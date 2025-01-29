@@ -28,14 +28,14 @@ function MeetTheTeam() {
 					photo="/img/services/jeff-charles.png"
 					title="Regional Vice President"
 					linkedInURL="https://www.linkedin.com/in/jeffreytcharles/"
-					details="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+					details="Jeff is the Regional Vice President, located in Rochester, NY and is involved in many projects with CMC. He has experience with most building types such as new construction, renovation, wood, steel, concrete, pre-cast, historic preservation (NPS/SHPO), hospital, educational, high/low-rise, residential, senior, Affordable Housing (NY HCR), commercial, manufacturing, retail, hotel, and auditorium/theatre. Duties include analysis, review, forecasting, tracking, and the reporting of project schedules, budgets, contingencies, change orders, applications for payment, preconstruction plan review, risk assessment/ management, special inspections (structural, geotechnical, concrete & soils testing etc...), and environmental conditions (asbestos, mold, groundwater, air quality etc...)"
 				/>
 
 				<PhotoCard
 					photo="/img/services/derek-perry.png"
 					title="Consulting Team Leader"
 					linkedInURL="https://www.linkedin.com/in/derek-perry-cmc/"
-					details="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+					details="Serving as the Senior Construction Consultant for CMC, Derek is responsible for the  monthly oversight reporting on construction activities along with project completion  and closeout. He is also responsible for overseeing analysis, forecasting, and reporting  project schedules, budgets, changes, contingencies, borrower draws, & environmental  considerations.  In addition, Derek serves as the team leader for the video surveyors (responsible for  visiting project sites to capture 360 video) and oversees the onboarding process for  every new employee for both consultants and video surveyors. He is a crucial part to  CMC’s success and has been a part of the team since 2016."
 				/>
 			</div>
 		</div>

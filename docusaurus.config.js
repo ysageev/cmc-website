@@ -97,17 +97,17 @@ const config = {
 						label: "Contact",
 						position: "left",
 					},
-					{
-						to: "resources",
-						label: "Resources",
-						position: "left",
-					},
 					// {
-					// 	type: "docSidebar",
-					// 	sidebarId: "tutorialSidebar",
-					// 	position: "left",
+					// 	to: "resources",
 					// 	label: "Resources",
+					// 	position: "left",
 					// },
+					{
+						type: "docSidebar",
+						sidebarId: "resourcesSidebar",
+						position: "left",
+						label: "Resources",
+					},
 				],
 			},
 			footer: {
