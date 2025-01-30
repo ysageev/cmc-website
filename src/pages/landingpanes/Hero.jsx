@@ -1,5 +1,6 @@
 import Link from "@docusaurus/Link";
 import CompaniesUsing from "@site/src/components/CompaniesUsing";
+import CMCLogoLarge from "@site/src/components/common/CMCLogoLarge";
 
 function Hero() {
 	return (
@@ -12,16 +13,7 @@ function Hero() {
 			}}
 		>
 			<div style={{ paddingRight: 30 }}>
-				<img
-					src="img/cmc-logo.png"
-					alt="cmc logo"
-					style={{
-						paddingTop: 20,
-						paddingLeft: 20,
-						marginBottom: 0,
-						maxHeight: 140,
-					}}
-				/>
+				<CMCLogoLarge />
 				<div
 					style={{
 						paddingLeft: 30,

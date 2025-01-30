@@ -1,15 +1,38 @@
 import Layout from "@theme/Layout";
-import React from "react";
+import Hero from "./panes/Hero.jsx";
+import ServiceBanner from "./panes/ServiceBanner.jsx";
+import ServiceItem from "./panes/ServiceItem.jsx";
 
-const About = (props) => {
+function Services() {
 	return (
-		<Layout>
+		<Layout style={{ overFlow: "hidden" }}>
 			<div className="container">
-				{/* <i class="fa-duotone fa-solid fa-eraser" /> */}
-				<h1>SERVICES</h1>
+				<Hero />
+				<ServiceBanner
+					icon="fa-hard-hat"
+					title="Construction Risk Management"
+					details="Minimize Risk.  Maximize Confidence."
+				/>
+
+				<div
+					style={{
+						fontSize: "1.3em",
+						fontWeight: "bold",
+						marginLeft: 30,
+						marginTop: 10,
+					}}
+				>
+					Review of:
+				</div>
+				<div className="service-content" style={{ height: 300 }}>
+					<ServiceItem text="Contracts" icon="fa-file-signature" />
+					<ServiceItem text="Plans" icon="fa-ruler-triangle" />
+					<ServiceItem text="Budget" icon="fa-hand-holding-circle-dollar" />
+					<ServiceItem text="Documents" icon="fa-files" />
+				</div>
 			</div>
 		</Layout>
 	);
-};
+}
 
-export default About;
+export default Services;

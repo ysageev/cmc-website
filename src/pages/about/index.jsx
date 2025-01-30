@@ -2,7 +2,7 @@ import Layout from "@theme/Layout";
 import React from "react";
 import MeetTheTeam from "./MeetTheTeam";
 
-const Services = (props) => {
+const About = (props) => {
 	return (
 		<Layout>
 			<div className="container">
@@ -12,4 +12,4 @@ const Services = (props) => {
 	);
 };
 
-export default Services;
+export default About;

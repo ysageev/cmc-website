@@ -9,26 +9,26 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #306a88;
-  --ifm-color-primary-dark: #2b5f7a;
-  --ifm-color-primary-darker: #295a74;
-  --ifm-color-primary-darkest: #224a5f;
-  --ifm-color-primary-light: #357596;
-  --ifm-color-primary-lighter: #377a9c;
-  --ifm-color-primary-lightest: #3e8ab1;
+  --ifm-color-primary: #47b2e0;
+  --ifm-color-primary-dark: #2ea7dc;
+  --ifm-color-primary-darker: #155f7e;
+  --ifm-color-primary-darkest: #041319;
+  --ifm-color-primary-light: #93d2ed;
+  --ifm-color-primary-lighter: #c5e7f5;
+  --ifm-color-primary-lightest: #f8fcfe;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme="dark"] {
-  --ifm-color-primary: #6dabba;
-  --ifm-color-primary-dark: #599fb1;
-  --ifm-color-primary-darker: #5099aa;
-  --ifm-color-primary-darkest: #4c90a0;
-  --ifm-color-primary-light: #81b7c3;
-  --ifm-color-primary-lighter: #8bbcc8;
-  --ifm-color-primary-lightest: #a9ced6;
+  --ifm-color-primary: #47b2e0;
+  --ifm-color-primary-dark: #1e85b1;
+  --ifm-color-primary-darker: #092632;
+  --ifm-color-primary-darkest: #041319;
+  --ifm-color-primary-light: #60bde4;
+  --ifm-color-primary-lighter: #6dc2e6;
+  --ifm-color-primary-lightest: #93d2ed;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
@@ -61,4 +61,68 @@
 .react-player > div {
   position: absolute;
   top: 0;
+}
+
+.service-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: var(--ifm-color-primary-darker);
+  color: var(--ifm-color-primary-lightest);
+  padding: 10px;
+  padding-left: 30px;
+}
+
+.service-banner-icon {
+  font-size: 3em;
+
+  @media (width <= 600px) {
+    font-size: 2em;
+  }
+}
+
+.service-banner-title {
+  font-weight: bold;
+  font-size: 1.5em;
+
+  @media (width <= 600px) {
+    font-size: 1em;
+  }
+}
+
+.service-banner-detail {
+  font-weight: normal;
+  font-size: 0.8em;
+
+  @media (width <= 600px) {
+    font-size: 0.6em;
+  }
+}
+
+.service-content {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  background-color: var(--ifm-color-primary-lightest);
+  color: var(--ifm-color-primary-darkest);
+  padding: 10px;
+  padding-left: 30px;
+  height: 300px;
+  width: 300px;
+}
+.service-item {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: var(--ifm-color-primary-darker);
+  color: var(--ifm-color-primary-lightest);
+  padding: 10px;
+
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px gray;
+  font-size: 0.9em;
+
+  margin-right: 5px;
 }
