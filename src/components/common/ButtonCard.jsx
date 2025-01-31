@@ -5,7 +5,6 @@ const ButtonCard = ({ title, icon, details, buttonLabel, buttonLink }) => {
 	return (
 		<div
 			style={{
-				width: 270,
 				display: "flex",
 				alignItems: "center",
 				flexDirection: "column",
@@ -30,6 +29,7 @@ const ButtonCard = ({ title, icon, details, buttonLabel, buttonLink }) => {
 					padding: 10,
 					textAlign: "center",
 					height: 100,
+					maxWidth: 300,
 				}}
 			>
 				{details}

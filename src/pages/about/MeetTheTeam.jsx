@@ -1,12 +1,41 @@
+import PhotoCard from "./PhotoCard";
+
 function MeetTheTeam() {
 	return (
 		<div style={{}}>
-			<div style={{ fontSize: "2em", fontWeight: "bold" }}>
-				Meet the team...
-			</div>
-			<div>
-				Our team of highly skilled construction professionals are trained in
-				certified in OSHA, ASTM and Code Enforcement.
+			<div
+				style={{
+					backgroundImage: `url(${"img/hero-background.png"})`,
+					backgroundSize: "cover",
+					backgroundRepeat: "no-repeat",
+					paddingBottom: 30,
+					paddingRight: 30,
+				}}
+			>
+				<div
+					style={{
+						fontSize: "1.8em",
+						fontWeight: "bold",
+						fontFamily: "Lexend",
+						lineHeight: 1.3,
+						paddingTop: 20,
+						paddingLeft: 30,
+					}}
+				>
+					Meet the team...
+				</div>
+				<div
+					style={{
+						fontSize: "1.2em",
+
+						lineHeight: 1.3,
+						paddingTop: 20,
+						paddingLeft: 30,
+					}}
+				>
+					Our team of highly skilled construction professionals are trained in
+					certified in OSHA, ASTM and Code Enforcement.
+				</div>
 			</div>
 
 			<div style={{ display: "flex", flexWrap: "wrap" }}>
@@ -41,58 +70,6 @@ function MeetTheTeam() {
 					linkedInURL="https://www.linkedin.com/in/derek-perry-cmc/"
 					details="Serving as the Senior Construction Consultant for CMC, Derek is responsible for the  monthly oversight reporting on construction activities along with project completion  and closeout. He is also responsible for overseeing analysis, forecasting, and reporting  project schedules, budgets, changes, contingencies, borrower draws, & environmental  considerations.  In addition, Derek serves as the team leader for the video surveyors (responsible for  visiting project sites to capture 360 video) and oversees the onboarding process for  every new employee for both consultants and video surveyors. He is a crucial part to  CMC’s success and has been a part of the team since 2016."
 				/>
-			</div>
-		</div>
-	);
-}
-
-function PhotoCard({ photo, name, title, linkedInURL, details }) {
-	return (
-		<div style={{ maxWidth: 320 }}>
-			<a
-				href={linkedInURL}
-				target="_blank"
-				rel="noreferrer"
-				style={{ position: "relative", left: 270, top: 80, zIndex: 1000 }}
-			>
-				<i className="fa-brands fa-linkedin fa-2x" />
-			</a>
-			<div
-				style={{
-					display: "flex",
-					alignItems: "center",
-					justifyContent: "space-around",
-					flexDirection: "column",
-					flexWrap: "wrap",
-					margin: 10,
-					padding: 0,
-				}}
-			>
-				<img src={photo} alt="manager-photo" style={{ width: 240 }} />
-
-				<div style={{ fontWeight: "bold", fontSize: "1.3em", marginTop: 5 }}>
-					{name}
-				</div>
-				<div
-					style={{
-						fontWeight: "500",
-						fontStyle: "italic",
-						fontSize: "1em",
-						marginTop: 5,
-					}}
-				>
-					{title}
-				</div>
-				<div
-					style={{
-						fontSize: ".8em",
-						marginTop: 10,
-						paddingLeft: 15,
-						paddingRight: 5,
-					}}
-				>
-					{details}
-				</div>
 			</div>
 		</div>
 	);
