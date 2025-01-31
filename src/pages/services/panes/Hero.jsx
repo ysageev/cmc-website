@@ -1,5 +1,3 @@
-import CMCLogoLarge from "@site/src/components/common/CMCLogoLarge";
-
 function Hero() {
 	return (
 		<div
@@ -38,13 +36,11 @@ function Hero() {
 						lineHeight: 1.3,
 					}}
 				>
-					CMC offers reports and services that cover the entire construction
-					process, from Preconstruction assessments to Post-construction and
-					closeouts
+					CMC offers reports and services that cover the entire construction process, from Preconstruction assessments to Post-construction and closeouts
 				</div>
 			</div>
 		</div>
-	);
+	)
 }
 
-export default Hero;
+export default Hero

@@ -1,5 +1,5 @@
 function ServiceBanner({ icon, title, details }) {
-	const faIcon = `service-banner-icon fa-duotone ${icon}`;
+	const faIcon = `service-banner-icon fa-duotone ${icon}`
 	return (
 		<div className="service-banner">
 			<i className={faIcon} />
@@ -10,6 +10,6 @@ function ServiceBanner({ icon, title, details }) {
 			<i className="service-banner-icon fa-duotone fa-chevron-down fa-4x" />
 			<br />
 		</div>
-	);
+	)
 }
-export default ServiceBanner;
+export default ServiceBanner

@@ -1,5 +1,4 @@
-import Layout from "@theme/Layout";
-import React from "react";
+import Layout from "@theme/Layout"
 
 const Resources = (props) => {
 	return (
@@ -7,7 +6,7 @@ const Resources = (props) => {
 			<h1>Resources</h1>
 			<i class="fa-duotone fa-solid fa-eraser" />
 		</Layout>
-	);
-};
+	)
+}
 
-export default Resources;
+export default Resources

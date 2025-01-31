@@ -1,4 +1,4 @@
-import PhotoCard from "./PhotoCard";
+import PhotoCard from "./PhotoCard"
 
 function MeetTheTeam() {
 	return (
@@ -22,19 +22,17 @@ function MeetTheTeam() {
 						paddingLeft: 30,
 					}}
 				>
-					Meet the team...
+					Management
 				</div>
 				<div
 					style={{
 						fontSize: "1.2em",
-
 						lineHeight: 1.3,
 						paddingTop: 20,
 						paddingLeft: 30,
 					}}
 				>
-					Our team of highly skilled construction professionals are trained in
-					certified in OSHA, ASTM and Code Enforcement.
+					Our team of highly skilled construction professionals are trained in certified in OSHA, ASTM and Code Enforcement.
 				</div>
 			</div>
 
@@ -72,10 +70,10 @@ function MeetTheTeam() {
 				/>
 			</div>
 		</div>
-	);
+	)
 }
 
-export default MeetTheTeam;
+export default MeetTheTeam
 // {/* <i
 // 			className={`fa-duotone fa-solid ${icon} fa-3x fa-fw`}
 // 			style={{

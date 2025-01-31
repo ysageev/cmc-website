@@ -1,6 +1,5 @@
-import Layout from "@theme/Layout";
-import React from "react";
-import MeetTheTeam from "./MeetTheTeam";
+import Layout from "@theme/Layout"
+import MeetTheTeam from "./MeetTheTeam"
 
 const About = (props) => {
 	return (
@@ -9,7 +8,7 @@ const About = (props) => {
 				<MeetTheTeam />
 			</div>
 		</Layout>
-	);
-};
+	)
+}
 
-export default About;
+export default About

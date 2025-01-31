@@ -1,5 +1,4 @@
-import React from "react";
-import Link from "@docusaurus/Link";
+import Link from "@docusaurus/Link"
 
 const ButtonCard = ({ title, icon, details, buttonLabel, buttonLink }) => {
 	return (
@@ -44,7 +43,7 @@ const ButtonCard = ({ title, icon, details, buttonLabel, buttonLink }) => {
 				)}
 			</Link>
 		</div>
-	);
-};
+	)
+}
 
-export default ButtonCard;
+export default ButtonCard

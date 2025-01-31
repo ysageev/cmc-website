@@ -1,12 +1,11 @@
-import React from "react";
-import Marquee from "react-fast-marquee";
-import CompanyLogo from "./CompanyLogo";
+import Marquee from "react-fast-marquee"
+import CompanyLogo from "./CompanyLogo"
 
 function CompaniesUsing() {
-	return <ClientLogoTicker />;
+	return <ClientLogoTicker />
 }
 
-export default CompaniesUsing;
+export default CompaniesUsing
 
 const ClientLogoTicker = () => (
 	<div>
@@ -54,4 +53,4 @@ const ClientLogoTicker = () => (
 			</Marquee>
 		</div>
 	</div>
-);
+)
