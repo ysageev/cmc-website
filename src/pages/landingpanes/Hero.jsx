@@ -1,84 +1,82 @@
-import Link from "@docusaurus/Link";
-import CompaniesUsing from "@site/src/components/CompaniesUsing";
-import CMCLogoLarge from "@site/src/components/common/CMCLogoLarge";
+import Link from "@docusaurus/Link"
+import CompaniesUsing from "@site/src/components/CompaniesUsing"
+import CMCLogoLarge from "@site/src/components/common/CMCLogoLarge"
+import styled from "styled-components"
 
+const PageHeader = styled.div`
+	background-image: url("img/hero-background.png");
+	background-size: cover;	
+	background-repeat: no-repeat;
+	padding-bottom: 30px;
+`
+
+const PageHeaderText = styled.div`
+	font-size: 1.8em;
+	font-weight: bold;
+	font-family: Lexend;
+	line-height: 1.3em;
+	padding-top: 20px;
+	
+`
+
+const PageHeaderDetailsText = styled.div`
+	font-weight: normal;
+	font-size: 1.2em;
+	line-height: 1.3em;
+	padding-top: 20px;
+	margin-bottom: 20px;
+`
+
+const PageBody = styled.div`
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	padding-bottom: 20px;
+	padding-left: 30px;
+`
+const PageLinkContainer = styled.div`
+	display: flex;
+	flex-wrap: wrap;
+	padding-bottom: 20px;
+	margin-top: 20px;
+	gap: 10px;
+`
+const TickerContainer = styled.div`
+	clear: both;
+	height: 38px;
+	margin-top: 20px;
+`
+//TODO: NAMING AND HIERARCHY IS WRONG WRT STYLES
+//_____________________________________________
 function Hero() {
 	return (
-		<div
-			style={{
-				backgroundImage: `url(${"img/hero-background.png"})`,
-				backgroundSize: "cover",
-				backgroundRepeat: "no-repeat",
-				paddingBottom: 30,
-			}}
-		>
-			<div style={{ paddingRight: 30 }}>
-				<CMCLogoLarge />
-				<div
-					style={{
-						paddingLeft: 30,
-						flexWrap: "wrap",
-						alignItems: "center",
-					}}
-				>
-					<div
-						style={{
-							fontSize: "1.8em",
-							fontWeight: "bold",
-							fontFamily: "Lexend",
-							lineHeight: 1.3,
-							paddingTop: 20,
-						}}
-					>
-						Reduce Risk, Enhance Decisions, Get Results
-					</div>
-
-					<div
-						style={{
-							fontSize: "1.2em",
-							paddingTop: 20,
-							paddingBottom: 30,
-							lineHeight: 1,
-						}}
-					>
-						For more than 30 years, CMC has served Banks and Private Equity
-						Investors in
-						<strong>
-							&nbsp;Commercial Real Estate Lending.
-							<br />
-						</strong>
+		<PageHeader>
+			<CMCLogoLarge />
+			<PageBody>
+				<PageHeaderText>Reduce Risk, Enhance Decisions, Get Results</PageHeaderText>
+				<PageHeaderDetailsText>
+					For more than 30 years, CMC has served Banks and Private Equity Investors in
+					<strong>
+						&nbsp;Commercial Real Estate Lending.
 						<br />
-						We empower our clients to effectively measure, assess, and mitigate
-						construction project risks.
-					</div>
-					<div
-						style={{
-							display: "flex",
-							flexWrap: "wrap",
-							gap: 10,
-							paddingBottom: 20,
-							marginTop: 20,
-						}}
-					>
-						<Link
-							className="button button--secondary button--lg"
-							to="/services"
-						>
-							Learn More
-						</Link>
-						<Link
-							className="button button--primary button--lg"
-							to="/docs/videos/introvideo"
-						>
-							Watch Video <i className="fa-duotone fa-solid fa-video" />
-						</Link>
-					</div>
-				</div>
-			</div>
-			<div style={{ clear: "both", height: 38, marginTop: 20 }}>
+					</strong>
+					<br />
+					We empower our clients to effectively measure, assess, and mitigate construction project risks.
+				</PageHeaderDetailsText>
+				<PageLinkContainer>
+					<Link className="button button--secondary button--lg" to="/services">
+						Learn More
+					</Link>
+					<Link className="button button--primary button--lg" to="/docs/videos/introvideo">
+						Watch Video <i className="fa-duotone fa-solid fa-video" />
+					</Link>
+				</PageLinkContainer>
+			</PageBody>
+
+			<TickerContainer>
 				<CompaniesUsing />
-			</div>
-		</div>
-	);
+			</TickerContainer>
+		</PageHeader>
+	)
 }
-export default Hero;
+export default Hero

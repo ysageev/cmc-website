@@ -9,7 +9,7 @@ import CardPanel from "./panes/CardPanel.jsx"
 //________________________________________________
 function Services() {
 	return (
-		<Layout style={{ overFlow: "hidden" }}>
+		<Layout>
 			<div className="container">
 				<Hero />
 				<RiskManagement />

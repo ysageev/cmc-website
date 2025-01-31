@@ -1,42 +1,45 @@
 import PhotoCard from "./PhotoCard"
+import styled from "styled-components"
+
+const PageHeader = styled.div`
+	background-image: url("img/hero-background.png");
+	background-size: cover;	
+	background-repeat: no-repeat;
+	padding-bottom: 30px;
+`
+
+const PageHeaderText = styled.div`
+	font-size: 1.8em;
+	font-weight: bold;
+	font-family: Lexend;
+	line-height: 1.3em;
+	padding-top: 20px;
+	padding-left: 20px;
+`
+
+const PageHeaderDetailsText = styled.div`
+	font-weight: normal;
+	font-size: 1.2em;
+	line-height: 1.3em;
+	padding-top: 20px;
+	padding-left: 20px;
+	margin-bottom: 20px;
+`
+
+const ContentBlock = styled.div`
+	display: flex;
+	flex-wrap: wrap;
+`
 
 function MeetTheTeam() {
 	return (
-		<div style={{}}>
-			<div
-				style={{
-					backgroundImage: `url(${"img/hero-background.png"})`,
-					backgroundSize: "cover",
-					backgroundRepeat: "no-repeat",
-					paddingBottom: 30,
-					paddingRight: 30,
-				}}
-			>
-				<div
-					style={{
-						fontSize: "1.8em",
-						fontWeight: "bold",
-						fontFamily: "Lexend",
-						lineHeight: 1.3,
-						paddingTop: 20,
-						paddingLeft: 30,
-					}}
-				>
-					Management
-				</div>
-				<div
-					style={{
-						fontSize: "1.2em",
-						lineHeight: 1.3,
-						paddingTop: 20,
-						paddingLeft: 30,
-					}}
-				>
-					Our team of highly skilled construction professionals are trained in certified in OSHA, ASTM and Code Enforcement.
-				</div>
-			</div>
+		<>
+			<PageHeader>
+				<PageHeaderText>Management</PageHeaderText>
+				<PageHeaderDetailsText>Our team of highly skilled construction professionals are trained in certified in OSHA, ASTM and Code Enforcement.</PageHeaderDetailsText>
+			</PageHeader>
 
-			<div style={{ display: "flex", flexWrap: "wrap" }}>
+			<ContentBlock>
 				<PhotoCard
 					photo="/img/services/peter-schregel.png"
 					name="Peter Schregel"
@@ -68,16 +71,9 @@ function MeetTheTeam() {
 					linkedInURL="https://www.linkedin.com/in/derek-perry-cmc/"
 					details="Serving as the Senior Construction Consultant for CMC, Derek is responsible for the  monthly oversight reporting on construction activities along with project completion  and closeout. He is also responsible for overseeing analysis, forecasting, and reporting  project schedules, budgets, changes, contingencies, borrower draws, & environmental  considerations.  In addition, Derek serves as the team leader for the video surveyors (responsible for  visiting project sites to capture 360 video) and oversees the onboarding process for  every new employee for both consultants and video surveyors. He is a crucial part to  CMC’s success and has been a part of the team since 2016."
 				/>
-			</div>
-		</div>
+			</ContentBlock>
+		</>
 	)
 }
 
 export default MeetTheTeam
-// {/* <i
-// 			className={`fa-duotone fa-solid ${icon} fa-3x fa-fw`}
-// 			style={{
-// 				"--fa-primary-color": "#47B2E0",
-// 				"--fa-secondary-color": "gray",
-// 			}}
-// 		/> */}
