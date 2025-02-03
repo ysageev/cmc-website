@@ -8,33 +8,26 @@ function ProblemsWeSolve() {
 				paddingRight: 20,
 			}}
 		>
-			<span style={{ fontSize: "2em", fontWeight: "bold" }}>
-				Problems we solve...
-			</span>
-			<p style={{ fontSize: "1.2em", maxWidth: 800 }}>
-				We provide solutions to the following problems when dealing with
-				Commercial Real Estate Lending
-			</p>
+			<span style={{ fontSize: "2em", fontWeight: "bold" }}>Problems we solve...</span>
+			<p style={{ fontSize: "1.2em", maxWidth: 800 }}>We provide solutions to the following problems when dealing with Commercial Real Estate Lending</p>
 			<div style={{ display: "flex", flexWrap: "wrap" }}>
 				<PainPoints />
 				<Capabilities />
 			</div>
 		</div>
-	);
+	)
 }
 
 const painStyle = {
 	"--fa-primary-color": "red",
 	"--fa-secondary-color": "red",
 	marginRight: 10,
-};
+}
 
 function PainPoints() {
 	return (
 		<div style={{ marginRight: 50 }}>
-			<span style={{ fontSize: "1.5em", fontWeight: "bold" }}>
-				Pain Points:
-			</span>
+			<span style={{ fontSize: "1.5em", fontWeight: "bold" }}>Pain Points:</span>
 			<ul className="fa-ul" style={{ marginLeft: 0 }}>
 				<li>
 					<i className="fa-duotone fa-solid fa-fire" style={painStyle} />
@@ -70,19 +63,17 @@ function PainPoints() {
 				</li>
 			</ul>
 		</div>
-	);
+	)
 }
 
 const capabStyle = {
 	marginRight: 10,
-};
+}
 
 function Capabilities() {
 	return (
 		<div>
-			<span style={{ fontSize: "1.5em", fontWeight: "bold" }}>
-				Our Capabilities:
-			</span>
+			<span style={{ fontSize: "1.5em", fontWeight: "bold" }}>Our Capabilities:</span>
 			<ul className="fa-ul" style={{ marginLeft: 0 }}>
 				<li>
 					<i className="fa-duotone fa-solid fa-wrench" style={capabStyle} />
@@ -126,6 +117,7 @@ function Capabilities() {
 				</li>
 			</ul>
 		</div>
-	);
+	)
 }
-export default ProblemsWeSolve;
+export default ProblemsWeSolve
+div

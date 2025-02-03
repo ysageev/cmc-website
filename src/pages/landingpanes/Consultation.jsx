@@ -1,4 +1,4 @@
-import Link from "@docusaurus/Link";
+import Link from "@docusaurus/Link"
 
 function Consultation() {
 	return (
@@ -10,7 +10,6 @@ function Consultation() {
 				padding: 30,
 				backgroundColor: "#343434",
 				color: "white",
-
 				gap: 20,
 			}}
 		>
@@ -27,20 +26,13 @@ function Consultation() {
 				}}
 			>
 				<span style={{ color: "#C4F1FF" }}>Master </span> &nbsp;your portfolio,
-				<span style={{ color: "#C4F1FF" }}>&nbsp;Maximize</span> &nbsp;
-				potential...
+				<span style={{ color: "#C4F1FF" }}>&nbsp;Maximize</span> &nbsp; potential...
 			</span>
-			<Link
-				className="button button--primary button--lg"
-				to="/docs/videos/introvideo"
-			>
+			<Link className="button button--primary button--lg" to="/docs/videos/introvideo">
 				Free Consultation
-				<i
-					className="fa-duotone fa-solid fa-comments-question"
-					style={{ marginLeft: 10 }}
-				/>
+				<i className="fa-duotone fa-solid fa-comments-question" style={{ marginLeft: 10 }} />
 			</Link>
 		</div>
-	);
+	)
 }
-export default Consultation;
+export default Consultation

@@ -1,4 +1,4 @@
-import Link from "@docusaurus/Link";
+import Link from "@docusaurus/Link"
 
 function ServicesBrochure() {
 	return (
@@ -6,9 +6,11 @@ function ServicesBrochure() {
 			className="blurb-strip"
 			style={{
 				display: "flex",
-				alignItems: "flex-end",
+				alignItems: "flex-start",
 				flexWrap: "wrap",
-				padding: 50,
+				padding: 30,
+				backgroundColor: "#343434",
+				color: "white",
 			}}
 		>
 			<span
@@ -20,14 +22,11 @@ function ServicesBrochure() {
 			>
 				<span style={{ color: "#C4F1FF" }}>Download</span> the Services
 				<span style={{ color: "#C4F1FF" }}> Brochure</span> &nbsp;
-				<Link
-					className="button button--primary button--lg"
-					to="/docs/videos/introvideo"
-				>
+				<Link className="button button--primary button--lg" to="/docs/videos/introvideo">
 					Download Brochure <i className="fa-duotone fa-solid fa-download" />
 				</Link>
 			</span>
 		</div>
-	);
+	)
 }
-export default ServicesBrochure;
+export default ServicesBrochure

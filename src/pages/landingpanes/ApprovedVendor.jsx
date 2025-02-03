@@ -1,12 +1,11 @@
-import Link from "@docusaurus/Link";
+import Link from "@docusaurus/Link"
 
 function ApprovedVendor() {
 	return (
 		<div
-			className="blurb-strip"
 			style={{
 				padding: 30,
-				color: "white",
+
 				fontSize: "1.5em",
 				textWrap: "pretty",
 				display: "flex",
@@ -27,24 +26,18 @@ function ApprovedVendor() {
 				}}
 			/>
 
-			<div>
-				Be sure to add CMC to your institution's{" "}
-				<span style={{ color: "#C4F1FF" }}>Approved Vendor List</span>, and
-				download our
-				<span style={{ color: "#C4F1FF" }}> portfolio materials.</span>{" "}
-				&nbsp;&nbsp;&nbsp;
+			<div style={{ float: "right", maxWidth: 500 }}>
+				Be sure to add CMC to your institution's <span style={{ color: "#155f7e" }}>Approved Vendor List,</span> and download our
+				<span style={{ color: "#155f7e" }}> portfolio materials.</span> &nbsp;&nbsp;&nbsp;
 			</div>
-			<br />
+
 			<div>
-				<Link
-					className="button button--primary button--lg"
-					to="/docs/videos/introvideo"
-				>
+				<Link className="button button--primary button--lg" to="/docs/videos/introvideo">
 					Approval Materials &nbsp;
 					<i className="fa-duotone fa-solid fa-download" />
 				</Link>
 			</div>
 		</div>
-	);
+	)
 }
-export default ApprovedVendor;
+export default ApprovedVendor
