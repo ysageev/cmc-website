@@ -1,5 +1,6 @@
 const DEFAULT_STYLE = {
 	paddingTop: 20,
+	paddingRight: 20,
 	paddingLeft: 20,
 	marginBottom: 0,
 	maxHeight: 140,

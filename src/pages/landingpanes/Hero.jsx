@@ -25,6 +25,8 @@ const PageHeaderDetailsText = styled.div`
 	line-height: 1.3em;
 	padding-top: 20px;
 	margin-bottom: 20px;
+	padding-right: 10px;
+	text-wrap: pretty;
 `
 
 const PageBody = styled.div`
