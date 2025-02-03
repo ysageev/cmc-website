@@ -122,7 +122,7 @@ const config = {
 												<br/>
 												CMC
 												<br/>
-												4855 Ridge Lea Rd
+												4955 North Bailey Ave
 												<br/>
 												Suite 217
 												<br/>
