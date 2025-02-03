@@ -17,7 +17,6 @@ function Consultation() {
 				style={{
 					display: "flex",
 					alignItems: "flex-start",
-
 					flexWrap: "wrap",
 					color: "white",
 					fontSize: 28,
