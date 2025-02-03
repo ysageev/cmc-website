@@ -69,7 +69,7 @@ function Hero() {
 					<Link className="button button--secondary button--lg" to="/services">
 						Learn More
 					</Link>
-					<Link className="button button--primary button--lg" to="/docs/videos/introvideo">
+					<Link className="button button--primary button--lg" to="/docs/introvideo">
 						Watch Video <i className="fa-duotone fa-solid fa-video" />
 					</Link>
 				</PageLinkContainer>

@@ -72,6 +72,7 @@ const config = {
 		/** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 		({
 			// Replace with your project's social card
+			docs: { sidebar: { autoCollapseCategories: true } },
 			image: "img/cmc-icon.png",
 			navbar: {
 				title: "CMC",
