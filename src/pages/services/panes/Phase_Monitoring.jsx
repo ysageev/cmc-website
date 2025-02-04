@@ -1,11 +1,11 @@
-import { PanelContainer, PanelHeader, ActionLabel, ActionItemList } from "./PhaseStyles.jsx"
+import PanelContainer, { PanelHeader, ActionLabel, ActionItemList, ActionContainer } from "./PhaseStyles.jsx"
 
 //_____________________________
 function Phase_Monitoring() {
 	return (
 		<PanelContainer>
 			<PanelHeader>Phase 2: Construction</PanelHeader>
-			<div style={{ padding: 10 }}>
+			<ActionContainer>
 				<ActionLabel>Perform:</ActionLabel>
 				<ActionItemList>
 					<ul style={{ textWrap: "pretty" }}>
@@ -52,7 +52,7 @@ function Phase_Monitoring() {
 						<li>Project metrics and predictive analytics</li>
 					</ul>
 				</ActionItemList>
-			</div>
+			</ActionContainer>
 		</PanelContainer>
 	)
 }

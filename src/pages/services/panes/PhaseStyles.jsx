@@ -1,6 +1,6 @@
 import styled from "styled-components"
 
-export const PanelContainer = styled.div`
+const PanelContainer = styled.div`
 	border: 1px solid lightgray;
 	border-radius: 10px;
 	min-width: 300px;
@@ -32,3 +32,5 @@ export const ActionItemList = styled.div`
 	padding-right: 10px;
 	text-wrap: pretty;
 `
+
+export default PanelContainer
