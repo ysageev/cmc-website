@@ -1,20 +1,22 @@
 function ProblemsWeSolve() {
 	return (
-		<div
-			style={{
-				paddingLeft: 30,
-				paddingTop: 40,
-				paddingBottom: 40,
-				paddingRight: 20,
-			}}
-		>
-			<span style={{ fontSize: "2em", fontWeight: "bold" }}>Problems we solve...</span>
-			<p style={{ fontSize: "1.2em", maxWidth: 800 }}>We provide solutions to the following problems when dealing with Commercial Real Estate Lending</p>
-			<div style={{ display: "flex", flexWrap: "wrap" }}>
+		<>
+			<div
+				style={{
+					paddingLeft: 30,
+					paddingTop: 40,
+					paddingRight: 20,
+				}}
+			>
+				<span style={{ fontSize: "2em", fontWeight: "bold" }}>Problems we solve...</span>
+				<p style={{ fontSize: "1.2em", maxWidth: 800 }}>We provide solutions to the following problems when dealing with Commercial Real Estate Lending</p>
+				{/* <div style={{ display: "flex", flexWrap: "wrap" }}>
 				<PainPoints />
 				<Capabilities />
+			</div> */}
 			</div>
-		</div>
+			<img src="/img/services/pain-points.svg" alt="pain-points" style={{ width: "100%", padding: 0 }} />
+		</>
 	)
 }
 
@@ -47,11 +49,11 @@ function PainPoints() {
 				</li>
 				<li>
 					<i className="fa-duotone fa-solid fa-fire" style={painStyle} />
-					Inaccurate 3rd Party Analytics
+					Poor 3rd Party Analytics
 				</li>
 				<li>
 					<i className="fa-duotone fa-solid fa-fire" style={painStyle} />
-					Limited Visiblity of Portfolio
+					Limited Portfolio Visibility
 				</li>
 				<li>
 					<i className="fa-duotone fa-solid fa-fire" style={painStyle} />

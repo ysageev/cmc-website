@@ -1,0 +1,31 @@
+⏲ Slow Underwriting Process [1] Turnaround
+⏲ Limited Visiblity of Portfolio  [1] Turnaround
+⏲ Regulatory Compliance [1] Turnaround
+
+⚠ Assessing Property Risk [1] Accuracy
+⚠ Incorrect Asset Valuation [1] Accuracy
+⚠ Poor 3rd Party Analytics [1] Accuracy
+
+⚠ Limited Portfolio Visibility [1] Risk Mitigation
+⚠ Distressed Assets [1] Risk Mitigation
+⚠ Lack of Borrower Transparency [1] Risk Mitigation
+
+
+Turnaround [1] ✔ Fast Underwriting
+Turnaround [1] ✔ Loan Monitoring Automation
+Turnaround [1] ✔ Integrated Financial Reporting
+
+Accuracy [3] Risk Mitigation
+
+
+Risk Mitigation [1] ✔ Precise Asset Valuation
+Risk Mitigation [1] ✔ Portfolio Diversification
+Risk Mitigation [1] ✔ Data-Driven Decision Making
+Risk Mitigation [1] ✔ Integrated Financial Reporting
+Risk Mitigation [1] ✔ Predictive Analytics
+Risk Mitigation [1] ✔ Deep Due Diligence
+
+
+
+
+

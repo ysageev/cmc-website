@@ -41,7 +41,7 @@ function MeetTheTeam() {
 
 			<ContentBlock>
 				<PhotoCard
-					photo="/img/services/peter-schregel.png"
+					photo="/img/about/peter-schregel.png"
 					name="Peter Schregel"
 					title="President"
 					linkedInURL="https://www.linkedin.com/in/peter-mark-schregel/"
@@ -49,7 +49,7 @@ function MeetTheTeam() {
 				/>
 
 				<PhotoCard
-					photo="/img/services/yair-sageev.png"
+					photo="/img/about/yair-sageev.png"
 					name="Yair Sageev"
 					title="Senior Vice President, Technology"
 					linkedInURL="https://www.linkedin.com/in/yair-sageev-61a166a/"
@@ -57,7 +57,7 @@ function MeetTheTeam() {
 				/>
 
 				<PhotoCard
-					photo="/img/services/jeff-charles.png"
+					photo="/img/about/jeff-charles.png"
 					name="Jeff Charles"
 					title="Regional Vice President"
 					linkedInURL="https://www.linkedin.com/in/jeffreytcharles/"
@@ -65,7 +65,7 @@ function MeetTheTeam() {
 				/>
 
 				<PhotoCard
-					photo="/img/services/derek-perry.png"
+					photo="/img/about/derek-perry.png"
 					name="Derek Perry"
 					title="Consultant Team Leader"
 					linkedInURL="https://www.linkedin.com/in/derek-perry-cmc/"
