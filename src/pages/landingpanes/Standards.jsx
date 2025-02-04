@@ -9,7 +9,7 @@ function Standards() {
 				paddingRight: 30,
 			}}
 		>
-			<span style={{ fontSize: "1.2em", color: "white" }}>
+			<span style={{ fontSize: "1.2em" }}>
 				We provide detailed reports that follow leading standards bodies
 				<br />
 				<br />

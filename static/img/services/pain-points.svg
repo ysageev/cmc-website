@@ -1,7 +1,6 @@
 <svg height="500" width="900" xmlns="http://www.w3.org/2000/svg">
 <title>Your Diagram Title</title>
-<!-- Generated with SankeyMATIC: 2/4/2025, 1:26:16 PM -->
-<rect height="500" width="900" fill="#ffffff"></rect>
+<!-- Generated with SankeyMATIC: 2/4/2025, 4:00:17 PM -->
 <g transform="translate(240.75399,2)">
 <g id="sankey_flows">
 <path id="flow12" d="M139.13034 120.16466C189.16508 120.16466 208.22593 144.56963 258.26068 144.56963" fill="none" stroke-width="81.16071" stroke="#999999" opacity="0.45"><title>Accuracy → Risk Mitigation: 3</title></path>

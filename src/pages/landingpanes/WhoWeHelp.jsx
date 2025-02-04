@@ -8,9 +8,7 @@ function WhoWeHelp() {
 				paddingRight: 20,
 			}}
 		>
-			<span style={{ fontSize: "2em", fontWeight: "bold" }}>
-				Who we help...
-			</span>
+			<span style={{ fontSize: "2em", fontWeight: "bold" }}>Who we help...</span>
 
 			<div
 				style={{
@@ -39,24 +37,24 @@ function WhoWeHelp() {
 				</div>
 			</div>
 		</div>
-	);
+	)
 }
 
-const ICON = "fa-duotone fa-solid fa-badge-check fa-xl fa-fw";
+const ICON = "fa-duotone fa-solid fa-badge-check fa-xl fa-fw"
 const ICON_STYLE = {
 	"--fa-primary-color": "green",
 	"--fa-secondary-color": "gray",
-};
+}
 
 function EntityItem({ label }) {
 	return (
-		<div style={{ display: "flex", alignItems: "center", padding: 5 }}>
+		<div style={{ display: "flex", alignItems: "center", padding: 5, fontSize: "1.2em" }}>
 			<div>
 				<i className={ICON} style={ICON_STYLE} />
 			</div>
 			<div>&nbsp;{label}</div>
 		</div>
-	);
+	)
 }
 
-export default WhoWeHelp;
+export default WhoWeHelp

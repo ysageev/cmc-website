@@ -16,7 +16,7 @@
 
 .service-banner-icon {
     font-size: 3em;
-
+    color: var(--ifm-color-primary-lighter);
     @media (width <= 600px) {
         font-size: 2em;
     }
@@ -25,16 +25,18 @@
 .service-banner-title {
     font-weight: bold;
     font-size: 1.5em;
-
+    width: 30vw;
+    color: var(--ifm-color-primary-lighter);
     @media (width <= 600px) {
         font-size: 1em;
+        width: 50vw;
     }
 }
 
 .service-banner-detail {
     font-weight: normal;
     font-size: 0.8em;
-
+    color: var(--ifm-color-primary-lightest);
     @media (width <= 600px) {
         font-size: 0.6em;
     }
@@ -43,12 +45,8 @@
 .service-content {
     display: flex;
     align-items: flex-start;
-
     flex-wrap: wrap;
-    background-color: var(--ifm-color-primary-lightest);
-    color: var(--ifm-color-primary-darkest);
     padding: 10px;
-    padding-left: 30px;
 }
 .service-item {
     display: flex;
@@ -64,4 +62,8 @@
     font-size: 0.7em;
 
     margin-right: 5px;
+}
+
+.pretty-wrap {
+    text-wrap: pretty;
 }

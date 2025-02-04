@@ -1,7 +1,7 @@
 function WhatWeDo() {
 	return (
 		<div style={{ marginLeft: 30 }}>
-			<span style={{ fontSize: "2em", fontWeight: "bold" }}>Our services...</span>
+			<span style={{ fontSize: "2em", fontWeight: "bold" }}>Our services</span>
 			<br />
 			<br />
 			<div style={{ display: "flex", flexWrap: "wrap" }}>

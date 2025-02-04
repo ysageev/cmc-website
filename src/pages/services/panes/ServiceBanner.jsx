@@ -7,7 +7,7 @@ function ServiceBanner({ icon, title, details }) {
 				<div className="service-banner-title">{title}</div>
 				<div className="service-banner-detail">{details}</div>
 			</div>
-			<i className="fa-duotone fa-chevron-down fa-4x" />
+			<i className="service-banner-icon fa-duotone fa-chevron-down fa-4x" />
 			<br />
 		</div>
 	)

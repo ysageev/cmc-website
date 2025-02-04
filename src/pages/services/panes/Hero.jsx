@@ -20,6 +20,8 @@ const PageHeaderText = styled.div`
 
 const PageHeaderDetailsText = styled.div`
 	font-size: 1.2em;
+	font-family: Lexend;
+	font-weight: 300;
 	line-height: 1.3em;
 	padding-top: 20px;
 	padding-bottom: 20px;
