@@ -16,16 +16,18 @@ const PageHeaderText = styled.div`
 	font-family: Lexend;
 	line-height: 1.3em;
 	padding-top: 20px;
+	margin-left: -5px;
 	
 `
 
 const PageHeaderDetailsText = styled.div`
+	font-family: Lexend;
 	font-weight: normal;
 	font-size: 1.2em;
 	line-height: 1.3em;
 	padding-top: 20px;
 	margin-bottom: 20px;
-	padding-right: 10px;
+	padding-right: 20px;
 	text-wrap: pretty;
 `
 
@@ -53,24 +55,22 @@ const TickerContainer = styled.div`
 function Hero() {
 	return (
 		<PageHeader>
-			<CMCLogoLarge />
+			<CMCLogoLarge style={{ paddingRight: 30 }} />
 			<PageBody>
 				<PageHeaderText>Reduce Risk, Enhance Decisions, Get Results</PageHeaderText>
 				<PageHeaderDetailsText>
-					For more than 30 years, CMC has served Banks and Private Equity Investors in
-					<strong>
-						&nbsp;Commercial Real Estate Lending.
-						<br />
-					</strong>
+					For more than 35 years, CMC has served <strong>banks</strong> and <strong>investors</strong> in
+					<strong>&nbsp;commercial construction.</strong>
 					<br />
-					We empower our clients to effectively measure, assess, and mitigate construction project risks.
+					<br />
+					We empower our clients to understand and mitigate construction project risks.
 				</PageHeaderDetailsText>
 				<PageLinkContainer>
 					<Link className="button button--secondary button--lg" to="/services">
 						Learn More
 					</Link>
 					<Link className="button button--primary button--lg" to="/docs/introvideo">
-						Watch Video <i className="fa-duotone fa-solid fa-video" />
+						Video <i className="fa-duotone fa-solid fa-video" />
 					</Link>
 				</PageLinkContainer>
 			</PageBody>
