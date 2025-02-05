@@ -76,7 +76,7 @@ const Tos = (props) => {
 				<BlockContent>
 					As a condition of your use of the Site, you will not use the Site, or any contents or services, for any purpose that is unlawful in any applicable jurisdiction where our
 					Site are being used, or prohibited by these terms, conditions, and notices, and you agree to abide by the terms and conditions set forth in the “User Conduct” section.
-					You may not use the Site contents or services in any manner that could damage, disable, overburden, or impair any of our equipment or interfere with any other party’s use
+					You may not use the Site contents or services in any manner that could damage, disable, overburden, or impair any of our equipment or interfere with any other party's use
 					and enjoyment of the Site, or any contents or services. You may not attempt to gain access to any portion of the Site, or any of its contents or services, other than
 					those for which you are authorized.
 				</BlockContent>
@@ -156,6 +156,14 @@ const Tos = (props) => {
 					THE SITE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. WE MAKE NO WARRANTIES, EXPRESS OR IMPLIED, REPRESENTATIONS OR ENDORSEMENTS WHATSOEVER WITH REGARD TO ANY
 					PRODUCTS, INFORMATION OR SERVICE PROVIDED THROUGH THIS SITE, INCLUDING, TITLE, NON-INFRINGEMENT, OR ANY OTHER WARRANTY, CONDITION, GUARANTY, OR REPRESENTATION, WHETHER
 					ORAL OR IN WRITING, OR IN ELECTRONIC FORM.
+				</BlockContent>
+
+				<SectionHeader>Artificial Intelligence Restriction</SectionHeader>
+				<BlockContent>
+					You may not use automated bots to access, scan, scrape, data mine, copy, or use the materials or content on this website for developing, training, fine-tuning, or
+					otherwise contributing to or improving a machine learning model or artificial intelligence (AI) system or the operation thereof, unless your bot's user agent is (i)
+					explicitly permitted (“allowed”) to do so in this website's robots.txt file and (ii) solely used to identify bots used for AI purposes (i.e., this provision does not
+					apply to user agents that are used for multiple purposes, such as search engine indexing and AI purposes).
 				</BlockContent>
 
 				<SectionHeader>LIMITATION OF LIABILITY</SectionHeader>
