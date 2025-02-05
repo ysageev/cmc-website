@@ -117,18 +117,19 @@ const config = {
 						items: [
 							{
 								html: `
-										<div style="font-size:1em;">
-											<i class="fa-thin fa-location-dot" style="margin-top:5px;"/>
-											<a href="https://maps.app.goo.gl/8Zin2gwTQMMo3hkG6" style="float:right;font-family:Lexend;font-weight:normal;width:200px;line-height:1.3;padding-left: 10px;">
-												<br/>
-												CMC
-												<br/>
-												4955 North Bailey Ave
-												<br/>
-												Suite 217
-												<br/>
-												Amherst, NY  14226
-											</a>
+										<div style="font-size:1em;height:100px;padding-left:27px">
+											<div style="float:left;width:190px;">
+												<a href="https://maps.app.goo.gl/8Zin2gwTQMMo3hkG6" 
+												style="font-family:Lexend;font-weight:normal;line-height:1.3;">
+													CMC
+													<br/>
+													4955 North Bailey Ave
+													<br/>
+													Suite 217
+													<br/>
+													Amherst, NY  14226
+												</a>
+											</div>
 										</div>`,
 							},
 							{
