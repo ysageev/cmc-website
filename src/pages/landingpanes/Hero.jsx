@@ -11,7 +11,7 @@ const PageHeader = styled.div`
 `
 
 const PageHeaderText = styled.div`
-	font-size: clamp(1.6rem, -0.875rem + 8.333vw, 1.8rem);
+	font-size: 1.8rem;
 	font-weight: bold;
 	font-family: Lexend;
 	line-height: 1.3em;
@@ -45,10 +45,13 @@ const PageLinkContainer = styled.div`
 	padding-bottom: 20px;
 	height: 60px;
 	gap: 10px;
+	margin: 10px;
 `
 const TickerContainer = styled.div`
 	clear: both;
 	height: 50px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 `
 //TODO: NAMING AND HIERARCHY IS WRONG WRT STYLES
 //_____________________________________________
