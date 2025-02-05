@@ -44,7 +44,7 @@ function MeetTheTeam() {
 					photo="/img/about/peter-schregel.png"
 					name="Peter Schregel"
 					title="President"
-					linkedInURL="https://www.linkedin.com/in/peter-mark-schregel/"
+					linkedInURL="https://www.linkedin.com/in/peter-mark-schregel-pub/"
 					details="As President of CMC, Peter provides overall leadership for the company and oversees the project management teams. With over 30 years of experience, Peter is recognized as an industry expert and has forged long-standing relationships with some of the nation's largest banks and institutional investors. Since its founding in 1988, CMC has experienced expanded both its service offerings and its geographical footprint. With Peter's vision and focus on technology, CMC has emerged as a leader in construction oversight services and risk management. Peter received his MBA from Canisius College and multiple undergraduate degrees from the State University of New York."
 				/>
 
