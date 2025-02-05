@@ -1,6 +1,6 @@
-import ServiceBanner from "./ServiceBanner.jsx"
+import ServiceBanner from "../ServiceBanner.jsx"
 // import ServiceItem from "./ServiceItem.jsx"
-import "./services.css"
+import "../services.css"
 import Phase_PreConstruction from "./Phase_PreConstruction.jsx"
 import Phase_Monitoring from "./Phase_Monitoring.jsx"
 import Phase_Completion from "./Phase_Completion.jsx"
@@ -9,7 +9,7 @@ import Phase_Completion from "./Phase_Completion.jsx"
 function RiskManagement() {
 	return (
 		<div>
-			<ServiceBanner icon="fa-hard-hat" title="Construction Risk Management" details="Minimize Risk.  Maximize Confidence." />
+			<ServiceBanner icon="fa-hard-hat" title="Construction Risk Management" details="Reduce construction loan risk." />
 
 			<div className="service-content" style={{ width: "100%" }}>
 				<div>

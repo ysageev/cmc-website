@@ -1,4 +1,4 @@
-import PanelContainer, { PanelHeader, ActionLabel, ActionItemList, ActionContainer } from "./PhaseStyles.jsx"
+import PanelContainer, { PanelHeader, ActionLabel, ActionItemList, ActionContainer } from "../PhaseStyles.jsx"
 
 //_____________________________
 function Phase_Monitoring() {
@@ -24,16 +24,14 @@ function Phase_Monitoring() {
 				<ActionLabel>Review, Track, and Analyze:</ActionLabel>
 				<ActionItemList>
 					<ul>
-						<li>Payment requisitions</li>
+						<li>Payment requisitions, Invoices, and Budget reconciliation</li>
 						<li>Current Partial Lien Waivers</li>
 						<li>Change Orders and Potential Change Orders</li>
-						<li>Invoices</li>
-						<li>Ongoing buyout status</li>
-						<li>Budget reconciliation</li>
 						<li>Contingency funding, availability, and shortfalls</li>
+						<li>Ongoing buyout status</li>
 						<li>Construction and unit delivery schedules</li>
 						<li>Construction Progress</li>
-						<li>Work-in-place</li>
+						<li>Work-in-Place and Cost-to-Complete</li>
 						<li>Quality of workmanship and Exceptions to the work</li>
 					</ul>
 				</ActionItemList>
@@ -41,7 +39,6 @@ function Phase_Monitoring() {
 				<ActionLabel>Recommend:</ActionLabel>
 				<ActionItemList>
 					<ul>
-						<li>Cost-to-complete</li>
 						<li>Disbursement amount</li>
 					</ul>
 				</ActionItemList>

@@ -6,12 +6,13 @@ const PanelContainer = styled.div`
 	min-width: 300px;
 	margin-bottom: 10px;
 	margin-right: 1em;
+	font-size: 1em;
 `
 export const PanelHeader = styled.div`
 	font-weight: bold; 
-	font-size: 1.3em;
+	font-size: 1.1em;
 	text-align: center;
-	padding: 10px;
+	padding: 8px;
 	border-radius: 10px 10px 0px 0px;
 	background-color: var(--ifm-color-primary-darkest);
 	color: var(--ifm-color-primary-lighter);
@@ -20,15 +21,14 @@ export const PanelHeader = styled.div`
 
 export const ActionContainer = styled.div`
 	padding: 15px;
-
 `
 
 export const ActionLabel = styled.div`
 	font-weight: bold; 
-	font-size: 1.1em;
+	font-size: 1em;
 `
 export const ActionItemList = styled.div`
-	font-size: .8em;
+	font-size: .9em;
 	padding-right: 10px;
 	text-wrap: pretty;
 `

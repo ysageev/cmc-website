@@ -47,6 +47,8 @@
     align-items: flex-start;
     flex-wrap: wrap;
     padding: 10px;
+    text-wrap: pretty;
+    font-size: 0.9em;
 }
 .service-item {
     display: flex;

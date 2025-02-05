@@ -1,4 +1,4 @@
-import PanelContainer, { PanelHeader, ActionLabel, ActionItemList, ActionContainer } from "./PhaseStyles.jsx"
+import PanelContainer, { PanelHeader, ActionLabel, ActionItemList, ActionContainer } from "../PhaseStyles.jsx"
 
 //_____________________________
 function Phase_Completion() {
