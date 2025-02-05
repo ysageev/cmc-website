@@ -23,10 +23,11 @@ function ApprovedVendor() {
 						display: "flex",
 						alignItems: "flex-end",
 						maxWidth: 300,
-						marginLeft: -10,
+
+						paddingRight: 40,
 					}}
 				/>
-				<div>
+				<div style={{ height: 60 }}>
 					<Link className="button button--primary button--lg" to="/docs/introvideo">
 						Approval Materials &nbsp;
 						<i className="fa-duotone fa-solid fa-download" />

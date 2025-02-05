@@ -11,11 +11,12 @@ const PageHeader = styled.div`
 `
 
 const PageHeaderText = styled.div`
-	font-size: 1.8em;
+	font-size: clamp(1.6rem, -0.875rem + 8.333vw, 1.8rem);
 	font-weight: bold;
 	font-family: Lexend;
 	line-height: 1.3em;
 	padding-top: 20px;
+	padding-right: 10px;
 	margin-left: -5px;
 	
 `
@@ -42,20 +43,19 @@ const PageLinkContainer = styled.div`
 	display: flex;
 	flex-wrap: wrap;
 	padding-bottom: 20px;
-	margin-top: 20px;
+	height: 60px;
 	gap: 10px;
 `
 const TickerContainer = styled.div`
 	clear: both;
-	height: 38px;
-	margin-top: 20px;
+	height: 50px;
 `
 //TODO: NAMING AND HIERARCHY IS WRONG WRT STYLES
 //_____________________________________________
 function Hero() {
 	return (
 		<PageHeader>
-			<CMCLogoLarge style={{ paddingRight: 30 }} />
+			<CMCLogoLarge style={{ paddingRight: 40 }} />
 			<PageBody>
 				<PageHeaderText>Reduce Risk, Enhance Decisions, Get Results</PageHeaderText>
 				<PageHeaderDetailsText>
@@ -66,9 +66,9 @@ function Hero() {
 					We empower our clients to understand and mitigate construction project risks.
 				</PageHeaderDetailsText>
 				<PageLinkContainer>
-					<Link className="button button--secondary button--lg" to="/services">
+					{/* <Link className="button button--secondary button--lg" to="/services">
 						Learn More
-					</Link>
+					</Link> */}
 					<Link className="button button--primary button--lg" to="/docs/introvideo">
 						Video <i className="fa-duotone fa-solid fa-video" />
 					</Link>
