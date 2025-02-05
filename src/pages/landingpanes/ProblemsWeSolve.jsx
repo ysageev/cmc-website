@@ -8,7 +8,7 @@ function ProblemsWeSolve() {
 					paddingRight: 20,
 				}}
 			>
-				<span style={{ fontSize: "2em", fontWeight: "bold" }}>Problems we solve...</span>
+				<span style={{ fontSize: "2em", fontWeight: "bold" }}>Problems we solve</span>
 				<p style={{ fontSize: "1.2em", maxWidth: 800 }}>We provide solutions to the following problems when dealing with Commercial Real Estate Lending</p>
 				{/* <div style={{ display: "flex", flexWrap: "wrap" }}>
 				<PainPoints />

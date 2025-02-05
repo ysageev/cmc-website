@@ -18,10 +18,11 @@ function Home() {
 				<WhatWeDo />
 				<ServicesBrochure />
 				<ProblemsWeSolve />
-				<Standards />
-				<WhoWeHelp />
-				<ApprovedVendor />
 				<PoweredByStructDB />
+				<WhoWeHelp />
+				<Standards />
+				<ApprovedVendor />
+				<br />
 			</div>
 		</Layout>
 	)
