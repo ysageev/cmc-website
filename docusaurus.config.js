@@ -180,6 +180,18 @@ const config = {
 							},
 						],
 					},
+					{
+						items: [
+							{
+								label: "Terms of Service",
+								href: "/tos",
+							},
+							{
+								label: "Privacy Statement",
+								href: "/privacy",
+							},
+						],
+					},
 				],
 				copyright: `Copyright © ${new Date().getFullYear()} CMC, Inc.`,
 			},
