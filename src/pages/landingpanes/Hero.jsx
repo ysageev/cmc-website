@@ -28,7 +28,7 @@ function Hero() {
 				</div>
 			</div>
 
-			<div style={{ height: 50 }}>
+			<div style={{ height: 38, marginTop: 20, marginBottom: 20 }}>
 				<CompaniesUsing />
 			</div>
 		</div>
