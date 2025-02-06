@@ -4,6 +4,6 @@ sidebar_position: 7
 
 # Form H2: Stored Materials Bill of Sale
 
-<a href="/pdf/pnc/form-h2-stored-mat-bos.pdf" download><i class="fa-duotone fa-file-pdf fa-2x" style={{color: "gray"}} ></i>&nbsp;Download</a>
+<a href="/pdf/comp-draw/form-h2-stored-mat-bos.pdf" download><i class="fa-duotone fa-file-pdf fa-2x" style={{color: "gray"}} ></i>&nbsp;Download</a>
 
 
