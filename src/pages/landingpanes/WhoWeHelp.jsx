@@ -8,14 +8,14 @@ function WhoWeHelp() {
 				paddingRight: 20,
 			}}
 		>
-			<span style={{ fontSize: "2em", fontWeight: "bold" }}>Who we help...</span>
+			<span style={{ fontSize: "2em", fontWeight: "bold" }}>Who we serve...</span>
 
 			<div
 				style={{
 					display: "flex",
 					alignContent: "flex-start",
 					alignItems: "flex-start",
-					justifyContent: "flex-start",
+					justifyContent: "space-between",
 					flexWrap: "wrap",
 					fontSize: "1em",
 				}}

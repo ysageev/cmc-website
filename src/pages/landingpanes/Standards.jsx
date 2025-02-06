@@ -9,11 +9,6 @@ function Standards() {
 				paddingRight: 30,
 			}}
 		>
-			<span style={{ fontSize: "1.4em", fontFamily: "Lexend", fontWeight: 500 }}>
-				Our reports track leading standards bodies
-				<br />
-				<br />
-			</span>
 			<div
 				style={{
 					display: "flex",

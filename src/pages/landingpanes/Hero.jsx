@@ -11,9 +11,9 @@ const PageHeader = styled.div`
 `
 
 const PageHeaderText = styled.div`
+	font-family: Lexend, sans-serif;
 	font-size: 1.8rem;
 	font-weight: bold;
-	font-family: Lexend;
 	line-height: 1.3em;
 	padding-top: 20px;
 	padding-right: 10px;
@@ -22,7 +22,7 @@ const PageHeaderText = styled.div`
 `
 
 const PageHeaderDetailsText = styled.div`
-	font-family: Lexend;
+	font-family: Lexend, sans-serif;
 	font-weight: normal;
 	font-size: 1.2em;
 	line-height: 1.3em;
