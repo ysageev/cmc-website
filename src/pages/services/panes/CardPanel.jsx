@@ -17,7 +17,7 @@ function CardPanel() {
 				title="Need Help?"
 				details="Use our AI Assistant to find the right set of services."
 				buttonLabel="Use AI Assistent"
-				buttonLink="/docs/introvideo"
+				buttonLink="/docs/public/introvideo"
 				icon="fa-microchip-ai"
 			/>
 
@@ -25,14 +25,14 @@ function CardPanel() {
 				title="Approve CMC"
 				details="Download our approval package to facilitate adding CMC to your Approved Vendor List."
 				buttonLabel="Approval Docs"
-				buttonLink="/docs/introvideo"
+				buttonLink="/docs/public/introvideo"
 				icon="fa-download"
 			/>
 			<ButtonCard
 				title="Free Consultation"
 				details="Chat with an expert to guide you through our solutions."
 				buttonLabel="Schedule Now"
-				buttonLink="/docs/introvideo"
+				buttonLink="/docs/public/introvideo"
 				icon="fa-calendar-days"
 			/>
 		</div>

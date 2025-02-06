@@ -28,7 +28,7 @@ function ApprovedVendor() {
 					}}
 				/>
 				<div style={{ height: 60 }}>
-					<Link className="button button--primary button--lg" to="/docs/introvideo">
+					<Link className="button button--primary button--lg" to="/docs/public/introvideo">
 						Approval Materials &nbsp;
 						<i className="fa-duotone fa-solid fa-download" />
 					</Link>
