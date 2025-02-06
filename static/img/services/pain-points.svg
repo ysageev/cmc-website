@@ -1,170 +1,170 @@
-<svg height="500" width="900" xmlns="http://www.w3.org/2000/svg">
+<svg height="700" width="880" xmlns="http://www.w3.org/2000/svg">
 <title>Your Diagram Title</title>
-<!-- Generated with SankeyMATIC: 2/4/2025, 4:00:17 PM -->
-<g transform="translate(240.75399,2)">
+<!-- Generated with SankeyMATIC: 2/6/2025, 4:45:16 PM -->
+<g transform="translate(268.22203,2)">
 <g id="sankey_flows">
-<path id="flow12" d="M139.13034 120.16466C189.16508 120.16466 208.22593 144.56963 258.26068 144.56963" fill="none" stroke-width="81.16071" stroke="#999999" opacity="0.45"><title>Accuracy → Risk Mitigation: 3</title></path>
-<path id="flow0" d="M10 334.28376C60.03474 334.28376 79.0956 360.56751 129.13034 360.56751" fill="none" stroke-width="27.05357" stroke="#999999" opacity="0.45"><title>⏲ Slow Underwriting Process → Turnaround: 1</title></path>
-<path id="flow1" d="M10 374.0943v27.05357L129.13034 401.14787v-27.05357z" fill="#999999" stroke-width="0.5" stroke="#999999" opacity="0.45"><title>⏲ Limited Visiblity of Portfolio → Turnaround: 1</title></path>
-<path id="flow2" d="M10 440.95841C60.03474 440.95841 79.0956 414.67466 129.13034 414.67466" fill="none" stroke-width="27.05357" stroke="#999999" opacity="0.45"><title>⏲ Regulatory Compliance → Turnaround: 1</title></path>
-<path id="flow3" d="M10 66.82734C60.03474 66.82734 79.0956 93.11109 129.13034 93.11109" fill="none" stroke-width="27.05357" stroke="#999999" opacity="0.45"><title>⚠ Assessing Property Risk → Accuracy: 1</title></path>
-<path id="flow4" d="M10 106.63787v27.05357L129.13034 133.69144v-27.05357z" fill="#999999" stroke-width="0.5" stroke="#999999" opacity="0.45"><title>⚠ Incorrect Asset Valuation → Accuracy: 1</title></path>
-<path id="flow5" d="M10 173.50198C60.03474 173.50198 79.0956 147.21823 129.13034 147.21823" fill="none" stroke-width="27.05357" stroke="#999999" opacity="0.45"><title>⚠ Poor 3rd Party Analytics → Accuracy: 1</title></path>
-<path id="flow6" d="M139.13034 187.02876v27.05357L258.26068 212.20356v-27.05357z" fill="#999999" stroke-width="0.5" stroke="#999999" opacity="0.45"><title>⚠ Limited Portfolio Visibility → Risk Mitigation: 1</title></path>
-<path id="flow7" d="M139.13034 253.89287C189.16508 253.89287 208.22593 225.73035 258.26068 225.73035" fill="none" stroke-width="27.05357" stroke="#999999" opacity="0.45"><title>⚠ Distressed Assets → Risk Mitigation: 1</title></path>
-<path id="flow8" d="M139.13034 307.23019C189.16508 307.23019 208.22593 252.78392 258.26068 252.78392" fill="none" stroke-width="27.05357" stroke="#999999" opacity="0.45"><title>⚠ Lack of Borrower Transparency → Risk Mitigation: 1</title></path>
-<path id="flow9" d="M139.13034 387.62109C189.16508 387.62109 208.22593 391.22363 258.26068 391.22363" fill="none" stroke-width="27.05357" stroke="#999999" opacity="0.45"><title>Turnaround → ✔ Fast Underwriting: 1</title></path>
-<path id="flow10" d="M139.13034 414.67466C189.16508 414.67466 208.22593 444.56095 258.26068 444.56095" fill="none" stroke-width="27.05357" stroke="#999999" opacity="0.45"><title>Turnaround → ✔ Loan Monitoring Automation: 1</title></path>
-<path id="flow11" d="M139.13034 360.56751C243.39982 360.56751 283.12153 344.17923 387.39101 344.17923" fill="none" stroke-width="27.05357" stroke="#999999" opacity="0.45"><title>Turnaround → ✔ Integrated Financial Reporting: 1</title></path>
-<path id="flow13" d="M268.26068 117.51606C318.29542 117.51606 337.35627 50.43905 387.39101 50.43905" fill="none" stroke-width="27.05357" stroke="#999999" opacity="0.45"><title>Risk Mitigation → ✔ Precise Asset Valuation: 1</title></path>
-<path id="flow14" d="M268.26068 144.56963C318.29542 144.56963 337.35627 103.77637 387.39101 103.77637" fill="none" stroke-width="27.05357" stroke="#999999" opacity="0.45"><title>Risk Mitigation → ✔ Portfolio Diversification: 1</title></path>
-<path id="flow15" d="M268.26068 171.6232C318.29542 171.6232 337.35627 157.1137 387.39101 157.1137" fill="none" stroke-width="27.05357" stroke="#999999" opacity="0.45"><title>Risk Mitigation → ✔ Data-Driven Decision Making: 1</title></path>
-<path id="flow16" d="M268.26068 252.78392C318.29542 252.78392 337.35627 317.12566 387.39101 317.12566" fill="none" stroke-width="27.05357" stroke="#999999" opacity="0.45"><title>Risk Mitigation → ✔ Integrated Financial Reporting: 1</title></path>
-<path id="flow17" d="M268.26068 198.67678C318.29542 198.67678 337.35627 210.45102 387.39101 210.45102" fill="none" stroke-width="27.05357" stroke="#999999" opacity="0.45"><title>Risk Mitigation → ✔ Predictive Analytics: 1</title></path>
-<path id="flow18" d="M268.26068 225.73035C318.29542 225.73035 337.35627 263.78834 387.39101 263.78834" fill="none" stroke-width="27.05357" stroke="#999999" opacity="0.45"><title>Risk Mitigation → ✔ Deep Due Diligence: 1</title></path>
+<path id="flow12" d="M109.61254 175.07372C147.24981 175.07372 161.58781 222.7095 199.22508 222.7095" fill="none" stroke-width="82.29857" stroke="#999999" opacity="0.45"><title>Accuracy → Risk Mitigation: 3</title></path>
+<path id="flow0" d="M10 466.14682C47.63727 466.14682 61.97527 517.44976 99.61254 517.44976" fill="none" stroke-width="27.43286" stroke="#999999" opacity="0.45"><title>⏲ Slow Underwriting Process → Turnaround: 1</title></path>
+<path id="flow1" d="M10 531.16619v27.43286L99.61254 558.59905v-27.43286z" fill="#999999" stroke-width="0.5" stroke="#999999" opacity="0.45"><title>⏲ Limited Visiblity of Portfolio → Turnaround: 1</title></path>
+<path id="flow2" d="M10 623.61842C47.63727 623.61842 61.97527 572.31548 99.61254 572.31548" fill="none" stroke-width="27.43286" stroke="#999999" opacity="0.45"><title>⏲ Regulatory Compliance → Turnaround: 1</title></path>
+<path id="flow3" d="M10 96.33792C47.63727 96.33792 61.97527 147.64086 99.61254 147.64086" fill="none" stroke-width="27.43286" stroke="#999999" opacity="0.45"><title>⚠ Assessing Property Risk → Accuracy: 1</title></path>
+<path id="flow4" d="M10 161.35729v27.43286L99.61254 188.79015v-27.43286z" fill="#999999" stroke-width="0.5" stroke="#999999" opacity="0.45"><title>⚠ Incorrect Asset Valuation → Accuracy: 1</title></path>
+<path id="flow5" d="M10 253.80952C47.63727 253.80952 61.97527 202.50658 99.61254 202.50658" fill="none" stroke-width="27.43286" stroke="#999999" opacity="0.45"><title>⚠ Poor 3rd Party Analytics → Accuracy: 1</title></path>
+<path id="flow6" d="M109.61254 281.24237C147.24981 281.24237 161.58781 277.57522 199.22508 277.57522" fill="none" stroke-width="27.43286" stroke="#999999" opacity="0.45"><title>⚠ Limited Portfolio Visibility → Risk Mitigation: 1</title></path>
+<path id="flow7" d="M109.61254 359.97817C147.24981 359.97817 161.58781 305.00807 199.22508 305.00807" fill="none" stroke-width="27.43286" stroke="#999999" opacity="0.45"><title>⚠ Distressed Assets → Risk Mitigation: 1</title></path>
+<path id="flow8" d="M109.61254 438.71397C147.24981 438.71397 161.58781 332.44093 199.22508 332.44093" fill="none" stroke-width="27.43286" stroke="#999999" opacity="0.45"><title>⚠ Lack of Borrower Transparency → Risk Mitigation: 1</title></path>
+<path id="flow9" d="M109.61254 544.88262C147.24981 544.88262 161.58781 551.91438 199.22508 551.91438" fill="none" stroke-width="27.43286" stroke="#999999" opacity="0.45"><title>Turnaround → ✔ Fast Underwriting: 1</title></path>
+<path id="flow10" d="M109.61254 572.31548C147.24981 572.31548 161.58781 630.65017 199.22508 630.65017" fill="none" stroke-width="27.43286" stroke="#999999" opacity="0.45"><title>Turnaround → ✔ Loan Monitoring Automation: 1</title></path>
+<path id="flow11" d="M109.61254 517.44976C189.08707 517.44976 219.36309 485.46167 298.83762 485.46167" fill="none" stroke-width="27.43286" stroke="#999999" opacity="0.45"><title>Turnaround → ✔ Integrated Financial Reporting: 1</title></path>
+<path id="flow13" d="M209.22508 195.27664C246.86235 195.27664 261.20035 64.34983 298.83762 64.34983" fill="none" stroke-width="27.43286" stroke="#999999" opacity="0.45"><title>Risk Mitigation → ✔ Precise Asset Valuation: 1</title></path>
+<path id="flow14" d="M209.22508 222.7095C246.86235 222.7095 261.20035 143.08562 298.83762 143.08562" fill="none" stroke-width="27.43286" stroke="#999999" opacity="0.45"><title>Risk Mitigation → ✔ Portfolio Diversification: 1</title></path>
+<path id="flow15" d="M209.22508 250.14236C246.86235 250.14236 261.20035 221.82142 298.83762 221.82142" fill="none" stroke-width="27.43286" stroke="#999999" opacity="0.45"><title>Risk Mitigation → ✔ Data-Driven Decision Making: 1</title></path>
+<path id="flow16" d="M209.22508 332.44093C246.86235 332.44093 261.20035 458.02881 298.83762 458.02881" fill="none" stroke-width="27.43286" stroke="#999999" opacity="0.45"><title>Risk Mitigation → ✔ Integrated Financial Reporting: 1</title></path>
+<path id="flow17" d="M209.22508 277.57522C246.86235 277.57522 261.20035 300.55722 298.83762 300.55722" fill="none" stroke-width="27.43286" stroke="#999999" opacity="0.45"><title>Risk Mitigation → ✔ Predictive Analytics: 1</title></path>
+<path id="flow18" d="M209.22508 305.00807C246.86235 305.00807 261.20035 379.29301 298.83762 379.29301" fill="none" stroke-width="27.43286" stroke="#999999" opacity="0.45"><title>Risk Mitigation → ✔ Deep Due Diligence: 1</title></path>
 </g>
 <g id="sankey_nodes">
 <g class="node">
-<rect id="r0_border" class="for_r0" x="0" y="320.75698" height="27.05357" width="10" stroke="rgb(91, 86, 84)" stroke-width="1" fill="none"></rect>
-<rect id="r0" class="for_r0" x="0" y="320.75698" height="27.05357" width="10" fill="#bab0ab" fill-opacity="1"><title>⏲ Slow Underwriting Process:
+<rect id="r0_border" class="for_r0" x="0" y="452.4304" height="27.43286" width="10" stroke="rgb(91, 86, 84)" stroke-width="1" fill="none"></rect>
+<rect id="r0" class="for_r0" x="0" y="452.4304" height="27.43286" width="10" fill="#bab0ab" fill-opacity="1"><title>⏲ Slow Underwriting Process:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r1_border" class="for_r1" x="129.13034" y="347.04073" height="81.16071" width="10" stroke="rgb(38, 59, 82)" stroke-width="1" fill="none"></rect>
-<rect id="r1" class="for_r1" x="129.13034" y="347.04073" height="81.16071" width="10" fill="#4e79a7" fill-opacity="1"><title>Turnaround:
+<rect id="r1_border" class="for_r1" x="99.61254" y="503.73334" height="82.29857" width="10" stroke="rgb(38, 59, 82)" stroke-width="1" fill="none"></rect>
+<rect id="r1" class="for_r1" x="99.61254" y="503.73334" height="82.29857" width="10" fill="#4e79a7" fill-opacity="1"><title>Turnaround:
 3</title></rect>
 </g>
 <g class="node">
-<rect id="r2_border" class="for_r2" x="0" y="374.0943" height="27.05357" width="10" stroke="rgb(91, 86, 84)" stroke-width="1" fill="none"></rect>
-<rect id="r2" class="for_r2" x="0" y="374.0943" height="27.05357" width="10" fill="#bab0ab" fill-opacity="1"><title>⏲ Limited Visiblity of Portfolio:
+<rect id="r2_border" class="for_r2" x="0" y="531.16619" height="27.43286" width="10" stroke="rgb(91, 86, 84)" stroke-width="1" fill="none"></rect>
+<rect id="r2" class="for_r2" x="0" y="531.16619" height="27.43286" width="10" fill="#bab0ab" fill-opacity="1"><title>⏲ Limited Visiblity of Portfolio:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r3_border" class="for_r3" x="0" y="427.43162" height="27.05357" width="10" stroke="rgb(91, 86, 84)" stroke-width="1" fill="none"></rect>
-<rect id="r3" class="for_r3" x="0" y="427.43162" height="27.05357" width="10" fill="#bab0ab" fill-opacity="1"><title>⏲ Regulatory Compliance:
+<rect id="r3_border" class="for_r3" x="0" y="609.90199" height="27.43286" width="10" stroke="rgb(91, 86, 84)" stroke-width="1" fill="none"></rect>
+<rect id="r3" class="for_r3" x="0" y="609.90199" height="27.43286" width="10" fill="#bab0ab" fill-opacity="1"><title>⏲ Regulatory Compliance:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r4_border" class="for_r4" x="0" y="53.30055" height="27.05357" width="10" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
-<rect id="r4" class="for_r4" x="0" y="53.30055" height="27.05357" width="10" fill="#f28e2c" fill-opacity="1"><title>⚠ Assessing Property Risk:
+<rect id="r4_border" class="for_r4" x="0" y="82.62149" height="27.43286" width="10" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r4" class="for_r4" x="0" y="82.62149" height="27.43286" width="10" fill="#f28e2c" fill-opacity="1"><title>⚠ Assessing Property Risk:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r5_border" class="for_r5" x="129.13034" y="79.5843" height="81.16071" width="10" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
-<rect id="r5" class="for_r5" x="129.13034" y="79.5843" height="81.16071" width="10" fill="#e15759" fill-opacity="1"><title>Accuracy:
+<rect id="r5_border" class="for_r5" x="99.61254" y="133.92443" height="82.29857" width="10" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r5" class="for_r5" x="99.61254" y="133.92443" height="82.29857" width="10" fill="#e15759" fill-opacity="1"><title>Accuracy:
 3</title></rect>
 </g>
 <g class="node">
-<rect id="r6_border" class="for_r6" x="0" y="106.63787" height="27.05357" width="10" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
-<rect id="r6" class="for_r6" x="0" y="106.63787" height="27.05357" width="10" fill="#f28e2c" fill-opacity="1"><title>⚠ Incorrect Asset Valuation:
+<rect id="r6_border" class="for_r6" x="0" y="161.35729" height="27.43286" width="10" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r6" class="for_r6" x="0" y="161.35729" height="27.43286" width="10" fill="#f28e2c" fill-opacity="1"><title>⚠ Incorrect Asset Valuation:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r7_border" class="for_r7" x="0" y="159.97519" height="27.05357" width="10" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
-<rect id="r7" class="for_r7" x="0" y="159.97519" height="27.05357" width="10" fill="#f28e2c" fill-opacity="1"><title>⚠ Poor 3rd Party Analytics:
+<rect id="r7_border" class="for_r7" x="0" y="240.09309" height="27.43286" width="10" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r7" class="for_r7" x="0" y="240.09309" height="27.43286" width="10" fill="#f28e2c" fill-opacity="1"><title>⚠ Poor 3rd Party Analytics:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r8_border" class="for_r8" x="129.13034" y="187.02876" height="27.05357" width="10" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
-<rect id="r8" class="for_r8" x="129.13034" y="187.02876" height="27.05357" width="10" fill="#f28e2c" fill-opacity="1"><title>⚠ Limited Portfolio Visibility:
+<rect id="r8_border" class="for_r8" x="99.61254" y="267.52594" height="27.43286" width="10" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r8" class="for_r8" x="99.61254" y="267.52594" height="27.43286" width="10" fill="#f28e2c" fill-opacity="1"><title>⚠ Limited Portfolio Visibility:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r9_border" class="for_r9" x="258.26068" y="103.98928" height="162.32143" width="10" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"></rect>
-<rect id="r9" class="for_r9" x="258.26068" y="103.98928" height="162.32143" width="10" fill="#76b7b2" fill-opacity="1"><title>Risk Mitigation:
+<rect id="r9_border" class="for_r9" x="199.22508" y="181.56022" height="164.59714" width="10" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"></rect>
+<rect id="r9" class="for_r9" x="199.22508" y="181.56022" height="164.59714" width="10" fill="#76b7b2" fill-opacity="1"><title>Risk Mitigation:
 6</title></rect>
 </g>
 <g class="node">
-<rect id="r10_border" class="for_r10" x="129.13034" y="240.36609" height="27.05357" width="10" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
-<rect id="r10" class="for_r10" x="129.13034" y="240.36609" height="27.05357" width="10" fill="#f28e2c" fill-opacity="1"><title>⚠ Distressed Assets:
+<rect id="r10_border" class="for_r10" x="99.61254" y="346.26174" height="27.43286" width="10" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r10" class="for_r10" x="99.61254" y="346.26174" height="27.43286" width="10" fill="#f28e2c" fill-opacity="1"><title>⚠ Distressed Assets:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r11_border" class="for_r11" x="129.13034" y="293.70341" height="27.05357" width="10" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
-<rect id="r11" class="for_r11" x="129.13034" y="293.70341" height="27.05357" width="10" fill="#f28e2c" fill-opacity="1"><title>⚠ Lack of Borrower Transparency:
+<rect id="r11_border" class="for_r11" x="99.61254" y="424.99754" height="27.43286" width="10" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r11" class="for_r11" x="99.61254" y="424.99754" height="27.43286" width="10" fill="#f28e2c" fill-opacity="1"><title>⚠ Lack of Borrower Transparency:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r12_border" class="for_r12" x="258.26068" y="377.69684" height="27.05357" width="10" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
-<rect id="r12" class="for_r12" x="258.26068" y="377.69684" height="27.05357" width="10" fill="#59a14f" fill-opacity="1"><title>✔ Fast Underwriting:
+<rect id="r12_border" class="for_r12" x="199.22508" y="538.19795" height="27.43286" width="10" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
+<rect id="r12" class="for_r12" x="199.22508" y="538.19795" height="27.43286" width="10" fill="#59a14f" fill-opacity="1"><title>✔ Fast Underwriting:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r13_border" class="for_r13" x="258.26068" y="431.03416" height="27.05357" width="10" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
-<rect id="r13" class="for_r13" x="258.26068" y="431.03416" height="27.05357" width="10" fill="#59a14f" fill-opacity="1"><title>✔ Loan Monitoring Automation:
+<rect id="r13_border" class="for_r13" x="199.22508" y="616.93375" height="27.43286" width="10" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
+<rect id="r13" class="for_r13" x="199.22508" y="616.93375" height="27.43286" width="10" fill="#59a14f" fill-opacity="1"><title>✔ Loan Monitoring Automation:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r14_border" class="for_r14" x="387.39101" y="303.59887" height="54.10714" width="10" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
-<rect id="r14" class="for_r14" x="387.39101" y="303.59887" height="54.10714" width="10" fill="#59a14f" fill-opacity="1"><title>✔ Integrated Financial Reporting:
+<rect id="r14_border" class="for_r14" x="298.83762" y="444.31238" height="54.86571" width="10" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
+<rect id="r14" class="for_r14" x="298.83762" y="444.31238" height="54.86571" width="10" fill="#59a14f" fill-opacity="1"><title>✔ Integrated Financial Reporting:
 2</title></rect>
 </g>
 <g class="node">
-<rect id="r15_border" class="for_r15" x="387.39101" y="36.91227" height="27.05357" width="10" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
-<rect id="r15" class="for_r15" x="387.39101" y="36.91227" height="27.05357" width="10" fill="#59a14f" fill-opacity="1"><title>✔ Precise Asset Valuation:
+<rect id="r15_border" class="for_r15" x="298.83762" y="50.6334" height="27.43286" width="10" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
+<rect id="r15" class="for_r15" x="298.83762" y="50.6334" height="27.43286" width="10" fill="#59a14f" fill-opacity="1"><title>✔ Precise Asset Valuation:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r16_border" class="for_r16" x="387.39101" y="90.24959" height="27.05357" width="10" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
-<rect id="r16" class="for_r16" x="387.39101" y="90.24959" height="27.05357" width="10" fill="#59a14f" fill-opacity="1"><title>✔ Portfolio Diversification:
+<rect id="r16_border" class="for_r16" x="298.83762" y="129.36919" height="27.43286" width="10" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
+<rect id="r16" class="for_r16" x="298.83762" y="129.36919" height="27.43286" width="10" fill="#59a14f" fill-opacity="1"><title>✔ Portfolio Diversification:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r17_border" class="for_r17" x="387.39101" y="143.58691" height="27.05357" width="10" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
-<rect id="r17" class="for_r17" x="387.39101" y="143.58691" height="27.05357" width="10" fill="#59a14f" fill-opacity="1"><title>✔ Data-Driven Decision Making:
+<rect id="r17_border" class="for_r17" x="298.83762" y="208.10499" height="27.43286" width="10" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
+<rect id="r17" class="for_r17" x="298.83762" y="208.10499" height="27.43286" width="10" fill="#59a14f" fill-opacity="1"><title>✔ Data-Driven Decision Making:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r18_border" class="for_r18" x="387.39101" y="196.92423" height="27.05357" width="10" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
-<rect id="r18" class="for_r18" x="387.39101" y="196.92423" height="27.05357" width="10" fill="#59a14f" fill-opacity="1"><title>✔ Predictive Analytics:
+<rect id="r18_border" class="for_r18" x="298.83762" y="286.84079" height="27.43286" width="10" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
+<rect id="r18" class="for_r18" x="298.83762" y="286.84079" height="27.43286" width="10" fill="#59a14f" fill-opacity="1"><title>✔ Predictive Analytics:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r19_border" class="for_r19" x="387.39101" y="250.26155" height="27.05357" width="10" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
-<rect id="r19" class="for_r19" x="387.39101" y="250.26155" height="27.05357" width="10" fill="#59a14f" fill-opacity="1"><title>✔ Deep Due Diligence:
+<rect id="r19_border" class="for_r19" x="298.83762" y="365.57659" height="27.43286" width="10" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
+<rect id="r19" class="for_r19" x="298.83762" y="365.57659" height="27.43286" width="10" fill="#59a14f" fill-opacity="1"><title>✔ Deep Due Diligence:
 1</title></rect>
 </g>
 </g>
-<g id="sankey_labels" font-family="sans-serif" font-size="14px" fill="#000000">
-<rect id="label0_bg" class="for_r0" x="-238.37062" y="321.38374" width="236.78399" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label0" class="for_r0" text-anchor="end" x="-6.17" y="334.28376" font-weight="400" font-size="17.22px" dy="5.8">⏲ Slow Underwriting Process</text>
-<rect id="label1_bg" class="for_r1" x="85.75847" y="374.72108" width="97.10375" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label1" class="for_r1" text-anchor="middle" x="134.13034" y="387.62109" font-weight="400" font-size="17.22px" dy="5.8">Turnaround</text>
-<rect id="label2_bg" class="for_r2" x="-238.05812" y="374.72108" width="236.51502" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label2" class="for_r2" text-anchor="end" x="-6.17" y="387.62109" font-weight="400" font-size="17.22px" dy="5.8">⏲ Limited Visiblity of Portfolio</text>
-<rect id="label3_bg" class="for_r3" x="-211.605" y="428.05839" width="210.06147" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label3" class="for_r3" text-anchor="end" x="-6.17" y="440.95841" font-weight="400" font-size="17.22px" dy="5.8">⏲ Regulatory Compliance</text>
-<rect id="label4_bg" class="for_r4" x="-216.90187" y="53.92734" width="215.31354" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label4" class="for_r4" text-anchor="end" x="-6.17" y="66.82734" font-weight="400" font-size="17.22px" dy="5.8">⚠ Assessing Property Risk</text>
-<rect id="label5_bg" class="for_r5" x="93.53972" y="107.26466" width="80.92774" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label5" class="for_r5" text-anchor="middle" x="134.13034" y="120.16466" font-weight="400" font-size="17.22px" dy="5.8">Accuracy</text>
-<rect id="label6_bg" class="for_r6" x="-220.43312" y="107.26466" width="218.46312" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label6" class="for_r6" text-anchor="end" x="-6.17" y="120.16466" font-weight="400" font-size="17.22px" dy="5.8">⚠ Incorrect Asset Valuation</text>
-<rect id="label7_bg" class="for_r7" x="-214.99562" y="160.60199" width="213.41439" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label7" class="for_r7" text-anchor="end" x="-6.17" y="173.50198" font-weight="400" font-size="17.22px" dy="5.8">⚠ Poor 3rd Party Analytics</text>
-<rect id="label8_bg" class="for_r8" x="-92.24027" y="187.65556" width="219.78403" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label8" class="for_r8" text-anchor="end" x="122.96034" y="200.55555" font-weight="400" font-size="17.22px" dy="5.8">⚠ Limited Portfolio Visibility</text>
-<rect id="label9_bg" class="for_r9" x="203.10756" y="172.25" width="120.66625" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label9" class="for_r9" text-anchor="middle" x="263.26068" y="185.14999" font-weight="400" font-size="17.22px" dy="5.8">Risk Mitigation</text>
-<rect id="label10_bg" class="for_r10" x="-38.99027" y="240.99287" width="166.53229" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label10" class="for_r10" text-anchor="end" x="122.96034" y="253.89287" font-weight="400" font-size="17.22px" dy="5.8">⚠ Distressed Assets</text>
-<rect id="label11_bg" class="for_r11" x="-141.34966" y="294.33018" width="268.89312" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label11" class="for_r11" text-anchor="end" x="122.96034" y="307.23019" font-weight="400" font-size="17.22px" dy="5.8">⚠ Lack of Borrower Transparency</text>
-<rect id="label12_bg" class="for_r12" x="270.23069" y="378.32362" width="162.18187" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label12" class="for_r12" text-anchor="start" x="274.43068" y="391.22363" font-weight="400" font-size="17.22px" dy="5.8">✔ Fast Underwriting</text>
-<rect id="label13_bg" class="for_r13" x="270.23069" y="431.66093" width="241.635" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label13" class="for_r13" text-anchor="start" x="274.43068" y="444.56095" font-weight="400" font-size="17.22px" dy="5.8">✔ Loan Monitoring Automation</text>
-<rect id="label14_bg" class="for_r14" x="399.361" y="317.75242" width="257.88503" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label14" class="for_r14" text-anchor="start" x="403.56101" y="330.65245" font-weight="400" font-size="17.22px" dy="5.8">✔ Integrated Financial Reporting</text>
-<rect id="label15_bg" class="for_r15" x="399.361" y="37.53905" width="206.85378" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label15" class="for_r15" text-anchor="start" x="403.56101" y="50.43905" font-weight="400" font-size="17.22px" dy="5.8">✔ Precise Asset Valuation</text>
-<rect id="label16_bg" class="for_r16" x="399.361" y="90.87637" width="202.36941" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label16" class="for_r16" text-anchor="start" x="403.56101" y="103.77637" font-weight="400" font-size="17.22px" dy="5.8">✔ Portfolio Diversification</text>
-<rect id="label17_bg" class="for_r17" x="399.361" y="144.2137" width="250.18191" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label17" class="for_r17" text-anchor="start" x="403.56101" y="157.1137" font-weight="400" font-size="17.22px" dy="5.8">✔ Data-Driven Decision Making</text>
-<rect id="label18_bg" class="for_r18" x="399.361" y="197.55102" width="175.97756" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label18" class="for_r18" text-anchor="start" x="403.56101" y="210.45102" font-weight="400" font-size="17.22px" dy="5.8">✔ Predictive Analytics</text>
-<rect id="label19_bg" class="for_r19" x="399.361" y="250.88832" width="180.81789" height="25.4" rx="3.5" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
-<text id="label19" class="for_r19" text-anchor="start" x="403.56101" y="263.78834" font-weight="400" font-size="17.22px" dy="5.8">✔ Deep Due Diligence</text>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="-265.83098" y="452.23682" width="264.08932" height="27" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.79754" y="466.14682" font-weight="400" font-size="19.2192px" dy="6.09">⏲ Slow Underwriting Process</text>
+<rect id="label1_bg" class="for_r1" x="46.74456" y="529.55261" width="116.13578" height="29" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="middle" x="104.61254" y="544.88262" font-weight="400" font-size="20.73984px" dy="6.67">Turnaround</text>
+<rect id="label2_bg" class="for_r2" x="-265.48723" y="530.97266" width="263.6737" height="27" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="-6.79754" y="544.88262" font-weight="400" font-size="19.2192px" dy="6.09">⏲ Limited Visiblity of Portfolio</text>
+<rect id="label3_bg" class="for_r3" x="-235.98723" y="609.70844" width="234.16123" height="27" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="end" x="-6.79754" y="623.61842" font-weight="400" font-size="19.2192px" dy="6.09">⏲ Regulatory Compliance</text>
+<rect id="label4_bg" class="for_r4" x="-241.75286" y="82.42792" width="240.0192" height="27" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="end" x="-6.79754" y="96.33792" font-weight="400" font-size="19.2192px" dy="6.09">⚠ Assessing Property Risk</text>
+<rect id="label5_bg" class="for_r5" x="56.32269" y="159.74371" width="96.61256" height="29" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="middle" x="104.61254" y="175.07372" font-weight="400" font-size="20.73984px" dy="6.67">Accuracy</text>
+<rect id="label6_bg" class="for_r6" x="-245.70598" y="161.16371" width="243.57328" height="27" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="end" x="-6.79754" y="175.07372" font-weight="400" font-size="19.2192px" dy="6.09">⚠ Incorrect Asset Valuation</text>
+<rect id="label7_bg" class="for_r7" x="-239.64348" y="239.89954" width="237.90044" height="27" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="end" x="-6.79754" y="253.80952" font-weight="400" font-size="19.2192px" dy="6.09">⚠ Poor 3rd Party Analytics</text>
+<rect id="label8_bg" class="for_r8" x="-147.14031" y="267.33237" width="245.00672" height="27" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="end" x="92.815" y="281.24237" font-weight="400" font-size="19.2192px" dy="6.09">⚠ Limited Portfolio Visibility</text>
+<rect id="label9_bg" class="for_r9" x="124.71647" y="247.3988" width="159.41703" height="32" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="middle" x="204.22508" y="263.85879" font-weight="400" font-size="23.0208px" dy="7.54">Risk Mitigation</text>
+<rect id="label10_bg" class="for_r10" x="-87.71844" y="346.06818" width="185.59737" height="27" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label10" class="for_r10" text-anchor="end" x="92.815" y="359.97817" font-weight="400" font-size="19.2192px" dy="6.09">⚠ Distressed Assets</text>
+<rect id="label11_bg" class="for_r11" x="-201.92156" y="424.80396" width="299.79411" height="27" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label11" class="for_r11" text-anchor="end" x="92.815" y="438.71397" font-weight="400" font-size="19.2192px" dy="6.09">⚠ Lack of Borrower Transparency</text>
+<rect id="label12_bg" class="for_r12" x="211.35777" y="538.00439" width="180.90141" height="27" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label12" class="for_r12" text-anchor="start" x="216.02262" y="551.91438" font-weight="400" font-size="19.2192px" dy="6.09">✔ Fast Underwriting</text>
+<rect id="label13_bg" class="for_r13" x="211.35777" y="616.74017" width="269.54203" height="27" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label13" class="for_r13" text-anchor="start" x="216.02262" y="630.65017" font-weight="400" font-size="19.2192px" dy="6.09">✔ Loan Monitoring Automation</text>
+<rect id="label14_bg" class="for_r14" x="310.97032" y="457.12524" width="298.80763" height="28" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label14" class="for_r14" text-anchor="start" x="315.63516" y="471.74524" font-weight="400" font-size="19.97952px" dy="6.38">✔ Integrated Financial Reporting</text>
+<rect id="label15_bg" class="for_r15" x="310.97032" y="50.43983" width="230.74513" height="27" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label15" class="for_r15" text-anchor="start" x="315.63516" y="64.34983" font-weight="400" font-size="19.2192px" dy="6.09">✔ Precise Asset Valuation</text>
+<rect id="label16_bg" class="for_r16" x="310.97032" y="129.17561" width="225.7295" height="27" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label16" class="for_r16" text-anchor="start" x="315.63516" y="143.08562" font-weight="400" font-size="19.2192px" dy="6.09">✔ Portfolio Diversification</text>
+<rect id="label17_bg" class="for_r17" x="310.97032" y="207.91142" width="279.07325" height="27" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label17" class="for_r17" text-anchor="start" x="315.63516" y="221.82142" font-weight="400" font-size="19.2192px" dy="6.09">✔ Data-Driven Decision Making</text>
+<rect id="label18_bg" class="for_r18" x="310.97032" y="286.64722" width="196.24989" height="27" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label18" class="for_r18" text-anchor="start" x="315.63516" y="300.55722" font-weight="400" font-size="19.2192px" dy="6.09">✔ Predictive Analytics</text>
+<rect id="label19_bg" class="for_r19" x="310.97032" y="365.383" width="201.53425" height="27" rx="4" fill="#fff" fill-opacity="0.4" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label19" class="for_r19" text-anchor="start" x="315.63516" y="379.29301" font-weight="400" font-size="19.2192px" dy="6.09">✔ Deep Due Diligence</text>
 </g>
 </g></svg>
