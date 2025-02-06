@@ -21,12 +21,14 @@ const PageHeaderText = styled.div`
 
 const PageHeaderDetailsText = styled.div`
 	font-family: Lexend;
-	font-weight: 300;
-	font-size: 1em;
+	font-weight: normal;
+	font-size: 1.2em;
 	line-height: 1.3em;
 	padding-top: 20px;
+	margin-bottom: 20px;
+	padding-right: 20px;
 	padding-left: 20px;
-	margin-bottom: 10px;
+	text-wrap: pretty;
 `
 
 const About = (props) => {
