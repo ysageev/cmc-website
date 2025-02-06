@@ -76,6 +76,7 @@ function Hero() {
 					<Link className="button button--primary button--lg" to="/docs/public/introvideo">
 						Video <i className="fa-duotone fa-solid fa-video" />
 					</Link>
+					<br />
 				</PageLinkContainer>
 			</PageBody>
 
