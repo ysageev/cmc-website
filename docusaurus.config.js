@@ -96,11 +96,6 @@ const config = {
 						label: "Contact",
 						position: "left",
 					},
-					// {
-					// 	to: "resources",
-					// 	label: "Resources",
-					// 	position: "left",
-					// },
 					{
 						type: "docSidebar",
 						sidebarId: "resourcesSidebar",
@@ -113,60 +108,12 @@ const config = {
 				style: "dark",
 				links: [
 					{
-						title: "Contact",
-						items: [
-							{
-								html: `
-										<div style="font-size:1em;height:100px;padding-left:27px">
-											<div style="float:left;width:190px;">
-												<a href="https://maps.app.goo.gl/8Zin2gwTQMMo3hkG6" 
-												style="font-family:Lexend;font-weight:normal;line-height:1.3;">
-													CMC
-													<br/>
-													4955 North Bailey Ave
-													<br/>
-													Suite 217
-													<br/>
-													Amherst, NY  14226
-												</a>
-											</div>
-										</div>`,
-							},
-							{
-								html: `<div style="width:200px;font-size:1em;margin-top:10px;clear:both;">
-											<div style="float:left;">
-												<i class="fa-thin fa-envelope"></i>
-											</div>
-											<a href="mailto:info@go-cmc.com" style="font-family:Lexend;font-weight:normal;float:left;width:160px;padding-left: 10px;">
-												info@go-cmc.com
-											</a>
-										</div>`,
-							},
-							{
-								html: `<div style="width:200px;font-size:1em;margin-top:10px;clear:both;">
-											<div style="float:left;">
-												<i class="fa-thin fa-phone"></i>
-											</div>
-											<a href="tel:7169894417" style="font-family:Lexend;font-weight:normal;float:left;width:160px;padding-left: 10px;">
-												(716) 989-4417
-											</a>
-										</div>`,
-							},
-							{
-								html: `<div style="width:200px;font-size:1em;margin-top:10px;clear:both;">
-											<div style="float:left;">
-												<i class="fa-brands fa-linkedin"></i>
-											</div>
-											<a href="https://www.linkedin.com/company/cmc-monitoring" target="_blank" style="font-family:Lexend;font-weight:normal;float:left;width:160px;padding-left: 10px;">
-												LinkedIn
-											</a>
-										</div>`,
-							},
-						],
-					},
-					{
 						title: "Directory",
 						items: [
+							{
+								label: "Contact",
+								href: "/contact",
+							},
 							{
 								label: "About",
 								href: "/about",
@@ -182,6 +129,7 @@ const config = {
 						],
 					},
 					{
+						title: "Legal",
 						items: [
 							{
 								label: "Terms of Service",

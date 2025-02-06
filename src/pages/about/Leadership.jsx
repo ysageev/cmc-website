@@ -1,44 +1,32 @@
 import PhotoCard from "./PhotoCard"
 import styled from "styled-components"
 
-const PageHeader = styled.div`
-	background-image: url("img/hero-background.png");
-	background-size: cover;	
-	background-repeat: no-repeat;
-	padding-bottom: 30px;
-`
-
-const PageHeaderText = styled.div`
-	font-size: 1.8em;
-	font-weight: bold;
-	font-family: Lexend;
-	line-height: 1.3em;
-	padding-top: 20px;
-	padding-left: 20px;
-`
-
-const PageHeaderDetailsText = styled.div`
-	font-weight: normal;
-	font-size: 1.2em;
-	line-height: 1.3em;
-	padding-top: 20px;
-	padding-left: 20px;
-	margin-bottom: 20px;
-`
-
 const ContentBlock = styled.div`
 	display: flex;
 	flex-wrap: wrap;
 `
 
-function MeetTheTeam() {
-	return (
-		<>
-			<PageHeader>
-				<PageHeaderText>Leadership</PageHeaderText>
-				<PageHeaderDetailsText>Our team of highly skilled construction professionals are trained in certified in OSHA, ASTM and Code Enforcement.</PageHeaderDetailsText>
-			</PageHeader>
+const SectionHeader = styled.div`
+	font-family: Lexend;
+	font-weight: 600;
+	font-size: 1.4em;
+	padding-left: 20px;
+	
+`
 
+const LeadershipContainer = styled.div`
+	font-family: Lexend;
+	font-weight: 300;
+	font-size: .9em;
+	line-height: 1.3em;
+	padding-top: 20px;
+	margin-bottom: 20px;
+`
+
+function Leadership() {
+	return (
+		<LeadershipContainer>
+			<SectionHeader>Leadership</SectionHeader>
 			<ContentBlock>
 				<PhotoCard
 					photo="/img/about/peter-schregel.png"
@@ -72,8 +60,8 @@ function MeetTheTeam() {
 					details="Derek handles all aspects of construction monitoring and reporting for numerous projects, particularly in Ohio and Pennsylvania. He is also active in pre-shovel due diligence, including property condition assessments (PCA/ASTM), and Plan & Cost reporting. Derek serves as team leader for CMC's 360° video program. He oversees onboarding of all consultants and video surveyors. Finally, Derek plays a key role in CMC's outreach efforts to industry stakeholders. A graduate of SUNY Alfred's construction management program, he has been a part of the team since 2016."
 				/>
 			</ContentBlock>
-		</>
+		</LeadershipContainer>
 	)
 }
 
-export default MeetTheTeam
+export default Leadership
