@@ -2,10 +2,10 @@ import ServiceBanner from "../ServiceBanner.jsx"
 import PanelContainer, { PanelHeader, ActionContainer } from "../PhaseStyles.jsx"
 import "../services.css"
 
-function PropertyInspections() {
+function HistoricPreservation() {
 	return (
-		<div>
-			<ServiceBanner icon="fa-building-magnifying-glass" title="Property Due Diligence" details="Understand what you have." />
+		<div id="historic" style={{ scrollMarginTop: 60 }}>
+			<ServiceBanner icon="fa-landmark-flag" title="Historic Preservation" details="NPS Compliance" />
 
 			<div className="service-content" style={{ width: "100%" }}>
 				<div>
@@ -59,4 +59,4 @@ function PropertyInspections() {
 	)
 }
 
-export default PropertyInspections
+export default HistoricPreservation

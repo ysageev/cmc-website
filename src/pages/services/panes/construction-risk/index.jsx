@@ -8,7 +8,7 @@ import Phase_Completion from "./Phase_Completion.jsx"
 //_________________
 function RiskManagement() {
 	return (
-		<div>
+		<div id="risk-man" style={{ scrollMarginTop: 60 }}>
 			<ServiceBanner icon="fa-hard-hat" title="Construction Risk Management" details="Reduce construction loan risk." />
 
 			<div className="service-content" style={{ width: "100%" }}>
