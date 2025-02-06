@@ -1,4 +1,4 @@
-.page-header = {
+.page-header {
     background-image: url("/img/hero-background.png");
     background-size: cover;
     background-repeat: no-repeat;
