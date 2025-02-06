@@ -50,6 +50,7 @@ const PageLinkContainer = styled.div`
 const TickerContainer = styled.div`
 	clear: both;
 	height: 50px;
+	width: 100%;
 	margin-top: 20px;
 	margin-bottom: 20px;
 `

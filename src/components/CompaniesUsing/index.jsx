@@ -3,7 +3,7 @@ import CompanyLogo from "./CompanyLogo"
 
 function CompaniesUsing() {
 	return (
-		<Marquee pauseOnHover={true} speed={45} style={{ height: 38, float: "left", width: "100%" }}>
+		<Marquee pauseOnHover={true} speed={45}>
 			<CompanyLogo src="/img/company-logos/cpc.png" />
 			<CompanyLogo src="/img/company-logos/fsb.png" />
 			<CompanyLogo src="/img/company-logos/foss.png" />
