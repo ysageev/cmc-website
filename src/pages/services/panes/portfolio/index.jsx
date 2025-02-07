@@ -31,12 +31,16 @@ function PortfolioManagement() {
 						</div>
 						<div style={{ clear: "both" }}>
 							<p>
-								CMC provides lenders, free of charge, an advanced portfolio dashboard. Lenders can sign in and view all their projects handled by vendors who use <StructDBText />.
-								In-depth information about lender dashboards can be found{" "}
+								CMC provides lenders, free of charge, an advanced portfolio dashboard.
+								<br />
+								<br />
+								Lenders can sign in and view all their projects handled by vendors who use <StructDBText />.
+								<br />
+								<br />
 								<a href="https://structdb.net/docs/Lenders/Video/dashboard" rel="noreferrer" target="_blank">
-									here
-								</a>
-								.
+									In-depth information about lender dashboards
+								</a>{" "}
+								can be found at their site.
 							</p>
 						</div>
 					</div>

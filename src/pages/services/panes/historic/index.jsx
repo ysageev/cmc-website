@@ -1,5 +1,5 @@
 import ServiceBanner from "../ServiceBanner.jsx"
-import PanelContainer, { PanelHeader, ActionContainer } from "../PhaseStyles.jsx"
+import PanelContainer, { PanelHeader, ActionLabel, ActionItemList, ActionContainer } from "../PhaseStyles.jsx"
 import "../services.css"
 
 function HistoricPreservation() {
@@ -10,44 +10,57 @@ function HistoricPreservation() {
 			<div className="service-content" style={{ width: "100%" }}>
 				<div>
 					<p>
-						<strong>A Property Needs Assessment (PNA)</strong> identifies a property's general physical condition and quality of improvements. CMC's experienced professionals
-						detect and present deficiencies that could have an adverse impact on the property's cash flow, function, marketability and ultimate value.
+						CMC offers complete assessment and tracking of Historic Preservation tax credit items for both the National Parks Service (NPS) and New York's State Historic
+						Preservation Office (SHPO).
 					</p>
-					<p>
-						PNA reports can include an <strong>Expected Useful Life (EUL)</strong> analysis with replacement costs. This allows clients to identify, quantify, and budget the
-						necessary funding for future building repairs and replacements. Clients often utilize this service for proactive portfolio management. As properties age, expenditures
-						for replacements and improvements are imperative to maintaining an asset's value. Inadequate replacement reserve may result in substantial physical deterioration of the
-						asset, which will in turn adversely affect its collateral value and significantly increase an investor's risk over term.
-						<br />
-						<br />
-						<strong>PNA Report Types</strong>
-					</p>
+
+					<p>We offer reports that cover both the application process and compliance during construction: </p>
 				</div>
-
 				<PanelContainer style={{ maxWidth: 300 }}>
-					<PanelHeader>Pre-Construction</PanelHeader>
+					<PanelHeader>NPS Application, Pre-Shovel</PanelHeader>
 					<ActionContainer>
-						A comprehensive report which is prepared in conjunction with a Plan and Cost Review Report where demolition and/or renovation is involved in a project. The purpose of
-						this report is to ensure existing conditions of the property and site are included and accurately accounted for in the proposed Plans and Specs for the project.
+						<ActionLabel>Review and Track:</ActionLabel>
+						<ActionItemList>
+							<ul>
+								<li>Submissions</li>
+								<li>Conditions</li>
+								<li>Commitments</li>
+								<li>Plan conformance of proposed Work Items</li>
+							</ul>
+						</ActionItemList>
+
+						<ActionLabel>Deliver:</ActionLabel>
+						<ActionItemList>
+							<ul>
+								<li>NPS Application Report</li>
+							</ul>
+						</ActionItemList>
 					</ActionContainer>
 				</PanelContainer>
-
 				<PanelContainer style={{ maxWidth: 300 }}>
-					<PanelHeader>Limited</PanelHeader>
+					<PanelHeader>NPS Compliance, Post-Shovel</PanelHeader>
 					<ActionContainer>
-						A basic report format which is limited in scope to “major” building components and systems. This report does not include replacement or repair cost(s) estimates. This
-						report is intended to identify “major” building issues for informational purposes only.
+						<ActionLabel>Perform:</ActionLabel>
+						<ActionItemList>
+							<ul>
+								<li>Monthly project visits to monitor conformance</li>
+							</ul>
+						</ActionItemList>
+
+						<ActionLabel>Review and Track:</ActionLabel>
+						<ActionItemList>
+							<ul>
+								<li>Conformance of construction with Work Items in the application</li>
+							</ul>
+						</ActionItemList>
+
+						<ActionLabel>Deliver:</ActionLabel>
+						<ActionItemList>
+							<ul>
+								<li>NPS Construction Conformance Report</li>
+							</ul>
+						</ActionItemList>
 					</ActionContainer>
-				</PanelContainer>
-
-				<PanelContainer style={{ maxWidth: 300 }}>
-					<PanelHeader>ASTM</PanelHeader>
-					<ActionContainer>A comprehensive report prepared in accordance with the ASTM E2018 Standard. Typically the standard for our EUL reports.</ActionContainer>
-				</PanelContainer>
-
-				<PanelContainer style={{ maxWidth: 300 }}>
-					<PanelHeader>FNMA/FMAC</PanelHeader>
-					<ActionContainer>A specific report format prepared in accordance with FNMA/FHLMC requirements and DUS standards.</ActionContainer>
 				</PanelContainer>
 			</div>
 		</div>
