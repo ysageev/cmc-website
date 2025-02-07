@@ -130,7 +130,7 @@ const config = {
 							},
 							{
 								label: "Resources",
-								href: "/docs/public/introvideo",
+								href: "/docs/public/intro",
 							},
 						],
 					},
