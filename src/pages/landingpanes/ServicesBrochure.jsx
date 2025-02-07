@@ -1,12 +1,10 @@
-import Link from "@docusaurus/Link"
-
 function ServicesBrochure() {
 	return (
 		<div
 			className="blurb-strip"
 			style={{
 				display: "flex",
-				alignItems: "flex-start",
+				alignItems: "center",
 				flexWrap: "wrap",
 				padding: 30,
 				backgroundColor: "#343434",
@@ -20,11 +18,13 @@ function ServicesBrochure() {
 					marginRight: 20,
 				}}
 			>
-				<span style={{ color: "#C4F1FF" }}>Download</span> our Services
-				<span style={{ color: "#C4F1FF" }}> Brochure</span> &nbsp;
-				<Link className="button button--primary button--lg" to="/docs/public/introvideo">
-					Download Brochure <i className="fa-duotone fa-solid fa-download" />
-				</Link>
+				<span style={{ color: "#C4F1FF" }}>Download</span> our services
+				<span style={{ color: "#C4F1FF" }}> brochure</span> &nbsp;
+				<span style={{ marginTop: 10, marginBottom: 10 }}>
+					<a className="button button--primary button--lg" href="pdf/cmc-services-brochure.pdf" rel="noreferrer" target="_blank">
+						PDF <i className="fa-duotone fa-solid fa-download" />
+					</a>
+				</span>
 			</span>
 		</div>
 	)

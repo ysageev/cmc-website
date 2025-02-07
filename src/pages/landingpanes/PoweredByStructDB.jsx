@@ -33,7 +33,7 @@ function PoweredByStructDB() {
 					</div>
 				</div>
 				<br />
-				<div style={{}}>
+				<div style={{ margin: 10 }}>
 					<Link className="button button--primary button--lg" to="https://structdb.net">
 						More info &nbsp;
 						<i className="fa-duotone fa-solid fa-right-from-line" />

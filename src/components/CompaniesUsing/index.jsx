@@ -5,7 +5,7 @@ function CompaniesUsing() {
 	return (
 		<div>
 			<div style={{ float: "left", marginRight: 60, width: "100%", paddingRight: 10 }}>
-				<Marquee pauseOnHover={true} speed={90} style={{ height: 38 }}>
+				<Marquee pauseOnHover={true} speed={60} style={{ height: 38 }}>
 					<CompanyLogo src="/img/company-logos/cpc.png" />
 					<CompanyLogo src="/img/company-logos/fsb.png" />
 					<CompanyLogo src="/img/company-logos/foss.png" />

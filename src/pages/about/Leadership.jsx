@@ -33,7 +33,7 @@ function Leadership() {
 					name="Peter Schregel"
 					title="President"
 					linkedInURL="https://www.linkedin.com/in/peter-mark-schregel-pub/"
-					details="As President of CMC, Peter provides overall leadership for the company and oversees the project management teams. With over 30 years of experience, Peter is recognized as an industry expert and has forged long-standing relationships with some of the nation's largest banks and institutional investors. Since its founding in 1988, CMC has experienced expanded both its service offerings and its geographical footprint. With Peter's vision and focus on technology, CMC has emerged as a leader in construction oversight services and risk management. Peter received his MBA from Canisius College and multiple undergraduate degrees from the State University of New York."
+					details="As President of CMC, Peter provides overall leadership for the company and oversees the project management teams. With over 30 years experience, Peter is recognized as an industry expert and has forged long-standing relationships with some of the nation's largest banks and institutional investors. Since its founding in 1988, CMC has has expanded both its service offerings and its geographical footprint. With Peter's vision and focus on technology, CMC has emerged as a leader in construction oversight services and risk management. Peter received his MBA from Canisius College and multiple undergraduate degrees from the State University of New York."
 				/>
 
 				<PhotoCard
@@ -49,7 +49,7 @@ function Leadership() {
 					name="Jeff Charles"
 					title="Regional Vice President"
 					linkedInURL="https://www.linkedin.com/in/jeffreytcharles/"
-					details="Jeff is Vice President of the central NY region.  He has over 25 years experience with nearly every type of complex project, including historic preservation (NPS/SHPO), medical, manufacturing, and large-scale affordable housing. Before joining CMC, Jeff was a construction manager at LeCesse Development."
+					details="Jeff is Vice President of the central NY region.  He has over 25 years deep experience with nearly every type of complex project, including historic preservation (NPS/SHPO), medical, manufacturing, and large-scale affordable housing. Before joining CMC, Jeff was a construction manager at LeCesse Development. He has a BS from the Univeristy of Hartford, and is certified for OSHA, Asbestos, and Lead Safety assessments."
 				/>
 
 				<PhotoCard

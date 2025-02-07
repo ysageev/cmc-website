@@ -9,14 +9,14 @@ function Phase_Completion() {
 				<ActionLabel>Review and Track:</ActionLabel>
 				<ActionItemList>
 					<ul>
-						<li>Substantial Completion</li>
-						<li>Final Lien Waivers</li>
+						<li>Substantial completion</li>
+						<li>Final lien waivers</li>
 						<li>Punch list</li>
-						<li>Temporary and Permanent Certificates of Occupancy</li>
-						<li>Contractors' Certificates-of-Completion</li>
-						<li>Architect's Certificate-of-Compliance</li>
+						<li>Temporary and permanent Certificates of Occupancy</li>
+						<li>Contractors' Certificates of Completion</li>
+						<li>Architect's Certificate of Compliance</li>
 						<li>Consents of Surety</li>
-						<li>As-Built Plans</li>
+						<li>As-built plans</li>
 						<li>Warranty information</li>
 					</ul>
 				</ActionItemList>
@@ -24,7 +24,7 @@ function Phase_Completion() {
 				<ActionLabel>Recommend:</ActionLabel>
 				<ActionItemList>
 					<ul>
-						<li>Final Advance</li>
+						<li>Final advance</li>
 					</ul>
 				</ActionItemList>
 

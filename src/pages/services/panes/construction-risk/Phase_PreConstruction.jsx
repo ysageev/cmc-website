@@ -15,12 +15,12 @@ function Phase_PreConstruction() {
 				<ActionLabel>Review and Analyze:</ActionLabel>
 				<ActionItemList>
 					<ul>
-						<li>plans, drawings and specifications</li>
-						<li>regulatory documents</li>
-						<li>contract documents: design, construction, and loan (BLA)</li>
-						<li>construction and disbursement schedules</li>
-						<li>direct cost budget for appropriateness</li>
-						<li>contingency budget(s)</li>
+						<li>Plans, drawings and specifications</li>
+						<li>Regulatory documents</li>
+						<li>Contract documents: design, construction, and loan (BLA)</li>
+						<li>Construction and disbursement schedules</li>
+						<li>Direct cost budget for appropriateness</li>
+						<li>Contingency budget(s)</li>
 					</ul>
 				</ActionItemList>
 

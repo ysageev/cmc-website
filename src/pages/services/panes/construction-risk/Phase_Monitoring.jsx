@@ -24,15 +24,15 @@ function Phase_Monitoring() {
 				<ActionLabel>Review, Track, and Analyze:</ActionLabel>
 				<ActionItemList>
 					<ul>
-						<li>Payment requisitions, Invoices, and Budget reconciliation</li>
+						<li>Payment requisitions, invoices, and budget reconciliation</li>
 						<li>Current Partial Lien Waivers</li>
 						<li>Change Orders and Potential Change Orders</li>
 						<li>Contingency funding, availability, and shortfalls</li>
 						<li>Ongoing buyout status</li>
 						<li>Construction and unit delivery schedules</li>
-						<li>Construction Progress</li>
+						<li>Construction progress</li>
 						<li>Work-in-Place and Cost-to-Complete</li>
-						<li>Quality of workmanship and Exceptions to the work</li>
+						<li>Quality of workmanship and exceptions to the work</li>
 					</ul>
 				</ActionItemList>
 
@@ -46,7 +46,6 @@ function Phase_Monitoring() {
 				<ActionItemList>
 					<ul>
 						<li>Site Visit Report</li>
-						<li>Project metrics and predictive analytics</li>
 					</ul>
 				</ActionItemList>
 			</ActionContainer>

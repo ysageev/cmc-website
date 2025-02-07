@@ -9,13 +9,13 @@ function Hero() {
 		<div className="page-header">
 			<CMCLogoLarge style={{ paddingRight: 40 }} />
 			<div className="page-body">
-				<div className="page-header-text">Reduce Risk, Enhance Decisions, Get Results</div>
+				<div className="page-header-text">Reduce Risk, Lend Confidently</div>
 				<div className="page-header-details-text">
 					For more than 35 years, CMC has served <strong>banks</strong> and <strong>investors</strong> in
-					<strong>&nbsp;commercial construction.</strong>
+					<strong>&nbsp;commercial construction lending.</strong>
 					<br />
 					<br />
-					We empower our clients to understand and mitigate construction project risks.
+					We empower our clients to understand and mitigate construction loan risks.
 				</div>
 				<div className="page-links">
 					{/* <Link className="button button--secondary button--lg" to="/services">

@@ -9,7 +9,7 @@ function ProblemsWeSolve() {
 				}}
 			>
 				<span style={{ fontSize: "2em", fontWeight: "bold" }}>Problems we solve</span>
-				<p style={{ fontSize: "1.2em", maxWidth: 800 }}>We provide solutions to the following problems when dealing with Commercial Real Estate Lending</p>
+				{/* <p style={{ fontSize: "1.2em", maxWidth: 800 }}>We provide solutions to the following problems when dealing with Commercial Real Estate Lending</p> */}
 				{/* <div style={{ display: "flex", flexWrap: "wrap" }}>
 				<PainPoints />
 				<Capabilities />

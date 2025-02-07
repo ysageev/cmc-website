@@ -34,7 +34,7 @@ function Hero() {
 		<PageHeader>
 			<PageHeaderText>Find the right service...</PageHeaderText>
 			<PageHeaderDetailsText>
-				CMC offers reports and services that cover the entire construction process, from Preconstruction assessments to Post-construction and closeouts
+				CMC offers reports and services that cover the entire construction process, from pre-construction assessments to post-construction and closeouts
 			</PageHeaderDetailsText>
 		</PageHeader>
 	)

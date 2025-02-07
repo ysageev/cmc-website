@@ -39,7 +39,7 @@ const ContactItem = ({ title, icon, url, linkbody }) => {
 const CompanyAddress = () => {
 	return (
 		<div>
-			4955 Ridge Lea Rd
+			4955 North Bailey Ave
 			<br />
 			Suite 217
 			<br />
