@@ -1,6 +1,6 @@
 import ServiceBanner from "../ServiceBanner.jsx"
-import ServiceItem from "../ServiceItem.jsx"
 import "../services.css"
+import StructDBText from "/src/components/common/StructDBText"
 
 function PortfolioManagement() {
 	return (
@@ -10,38 +10,36 @@ function PortfolioManagement() {
 				<ServiceBanner icon="fa-suitcase" title="Portfolio Management" details="Master your portfolio. Maximize the potential." />
 
 				<div className="service-content" style={{ width: "100%" }}>
-					<div>
-						<p>
-							CMC’s experienced team can assess your project and create an appropriate action plan to resolve the issues associated with a problem project. Our staff has direct
-							experience in administering problem project scenarios. Our services are intended to complement in-house capabilities while allowing the lender/investor or owner to
-							maintain control of the overall process and to dictate the course of action.
-							<br />
-							<br />
-							Every assignment is tailored to each client's particular needs or requirements. CMC approaches each assignment with a commitment to identifying and implementing an
-							efficient and effective solution.
-						</p>
-						<p>
-							CMC’s experienced team can assess your project and create an appropriate action plan to resolve the issues associated with a problem project. Our staff has direct
-							experience in administering problem project scenarios. Our services are intended to complement in-house capabilities while allowing the lender/investor or owner to
-							maintain control of the overall process and to dictate the course of action.
-							<br />
-							<br />
-							Every assignment is tailored to each client's particular needs or requirements. CMC approaches each assignment with a commitment to identifying and implementing an
-							efficient and effective solution.
-						</p>
-						<p>
-							CMC’s experienced team can assess your project and create an appropriate action plan to resolve the issues associated with a problem project. Our staff has direct
-							experience in administering problem project scenarios. Our services are intended to complement in-house capabilities while allowing the lender/investor or owner to
-							maintain control of the overall process and to dictate the course of action.
-							<br />
-							<br />
-							Every assignment is tailored to each client's particular needs or requirements. CMC approaches each assignment with a commitment to identifying and implementing an
-							efficient and effective solution.
-						</p>
+					<div style={{ clear: "both" }}>
+						Most lenders find it difficult to understand their entire loan portfolio. They might understand specific projects well, but have trouble identifying:
+						<br />
+						<br />
+						<ul>
+							<li>Which projects are most behind schedule?</li>
+							<li>Which projects are over-budget and need contingency adjustment?</li>
+							<li>What projects have upcoming inspections and when are they due?</li>
+							<li>Which reports need review?</li>
+							<li>How are projects progressing toward completion? When will monies be available for new projects and how much?</li>
+							<li>How are my projects clustering from the perspective of geographical footprint?</li>
+						</ul>
+						<div style={{ clear: "both" }}>
+							<p>More generally, Lenders have trouble knowing:</p>
+							<ul>
+								<li style={{ fontWeight: "bold" }}>Is my loan portfolio healthy or at-risk?</li>
+								<li style={{ fontWeight: "bold" }}>What projects should I pay attention to most?</li>
+							</ul>
+						</div>
+						<div style={{ clear: "both" }}>
+							<p>
+								CMC provides lenders, free of charge, an advanced portfolio dashboard. Lenders can sign in and view all their projects handled by vendors who use <StructDBText />.
+								In-depth information about lender dashboards can be found{" "}
+								<a href="https://structdb.net/docs/Lenders/Video/dashboard" rel="noreferrer" target="_blank">
+									here
+								</a>
+								.
+							</p>
+						</div>
 					</div>
-					<ServiceItem text="Loan Portfolio Risk Analytics" icon="fa-file-signature" />
-					<ServiceItem text="Reporting and Risk Monitoring" icon="fa-ruler-triangle" />
-					<ServiceItem text="Performance Optimization" icon="fa-hand-holding-circle-dollar" />
 				</div>
 			</div>
 		</>

@@ -21,11 +21,10 @@ function PropertyInspections() {
 						<br />
 						<br />
 						<strong>PNA Report Types</strong>
-						<br />
-						<p>
-							CMC offers four distinct PNA report formats. Each is tailored to meet a specific requirement or standard. Each may be supplemented with custom useful life analysis
-							and capital cost tables:
-						</p>
+					</p>
+					<p>
+						CMC offers four distinct PNA report formats. Each is tailored to meet a specific requirement or standard. Each may be supplemented with custom useful life analysis and
+						capital cost tables:
 					</p>
 				</div>
 

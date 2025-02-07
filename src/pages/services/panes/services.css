@@ -44,7 +44,7 @@
 
 .service-content {
     display: flex;
-    align-items: flex-start;
+    align-items: stretch;
     flex-wrap: wrap;
     padding: 10px;
     text-wrap: pretty;
