@@ -6,7 +6,7 @@
 .service-banner {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     background-color: var(--ifm-color-primary-darker);
     color: var(--ifm-color-primary-lightest);
     padding: 10px;
@@ -68,4 +68,9 @@
 
 .pretty-wrap {
     text-wrap: pretty;
+}
+
+.chevron-hover:hover {
+    opacity: 0.7;
+    color: yellow;
 }

@@ -4,8 +4,9 @@ function ProblemsWeSolve() {
 			<div
 				style={{
 					paddingLeft: 30,
-					paddingTop: 40,
+					paddingTop: 30,
 					paddingRight: 20,
+					marginBottom: 20,
 				}}
 			>
 				<span style={{ fontSize: "2em", fontWeight: "bold" }}>Problems we solve</span>

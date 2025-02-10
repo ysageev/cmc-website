@@ -9,23 +9,21 @@ import Phase_Completion from "./Phase_Completion.jsx"
 function RiskManagement() {
 	return (
 		<div id="risk-man" style={{ scrollMarginTop: 60 }}>
-			<ServiceBanner icon="fa-hard-hat" title="Construction Risk Management" details="Reduce construction loan risk." />
+			<ServiceBanner icon="fa-hard-hat" title="Construction Risk Management" details="Reduce construction loan risk." divId="risk-man-content" />
 
-			<div className="service-content" style={{ width: "100%" }}>
-				<div>
-					<p>
-						Our team serves clients by providing expert analysis and advice to safeguard their interests during project construction and delivery. Our services can be customized to
-						meet our client's needs based on project size, type, budget, borrower relationship and risk position.
-					</p>
-					<p>Our Construction Oversight services are typically provided in three (3) phases:</p>
+			<div id="risk-man-content">
+				<div className="service-content" style={{ width: "100%" }}>
+					<div>
+						<p>
+							Our team serves clients by providing expert analysis and advice to safeguard their interests during project construction and delivery. Our services can be customized
+							to meet our client's needs based on project size, type, budget, borrower relationship and risk position.
+						</p>
+						<p>Our Construction Oversight services are typically provided in three (3) phases:</p>
+					</div>
+					<Phase_PreConstruction />
+					<Phase_Monitoring />
+					<Phase_Completion />
 				</div>
-				<Phase_PreConstruction />
-				<Phase_Monitoring />
-				<Phase_Completion />
-				{/* <ServiceItem text="Contracts" icon="fa-file-signature" />
-				<ServiceItem text="Plans" icon="fa-ruler-triangle" />
-				<ServiceItem text="Budget" icon="fa-hand-holding-circle-dollar" />
-				<ServiceItem text="Documents" icon="fa-files" /> */}
 			</div>
 		</div>
 	)

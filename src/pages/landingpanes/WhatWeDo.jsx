@@ -2,12 +2,12 @@ import Link from "@docusaurus/Link"
 
 function WhatWeDo() {
 	return (
-		<div style={{ marginLeft: 30 }}>
+		<div style={{ paddingLeft: 30, paddingTop: 30, paddingRight: 20, marginBottom: 20 }}>
 			<span style={{ fontSize: "2em", fontWeight: "bold" }}>Our services</span>
 			<br />
 			<br />
 			<div style={{ display: "flex", flexWrap: "wrap" }}>
-				<ServicesListItem icon="fa-helmet-safety" title="Construction Risk Management" details="Reduce construction loan risk" url="/services#risk-man" />
+				<ServicesListItem icon="fa-helmet-safety" title="Construction Loan Risk Management" details="Reduce construction loan risk" url="/services#risk-man" />
 				<br />
 				<ServicesListItem icon="fa-building-magnifying-glass" title="Property Inspection and Due Diligence" details="Understand what you have." url="/services#prop-insp" />
 				<br />
@@ -33,6 +33,7 @@ function ServicesListItem({ icon, title, details, url }) {
 				paddingRight: 20,
 				paddingBottom: 20,
 				width: 400,
+				textWrap: "pretty",
 			}}
 		>
 			<Link href={url}>

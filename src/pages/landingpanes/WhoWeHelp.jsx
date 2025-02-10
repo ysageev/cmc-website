@@ -3,9 +3,9 @@ function WhoWeHelp() {
 		<div
 			style={{
 				paddingLeft: 30,
-				paddingTop: 40,
-				paddingBottom: 40,
+				paddingTop: 30,
 				paddingRight: 20,
+				marginBottom: 20,
 			}}
 		>
 			<span style={{ fontSize: "2em", fontWeight: "bold" }}>Who we serve...</span>
@@ -18,6 +18,7 @@ function WhoWeHelp() {
 					justifyContent: "space-between",
 					flexWrap: "wrap",
 					fontSize: "1em",
+					paddingTop: 10,
 				}}
 			>
 				<div style={{ display: "flex", flexWrap: "wrap", width: 300 }}>
