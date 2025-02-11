@@ -15,33 +15,75 @@ Existing Property [2] ⚠ Unknown Condition
 
 ⚠ Unknown Maintenance Costs [1] Extended Useful Life Report (EUL)
 ⚠ Unknown Condition [1] Property Needs Assessment (PNA)
-⚠ Unknown Condition [1]  Preconstruction Report (PCR)
+⚠ Unknown Condition [1]  Preconstruction Report (PRE)
 
 
-Preconstruction Report (PCR) [1] "The Project"
-New Build [1] "The Project"
+Preconstruction Report (PRE) [1] "The Project"
+New Build [8] "The Project"
 
 "The Project" [1] ⚠ Inadequate Plans
+"The Project" [1] ⚠ Inadequate Schedule
+"The Project" [1] ⚠ Inadequate Budget
 "The Project" [1] ⚠ Contract Issues
-"The Project" [1] ⚠ Geotechnical Report ?
-"The Project" [1] ⚠ Environmental Reports ?
-"The Project" [1] ⚠ Permits ?
-"The Project" [1] ⚠ Bonding ?
-"The Project" [1] ⚠ Contingency ?
+"The Project" [1] ⚠ Geotechnical Report 
+"The Project" [1] ⚠ Environmental Reports 
+"The Project" [1] ⚠ Permits 
+"The Project" [1] ⚠ Bonding 
+"The Project" [1] ⚠ Contingency 
 
-⚠ Inadequate Plans [1] Plan and Cost Report
-⚠ Contract Issues [1] Plan and Cost Report
-⚠ Geotechnical Report ? [1] Plan and Cost Report
-⚠ Environmental Reports ? [1] Plan and Cost Report
-⚠ Permits ? [1] Plan and Cost Report
-⚠ Bonding ? [1] Plan and Cost Report
-⚠ Contingency ? [1] Plan and Cost Report
+⚠ Inadequate Plans [1] Plan and Cost Report \n(PCR/PnC)
+⚠ Inadequate Schedule [1] Plan and Cost Report \n(PCR/PnC)
+⚠ Inadequate Budget [1] Plan and Cost Report \n(PCR/PnC)
+⚠ Contract Issues [1] Plan and Cost Report \n(PCR/PnC)
+⚠ Geotechnical Report  [1] Plan and Cost Report \n(PCR/PnC)
+⚠ Environmental Reports  [1] Plan and Cost Report \n(PCR/PnC)
+⚠ Permits  [1] Plan and Cost Report \n(PCR/PnC)
+⚠ Bonding  [1] Plan and Cost Report \n(PCR/PnC)
+⚠ Contingency  [1] Plan and Cost Report \n(PCR/PnC)
 
 
-The Project [2] Under Construction
+The Project [6] Under Construction
 
 Under Construction [1] ⚠ Budget Adequacy
 Under Construction [1] ⚠ Schedule Adequacy
+Under Construction [1] ⚠ Plan Compliance
+Under Construction [1] ⚠ Workmanship
+Under Construction [1] ⚠ Contingency Adequacy
+Under Construction [1] ⚠ Change Order Issues
 
-⚠ Budget Adequacy [1] Site Vist Report \n(SOR/SV)
-⚠ Schedule Adequacy [1] Site Vist Report \n(SOR/SV)
+⚠ Budget Adequacy [1] Site Vist Reports \n(SOR/SV)
+⚠ Schedule Adequacy [1] Site Vist Reports \n(SOR/SV)
+⚠ Plan Compliance [1] Site Vist Reports \n(SOR/SV)
+⚠ Workmanship [1] Site Vist Reports \n(SOR/SV)
+⚠ Contingency Adequacy [1] Site Vist Reports \n(SOR/SV)
+⚠ Change Order Issues [1] Site Vist Reports \n(SOR/SV)
+
+
+Site Vist Reports \n(SOR/SV) [1] Closeout Report
+
+Distressed Asset [1] ⚠ Budget Shortfalls
+Distressed Asset [1] ⚠ Lien Risks
+Distressed Asset [1] ⚠ Contract Risks
+Distressed Asset [1] ⚠ Scope Adequacy
+Distressed Asset [1] ⚠ Schedule Issues
+Distressed Asset [1] ⚠ Regulatory Compliance
+
+⚠ Budget Shortfalls [1] Cost to Complete Report
+⚠ Lien Risks [1] Cost to Complete Report
+⚠ Contract Risks [1] Cost to Complete Report
+⚠ Scope Adequacy [1] Cost to Complete Report
+⚠ Schedule Issues [1] Cost to Complete Report
+⚠ Regulatory Compliance [1] Cost to Complete Report
+
+
+Historic Property [1] ⚠ Existing Status
+Historic Property [1] ⚠ Submissions
+Historic Property [1] ⚠ Conditions
+Historic Property [1] ⚠ Commitments
+Historic Property [1] ⚠ Plan conformance 
+
+⚠ Existing Status  [1] Historic Tax Credit Due Diligence Report
+⚠ Submissions [1] Historic Tax Credit Due Diligence Report
+⚠ Conditions [1] Historic Tax Credit Due Diligence Report
+⚠ Commitments [1] Historic Tax Credit Due Diligence Report
+⚠ Plan conformance [1] Historic Tax Credit Due Diligence Report

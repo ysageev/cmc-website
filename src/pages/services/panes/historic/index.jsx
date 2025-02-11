@@ -20,6 +20,13 @@ function HistoricPreservation() {
 					<PanelContainer style={{ maxWidth: 300 }}>
 						<PanelHeader>NPS Application, Pre-Shovel</PanelHeader>
 						<ActionContainer>
+							<ActionLabel>Perform:</ActionLabel>
+							<ActionItemList>
+								<ul>
+									<li>Single visit to determine NPS submission conformance</li>
+								</ul>
+							</ActionItemList>
+
 							<ActionLabel>Review and Track:</ActionLabel>
 							<ActionItemList>
 								<ul>
