@@ -10,13 +10,14 @@ function ProblemsWeSolve() {
 				}}
 			>
 				<span style={{ fontSize: "2em", fontWeight: "bold" }}>Problems we solve</span>
-				{/* <p style={{ fontSize: "1.2em", maxWidth: 800 }}>We provide solutions to the following problems when dealing with Commercial Real Estate Lending</p> */}
-				{/* <div style={{ display: "flex", flexWrap: "wrap" }}>
-				<PainPoints />
-				<Capabilities />
-			</div> */}
+				<br />
+				<br />
+				<div style={{ fontSize: "1.5em", fontWeight: "bold", width: "100%", backgroundColor: "#343434", padding: 10 }}>Portfolio Management</div>
+				<img src="/img/services/sankeys/portfolio.svg" alt="pain-points" style={{ width: "100%", padding: 0 }} />
+				<br />
+				<div style={{ fontSize: "1.5em", fontWeight: "bold", width: "100%", backgroundColor: "#343434", padding: 10 }}>Existing Property</div>
+				<img src="/img/services/sankeys/existing.svg" alt="pain-points" style={{ width: "100%", padding: 0 }} />
 			</div>
-			<img src="/img/services/pain-points.svg" alt="pain-points" style={{ width: "100%", padding: 0 }} />
 		</>
 	)
 }

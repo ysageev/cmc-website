@@ -1,0 +1,61 @@
+<svg height="300" width="800" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 2/11/2025, 4:10:48 PM -->
+<g transform="translate(89.16998,2)">
+<g id="sankey_flows">
+<path id="flow0" d="M15 97.985C138.59611 97.985 160.09109 61.319 283.6872 61.319" fill="none" stroke-width="33.01" stroke="#e15759" opacity="0.35"><title>Loan Portfolio → ⚠ Footprint: 1</title></path>
+<path id="flow1" d="M15 130.995C138.59611 130.995 160.09109 118.773 283.6872 118.773" fill="none" stroke-width="33.01" stroke="#e15759" opacity="0.35"><title>Loan Portfolio → ⚠ Quality: 1</title></path>
+<path id="flow2" d="M15 164.005C138.59611 164.005 160.09109 176.227 283.6872 176.227" fill="none" stroke-width="33.01" stroke="#e15759" opacity="0.35"><title>Loan Portfolio → ⚠ Status: 1</title></path>
+<path id="flow3" d="M15 197.015C138.59611 197.015 160.09109 233.681 283.6872 233.681" fill="none" stroke-width="33.01" stroke="#e15759" opacity="0.35"><title>Loan Portfolio → ⚠ Loan Priority: 1</title></path>
+<path id="flow4" d="M298.6872 61.319C422.28331 61.319 443.77828 97.985 567.37439 97.985" fill="none" stroke-width="33.01" stroke="#76b7b2" opacity="0.35"><title>⚠ Footprint → Realtime Dashboards and Portfolio Reports: 1</title></path>
+<path id="flow5" d="M298.6872 118.773C422.28331 118.773 443.77828 130.995 567.37439 130.995" fill="none" stroke-width="33.01" stroke="#76b7b2" opacity="0.35"><title>⚠ Quality → Realtime Dashboards and Portfolio Reports: 1</title></path>
+<path id="flow6" d="M298.6872 176.227C422.28331 176.227 443.77828 164.005 567.37439 164.005" fill="none" stroke-width="33.01" stroke="#76b7b2" opacity="0.35"><title>⚠ Status → Realtime Dashboards and Portfolio Reports: 1</title></path>
+<path id="flow7" d="M298.6872 233.681C422.28331 233.681 443.77828 197.015 567.37439 197.015" fill="none" stroke-width="33.01" stroke="#76b7b2" opacity="0.35"><title>⚠ Loan Priority → Realtime Dashboards and Portfolio Reports: 1</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0_border" class="for_r0" x="0" y="81.48" height="132.04" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r0" class="for_r0" x="0" y="81.48" height="132.04" width="15" fill="#f28e2c" fill-opacity="0.6"><title>Loan Portfolio:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r1_border" class="for_r1" x="283.6872" y="44.814" height="33.01" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r1" class="for_r1" x="283.6872" y="44.814" height="33.01" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Footprint:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r2_border" class="for_r2" x="283.6872" y="102.268" height="33.01" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r2" class="for_r2" x="283.6872" y="102.268" height="33.01" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Quality:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r3_border" class="for_r3" x="283.6872" y="159.722" height="33.01" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r3" class="for_r3" x="283.6872" y="159.722" height="33.01" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Status:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r4_border" class="for_r4" x="283.6872" y="217.176" height="33.01" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r4" class="for_r4" x="283.6872" y="217.176" height="33.01" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Loan Priority:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r5_border" class="for_r5" x="567.37439" y="81.48" height="132.04" width="15" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"></rect>
+<rect id="r5" class="for_r5" x="567.37439" y="81.48" height="132.04" width="15" fill="#76b7b2" fill-opacity="0.6"><title>Realtime Dashboards and Portfolio Reports:
+4</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="12px" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="-87.14313" y="138.58" width="85.32247" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-5.6975" y="147.5" font-weight="700" font-size="11.4px" dy="3.48">Loan Portfolio</text>
+<rect id="label1_bg" class="for_r1" x="202.16906" y="51.979" width="80.46628" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="end" x="277.9897" y="61.319" font-weight="700" font-size="12.6px" dy="4.06">⚠ Footprint</text>
+<rect id="label2_bg" class="for_r2" x="214.73156" y="109.433" width="68.08539" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="277.9897" y="118.773" font-weight="700" font-size="12.6px" dy="4.06">⚠ Quality</text>
+<rect id="label3_bg" class="for_r3" x="218.93469" y="166.887" width="62.905" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="end" x="277.9897" y="176.227" font-weight="700" font-size="12.6px" dy="4.06">⚠ Status</text>
+<rect id="label4_bg" class="for_r4" x="179.73156" y="224.341" width="103.08603" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="end" x="277.9897" y="233.681" font-weight="700" font-size="12.6px" dy="4.06">⚠ Loan Priority</text>
+<rect id="label5_bg" class="for_r5" x="584.2219" y="131.455" width="124.60813" height="31.05" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="start" x="588.07189" y="147.5" font-weight="700" font-size="11.4px" dy="-3.645">Realtime Dashboards<tspan x="588.07189" dy="14.25" font-weight="700" font-size="11.4px">and Portfolio Reports</tspan></text>
+</g>
+</g></svg>

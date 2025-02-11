@@ -1,0 +1,162 @@
+<svg height="700" width="800" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 2/11/2025, 4:22:31 PM -->
+<g transform="translate(113.87808,2)">
+<g id="sankey_flows">
+<path id="flow6" d="M17 444.71722C110.8859 444.71722 127.21388 376.74383 221.09978 376.74383" fill="none" stroke-width="160.44444" stroke="#af7aa1" opacity="0.35"><title>New Build → Proposed Project: 8</title></path>
+<path id="flow1" d="M15 212.06889C85.8553 212.06889 98.17796 226.97302 169.03326 226.97302" fill="none" stroke-width="40.11111" stroke="#e15759" opacity="0.35"><title>Existing Property → ⚠ Unknown Condition: 2</title></path>
+<path id="flow0" d="M15 181.98555C85.3953 181.98555 97.63796 163.2 168.03326 163.2" fill="none" stroke-width="20.05556" stroke="#e15759" opacity="0.35"><title>Existing Property → ⚠ Future Maintenance Costs: 1</title></path>
+<path id="flow2" d="M183.03326 163.2C214.78856 163.2 220.31122 49.3375 252.06652 49.3375" fill="none" stroke-width="20.05556" stroke="#76b7b2" opacity="0.35"><title>⚠ Future Maintenance Costs → Extended Useful Life Report (EUL): 1</title></path>
+<path id="flow3" d="M184.03326 216.94524C222.22856 216.94524 228.87122 95.08274 267.06652 95.08274" fill="none" stroke-width="20.05556" stroke="#59a14f" opacity="0.35"><title>⚠ Unknown Condition → Property Needs Assessment (PNA): 1</title></path>
+<path id="flow4" d="M184.03326 237.0008C139.88856 237.0008 132.21122 302.82799 88.06652 302.82799" fill="none" stroke-width="20.05556" stroke="#edc949" opacity="0.35"><title>⚠ Unknown Condition → Preconstruction Report (PRE): 1</title></path>
+<path id="flow5" d="M103.06652 302.82799C157.36182 302.82799 166.80448 286.49383 221.09978 286.49383" fill="none" stroke-width="20.05556" stroke="#af7aa1" opacity="0.35"><title>Preconstruction Report (PRE) → Proposed Project: 1</title></path>
+<path id="flow7" d="M236.09978 286.49383C326.27508 286.49383 341.95774 165.70056 432.13304 165.70056" fill="none" stroke-width="20.05556" stroke="#e15759" opacity="0.35"><title>Proposed Project → ⚠ Inadequate Plans: 1</title></path>
+<path id="flow8" d="M236.09978 306.54939C326.27508 306.54939 341.95774 212.4458 432.13304 212.4458" fill="none" stroke-width="20.05556" stroke="#e15759" opacity="0.35"><title>Proposed Project → ⚠ Inadequate Schedule: 1</title></path>
+<path id="flow9" d="M236.09978 326.60495C326.27508 326.60495 341.95774 259.19104 432.13304 259.19104" fill="none" stroke-width="20.05556" stroke="#e15759" opacity="0.35"><title>Proposed Project → ⚠ Inadequate Budget: 1</title></path>
+<path id="flow10" d="M236.09978 346.6605C326.27508 346.6605 341.95774 305.93629 432.13304 305.93629" fill="none" stroke-width="20.05556" stroke="#e15759" opacity="0.35"><title>Proposed Project → ⚠ Contract Issues: 1</title></path>
+<path id="flow11" d="M236.09978 366.71606C326.27508 366.71606 341.95774 352.68153 432.13304 352.68153" fill="none" stroke-width="20.05556" stroke="#e15759" opacity="0.35"><title>Proposed Project → ⚠ Geotechnical Report: 1</title></path>
+<path id="flow12" d="M236.09978 386.77161C326.27508 386.77161 341.95774 399.42677 432.13304 399.42677" fill="none" stroke-width="20.05556" stroke="#e15759" opacity="0.35"><title>Proposed Project → ⚠ Environmental Reports: 1</title></path>
+<path id="flow13" d="M236.09978 406.82717C326.27508 406.82717 341.95774 446.17201 432.13304 446.17201" fill="none" stroke-width="20.05556" stroke="#e15759" opacity="0.35"><title>Proposed Project → ⚠ Permits: 1</title></path>
+<path id="flow14" d="M236.09978 426.88272C326.27508 426.88272 341.95774 492.91726 432.13304 492.91726" fill="none" stroke-width="20.05556" stroke="#e15759" opacity="0.35"><title>Proposed Project → ⚠ Bonding: 1</title></path>
+<path id="flow15" d="M236.09978 446.93828C326.27508 446.93828 341.95774 539.6625 432.13304 539.6625" fill="none" stroke-width="20.05556" stroke="#e15759" opacity="0.35"><title>Proposed Project → ⚠ Contingency: 1</title></path>
+<path id="flow16" d="M447.13304 165.70056C489.92834 165.70056 497.371 275.4411 540.1663 275.4411" fill="none" stroke-width="20.05556" stroke="#9c755f" opacity="0.35"><title>⚠ Inadequate Plans → Plan and Cost Report  (PCR/PnC): 1</title></path>
+<path id="flow17" d="M447.13304 212.4458C489.92834 212.4458 497.371 295.49665 540.1663 295.49665" fill="none" stroke-width="20.05556" stroke="#9c755f" opacity="0.35"><title>⚠ Inadequate Schedule → Plan and Cost Report  (PCR/PnC): 1</title></path>
+<path id="flow18" d="M447.13304 259.19104C489.92834 259.19104 497.371 315.55221 540.1663 315.55221" fill="none" stroke-width="20.05556" stroke="#9c755f" opacity="0.35"><title>⚠ Inadequate Budget → Plan and Cost Report  (PCR/PnC): 1</title></path>
+<path id="flow19" d="M447.13304 305.93629C489.92834 305.93629 497.371 335.60776 540.1663 335.60776" fill="none" stroke-width="20.05556" stroke="#9c755f" opacity="0.35"><title>⚠ Contract Issues → Plan and Cost Report  (PCR/PnC): 1</title></path>
+<path id="flow20" d="M447.13304 352.68153C489.92834 352.68153 497.371 355.66332 540.1663 355.66332" fill="none" stroke-width="20.05556" stroke="#9c755f" opacity="0.35"><title>⚠ Geotechnical Report → Plan and Cost Report  (PCR/PnC): 1</title></path>
+<path id="flow21" d="M447.13304 399.42677C489.92834 399.42677 497.371 375.71888 540.1663 375.71888" fill="none" stroke-width="20.05556" stroke="#9c755f" opacity="0.35"><title>⚠ Environmental Reports → Plan and Cost Report  (PCR/PnC): 1</title></path>
+<path id="flow22" d="M447.13304 446.17201C489.92834 446.17201 497.371 395.77443 540.1663 395.77443" fill="none" stroke-width="20.05556" stroke="#9c755f" opacity="0.35"><title>⚠ Permits → Plan and Cost Report  (PCR/PnC): 1</title></path>
+<path id="flow23" d="M447.13304 492.91726C489.92834 492.91726 497.371 415.82999 540.1663 415.82999" fill="none" stroke-width="20.05556" stroke="#9c755f" opacity="0.35"><title>⚠ Bonding → Plan and Cost Report  (PCR/PnC): 1</title></path>
+<path id="flow24" d="M447.13304 539.6625C489.92834 539.6625 497.371 435.88554 540.1663 435.88554" fill="none" stroke-width="20.05556" stroke="#9c755f" opacity="0.35"><title>⚠ Contingency → Plan and Cost Report  (PCR/PnC): 1</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0_border" class="for_r0" x="0" y="171.95778" height="60.16667" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r0" class="for_r0" x="0" y="171.95778" height="60.16667" width="15" fill="#f28e2c" fill-opacity="0.6"><title>Existing Property:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r1_border" class="for_r1" x="108.03326" y="154.17222" height="20.05556" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none" transform="translate(60,-1)"></rect>
+<rect id="r1" class="for_r1" x="108.03326" y="154.17222" height="20.05556" width="15" fill="#e15759" fill-opacity="0.6" transform="translate(60,-1)"><title>⚠ Future Maintenance Costs:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r2_border" class="for_r2" x="108.03326" y="200.91746" height="40.11111" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none" transform="translate(61,6)"></rect>
+<rect id="r2" class="for_r2" x="108.03326" y="200.91746" height="40.11111" width="15" fill="#e15759" fill-opacity="0.6" transform="translate(61,6)"><title>⚠ Unknown Condition:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r3_border" class="for_r3" x="216.06652" y="145.30972" height="20.05556" width="15" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none" transform="translate(36,-106)"></rect>
+<rect id="r3" class="for_r3" x="216.06652" y="145.30972" height="20.05556" width="15" fill="#76b7b2" fill-opacity="0.6" transform="translate(36,-106)"><title>Extended Useful Life Report (EUL):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r4_border" class="for_r4" x="216.06652" y="192.05496" height="20.05556" width="15" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none" transform="translate(51,-107)"></rect>
+<rect id="r4" class="for_r4" x="216.06652" y="192.05496" height="20.05556" width="15" fill="#59a14f" fill-opacity="0.6" transform="translate(51,-107)"><title>Property Needs Assessment (PNA):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r5_border" class="for_r5" x="216.06652" y="238.80021" height="20.05556" width="15" stroke="rgb(116, 98, 36)" stroke-width="1" fill="none" transform="translate(-128,54)"></rect>
+<rect id="r5" class="for_r5" x="216.06652" y="238.80021" height="20.05556" width="15" fill="#edc949" fill-opacity="0.6" transform="translate(-128,54)"><title>Preconstruction Report (PRE):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r6_border" class="for_r6" x="324.09978" y="262.46606" height="180.5" width="15" stroke="rgb(86, 60, 79)" stroke-width="1" fill="none" transform="translate(-103,14)"></rect>
+<rect id="r6" class="for_r6" x="324.09978" y="262.46606" height="180.5" width="15" fill="#af7aa1" fill-opacity="0.6" transform="translate(-103,14)"><title>Proposed Project:
+9</title></rect>
+</g>
+<g class="node">
+<rect id="r7_border" class="for_r7" x="0" y="285.495" height="160.44444" width="15" stroke="rgb(125, 77, 82)" stroke-width="1" fill="none" transform="translate(2,79)"></rect>
+<rect id="r7" class="for_r7" x="0" y="285.495" height="160.44444" width="15" fill="#ff9da7" fill-opacity="0.6" transform="translate(2,79)"><title>New Build:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r8_border" class="for_r8" x="432.13304" y="155.67278" height="20.05556" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r8" class="for_r8" x="432.13304" y="155.67278" height="20.05556" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Inadequate Plans:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r9_border" class="for_r9" x="432.13304" y="202.41802" height="20.05556" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r9" class="for_r9" x="432.13304" y="202.41802" height="20.05556" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Inadequate Schedule:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r10_border" class="for_r10" x="432.13304" y="249.16326" height="20.05556" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r10" class="for_r10" x="432.13304" y="249.16326" height="20.05556" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Inadequate Budget:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r11_border" class="for_r11" x="432.13304" y="295.90851" height="20.05556" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r11" class="for_r11" x="432.13304" y="295.90851" height="20.05556" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Contract Issues:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r12_border" class="for_r12" x="432.13304" y="342.65375" height="20.05556" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r12" class="for_r12" x="432.13304" y="342.65375" height="20.05556" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Geotechnical Report:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r13_border" class="for_r13" x="432.13304" y="389.39899" height="20.05556" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r13" class="for_r13" x="432.13304" y="389.39899" height="20.05556" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Environmental Reports:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r14_border" class="for_r14" x="432.13304" y="436.14424" height="20.05556" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r14" class="for_r14" x="432.13304" y="436.14424" height="20.05556" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Permits:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r15_border" class="for_r15" x="432.13304" y="482.88948" height="20.05556" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r15" class="for_r15" x="432.13304" y="482.88948" height="20.05556" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Bonding:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r16_border" class="for_r16" x="432.13304" y="529.63472" height="20.05556" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r16" class="for_r16" x="432.13304" y="529.63472" height="20.05556" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Contingency:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r17_border" class="for_r17" x="540.1663" y="262.41332" height="180.5" width="15" stroke="rgb(76, 57, 47)" stroke-width="1" fill="none" transform="translate(0,3)"></rect>
+<rect id="r17" class="for_r17" x="540.1663" y="262.41332" height="180.5" width="15" fill="#9c755f" fill-opacity="0.6" transform="translate(0,3)"><title>Plan and Cost Report  (PCR/PnC):
+9</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="12px" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="-111.72125" y="192.7011" width="110.03058" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-5.6975" y="202.04111" font-weight="700" font-size="12.3px" dy="4.06">Existing Property</text>
+<rect id="label1_bg" class="for_r1" x="-75.73486" y="154.85999" width="181.92063" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(60,-1)"></rect>
+<text id="label1" class="for_r1" text-anchor="end" x="102.33576" y="164.2" font-weight="700" font-size="12.6px" dy="4.06" transform="translate(60,-1)">⚠ Future Maintenance Costs</text>
+<rect id="label2_bg" class="for_r2" x="-35.59424" y="211.63302" width="141.78" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(61,6)"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="102.33576" y="220.97302" font-weight="700" font-size="12.45px" dy="4.06" transform="translate(61,6)">⚠ Unknown Condition</text>
+<rect id="label3_bg" class="for_r3" x="232.91402" y="145.99749" width="213.85814" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(36,-106)"></rect>
+<text id="label3" class="for_r3" text-anchor="start" x="236.76402" y="155.3375" font-weight="700" font-size="12.6px" dy="4.06" transform="translate(36,-106)">Extended Useful Life Report (EUL)</text>
+<rect id="label4_bg" class="for_r4" x="232.91402" y="192.74273" width="216.93627" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(51,-107)"></rect>
+<text id="label4" class="for_r4" text-anchor="start" x="236.76402" y="202.08274" font-weight="700" font-size="12.6px" dy="4.06" transform="translate(51,-107)">Property Needs Assessment (PNA)</text>
+<rect id="label5_bg" class="for_r5" x="27.65777" y="239.48799" width="186.56125" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-128,54)"></rect>
+<text id="label5" class="for_r5" text-anchor="end" x="210.36902" y="248.82799" font-weight="700" font-size="12.6px" dy="4.06" transform="translate(-128,54)">Preconstruction Report (PRE)</text>
+<rect id="label6_bg" class="for_r6" x="219.83166" y="343.79608" width="103.62314" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-103,14)"></rect>
+<text id="label6" class="for_r6" text-anchor="end" x="318.40228" y="352.71606" font-weight="700" font-size="11.4px" dy="3.48" transform="translate(-103,14)">Proposed Project</text>
+<rect id="label7_bg" class="for_r7" x="-65.70563" y="356.79724" width="63.85813" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(2,79)"></rect>
+<text id="label7" class="for_r7" text-anchor="end" x="-5.6975" y="365.71722" font-weight="700" font-size="11.55px" dy="3.48" transform="translate(2,79)">New Build</text>
+<rect id="label8_bg" class="for_r8" x="302.27117" y="156.36056" width="128.01438" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="end" x="426.43554" y="165.70056" font-weight="700" font-size="12.6px" dy="4.06">⚠ Inadequate Plans</text>
+<rect id="label9_bg" class="for_r9" x="279.86492" y="203.1058" width="150.42063" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="end" x="426.43554" y="212.4458" font-weight="700" font-size="12.6px" dy="4.06">⚠ Inadequate Schedule</text>
+<rect id="label10_bg" class="for_r10" x="292.48992" y="249.85104" width="138.59354" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label10" class="for_r10" text-anchor="end" x="426.43554" y="259.19104" font-weight="700" font-size="12.6px" dy="4.06">⚠ Inadequate Budget</text>
+<rect id="label11_bg" class="for_r11" x="311.36492" y="296.59628" width="118.92063" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label11" class="for_r11" text-anchor="end" x="426.43554" y="305.93629" font-weight="700" font-size="12.6px" dy="4.06">⚠ Contract Issues</text>
+<rect id="label12_bg" class="for_r12" x="282.6618" y="343.34152" width="148.41263" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label12" class="for_r12" text-anchor="end" x="426.43554" y="352.68153" font-weight="700" font-size="12.6px" dy="4.06">⚠ Geotechnical Report</text>
+<rect id="label13_bg" class="for_r13" x="267.27117" y="390.08676" width="163.01438" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label13" class="for_r13" text-anchor="end" x="426.43554" y="399.42677" font-weight="700" font-size="12.6px" dy="4.06">⚠ Environmental Reports</text>
+<rect id="label14_bg" class="for_r14" x="359.67742" y="436.83199" width="70.60813" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label14" class="for_r14" text-anchor="end" x="426.43554" y="446.17201" font-weight="700" font-size="12.6px" dy="4.06">⚠ Permits</text>
+<rect id="label15_bg" class="for_r15" x="354.81805" y="483.57726" width="75.76969" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label15" class="for_r15" text-anchor="end" x="426.43554" y="492.91726" font-weight="700" font-size="12.6px" dy="4.06">⚠ Bonding</text>
+<rect id="label16_bg" class="for_r16" x="329.5993" y="530.32247" width="101.67716" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label16" class="for_r16" text-anchor="end" x="426.43554" y="539.6625" font-weight="700" font-size="12.6px" dy="4.06">⚠ Contingency</text>
+<rect id="label17_bg" class="for_r17" x="557.01377" y="336.61834" width="127.10813" height="31.05" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,3)"></rect>
+<text id="label17" class="for_r17" text-anchor="start" x="560.8638" y="352.66332" font-weight="700" font-size="11.4px" dy="-3.645" transform="translate(0,3)">Plan and Cost Report <tspan x="560.8638" dy="14.25" font-weight="700" font-size="11.4px">(PCR/PnC)</tspan></text>
+</g>
+</g></svg>
