@@ -10,26 +10,26 @@ Loan Portfolio [1]  ⚠ Loan Priority
 ⚠ Loan Priority[1] Realtime Dashboards\nand Portfolio Reports
 
 
-Existing Property [1] ⚠ Unknown Maintenance Costs 
+Existing Property [1] ⚠ Future Maintenance Costs 
 Existing Property [2] ⚠ Unknown Condition 
 
-⚠ Unknown Maintenance Costs [1] Extended Useful Life Report (EUL)
+⚠ Future Maintenance Costs [1] Extended Useful Life Report (EUL)
 ⚠ Unknown Condition [1] Property Needs Assessment (PNA)
 ⚠ Unknown Condition [1]  Preconstruction Report (PRE)
 
 
-Preconstruction Report (PRE) [1] "The Project"
-New Build [8] "The Project"
+Preconstruction Report (PRE) [1] Proposed Project
+New Build [8] Proposed Project
 
-"The Project" [1] ⚠ Inadequate Plans
-"The Project" [1] ⚠ Inadequate Schedule
-"The Project" [1] ⚠ Inadequate Budget
-"The Project" [1] ⚠ Contract Issues
-"The Project" [1] ⚠ Geotechnical Report 
-"The Project" [1] ⚠ Environmental Reports 
-"The Project" [1] ⚠ Permits 
-"The Project" [1] ⚠ Bonding 
-"The Project" [1] ⚠ Contingency 
+Proposed Project [1] ⚠ Inadequate Plans
+Proposed Project [1] ⚠ Inadequate Schedule
+Proposed Project [1] ⚠ Inadequate Budget
+Proposed Project [1] ⚠ Contract Issues
+Proposed Project [1] ⚠ Geotechnical Report 
+Proposed Project [1] ⚠ Environmental Reports 
+Proposed Project [1] ⚠ Permits 
+Proposed Project [1] ⚠ Bonding 
+Proposed Project [1] ⚠ Contingency 
 
 ⚠ Inadequate Plans [1] Plan and Cost Report \n(PCR/PnC)
 ⚠ Inadequate Schedule [1] Plan and Cost Report \n(PCR/PnC)
@@ -42,7 +42,7 @@ New Build [8] "The Project"
 ⚠ Contingency  [1] Plan and Cost Report \n(PCR/PnC)
 
 
-The Project [6] Under Construction
+
 
 Under Construction [1] ⚠ Budget Adequacy
 Under Construction [1] ⚠ Schedule Adequacy
@@ -59,7 +59,7 @@ Under Construction [1] ⚠ Change Order Issues
 ⚠ Change Order Issues [1] Site Vist Reports \n(SOR/SV)
 
 
-Site Vist Reports \n(SOR/SV) [1] Closeout Report
+Site Vist Reports \n(SOR/SV) [2] Closeout Report
 
 Distressed Asset [1] ⚠ Budget Shortfalls
 Distressed Asset [1] ⚠ Lien Risks
@@ -82,8 +82,8 @@ Historic Property [1] ⚠ Conditions
 Historic Property [1] ⚠ Commitments
 Historic Property [1] ⚠ Plan conformance 
 
-⚠ Existing Status  [1] Historic Tax Credit Due Diligence Report
-⚠ Submissions [1] Historic Tax Credit Due Diligence Report
-⚠ Conditions [1] Historic Tax Credit Due Diligence Report
-⚠ Commitments [1] Historic Tax Credit Due Diligence Report
-⚠ Plan conformance [1] Historic Tax Credit Due Diligence Report
+⚠ Existing Status  [1] Historic Tax Credit Due Diligence Report\nHistoric Tax Credit Tracking Report
+⚠ Submissions [1] Historic Tax Credit Due Diligence Report\nHistoric Tax Credit Tracking Report
+⚠ Conditions [1] Historic Tax Credit Due Diligence Report\nHistoric Tax Credit Tracking Report
+⚠ Commitments [1] Historic Tax Credit Due Diligence Report\nHistoric Tax Credit Tracking Report
+⚠ Plan conformance [1] Historic Tax Credit Due Diligence Report\nHistoric Tax Credit Tracking Report
