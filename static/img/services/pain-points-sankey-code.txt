@@ -1,11 +1,13 @@
 
 Loan Portfolio [1]  ⚠ Footprint 
 Loan Portfolio [1]  ⚠ Quality
-Loan Portfolio [1]  ⚠ Loan Prioritization 
+Loan Portfolio [1]  ⚠ Status
+Loan Portfolio [1]  ⚠ Loan Priority
 
 ⚠ Footprint [1] Realtime Dashboards\nand Portfolio Reports
 ⚠ Quality [1] Realtime Dashboards\nand Portfolio Reports
-⚠ Loan Prioritization [1] Realtime Dashboards\nand Portfolio Reports
+⚠ Status [1] Realtime Dashboards\nand Portfolio Reports
+⚠ Loan Priority[1] Realtime Dashboards\nand Portfolio Reports
 
 
 Existing Property [1] ⚠ Unknown Maintenance Costs 
@@ -36,3 +38,10 @@ New Build [1] "The Project"
 ⚠ Contingency ? [1] Plan and Cost Report
 
 
+The Project [2] Under Construction
+
+Under Construction [1] ⚠ Budget Adequacy
+Under Construction [1] ⚠ Schedule Adequacy
+
+⚠ Budget Adequacy [1] Site Vist Report \n(SOR/SV)
+⚠ Schedule Adequacy [1] Site Vist Report \n(SOR/SV)
