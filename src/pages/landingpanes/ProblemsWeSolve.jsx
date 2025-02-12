@@ -31,9 +31,9 @@ function ProblemsWeSolve() {
 				<ZoomImage src="/img/services/sankeys/pipeline.svg" altText="Entire Pipeline" />
 				<PainPoint title="Existing Property" imageName="existing" />
 				<PainPoint title="Historic Property" imageName="historic" />
+				<PainPoint title="Distressed Asset" imageName="distressed" />
 				<PainPoint title="Proposed Project" imageName="proposed-project" />
 				<PainPoint title="Under Construction" imageName="under-construction" />
-				<PainPoint title="Distressed Asset" imageName="distressed" />
 				<PainPoint title="Loan Portfolio" imageName="portfolio" />
 			</div>
 		</>
