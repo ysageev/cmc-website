@@ -4,20 +4,16 @@ import "../services.css"
 function DistressedAssets() {
 	return (
 		<div id="comp-cert" style={{ scrollMarginTop: 60 }}>
-			<ServiceBanner icon="fa-building-circle-exclamation" title="Distressed Assets and Loan Workout" details="Right the ship." divId="completion-content" />
+			<ServiceBanner icon="fa-building-circle-exclamation" title="Distressed Assets and Loan Workout" details="Right the ship." divId="distressed" />
 
 			<div className="service-content" style={{ width: "100%" }}>
 				<div id="distressed">
-					REMOVE/CHANGE THIS ITEM
+					CMC’s experienced team can assess your project and create an appropriate action plan to resolve the issues associated with a problem project. Our services are intended to
+					complement in-house capabilities while allowing the lender/investor or owner to maintain control of the overall process and to dictate the course of action.
 					<br />
-					REMOVE/CHANGE THIS ITEM
 					<br />
-					REMOVE/CHANGE THIS ITEM
-					<br />
-					REMOVE/CHANGE THIS ITEM
-					<br />
-					REMOVE/CHANGE THIS ITEM
-					<br />
+					Every assignment is tailored to each client's particular needs or requirements. CMC approaches each assignment with a commitment to identifying and implementing an
+					efficient and effective solution.
 				</div>
 			</div>
 		</div>
