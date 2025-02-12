@@ -11,13 +11,13 @@ function WhatWeDo() {
 				<br />
 				<ServicesListItem icon="fa-building-magnifying-glass" title="Property Inspection and Due Diligence" details="Understand what you have." url="/services#prop-insp" />
 				<br />
-				<ServicesListItem icon="fa-chart-mixed-up-circle-dollar" title="Data Visualization" details="Intuitive, evidence-based decisions." url="/services#analytics" />
-				<br />
+				{/* <ServicesListItem icon="fa-chart-mixed-up-circle-dollar" title="Data Visualization" details="Intuitive, evidence-based decisions." url="/services#analytics" />
+				<br /> */}
 				<ServicesListItem icon="fa-suitcase" title="Portfolio Management" details="Manage all projects in one place." url="/services#port-man" />
 				<br />
 				<ServicesListItem icon="fa-landmark-flag" title="Historic Preservation" details="Track compliance and tax credits." url="/services#historic" />
 				<br />
-				<ServicesListItem icon="fa-badge-check" title="Completion Certificates and Closeout" details="Completion with confidence." url="/services#comp-cert" />
+				<ServicesListItem icon="fa-building-circle-exclamation" title="Distressed Assets and Loan Workout" details="Right the ship." url="/services#distressed" />
 				<br />
 			</div>
 		</div>
