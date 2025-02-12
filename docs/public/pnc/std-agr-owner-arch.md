@@ -1,15 +1,11 @@
 ---
-sidebar_position: 28
+sidebar_position: 31
 ---
 
-# Standard Agreement Between Owner and Contractor
+# Standard Agreement Between Owner and Architect
 
+The Standard Agreement Between Owner and Architect outlines the roles, responsibilities, and scope of services provided by the architect during a construction project. This agreement ensures that a licensed professional is overseeing the design and construction process, providing accountability, quality assurance, and progress documentation critical for loan disbursement and project completion.
 
-The contracts submitted must be fully executed and include all exhibits and addenda. If multiple prime contractors are retained (for example, in order to complete sitework independent of building construction), the Owner must furnish separate contracts.
+The contracts submitted must be fully executed and include all exhibits and addenda.
 
-In some cases, Lenders require that the Owner provide copies of subcontracts.
-
-<a href="/pdf/pnc/spec-insp-1.pdf" download><i class="fa-duotone fa-file-pdf fa-2x" style={{color: "gray"}} ></i>&nbsp;Example 1</a>
-<br/>
-<br/>
-<a href="/pdf/pnc/spec-insp-2.pdf" download><i class="fa-duotone fa-file-pdf fa-2x" style={{color: "gray"}} ></i>&nbsp;Example 2</a>
+Example documents and further explanation can be found at the [AIA Website](https://learn.aiacontracts.com/contract-doc-pages/71171-b-series-ownerarchitect-agreements/).
