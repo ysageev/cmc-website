@@ -3,12 +3,12 @@ function WhoWeHelp() {
 		<div
 			style={{
 				paddingLeft: 30,
-				paddingTop: 30,
+				paddingTop: 0,
 				paddingRight: 20,
-				marginBottom: 20,
+				marginBottom: 30,
 			}}
 		>
-			<span style={{ fontSize: "2em", fontWeight: "bold" }}>Who we serve...</span>
+			<span style={{ fontSize: "2em", fontWeight: "bold" }}>Our Clients</span>
 
 			<div
 				style={{

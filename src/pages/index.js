@@ -19,9 +19,9 @@ function Home() {
 				<ServicesBrochure />
 				<ProblemsWeSolve />
 				<PoweredByStructDB />
+				<ApprovedVendor />
 				<WhoWeHelp />
 				<Standards />
-				<ApprovedVendor />
 				<br />
 			</div>
 		</Layout>
