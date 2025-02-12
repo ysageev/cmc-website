@@ -11,8 +11,3 @@ The contracts submitted must be fully executed and include all exhibits and adde
 In some cases, Lenders require that the Owner provide copies of subcontracts.
 
 Example documents and further explanation can be found at the [AIA Website](https://learn.aiacontracts.com/contract-doc-pages/71126-a-series-ownercontractor-agreements/).
-
-<!-- <a href="/pdf/pnc/spec-insp-1.pdf" download><i class="fa-duotone fa-file-pdf fa-2x" style={{color: "gray"}} ></i>&nbsp;Example 1</a>
-<br/>
-<br/>
-<a href="/pdf/pnc/spec-insp-2.pdf" download><i class="fa-duotone fa-file-pdf fa-2x" style={{color: "gray"}} ></i>&nbsp;Example 2</a> -->

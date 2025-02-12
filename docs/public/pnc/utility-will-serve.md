@@ -4,6 +4,12 @@ sidebar_position: 31
 
 # Utility Will-Serve Letters
 
+Utility Will-Serve Letters are formal confirmations from utility service providers stating that a project will be connected to essential services, such as water, electricity, communications, and gas. These letters are crucial for construction, as they ensure the project's viability and confirm that necessary infrastructure will be available to support the development.
 
-CMC requires the owner to produce documentation from the the utility service providers affirming that the project can be serviced.  
-
+<a href="/pdf/pnc/will-serve-water.pdf" download><i class="fa-duotone fa-file-pdf fa-2x" style={{color: "gray"}} ></i>&nbsp;Example: Water</a>
+<br/>
+<br/>
+<a href="/pdf/pnc/will-serve-cable.pdf" download><i class="fa-duotone fa-file-pdf fa-2x" style={{color: "gray"}} ></i>&nbsp;Example: Cable</a>
+<br/>
+<br/>
+<a href="/pdf/pnc/will-serve-electric.pdf" download><i class="fa-duotone fa-file-pdf fa-2x" style={{color: "gray"}} ></i>&nbsp;Example: Electric</a>
