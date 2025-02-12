@@ -49,7 +49,7 @@ const ICON_STYLE = {
 
 function EntityItem({ label }) {
 	return (
-		<div style={{ display: "flex", alignItems: "center", padding: 5, fontSize: "1.2em", fontFamily: "Lexend, sans-serif" }}>
+		<div style={{ display: "flex", alignItems: "center", padding: 5, fontSize: "1.1em", fontFamily: "Lexend, sans-serif" }}>
 			<div>
 				<i className={ICON} style={ICON_STYLE} />
 			</div>
