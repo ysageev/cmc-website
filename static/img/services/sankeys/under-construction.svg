@@ -1,0 +1,87 @@
+<svg height="300" width="800" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 2/12/2025, 10:20:57 AM -->
+<g transform="translate(144.56941,2)">
+<g id="sankey_flows">
+<path id="flow12" d="M360.39117 174.99167v54.98333L518.08676 229.975v-54.98333z" fill="#59a14f" stroke-width="0.5" stroke="#59a14f" opacity="0.35"><title>Site Vist Reports  (SOR/SV) → Closeout Report: 2</title></path>
+<path id="flow0" d="M15 78.77083C87.53997 78.77083 100.15562 36.50458 172.69559 36.50458" fill="none" stroke-width="27.49167" stroke="#e15759" opacity="0.35"><title>Under Construction → ⚠ Budget Adequacy: 1</title></path>
+<path id="flow1" d="M15 106.2625C87.53997 106.2625 100.15562 80.90275 172.69559 80.90275" fill="none" stroke-width="27.49167" stroke="#e15759" opacity="0.35"><title>Under Construction → ⚠ Schedule Adequacy: 1</title></path>
+<path id="flow2" d="M15 133.75417C87.53997 133.75417 100.15562 125.30092 172.69559 125.30092" fill="none" stroke-width="27.49167" stroke="#e15759" opacity="0.35"><title>Under Construction → ⚠ Plan Compliance: 1</title></path>
+<path id="flow3" d="M15 161.24583C87.53997 161.24583 100.15562 169.69908 172.69559 169.69908" fill="none" stroke-width="27.49167" stroke="#e15759" opacity="0.35"><title>Under Construction → ⚠ Workmanship: 1</title></path>
+<path id="flow4" d="M15 188.7375C87.53997 188.7375 100.15562 214.09725 172.69559 214.09725" fill="none" stroke-width="27.49167" stroke="#e15759" opacity="0.35"><title>Under Construction → ⚠ Contingency Adequacy: 1</title></path>
+<path id="flow5" d="M15 216.22917C87.53997 216.22917 100.15562 258.49542 172.69559 258.49542" fill="none" stroke-width="27.49167" stroke="#e15759" opacity="0.35"><title>Under Construction → ⚠ Change Order Issues: 1</title></path>
+<path id="flow6" d="M187.69559 36.50458C260.23556 36.50458 272.8512 78.77083 345.39117 78.77083" fill="none" stroke-width="27.49167" stroke="#76b7b2" opacity="0.35"><title>⚠ Budget Adequacy → Site Vist Reports  (SOR/SV): 1</title></path>
+<path id="flow7" d="M187.69559 80.90275C260.23556 80.90275 272.8512 106.2625 345.39117 106.2625" fill="none" stroke-width="27.49167" stroke="#76b7b2" opacity="0.35"><title>⚠ Schedule Adequacy → Site Vist Reports  (SOR/SV): 1</title></path>
+<path id="flow8" d="M187.69559 125.30092C260.23556 125.30092 272.8512 133.75417 345.39117 133.75417" fill="none" stroke-width="27.49167" stroke="#76b7b2" opacity="0.35"><title>⚠ Plan Compliance → Site Vist Reports  (SOR/SV): 1</title></path>
+<path id="flow9" d="M187.69559 169.69908C260.23556 169.69908 272.8512 161.24583 345.39117 161.24583" fill="none" stroke-width="27.49167" stroke="#76b7b2" opacity="0.35"><title>⚠ Workmanship → Site Vist Reports  (SOR/SV): 1</title></path>
+<path id="flow10" d="M187.69559 214.09725C260.23556 214.09725 272.8512 188.7375 345.39117 188.7375" fill="none" stroke-width="27.49167" stroke="#76b7b2" opacity="0.35"><title>⚠ Contingency Adequacy → Site Vist Reports  (SOR/SV): 1</title></path>
+<path id="flow11" d="M187.69559 258.49542C260.23556 258.49542 272.8512 216.22917 345.39117 216.22917" fill="none" stroke-width="27.49167" stroke="#76b7b2" opacity="0.35"><title>⚠ Change Order Issues → Site Vist Reports  (SOR/SV): 1</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0_border" class="for_r0" x="0" y="65.025" height="164.95" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r0" class="for_r0" x="0" y="65.025" height="164.95" width="15" fill="#f28e2c" fill-opacity="0.6"><title>Under Construction:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r1_border" class="for_r1" x="172.69559" y="22.75875" height="27.49167" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r1" class="for_r1" x="172.69559" y="22.75875" height="27.49167" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Budget Adequacy:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r2_border" class="for_r2" x="172.69559" y="67.15692" height="27.49167" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r2" class="for_r2" x="172.69559" y="67.15692" height="27.49167" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Schedule Adequacy:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r3_border" class="for_r3" x="172.69559" y="111.55508" height="27.49167" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r3" class="for_r3" x="172.69559" y="111.55508" height="27.49167" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Plan Compliance:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r4_border" class="for_r4" x="172.69559" y="155.95325" height="27.49167" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r4" class="for_r4" x="172.69559" y="155.95325" height="27.49167" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Workmanship:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r5_border" class="for_r5" x="172.69559" y="200.35142" height="27.49167" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r5" class="for_r5" x="172.69559" y="200.35142" height="27.49167" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Contingency Adequacy:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r6_border" class="for_r6" x="172.69559" y="244.74958" height="27.49167" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r6" class="for_r6" x="172.69559" y="244.74958" height="27.49167" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Change Order Issues:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r7_border" class="for_r7" x="345.39117" y="65.025" height="164.95" width="15" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"></rect>
+<rect id="r7" class="for_r7" x="345.39117" y="65.025" height="164.95" width="15" fill="#76b7b2" fill-opacity="0.6"><title>Site Vist Reports  (SOR/SV):
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r8_border" class="for_r8" x="518.08676" y="174.99167" height="54.98333" width="15" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
+<rect id="r8" class="for_r8" x="518.08676" y="174.99167" height="54.98333" width="15" fill="#59a14f" fill-opacity="0.6"><title>Closeout Report:
+2</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="14px" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="-142.56941" y="136.44" width="140.54391" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.3841" y="147.5" font-weight="700" font-size="14px" dy="4.64">Under Construction</text>
+<rect id="label1_bg" class="for_r1" x="25.12618" y="25.44458" width="145.74703" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="end" x="166.31148" y="36.50458" font-weight="700" font-size="14px" dy="4.64">⚠ Budget Adequacy</text>
+<rect id="label2_bg" class="for_r2" x="11.09493" y="69.84275" width="159.77437" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="166.31148" y="80.90275" font-weight="700" font-size="14px" dy="4.64">⚠ Schedule Adequacy</text>
+<rect id="label3_bg" class="for_r3" x="30.81368" y="114.24092" width="140.05953" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="end" x="166.31148" y="125.30092" font-weight="700" font-size="14px" dy="4.64">⚠ Plan Compliance</text>
+<rect id="label4_bg" class="for_r4" x="51.31368" y="158.63908" width="119.79977" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="end" x="166.31148" y="169.69908" font-weight="700" font-size="14px" dy="4.64">⚠ Workmanship</text>
+<rect id="label5_bg" class="for_r5" x="-11.43632" y="203.03724" width="182.31246" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="end" x="166.31148" y="214.09725" font-weight="700" font-size="14px" dy="4.64">⚠ Contingency Adequacy</text>
+<rect id="label6_bg" class="for_r6" x="2.79806" y="247.43544" width="168.08004" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="end" x="166.31148" y="258.49542" font-weight="700" font-size="14px" dy="4.64">⚠ Change Order Issues</text>
+<rect id="label7_bg" class="for_r7" x="218.60302" y="127.69" width="125.09371" height="38.9" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="end" x="339.00707" y="147.5" font-weight="700" font-size="14px" dy="-4.11">Site Vist Reports <tspan x="339.00707" dy="17.5" font-weight="700" font-size="14px">(SOR/SV)</tspan></text>
+<rect id="label8_bg" class="for_r8" x="535.11229" y="191.42334" width="118.31832" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="start" x="539.47086" y="202.48333" font-weight="700" font-size="14px" dy="4.64">Closeout Report</text>
+</g>
+</g></svg>

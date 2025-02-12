@@ -1,0 +1,79 @@
+<svg height="300" width="800" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 2/12/2025, 10:44:44 AM -->
+<g transform="translate(126.54793,2)">
+<g id="sankey_flows">
+<path id="flow0" d="M15 78.77083C118.5249 78.77083 136.52923 36.50458 240.05412 36.50458" fill="none" stroke-width="27.49167" stroke="#e15759" opacity="0.35"><title>Distressed Asset → ⚠ Budget Shortfalls: 1</title></path>
+<path id="flow1" d="M15 106.2625C118.5249 106.2625 136.52923 80.90275 240.05412 80.90275" fill="none" stroke-width="27.49167" stroke="#e15759" opacity="0.35"><title>Distressed Asset → ⚠ Lien Risks: 1</title></path>
+<path id="flow2" d="M15 133.75417C118.5249 133.75417 136.52923 125.30092 240.05412 125.30092" fill="none" stroke-width="27.49167" stroke="#e15759" opacity="0.35"><title>Distressed Asset → ⚠ Contract Risks: 1</title></path>
+<path id="flow3" d="M15 161.24583C118.5249 161.24583 136.52923 169.69908 240.05412 169.69908" fill="none" stroke-width="27.49167" stroke="#e15759" opacity="0.35"><title>Distressed Asset → ⚠ Scope Adequacy: 1</title></path>
+<path id="flow4" d="M15 188.7375C118.5249 188.7375 136.52923 214.09725 240.05412 214.09725" fill="none" stroke-width="27.49167" stroke="#e15759" opacity="0.35"><title>Distressed Asset → ⚠ Schedule Issues: 1</title></path>
+<path id="flow5" d="M15 216.22917C118.5249 216.22917 136.52923 258.49542 240.05412 258.49542" fill="none" stroke-width="27.49167" stroke="#e15759" opacity="0.35"><title>Distressed Asset → ⚠ Regulatory Compliance: 1</title></path>
+<path id="flow6" d="M255.05412 36.50458C358.57902 36.50458 376.58335 78.77083 480.10824 78.77083" fill="none" stroke-width="27.49167" stroke="#76b7b2" opacity="0.35"><title>⚠ Budget Shortfalls → Cost to Complete Report: 1</title></path>
+<path id="flow7" d="M255.05412 80.90275C358.57902 80.90275 376.58335 106.2625 480.10824 106.2625" fill="none" stroke-width="27.49167" stroke="#76b7b2" opacity="0.35"><title>⚠ Lien Risks → Cost to Complete Report: 1</title></path>
+<path id="flow8" d="M255.05412 125.30092C358.57902 125.30092 376.58335 133.75417 480.10824 133.75417" fill="none" stroke-width="27.49167" stroke="#76b7b2" opacity="0.35"><title>⚠ Contract Risks → Cost to Complete Report: 1</title></path>
+<path id="flow9" d="M255.05412 169.69908C358.57902 169.69908 376.58335 161.24583 480.10824 161.24583" fill="none" stroke-width="27.49167" stroke="#76b7b2" opacity="0.35"><title>⚠ Scope Adequacy → Cost to Complete Report: 1</title></path>
+<path id="flow10" d="M255.05412 214.09725C358.57902 214.09725 376.58335 188.7375 480.10824 188.7375" fill="none" stroke-width="27.49167" stroke="#76b7b2" opacity="0.35"><title>⚠ Schedule Issues → Cost to Complete Report: 1</title></path>
+<path id="flow11" d="M255.05412 258.49542C358.57902 258.49542 376.58335 216.22917 480.10824 216.22917" fill="none" stroke-width="27.49167" stroke="#76b7b2" opacity="0.35"><title>⚠ Regulatory Compliance → Cost to Complete Report: 1</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0_border" class="for_r0" x="0" y="65.025" height="164.95" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r0" class="for_r0" x="0" y="65.025" height="164.95" width="15" fill="#f28e2c" fill-opacity="0.6"><title>Distressed Asset:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r1_border" class="for_r1" x="240.05412" y="22.75875" height="27.49167" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r1" class="for_r1" x="240.05412" y="22.75875" height="27.49167" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Budget Shortfalls:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r2_border" class="for_r2" x="240.05412" y="67.15692" height="27.49167" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r2" class="for_r2" x="240.05412" y="67.15692" height="27.49167" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Lien Risks:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r3_border" class="for_r3" x="240.05412" y="111.55508" height="27.49167" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r3" class="for_r3" x="240.05412" y="111.55508" height="27.49167" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Contract Risks:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r4_border" class="for_r4" x="240.05412" y="155.95325" height="27.49167" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r4" class="for_r4" x="240.05412" y="155.95325" height="27.49167" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Scope Adequacy:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r5_border" class="for_r5" x="240.05412" y="200.35142" height="27.49167" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r5" class="for_r5" x="240.05412" y="200.35142" height="27.49167" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Schedule Issues:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r6_border" class="for_r6" x="240.05412" y="244.74958" height="27.49167" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r6" class="for_r6" x="240.05412" y="244.74958" height="27.49167" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Regulatory Compliance:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r7_border" class="for_r7" x="480.10824" y="65.025" height="164.95" width="15" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"></rect>
+<rect id="r7" class="for_r7" x="480.10824" y="65.025" height="164.95" width="15" fill="#76b7b2" fill-opacity="0.6"><title>Cost to Complete Report:
+6</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="14px" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="-124.21004" y="136.44" width="122.52242" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.3841" y="147.5" font-weight="700" font-size="14px" dy="4.64">Distressed Asset</text>
+<rect id="label1_bg" class="for_r1" x="94.31283" y="25.44458" width="143.92184" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="end" x="233.67002" y="36.50458" font-weight="700" font-size="14px" dy="4.64">⚠ Budget Shortfalls</text>
+<rect id="label2_bg" class="for_r2" x="140.95345" y="69.84275" width="97.28023" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="233.67002" y="80.90275" font-weight="700" font-size="14px" dy="4.64">⚠ Lien Risks</text>
+<rect id="label3_bg" class="for_r3" x="112.1722" y="114.24092" width="126.05953" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="end" x="233.67002" y="125.30092" font-weight="700" font-size="14px" dy="4.64">⚠ Contract Risks</text>
+<rect id="label4_bg" class="for_r4" x="98.68783" y="158.63908" width="139.54684" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="end" x="233.67002" y="169.69908" font-weight="700" font-size="14px" dy="4.64">⚠ Scope Adequacy</text>
+<rect id="label5_bg" class="for_r5" x="101.26595" y="203.03724" width="136.96969" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="end" x="233.67002" y="214.09725" font-weight="700" font-size="14px" dy="4.64">⚠ Schedule Issues</text>
+<rect id="label6_bg" class="for_r6" x="54.6097" y="247.43544" width="183.61812" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="end" x="233.67002" y="258.49542" font-weight="700" font-size="14px" dy="4.64">⚠ Regulatory Compliance</text>
+<rect id="label7_bg" class="for_r7" x="497.13375" y="136.44" width="174.31829" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="start" x="501.49234" y="147.5" font-weight="700" font-size="14px" dy="4.64">Cost to Complete Report</text>
+</g>
+</g></svg>

@@ -1,24 +1,57 @@
+import ZoomImage from "@site/src/components/common/ZoomImage"
+
+const graphHeaderStyle = {
+	fontSize: "1.4em",
+	fontWeight: 500,
+	// marginLeft: 30,
+	// padding: 10,
+	// backgroundColor: "#343434",
+	color: "gray",
+	// paddingLeft: 30,
+}
+
 function ProblemsWeSolve() {
 	return (
 		<>
+			<div style={{ fontSize: "2em", fontWeight: "bold", paddingLeft: 30, marginTop: 30, textWrap: "wrap" }}>Solution Flows</div>
+
 			<div
 				style={{
 					paddingLeft: 30,
 					paddingTop: 30,
-					paddingRight: 20,
+					paddingRight: 10,
 					marginBottom: 20,
+					display: "flex",
+					flexWrap: "wrap",
+					alignItems: "center",
+					gap: 10,
+					marginTop: -40,
 				}}
 			>
-				<span style={{ fontSize: "2em", fontWeight: "bold" }}>Problems we solve</span>
-				<br />
-				<br />
-				<div style={{ fontSize: "1.5em", fontWeight: "bold", width: "100%", backgroundColor: "#343434", padding: 10 }}>Portfolio Management</div>
-				<img src="/img/services/sankeys/portfolio.svg" alt="pain-points" style={{ width: "100%", padding: 0 }} />
-				<br />
-				<div style={{ fontSize: "1.5em", fontWeight: "bold", width: "100%", backgroundColor: "#343434", padding: 10 }}>Existing Property</div>
-				<img src="/img/services/sankeys/existing.svg" alt="pain-points" style={{ width: "100%", padding: 0 }} />
+				<ZoomImage src="/img/services/sankeys/pipeline.svg" altText="Entire Pipeline" />
+				<PainPoint title="Existing Property" imageName="existing" />
+				<PainPoint title="Historic Property" imageName="historic" />
+				<PainPoint title="Proposed Project" imageName="proposed-project" />
+				<PainPoint title="Under Construction" imageName="under-construction" />
+				<PainPoint title="Distressed Asset" imageName="distressed" />
+				<PainPoint title="Loan Portfolio" imageName="portfolio" />
 			</div>
 		</>
+	)
+}
+
+const PainPoint = ({ title, imageName }) => {
+	const imgSrc = `/img/services/sankeys/${imageName}.svg`
+
+	return (
+		<div style={{}}>
+			<div style={graphHeaderStyle}>{title}</div>
+
+			<div style={{ maxWidth: 390 }}>
+				<ZoomImage src={imgSrc} altText={title} />
+			</div>
+			<br />
+		</div>
 	)
 }
 

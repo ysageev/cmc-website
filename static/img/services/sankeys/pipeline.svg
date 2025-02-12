@@ -1,0 +1,418 @@
+<svg height="900" width="2000" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 2/12/2025, 11:32:42 AM -->
+<g transform="translate(101.0582,2)">
+<g id="sankey_flows">
+<path id="flow61" d="M1204.35859 451.92248v67.08L1341.40342 520.69198v-67.08z" fill="#bab0ab" stroke-width="0.5" stroke="#bab0ab" opacity="0.35"><title>Plan and Cost Report  (PCR/PnC) → Under Construction: 9.0</title></path>
+<path id="flow1" d="M459.13447 377.28736C522.17509 377.28736 533.13868 392.48176 596.1793 392.48176" fill="none" stroke-width="52.17333" stroke="#e15759" opacity="0.35"><title>Existing Property → ⚠ Unknown Condition: 7.0</title></path>
+<path id="flow6" d="M757.22412 506.00769C820.26474 506.00769 831.22833 494.44524 894.26895 494.44524" fill="none" stroke-width="44.72" stroke="#af7aa1" opacity="0.35"><title>New Build → Proposed Project: 6.0</title></path>
+<path id="flow37" d="M1651.49307 468.09258v44.72L1788.53789 512.50398v-44.72z" fill="#f28e2c" stroke-width="0.5" stroke="#f28e2c" opacity="0.35"><title>Site Vist Reports  (SOR/SV) → Closeout Report: 6.0</title></path>
+<path id="flow60" d="M310.08965 296.79658C373.13027 296.79658 384.09385 343.74736 447.13447 343.74736" fill="none" stroke-width="44.72" stroke="#f28e2c" opacity="0.35"><title>Cost to Complete Report → Existing Property: 6.0</title></path>
+<path id="flow62" d="M310.08965 437.78777C373.13027 437.78777 384.09385 384.74069 447.13447 384.74069" fill="none" stroke-width="37.26667" stroke="#f28e2c" opacity="0.35"><title>Historic Tax Credit Due  Diligence/Tracking → Existing Property: 5.0</title></path>
+<path id="flow0" d="M459.13447 336.29402C522.17509 336.29402 533.13868 315.12557 596.1793 315.12557" fill="none" stroke-width="29.81333" stroke="#e15759" opacity="0.35"><title>Existing Property → ⚠ Future Maintenance Costs: 4.0</title></path>
+<path id="flow2" d="M608.1793 315.12557C671.21992 315.12557 682.1835 307.47911 745.22412 307.47911" fill="none" stroke-width="29.81333" stroke="#76b7b2" opacity="0.35"><title>⚠ Future Maintenance Costs → Extended Useful Life Report (EUL): 4.0</title></path>
+<path id="flow3" d="M608.1793 381.30176C671.21992 381.30176 682.1835 373.6553 745.22412 373.6553" fill="none" stroke-width="29.81333" stroke="#59a14f" opacity="0.35"><title>⚠ Unknown Condition → Property Needs Assessment (PNA): 4.0</title></path>
+<path id="flow4" d="M608.1793 407.38843C671.21992 407.38843 682.1835 436.10483 745.22412 436.10483" fill="none" stroke-width="22.36" stroke="#edc949" opacity="0.35"><title>⚠ Unknown Condition → Preconstruction Report (PRE): 3.0</title></path>
+<path id="flow5" d="M757.22412 436.10483C820.26474 436.10483 831.22833 460.90524 894.26895 460.90524" fill="none" stroke-width="22.36" stroke="#af7aa1" opacity="0.35"><title>Preconstruction Report (PRE) → Proposed Project: 3.0</title></path>
+<path id="flow25" d="M1353.40342 459.20198C1416.44404 459.20198 1427.40762 370.42321 1490.44824 370.42321" fill="none" stroke-width="11.18" stroke="#e15759" opacity="0.35"><title>Under Construction → ⚠ Budget Adequacy: 1.5</title></path>
+<path id="flow26" d="M1353.40342 470.38198C1416.44404 470.38198 1427.40762 417.96607 1490.44824 417.96607" fill="none" stroke-width="11.18" stroke="#e15759" opacity="0.35"><title>Under Construction → ⚠ Schedule Adequacy: 1.5</title></path>
+<path id="flow27" d="M1353.40342 481.56198C1416.44404 481.56198 1427.40762 465.50892 1490.44824 465.50892" fill="none" stroke-width="11.18" stroke="#e15759" opacity="0.35"><title>Under Construction → ⚠ Plan Compliance: 1.5</title></path>
+<path id="flow28" d="M1353.40342 492.74198C1416.44404 492.74198 1427.40762 513.05178 1490.44824 513.05178" fill="none" stroke-width="11.18" stroke="#e15759" opacity="0.35"><title>Under Construction → ⚠ Workmanship: 1.5</title></path>
+<path id="flow29" d="M1353.40342 503.92198C1416.44404 503.92198 1427.40762 560.59464 1490.44824 560.59464" fill="none" stroke-width="11.18" stroke="#e15759" opacity="0.35"><title>Under Construction → ⚠ Contingency Adequacy: 1.5</title></path>
+<path id="flow30" d="M1353.40342 515.10198C1416.44404 515.10198 1427.40762 608.13749 1490.44824 608.13749" fill="none" stroke-width="11.18" stroke="#e15759" opacity="0.35"><title>Under Construction → ⚠ Change Order Issues: 1.5</title></path>
+<path id="flow7" d="M906.26895 453.4519C969.30956 453.4519 980.27315 308.95437 1043.31377 308.95437" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Proposed Project → ⚠ Inadequate Plans: 1.0</title></path>
+<path id="flow8" d="M906.26895 460.90524C969.30956 460.90524 980.27315 352.77056 1043.31377 352.77056" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Proposed Project → ⚠ Inadequate Schedule: 1.0</title></path>
+<path id="flow9" d="M906.26895 468.35857C969.30956 468.35857 980.27315 396.58675 1043.31377 396.58675" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Proposed Project → ⚠ Inadequate Budget: 1.0</title></path>
+<path id="flow10" d="M906.26895 475.8119C969.30956 475.8119 980.27315 440.40294 1043.31377 440.40294" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Proposed Project → ⚠ Contract Issues: 1.0</title></path>
+<path id="flow11" d="M906.26895 479.53857v7.45333L1043.31377 487.9458v-7.45333z" fill="#e15759" stroke-width="0.5" stroke="#e15759" opacity="0.35"><title>Proposed Project → ⚠ Geotechnical Report: 1.0</title></path>
+<path id="flow12" d="M906.26895 490.71857C969.30956 490.71857 980.27315 528.03532 1043.31377 528.03532" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Proposed Project → ⚠ Environmental Reports: 1.0</title></path>
+<path id="flow13" d="M906.26895 498.1719C969.30956 498.1719 980.27315 571.85151 1043.31377 571.85151" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Proposed Project → ⚠ Permits: 1.0</title></path>
+<path id="flow14" d="M906.26895 505.62524C969.30956 505.62524 980.27315 615.66771 1043.31377 615.66771" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Proposed Project → ⚠ Bonding: 1.0</title></path>
+<path id="flow15" d="M906.26895 513.07857C969.30956 513.07857 980.27315 659.4839 1043.31377 659.4839" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Proposed Project → ⚠ Contingency: 1.0</title></path>
+<path id="flow16" d="M1055.31377 308.95437C1118.35439 308.95437 1129.31797 455.64915 1192.35859 455.64915" fill="none" stroke-width="7.45333" stroke="#9c755f" opacity="0.35"><title>⚠ Inadequate Plans → Plan and Cost Report  (PCR/PnC): 1.0</title></path>
+<path id="flow17" d="M1055.31377 352.77056C1118.35439 352.77056 1129.31797 463.10248 1192.35859 463.10248" fill="none" stroke-width="7.45333" stroke="#9c755f" opacity="0.35"><title>⚠ Inadequate Schedule → Plan and Cost Report  (PCR/PnC): 1.0</title></path>
+<path id="flow18" d="M1055.31377 396.58675C1118.35439 396.58675 1129.31797 470.55581 1192.35859 470.55581" fill="none" stroke-width="7.45333" stroke="#9c755f" opacity="0.35"><title>⚠ Inadequate Budget → Plan and Cost Report  (PCR/PnC): 1.0</title></path>
+<path id="flow19" d="M1055.31377 440.40294C1118.35439 440.40294 1129.31797 478.00915 1192.35859 478.00915" fill="none" stroke-width="7.45333" stroke="#9c755f" opacity="0.35"><title>⚠ Contract Issues → Plan and Cost Report  (PCR/PnC): 1.0</title></path>
+<path id="flow20" d="M1055.31377 480.49247v7.45333L1192.35859 489.18915v-7.45333z" fill="#9c755f" stroke-width="0.5" stroke="#9c755f" opacity="0.35"><title>⚠ Geotechnical Report → Plan and Cost Report  (PCR/PnC): 1.0</title></path>
+<path id="flow21" d="M1055.31377 528.03532C1118.35439 528.03532 1129.31797 492.91581 1192.35859 492.91581" fill="none" stroke-width="7.45333" stroke="#9c755f" opacity="0.35"><title>⚠ Environmental Reports → Plan and Cost Report  (PCR/PnC): 1.0</title></path>
+<path id="flow22" d="M1055.31377 571.85151C1118.35439 571.85151 1129.31797 500.36915 1192.35859 500.36915" fill="none" stroke-width="7.45333" stroke="#9c755f" opacity="0.35"><title>⚠ Permits → Plan and Cost Report  (PCR/PnC): 1.0</title></path>
+<path id="flow23" d="M1055.31377 615.66771C1118.35439 615.66771 1129.31797 507.82248 1192.35859 507.82248" fill="none" stroke-width="7.45333" stroke="#9c755f" opacity="0.35"><title>⚠ Bonding → Plan and Cost Report  (PCR/PnC): 1.0</title></path>
+<path id="flow24" d="M1055.31377 659.4839C1118.35439 659.4839 1129.31797 515.27581 1192.35859 515.27581" fill="none" stroke-width="7.45333" stroke="#9c755f" opacity="0.35"><title>⚠ Contingency → Plan and Cost Report  (PCR/PnC): 1.0</title></path>
+<path id="flow31" d="M1502.44824 372.28654C1565.48886 372.28654 1576.45245 471.81925 1639.49307 471.81925" fill="none" stroke-width="7.45333" stroke="#4e79a7" opacity="0.35"><title>⚠ Budget Adequacy → Site Vist Reports  (SOR/SV): 1.0</title></path>
+<path id="flow32" d="M1502.44824 419.8294C1565.48886 419.8294 1576.45245 479.27258 1639.49307 479.27258" fill="none" stroke-width="7.45333" stroke="#4e79a7" opacity="0.35"><title>⚠ Schedule Adequacy → Site Vist Reports  (SOR/SV): 1.0</title></path>
+<path id="flow33" d="M1502.44824 467.37226C1565.48886 467.37226 1576.45245 486.72591 1639.49307 486.72591" fill="none" stroke-width="7.45333" stroke="#4e79a7" opacity="0.35"><title>⚠ Plan Compliance → Site Vist Reports  (SOR/SV): 1.0</title></path>
+<path id="flow34" d="M1502.44824 514.91511C1565.48886 514.91511 1576.45245 494.17925 1639.49307 494.17925" fill="none" stroke-width="7.45333" stroke="#4e79a7" opacity="0.35"><title>⚠ Workmanship → Site Vist Reports  (SOR/SV): 1.0</title></path>
+<path id="flow35" d="M1502.44824 562.45797C1565.48886 562.45797 1576.45245 501.63258 1639.49307 501.63258" fill="none" stroke-width="7.45333" stroke="#4e79a7" opacity="0.35"><title>⚠ Contingency Adequacy → Site Vist Reports  (SOR/SV): 1.0</title></path>
+<path id="flow36" d="M1502.44824 610.00083C1565.48886 610.00083 1576.45245 509.08591 1639.49307 509.08591" fill="none" stroke-width="7.45333" stroke="#4e79a7" opacity="0.35"><title>⚠ Change Order Issues → Site Vist Reports  (SOR/SV): 1.0</title></path>
+<path id="flow38" d="M12 231.54847C75.04062 231.54847 86.00421 140.78667 149.04482 140.78667" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Distressed Asset → ⚠ Budget Shortfalls: 1.0</title></path>
+<path id="flow39" d="M12 239.0018C75.04062 239.0018 86.00421 184.60286 149.04482 184.60286" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Distressed Asset → ⚠ Lien Risks: 1.0</title></path>
+<path id="flow40" d="M12 246.45513C75.04062 246.45513 86.00421 228.41905 149.04482 228.41905" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Distressed Asset → ⚠ Contract Risks: 1.0</title></path>
+<path id="flow41" d="M12 253.90847C75.04062 253.90847 86.00421 272.23524 149.04482 272.23524" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Distressed Asset → ⚠ Scope Adequacy: 1.0</title></path>
+<path id="flow42" d="M12 261.3618C75.04062 261.3618 86.00421 316.05143 149.04482 316.05143" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Distressed Asset → ⚠ Schedule Issues: 1.0</title></path>
+<path id="flow43" d="M12 268.81513C75.04062 268.81513 86.00421 359.86762 149.04482 359.86762" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Distressed Asset → ⚠ Regulatory Compliance: 1.0</title></path>
+<path id="flow44" d="M161.04482 140.78667C224.08544 140.78667 235.04903 278.16324 298.08965 278.16324" fill="none" stroke-width="7.45333" stroke="#76b7b2" opacity="0.35"><title>⚠ Budget Shortfalls → Cost to Complete Report: 1.0</title></path>
+<path id="flow45" d="M161.04482 184.60286C224.08544 184.60286 235.04903 285.61658 298.08965 285.61658" fill="none" stroke-width="7.45333" stroke="#76b7b2" opacity="0.35"><title>⚠ Lien Risks → Cost to Complete Report: 1.0</title></path>
+<path id="flow46" d="M161.04482 228.41905C224.08544 228.41905 235.04903 293.06991 298.08965 293.06991" fill="none" stroke-width="7.45333" stroke="#76b7b2" opacity="0.35"><title>⚠ Contract Risks → Cost to Complete Report: 1.0</title></path>
+<path id="flow47" d="M161.04482 272.23524C224.08544 272.23524 235.04903 300.52324 298.08965 300.52324" fill="none" stroke-width="7.45333" stroke="#76b7b2" opacity="0.35"><title>⚠ Scope Adequacy → Cost to Complete Report: 1.0</title></path>
+<path id="flow48" d="M161.04482 316.05143C224.08544 316.05143 235.04903 307.97658 298.08965 307.97658" fill="none" stroke-width="7.45333" stroke="#76b7b2" opacity="0.35"><title>⚠ Schedule Issues → Cost to Complete Report: 1.0</title></path>
+<path id="flow49" d="M161.04482 359.86762C224.08544 359.86762 235.04903 315.42991 298.08965 315.42991" fill="none" stroke-width="7.45333" stroke="#76b7b2" opacity="0.35"><title>⚠ Regulatory Compliance → Cost to Complete Report: 1.0</title></path>
+<path id="flow50" d="M12 476.26418C75.04062 476.26418 86.00421 403.68381 149.04482 403.68381" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Historic Property → ⚠ Existing Status: 1.0</title></path>
+<path id="flow51" d="M12 483.71751C75.04062 483.71751 86.00421 447.5 149.04482 447.5" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Historic Property → ⚠ Submissions: 1.0</title></path>
+<path id="flow52" d="M12 487.44418v7.45333L149.04482 495.04286v-7.45333z" fill="#e15759" stroke-width="0.5" stroke="#e15759" opacity="0.35"><title>Historic Property → ⚠ Conditions: 1.0</title></path>
+<path id="flow53" d="M12 498.62418C75.04062 498.62418 86.00421 535.13238 149.04482 535.13238" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Historic Property → ⚠ Commitments: 1.0</title></path>
+<path id="flow54" d="M12 506.07751C75.04062 506.07751 86.00421 578.94857 149.04482 578.94857" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Historic Property → ⚠ Plan conformance: 1.0</title></path>
+<path id="flow55" d="M161.04482 403.68381C224.08544 403.68381 235.04903 422.8811 298.08965 422.8811" fill="none" stroke-width="7.45333" stroke="#59a14f" opacity="0.35"><title>⚠ Existing Status → Historic Tax Credit Due  Diligence/Tracking: 1.0</title></path>
+<path id="flow56" d="M161.04482 447.5C224.08544 447.5 235.04903 430.33443 298.08965 430.33443" fill="none" stroke-width="7.45333" stroke="#59a14f" opacity="0.35"><title>⚠ Submissions → Historic Tax Credit Due  Diligence/Tracking: 1.0</title></path>
+<path id="flow57" d="M161.04482 491.31619C224.08544 491.31619 235.04903 437.78777 298.08965 437.78777" fill="none" stroke-width="7.45333" stroke="#59a14f" opacity="0.35"><title>⚠ Conditions → Historic Tax Credit Due  Diligence/Tracking: 1.0</title></path>
+<path id="flow58" d="M161.04482 535.13238C224.08544 535.13238 235.04903 445.2411 298.08965 445.2411" fill="none" stroke-width="7.45333" stroke="#59a14f" opacity="0.35"><title>⚠ Commitments → Historic Tax Credit Due  Diligence/Tracking: 1.0</title></path>
+<path id="flow59" d="M161.04482 578.94857C224.08544 578.94857 235.04903 452.69443 298.08965 452.69443" fill="none" stroke-width="7.45333" stroke="#59a14f" opacity="0.35"><title>⚠ Plan conformance → Historic Tax Credit Due  Diligence/Tracking: 1.0</title></path>
+<path id="flow63" d="M12 677.1637C75.04062 677.1637 86.00421 622.76476 149.04482 622.76476" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Loan Portfolio → ⚠ Footprint: 1.0</title></path>
+<path id="flow64" d="M12 684.61704C75.04062 684.61704 86.00421 666.58095 149.04482 666.58095" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Loan Portfolio → ⚠ Quality: 1.0</title></path>
+<path id="flow65" d="M12 692.07037C75.04062 692.07037 86.00421 710.39714 149.04482 710.39714" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Loan Portfolio → ⚠ Status: 1.0</title></path>
+<path id="flow66" d="M12 699.5237C75.04062 699.5237 86.00421 754.21333 149.04482 754.21333" fill="none" stroke-width="7.45333" stroke="#e15759" opacity="0.35"><title>Loan Portfolio → ⚠ Loan Priority: 1.0</title></path>
+<path id="flow67" d="M161.04482 622.76476C224.08544 622.76476 235.04903 676.96859 298.08965 676.96859" fill="none" stroke-width="7.45333" stroke="#af7aa1" opacity="0.35"><title>⚠ Footprint → Realtime Dashboards and Portfolio Reports: 1.0</title></path>
+<path id="flow68" d="M161.04482 666.58095C224.08544 666.58095 235.04903 684.42193 298.08965 684.42193" fill="none" stroke-width="7.45333" stroke="#af7aa1" opacity="0.35"><title>⚠ Quality → Realtime Dashboards and Portfolio Reports: 1.0</title></path>
+<path id="flow69" d="M161.04482 710.39714C224.08544 710.39714 235.04903 691.87526 298.08965 691.87526" fill="none" stroke-width="7.45333" stroke="#af7aa1" opacity="0.35"><title>⚠ Status → Realtime Dashboards and Portfolio Reports: 1.0</title></path>
+<path id="flow70" d="M161.04482 754.21333C224.08544 754.21333 235.04903 699.32859 298.08965 699.32859" fill="none" stroke-width="7.45333" stroke="#af7aa1" opacity="0.35"><title>⚠ Loan Priority → Realtime Dashboards and Portfolio Reports: 1.0</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0_border" class="for_r0" x="447.13447" y="321.38736" height="81.98667" width="12" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r0" class="for_r0" x="447.13447" y="321.38736" height="81.98667" width="12" fill="#f28e2c" fill-opacity="0.6"><title>Existing Property:
+11.0</title></rect>
+</g>
+<g class="node">
+<rect id="r1_border" class="for_r1" x="596.1793" y="300.21891" height="29.81333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r1" class="for_r1" x="596.1793" y="300.21891" height="29.81333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Future Maintenance Costs:
+4.0</title></rect>
+</g>
+<g class="node">
+<rect id="r2_border" class="for_r2" x="596.1793" y="366.3951" height="52.17333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r2" class="for_r2" x="596.1793" y="366.3951" height="52.17333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Unknown Condition:
+7.0</title></rect>
+</g>
+<g class="node">
+<rect id="r3_border" class="for_r3" x="745.22412" y="292.57245" height="29.81333" width="12" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"></rect>
+<rect id="r3" class="for_r3" x="745.22412" y="292.57245" height="29.81333" width="12" fill="#76b7b2" fill-opacity="0.6"><title>Extended Useful Life Report (EUL):
+4.0</title></rect>
+</g>
+<g class="node">
+<rect id="r4_border" class="for_r4" x="745.22412" y="358.74864" height="29.81333" width="12" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
+<rect id="r4" class="for_r4" x="745.22412" y="358.74864" height="29.81333" width="12" fill="#59a14f" fill-opacity="0.6"><title>Property Needs Assessment (PNA):
+4.0</title></rect>
+</g>
+<g class="node">
+<rect id="r5_border" class="for_r5" x="745.22412" y="424.92483" height="22.36" width="12" stroke="rgb(116, 98, 36)" stroke-width="1" fill="none"></rect>
+<rect id="r5" class="for_r5" x="745.22412" y="424.92483" height="22.36" width="12" fill="#edc949" fill-opacity="0.6"><title>Preconstruction Report (PRE):
+3.0</title></rect>
+</g>
+<g class="node">
+<rect id="r6_border" class="for_r6" x="894.26895" y="449.72524" height="67.08" width="12" stroke="rgb(86, 60, 79)" stroke-width="1" fill="none"></rect>
+<rect id="r6" class="for_r6" x="894.26895" y="449.72524" height="67.08" width="12" fill="#af7aa1" fill-opacity="0.6"><title>Proposed Project:
+9.0</title></rect>
+</g>
+<g class="node">
+<rect id="r7_border" class="for_r7" x="745.22412" y="483.64769" height="44.72" width="12" stroke="rgb(125, 77, 82)" stroke-width="1" fill="none"></rect>
+<rect id="r7" class="for_r7" x="745.22412" y="483.64769" height="44.72" width="12" fill="#ff9da7" fill-opacity="0.6"><title>New Build:
+6.0</title></rect>
+</g>
+<g class="node">
+<rect id="r8_border" class="for_r8" x="1043.31377" y="305.22771" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r8" class="for_r8" x="1043.31377" y="305.22771" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Inadequate Plans:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r9_border" class="for_r9" x="1043.31377" y="349.0439" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r9" class="for_r9" x="1043.31377" y="349.0439" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Inadequate Schedule:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r10_border" class="for_r10" x="1043.31377" y="392.86009" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r10" class="for_r10" x="1043.31377" y="392.86009" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Inadequate Budget:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r11_border" class="for_r11" x="1043.31377" y="436.67628" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r11" class="for_r11" x="1043.31377" y="436.67628" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Contract Issues:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r12_border" class="for_r12" x="1043.31377" y="480.49247" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r12" class="for_r12" x="1043.31377" y="480.49247" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Geotechnical Report:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r13_border" class="for_r13" x="1043.31377" y="524.30866" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r13" class="for_r13" x="1043.31377" y="524.30866" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Environmental Reports:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r14_border" class="for_r14" x="1043.31377" y="568.12485" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r14" class="for_r14" x="1043.31377" y="568.12485" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Permits:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r15_border" class="for_r15" x="1043.31377" y="611.94104" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r15" class="for_r15" x="1043.31377" y="611.94104" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Bonding:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r16_border" class="for_r16" x="1043.31377" y="655.75723" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r16" class="for_r16" x="1043.31377" y="655.75723" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Contingency:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r17_border" class="for_r17" x="1192.35859" y="451.92248" height="67.08" width="12" stroke="rgb(76, 57, 47)" stroke-width="1" fill="none"></rect>
+<rect id="r17" class="for_r17" x="1192.35859" y="451.92248" height="67.08" width="12" fill="#9c755f" fill-opacity="0.6"><title>Plan and Cost Report  (PCR/PnC):
+9.0</title></rect>
+</g>
+<g class="node">
+<rect id="r18_border" class="for_r18" x="1341.40342" y="453.61198" height="67.08" width="12" stroke="rgb(91, 86, 84)" stroke-width="1" fill="none"></rect>
+<rect id="r18" class="for_r18" x="1341.40342" y="453.61198" height="67.08" width="12" fill="#bab0ab" fill-opacity="0.6"><title>Under Construction:
+9.0</title></rect>
+</g>
+<g class="node">
+<rect id="r19_border" class="for_r19" x="1490.44824" y="364.83321" height="11.18" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r19" class="for_r19" x="1490.44824" y="364.83321" height="11.18" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Budget Adequacy:
+1.5</title></rect>
+</g>
+<g class="node">
+<rect id="r20_border" class="for_r20" x="1490.44824" y="412.37607" height="11.18" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r20" class="for_r20" x="1490.44824" y="412.37607" height="11.18" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Schedule Adequacy:
+1.5</title></rect>
+</g>
+<g class="node">
+<rect id="r21_border" class="for_r21" x="1490.44824" y="459.91892" height="11.18" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r21" class="for_r21" x="1490.44824" y="459.91892" height="11.18" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Plan Compliance:
+1.5</title></rect>
+</g>
+<g class="node">
+<rect id="r22_border" class="for_r22" x="1490.44824" y="507.46178" height="11.18" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r22" class="for_r22" x="1490.44824" y="507.46178" height="11.18" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Workmanship:
+1.5</title></rect>
+</g>
+<g class="node">
+<rect id="r23_border" class="for_r23" x="1490.44824" y="555.00464" height="11.18" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r23" class="for_r23" x="1490.44824" y="555.00464" height="11.18" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Contingency Adequacy:
+1.5</title></rect>
+</g>
+<g class="node">
+<rect id="r24_border" class="for_r24" x="1490.44824" y="602.54749" height="11.18" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r24" class="for_r24" x="1490.44824" y="602.54749" height="11.18" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Change Order Issues:
+1.5</title></rect>
+</g>
+<g class="node">
+<rect id="r25_border" class="for_r25" x="1639.49307" y="468.09258" height="44.72" width="12" stroke="rgb(38, 59, 82)" stroke-width="1" fill="none"></rect>
+<rect id="r25" class="for_r25" x="1639.49307" y="468.09258" height="44.72" width="12" fill="#4e79a7" fill-opacity="0.6"><title>Site Vist Reports  (SOR/SV):
+6.0</title></rect>
+</g>
+<g class="node">
+<rect id="r26_border" class="for_r26" x="1788.53789" y="467.78398" height="44.72" width="12" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r26" class="for_r26" x="1788.53789" y="467.78398" height="44.72" width="12" fill="#f28e2c" fill-opacity="0.6"><title>Closeout Report:
+6.0</title></rect>
+</g>
+<g class="node">
+<rect id="r27_border" class="for_r27" x="0" y="227.8218" height="44.72" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r27" class="for_r27" x="0" y="227.8218" height="44.72" width="12" fill="#e15759" fill-opacity="0.6"><title>Distressed Asset:
+6.0</title></rect>
+</g>
+<g class="node">
+<rect id="r28_border" class="for_r28" x="149.04482" y="137.06" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r28" class="for_r28" x="149.04482" y="137.06" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Budget Shortfalls:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r29_border" class="for_r29" x="149.04482" y="180.87619" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r29" class="for_r29" x="149.04482" y="180.87619" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Lien Risks:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r30_border" class="for_r30" x="149.04482" y="224.69238" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r30" class="for_r30" x="149.04482" y="224.69238" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Contract Risks:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r31_border" class="for_r31" x="149.04482" y="268.50857" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r31" class="for_r31" x="149.04482" y="268.50857" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Scope Adequacy:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r32_border" class="for_r32" x="149.04482" y="312.32476" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r32" class="for_r32" x="149.04482" y="312.32476" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Schedule Issues:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r33_border" class="for_r33" x="149.04482" y="356.14095" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r33" class="for_r33" x="149.04482" y="356.14095" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Regulatory Compliance:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r34_border" class="for_r34" x="298.08965" y="274.43658" height="44.72" width="12" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"></rect>
+<rect id="r34" class="for_r34" x="298.08965" y="274.43658" height="44.72" width="12" fill="#76b7b2" fill-opacity="0.6"><title>Cost to Complete Report:
+6.0</title></rect>
+</g>
+<g class="node">
+<rect id="r35_border" class="for_r35" x="0" y="472.53751" height="37.26667" width="12" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
+<rect id="r35" class="for_r35" x="0" y="472.53751" height="37.26667" width="12" fill="#59a14f" fill-opacity="0.6"><title>Historic Property:
+5.0</title></rect>
+</g>
+<g class="node">
+<rect id="r36_border" class="for_r36" x="149.04482" y="399.95714" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r36" class="for_r36" x="149.04482" y="399.95714" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Existing Status:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r37_border" class="for_r37" x="149.04482" y="443.77333" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r37" class="for_r37" x="149.04482" y="443.77333" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Submissions:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r38_border" class="for_r38" x="149.04482" y="487.58952" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r38" class="for_r38" x="149.04482" y="487.58952" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Conditions:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r39_border" class="for_r39" x="149.04482" y="531.40571" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r39" class="for_r39" x="149.04482" y="531.40571" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Commitments:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r40_border" class="for_r40" x="149.04482" y="575.2219" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r40" class="for_r40" x="149.04482" y="575.2219" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Plan conformance:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r41_border" class="for_r41" x="298.08965" y="419.15443" height="37.26667" width="12" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
+<rect id="r41" class="for_r41" x="298.08965" y="419.15443" height="37.26667" width="12" fill="#59a14f" fill-opacity="0.6"><title>Historic Tax Credit Due  Diligence/Tracking:
+5.0</title></rect>
+</g>
+<g class="node">
+<rect id="r42_border" class="for_r42" x="0" y="673.43704" height="29.81333" width="12" stroke="rgb(116, 98, 36)" stroke-width="1" fill="none"></rect>
+<rect id="r42" class="for_r42" x="0" y="673.43704" height="29.81333" width="12" fill="#edc949" fill-opacity="0.6"><title>Loan Portfolio:
+4.0</title></rect>
+</g>
+<g class="node">
+<rect id="r43_border" class="for_r43" x="149.04482" y="619.0381" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r43" class="for_r43" x="149.04482" y="619.0381" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Footprint:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r44_border" class="for_r44" x="149.04482" y="662.85429" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r44" class="for_r44" x="149.04482" y="662.85429" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Quality:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r45_border" class="for_r45" x="149.04482" y="706.67048" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r45" class="for_r45" x="149.04482" y="706.67048" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Status:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r46_border" class="for_r46" x="149.04482" y="750.48667" height="7.45333" width="12" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r46" class="for_r46" x="149.04482" y="750.48667" height="7.45333" width="12" fill="#e15759" fill-opacity="0.6"><title>⚠ Loan Priority:
+1.0</title></rect>
+</g>
+<g class="node">
+<rect id="r47_border" class="for_r47" x="298.08965" y="673.24193" height="29.81333" width="12" stroke="rgb(86, 60, 79)" stroke-width="1" fill="none"></rect>
+<rect id="r47" class="for_r47" x="298.08965" y="673.24193" height="29.81333" width="12" fill="#af7aa1" fill-opacity="0.6"><title>Realtime Dashboards and Portfolio Reports:
+4.0</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="12px" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="337.42198" y="352.33068" width="108.32032" height="19.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="441.90947" y="362.38069" font-weight="400" font-size="13.32px" dy="4.35">Existing Property</text>
+<rect id="label1_bg" class="for_r1" x="438.56053" y="306.20559" width="156.15144" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="end" x="590.9543" y="315.12557" font-weight="400" font-size="11.472px" dy="3.48">⚠ Future Maintenance Costs</text>
+<rect id="label2_bg" class="for_r2" x="465.85741" y="383.14175" width="128.76478" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="590.9543" y="392.48176" font-weight="400" font-size="12.264px" dy="4.06">⚠ Unknown Condition</text>
+<rect id="label3_bg" class="for_r3" x="758.9491" y="298.55911" width="184.07783" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="start" x="762.44912" y="307.47911" font-weight="400" font-size="11.472px" dy="3.48">Extended Useful Life Report (EUL)</text>
+<rect id="label4_bg" class="for_r4" x="758.9491" y="364.73531" width="186.60365" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="start" x="762.44912" y="373.6553" font-weight="400" font-size="11.472px" dy="3.48">Property Needs Assessment (PNA)</text>
+<rect id="label5_bg" class="for_r5" x="588.0429" y="427.18484" width="155.71302" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="end" x="739.99912" y="436.10483" font-weight="400" font-size="11.208px" dy="3.48">Preconstruction Report (PRE)</text>
+<rect id="label6_bg" class="for_r6" x="787.11895" y="473.21523" width="105.85713" height="19.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="end" x="889.04395" y="483.26524" font-weight="400" font-size="12.792px" dy="4.35">Proposed Project</text>
+<rect id="label7_bg" class="for_r7" x="682.1679" y="496.66769" width="61.64961" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="end" x="739.99912" y="506.00769" font-weight="400" font-size="12px" dy="4.06">New Build</text>
+<rect id="label8_bg" class="for_r8" x="937.97625" y="300.03439" width="104.26106" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="end" x="1038.08877" y="308.95437" font-weight="400" font-size="10.68px" dy="3.48">⚠ Inadequate Plans</text>
+<rect id="label9_bg" class="for_r9" x="920.16375" y="343.85058" width="121.48054" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="end" x="1038.08877" y="352.77056" font-weight="400" font-size="10.68px" dy="3.48">⚠ Inadequate Schedule</text>
+<rect id="label10_bg" class="for_r10" x="930.85125" y="387.66677" width="111.76777" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label10" class="for_r10" text-anchor="end" x="1038.08877" y="396.58675" font-weight="400" font-size="10.68px" dy="3.48">⚠ Inadequate Budget</text>
+<rect id="label11_bg" class="for_r11" x="946.91375" y="431.48297" width="95.32295" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label11" class="for_r11" text-anchor="end" x="1038.08877" y="440.40294" font-weight="400" font-size="10.68px" dy="3.48">⚠ Contract Issues</text>
+<rect id="label12_bg" class="for_r12" x="923.7575" y="475.29913" width="118.85994" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label12" class="for_r12" text-anchor="end" x="1038.08877" y="484.21913" font-weight="400" font-size="10.68px" dy="3.48">⚠ Geotechnical Report</text>
+<rect id="label13_bg" class="for_r13" x="912.49187" y="519.11532" width="129.75642" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label13" class="for_r13" text-anchor="end" x="1038.08877" y="528.03532" font-weight="400" font-size="10.68px" dy="3.48">⚠ Environmental Reports</text>
+<rect id="label14_bg" class="for_r14" x="984.91375" y="562.93148" width="57.32234" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label14" class="for_r14" text-anchor="end" x="1038.08877" y="571.85151" font-weight="400" font-size="10.68px" dy="3.48">⚠ Permits</text>
+<rect id="label15_bg" class="for_r15" x="981.91375" y="606.74771" width="59.72126" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label15" class="for_r15" text-anchor="end" x="1038.08877" y="615.66771" font-weight="400" font-size="10.68px" dy="3.48">⚠ Bonding</text>
+<rect id="label16_bg" class="for_r16" x="961.74187" y="650.56387" width="80.49714" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label16" class="for_r16" text-anchor="end" x="1038.08877" y="659.4839" font-weight="400" font-size="10.68px" dy="3.48">⚠ Contingency</text>
+<rect id="label17_bg" class="for_r17" x="1057.48979" y="467.4175" width="133.87202" height="35.78999" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label17" class="for_r17" text-anchor="end" x="1187.13359" y="485.46248" font-weight="400" font-size="12.792px" dy="-3.645">Plan and Cost Report <tspan x="1187.13359" dy="15.99" font-weight="400" font-size="12.792px">(PCR/PnC)</tspan></text>
+<rect id="label18_bg" class="for_r18" x="1222.17534" y="477.10198" width="117.50312" height="19.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label18" class="for_r18" text-anchor="end" x="1336.17842" y="487.15198" font-weight="400" font-size="12.792px" dy="4.35">Under Construction</text>
+<rect id="label19_bg" class="for_r19" x="1383.34514" y="361.50323" width="105.95784" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label19" class="for_r19" text-anchor="end" x="1485.22324" y="370.42321" font-weight="400" font-size="10.812px" dy="3.48">⚠ Budget Adequacy</text>
+<rect id="label20_bg" class="for_r20" x="1372.53264" y="409.04608" width="116.77314" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label20" class="for_r20" text-anchor="end" x="1485.22324" y="417.96607" font-weight="400" font-size="10.812px" dy="3.48">⚠ Schedule Adequacy</text>
+<rect id="label21_bg" class="for_r21" x="1386.37639" y="456.58892" width="102.34687" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label21" class="for_r21" text-anchor="end" x="1485.22324" y="465.50892" font-weight="400" font-size="10.812px" dy="3.48">⚠ Plan Compliance</text>
+<rect id="label22_bg" class="for_r22" x="1402.22014" y="504.13174" width="87.48616" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label22" class="for_r22" text-anchor="end" x="1485.22324" y="513.05178" font-weight="400" font-size="10.812px" dy="3.48">⚠ Workmanship</text>
+<rect id="label23_bg" class="for_r23" x="1357.51702" y="551.67465" width="131.78987" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label23" class="for_r23" text-anchor="end" x="1485.22324" y="560.59464" font-weight="400" font-size="10.812px" dy="3.48">⚠ Contingency Adequacy</text>
+<rect id="label24_bg" class="for_r24" x="1365.36077" y="599.21749" width="123.95686" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label24" class="for_r24" text-anchor="end" x="1485.22324" y="608.13749" font-weight="400" font-size="10.812px" dy="3.48">⚠ Change Order Issues</text>
+<rect id="label25_bg" class="for_r25" x="1537.98369" y="473.61257" width="99.78437" height="33.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label25" class="for_r25" text-anchor="end" x="1634.26807" y="490.45258" font-weight="400" font-size="12px" dy="-3.44">Site Vist Reports <tspan x="1634.26807" dy="15" font-weight="400" font-size="12px">(SOR/SV)</tspan></text>
+<rect id="label26_bg" class="for_r26" x="1802.26294" y="480.80398" width="94.67891" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label26" class="for_r26" text-anchor="start" x="1805.76289" y="490.14398" font-weight="400" font-size="12px" dy="4.06">Closeout Report</text>
+<rect id="label27_bg" class="for_r27" x="-98.4" y="240.84179" width="97.3332" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label27" class="for_r27" text-anchor="end" x="-5.225" y="250.1818" font-weight="400" font-size="12px" dy="4.06">Distressed Asset</text>
+<rect id="label28_bg" class="for_r28" x="45.5042" y="131.86666" width="102.462" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label28" class="for_r28" text-anchor="end" x="143.81982" y="140.78667" font-weight="400" font-size="10.68px" dy="3.48">⚠ Budget Shortfalls</text>
+<rect id="label29_bg" class="for_r29" x="77.58232" y="175.68286" width="70.39077" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label29" class="for_r29" text-anchor="end" x="143.81982" y="184.60286" font-weight="400" font-size="10.68px" dy="3.48">⚠ Lien Risks</text>
+<rect id="label30_bg" class="for_r30" x="57.41045" y="219.49905" width="90.56178" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label30" class="for_r30" text-anchor="end" x="143.81982" y="228.41905" font-weight="400" font-size="10.68px" dy="3.48">⚠ Contract Risks</text>
+<rect id="label31_bg" class="for_r31" x="46.67607" y="263.31524" width="101.28869" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label31" class="for_r31" text-anchor="end" x="143.81982" y="272.23524" font-weight="400" font-size="10.68px" dy="3.48">⚠ Scope Adequacy</text>
+<rect id="label32_bg" class="for_r32" x="48.47295" y="307.13143" width="99.49478" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label32" class="for_r32" text-anchor="end" x="143.81982" y="316.05143" font-weight="400" font-size="10.68px" dy="3.48">⚠ Schedule Issues</text>
+<rect id="label33_bg" class="for_r33" x="15.83232" y="350.94763" width="131.53473" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label33" class="for_r33" text-anchor="end" x="143.81982" y="359.86762" font-weight="400" font-size="10.68px" dy="3.48">⚠ Regulatory Compliance</text>
+<rect id="label34_bg" class="for_r34" x="157.00215" y="287.45657" width="140.02461" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label34" class="for_r34" text-anchor="end" x="292.86465" y="296.79658" font-weight="400" font-size="12px" dy="4.06">Cost to Complete Report</text>
+<rect id="label35_bg" class="for_r35" x="-95.72812" y="481.54083" width="94.1269" height="17.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label35" class="for_r35" text-anchor="end" x="-5.225" y="491.17085" font-weight="400" font-size="11.736px" dy="3.77">Historic Property</text>
+<rect id="label36_bg" class="for_r36" x="56.20732" y="394.76382" width="91.76638" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label36" class="for_r36" text-anchor="end" x="143.81982" y="403.68381" font-weight="400" font-size="10.68px" dy="3.48">⚠ Existing Status</text>
+<rect id="label37_bg" class="for_r37" x="66.30107" y="438.58001" width="81.67047" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label37" class="for_r37" text-anchor="end" x="143.81982" y="447.5" font-weight="400" font-size="10.68px" dy="3.48">⚠ Submissions</text>
+<rect id="label38_bg" class="for_r38" x="76.3792" y="482.3962" width="71.59018" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label38" class="for_r38" text-anchor="end" x="143.81982" y="491.31619" font-weight="400" font-size="10.68px" dy="3.48">⚠ Conditions</text>
+<rect id="label39_bg" class="for_r39" x="60.97295" y="526.21237" width="86.99482" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label39" class="for_r39" text-anchor="end" x="143.81982" y="535.13238" font-weight="400" font-size="10.68px" dy="3.48">⚠ Commitments</text>
+<rect id="label40_bg" class="for_r40" x="40.76982" y="570.02853" width="106.60782" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label40" class="for_r40" text-anchor="end" x="143.81982" y="578.94857" font-weight="400" font-size="10.68px" dy="3.48">⚠ Plan conformance</text>
+<rect id="label41_bg" class="for_r41" x="166.06465" y="420.82278" width="130.76457" height="32.46998" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label41" class="for_r41" text-anchor="end" x="292.86465" y="437.78777" font-weight="400" font-size="11.736px" dy="-3.56501">Historic Tax Credit Due <tspan x="292.86465" dy="14.67" font-weight="400" font-size="11.736px">Diligence/Tracking</tspan></text>
+<rect id="label42_bg" class="for_r42" x="-79.80625" y="679.42367" width="78.08125" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label42" class="for_r42" text-anchor="end" x="-5.225" y="688.3437" font-weight="400" font-size="11.472px" dy="3.48">Loan Portfolio</text>
+<rect id="label43_bg" class="for_r43" x="84.70732" y="613.84475" width="63.64526" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label43" class="for_r43" text-anchor="end" x="143.81982" y="622.76476" font-weight="400" font-size="10.68px" dy="3.48">⚠ Footprint</text>
+<rect id="label44_bg" class="for_r44" x="93.61357" y="657.66091" width="54.36557" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label44" class="for_r44" text-anchor="end" x="143.81982" y="666.58095" font-weight="400" font-size="10.68px" dy="3.48">⚠ Quality</text>
+<rect id="label45_bg" class="for_r45" x="96.5667" y="701.47714" width="51.40356" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label45" class="for_r45" text-anchor="end" x="143.81982" y="710.39714" font-weight="400" font-size="10.68px" dy="3.48">⚠ Status</text>
+<rect id="label46_bg" class="for_r46" x="66.89482" y="745.2933" width="81.08117" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label46" class="for_r46" text-anchor="end" x="143.81982" y="754.21333" font-weight="400" font-size="10.68px" dy="3.48">⚠ Loan Priority</text>
+<rect id="label47_bg" class="for_r47" x="311.81464" y="672.05856" width="117.85719" height="31.14003" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label47" class="for_r47" text-anchor="start" x="315.31465" y="688.14859" font-weight="400" font-size="11.472px" dy="-3.69">Realtime Dashboards<tspan x="315.31465" dy="14.34" font-weight="400" font-size="11.472px">and Portfolio Reports</tspan></text>
+</g>
+</g></svg>

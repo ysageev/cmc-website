@@ -1,0 +1,70 @@
+<svg height="300" width="800" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 2/12/2025, 10:36:27 AM -->
+<g transform="translate(126.91609,2)">
+<g id="sankey_flows">
+<path id="flow0" d="M15 81.7C94.51662 81.7 108.3456 39.2875 187.86223 39.2875" fill="none" stroke-width="32.9" stroke="#e15759" opacity="0.35"><title>Historic Property → ⚠ Existing Status: 1</title></path>
+<path id="flow1" d="M15 114.6C94.51662 114.6 108.3456 93.39375 187.86223 93.39375" fill="none" stroke-width="32.9" stroke="#e15759" opacity="0.35"><title>Historic Property → ⚠ Submissions: 1</title></path>
+<path id="flow2" d="M15 131.05v32.9L187.86223 163.95v-32.9z" fill="#e15759" stroke-width="0.5" stroke="#e15759" opacity="0.35"><title>Historic Property → ⚠ Conditions: 1</title></path>
+<path id="flow3" d="M15 180.4C94.51662 180.4 108.3456 201.60625 187.86223 201.60625" fill="none" stroke-width="32.9" stroke="#e15759" opacity="0.35"><title>Historic Property → ⚠ Commitments: 1</title></path>
+<path id="flow4" d="M15 213.3C94.51662 213.3 108.3456 255.7125 187.86223 255.7125" fill="none" stroke-width="32.9" stroke="#e15759" opacity="0.35"><title>Historic Property → ⚠ Plan conformance: 1</title></path>
+<path id="flow5" d="M202.86223 39.2875C282.37885 39.2875 296.20783 81.7 375.72445 81.7" fill="none" stroke-width="32.9" stroke="#f28e2c" opacity="0.35"><title>⚠ Existing Status → Historic Tax Credit Due Diligence Report Historic Tax Credit Tracking Report: 1</title></path>
+<path id="flow6" d="M202.86223 93.39375C282.37885 93.39375 296.20783 114.6 375.72445 114.6" fill="none" stroke-width="32.9" stroke="#f28e2c" opacity="0.35"><title>⚠ Submissions → Historic Tax Credit Due Diligence Report Historic Tax Credit Tracking Report: 1</title></path>
+<path id="flow7" d="M202.86223 131.05v32.9L375.72445 163.95v-32.9z" fill="#f28e2c" stroke-width="0.5" stroke="#f28e2c" opacity="0.35"><title>⚠ Conditions → Historic Tax Credit Due Diligence Report Historic Tax Credit Tracking Report: 1</title></path>
+<path id="flow8" d="M202.86223 201.60625C282.37885 201.60625 296.20783 180.4 375.72445 180.4" fill="none" stroke-width="32.9" stroke="#f28e2c" opacity="0.35"><title>⚠ Commitments → Historic Tax Credit Due Diligence Report Historic Tax Credit Tracking Report: 1</title></path>
+<path id="flow9" d="M202.86223 255.7125C282.37885 255.7125 296.20783 213.3 375.72445 213.3" fill="none" stroke-width="32.9" stroke="#f28e2c" opacity="0.35"><title>⚠ Plan conformance → Historic Tax Credit Due Diligence Report Historic Tax Credit Tracking Report: 1</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0_border" class="for_r0" x="0" y="65.25" height="164.5" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r0" class="for_r0" x="0" y="65.25" height="164.5" width="15" fill="#f28e2c" fill-opacity="0.6"><title>Historic Property:
+5</title></rect>
+</g>
+<g class="node">
+<rect id="r1_border" class="for_r1" x="187.86223" y="22.8375" height="32.9" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r1" class="for_r1" x="187.86223" y="22.8375" height="32.9" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Existing Status:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r2_border" class="for_r2" x="187.86223" y="76.94375" height="32.9" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r2" class="for_r2" x="187.86223" y="76.94375" height="32.9" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Submissions:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r3_border" class="for_r3" x="187.86223" y="131.05" height="32.9" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r3" class="for_r3" x="187.86223" y="131.05" height="32.9" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Conditions:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r4_border" class="for_r4" x="187.86223" y="185.15625" height="32.9" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r4" class="for_r4" x="187.86223" y="185.15625" height="32.9" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Commitments:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r5_border" class="for_r5" x="187.86223" y="239.2625" height="32.9" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r5" class="for_r5" x="187.86223" y="239.2625" height="32.9" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Plan conformance:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r6_border" class="for_r6" x="375.72445" y="65.25" height="164.5" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r6" class="for_r6" x="375.72445" y="65.25" height="164.5" width="15" fill="#f28e2c" fill-opacity="0.6"><title>Historic Tax Credit Due Diligence Report Historic Tax Credit Tracking Report:
+5</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="14px" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="-124.71004" y="136.44" width="122.89059" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.3841" y="147.5" font-weight="700" font-size="14px" dy="4.64">Historic Property</text>
+<rect id="label1_bg" class="for_r1" x="57.65218" y="28.2275" width="128.38375" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="end" x="181.47813" y="39.2875" font-weight="700" font-size="14px" dy="4.64">⚠ Existing Status</text>
+<rect id="label2_bg" class="for_r2" x="71.65218" y="82.33375" width="114.38375" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="181.47813" y="93.39375" font-weight="700" font-size="14px" dy="4.64">⚠ Submissions</text>
+<rect id="label3_bg" class="for_r3" x="85.69906" y="136.44" width="100.34957" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="end" x="181.47813" y="147.5" font-weight="700" font-size="14px" dy="4.64">⚠ Conditions</text>
+<rect id="label4_bg" class="for_r4" x="65.44906" y="190.54625" width="120.59762" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="end" x="181.47813" y="201.60625" font-weight="700" font-size="14px" dy="4.64">⚠ Commitments</text>
+<rect id="label5_bg" class="for_r5" x="37.41781" y="244.65251" width="148.61812" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="end" x="181.47813" y="255.7125" font-weight="700" font-size="14px" dy="4.64">⚠ Plan conformance</text>
+<rect id="label6_bg" class="for_r6" x="392.74996" y="127.69" width="278.33391" height="38.9" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="start" x="397.10855" y="147.5" font-weight="700" font-size="14px" dy="-4.11">Historic Tax Credit Due Diligence Report<tspan x="397.10855" dy="17.5" font-weight="700" font-size="14px">Historic Tax Credit Tracking Report</tspan></text>
+</g>
+</g></svg>
