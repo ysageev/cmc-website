@@ -14,5 +14,4 @@ The following Design documents are required.
 These documents must adhere to the following submittal criteria:
 
 -   A digital copy is required.
--   Full sized copies need to be provided.
 -   They need to be signed and sealed by the `Design Professional` and Signed Off by the `Governing Municipal Entity`

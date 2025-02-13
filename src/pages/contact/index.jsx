@@ -1,6 +1,8 @@
 import Layout from "@theme/Layout"
 import styled from "styled-components"
 
+const emailURL = "mailto:info@go-cmc.com?subject=CMC Information Request&body=Enter your questions here"
+
 const Contact = () => {
 	return (
 		<Layout>
@@ -9,7 +11,7 @@ const Contact = () => {
 					<PageHeaderText>Contact</PageHeaderText>
 					<PageHeaderDetailsText>Inquiries, Requests, and Comments will be routed to the appropriate personnel.</PageHeaderDetailsText>
 					<PageBody>
-						<ContactItem title="Email:" icon="fa-duotone fa-envelope" url="mailto:info@go-cmc.com" linkbody="info@go-cmc.com" />
+						<ContactItem title="Email:" icon="fa-duotone fa-envelope" url={emailURL} linkbody="info@go-cmc.com" />
 						<ContactItem title="Phone:" icon="fa-duotone fa-phone" url="tel:7169894417" linkbody="(716) 989-4417" />
 						<ContactItem title="LinkedIn:" icon="fa-brands fa-linkedin" url="https://www.linkedin.com/company/cmc-monitoring" linkbody="Company Page" />
 						<ContactItem title="Office:" icon="fa-duotone fa-location-dot" url="https://maps.app.goo.gl/8Zin2gwTQMMo3hkG6" linkbody={<CompanyAddress />} />

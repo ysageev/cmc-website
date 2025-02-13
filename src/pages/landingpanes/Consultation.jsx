@@ -1,5 +1,7 @@
 import Link from "@docusaurus/Link"
 
+const emailURL = "mailto:info@go-cmc.com?subject=CMC Consultation Request&body=Enter your information here"
+
 function Consultation() {
 	return (
 		<div
@@ -26,9 +28,9 @@ function Consultation() {
 			>
 				<span style={{ color: "#C4F1FF" }}>Talk</span>&nbsp;to us.
 			</span>
-			<Link className="button button--primary button--lg" to="/docs/public/introvideo">
+			<Link className="button button--primary button--lg" to={emailURL}>
 				Free Consultation
-				<i className="fa-duotone fa-solid fa-comments-question" style={{ marginLeft: 10 }} />
+				<i className="fa-duotone fa-solid fa-envelope" style={{ marginLeft: 10 }} />
 			</Link>
 		</div>
 	)

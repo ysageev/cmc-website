@@ -7,6 +7,10 @@ const PanelContainer = styled.div`
 	margin-bottom: 10px;
 	margin-right: 1em;
 	font-size: 1em;
+
+	@media (width <= 600px) {
+        width: 100%;
+    }
 `
 export const PanelHeader = styled.div`
 	font-weight: bold; 

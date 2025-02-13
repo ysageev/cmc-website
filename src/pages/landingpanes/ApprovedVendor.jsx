@@ -1,5 +1,7 @@
 import Link from "@docusaurus/Link"
 
+const docsRequestEmailURL = "mailto:info@go-cmc.com?subject=CMC Approval Documents Request&body=Enter your email here"
+
 function ApprovedVendor() {
 	return (
 		<div
@@ -26,13 +28,13 @@ function ApprovedVendor() {
 				}}
 			/>
 			<div style={{ maxWidth: 600, textWrap: "pretty", marginTop: 20, marginBottom: 20 }}>
-				Be sure to add CMC to your institution's <span style={{ fontWeight: 500 }}>Approved Vendor List,</span> and download our
+				Be sure to add CMC to your institution's <span style={{ fontWeight: 500 }}>Approved Vendor List,</span> and request our
 				<span style={{ fontWeight: 500 }}> supporting documents.</span> &nbsp;&nbsp;&nbsp;
 			</div>
 			<div style={{ marginTop: 20, marginBottom: 20 }}>
-				<Link className="button button--primary button--lg" to="/docs/public/introvideo">
-					PDF &nbsp;
-					<i className="fa-duotone fa-solid fa-download" />
+				<Link className="button button--primary button--lg" to={docsRequestEmailURL}>
+					Request &nbsp;
+					<i className="fa-duotone fa-envelope" />
 				</Link>
 			</div>
 		</div>

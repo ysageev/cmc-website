@@ -4,8 +4,8 @@
 Existing Property [4] ⚠ Future Maintenance Costs 
 Existing Property [7] ⚠ Unknown Condition 
 
-⚠ Future Maintenance Costs [4] Extended Useful Life Report (EUL)
-⚠ Unknown Condition [4] Property Needs Assessment (PNA)
+⚠ Future Maintenance Costs [4] Extended Useful Life \n Report (EUL)
+⚠ Unknown Condition [4] Property Needs \n Assessment (PNA)
 ⚠ Unknown Condition [3]  Preconstruction Report (PRE)
 
 
@@ -22,15 +22,15 @@ Proposed Project [1] ⚠ Permits
 Proposed Project [1] ⚠ Bonding 
 Proposed Project [1] ⚠ Contingency 
 
-⚠ Inadequate Plans [1] Plan and Cost Report \n(PCR/PnC)
-⚠ Inadequate Schedule [1] Plan and Cost Report \n(PCR/PnC)
-⚠ Inadequate Budget [1] Plan and Cost Report \n(PCR/PnC)
-⚠ Contract Issues [1] Plan and Cost Report \n(PCR/PnC)
-⚠ Geotechnical Report  [1] Plan and Cost Report \n(PCR/PnC)
-⚠ Environmental Reports  [1] Plan and Cost Report \n(PCR/PnC)
-⚠ Permits  [1] Plan and Cost Report \n(PCR/PnC)
-⚠ Bonding  [1] Plan and Cost Report \n(PCR/PnC)
-⚠ Contingency  [1] Plan and Cost Report \n(PCR/PnC)
+⚠ Inadequate Plans [1] Plan and Cost \n Report (PCR/PnC)
+⚠ Inadequate Schedule [1] Plan and Cost \n Report (PCR/PnC)
+⚠ Inadequate Budget [1] Plan and Cost \n Report (PCR/PnC)
+⚠ Contract Issues [1] Plan and Cost \n Report (PCR/PnC)
+⚠ Geotechnical Report  [1] Plan and Cost \n Report (PCR/PnC)
+⚠ Environmental Reports  [1] Plan and Cost \n Report (PCR/PnC)
+⚠ Permits  [1] Plan and Cost \n Report (PCR/PnC)
+⚠ Bonding  [1] Plan and Cost \n Report (PCR/PnC)
+⚠ Contingency  [1] Plan and Cost \n Report (PCR/PnC)
 
 Under Construction [1.5] ⚠ Budget Adequacy
 Under Construction [1.5] ⚠ Schedule Adequacy
@@ -38,6 +38,7 @@ Under Construction [1.5] ⚠ Plan Compliance
 Under Construction [1.5] ⚠ Workmanship
 Under Construction [1.5] ⚠ Contingency Adequacy
 Under Construction [1.5] ⚠ Change Order Issues
+Under Construction [3] ⚠ NPS Part 2 HTC Work Items
 
 ⚠ Budget Adequacy [1] Site Vist Reports \n(SOR/SV)
 ⚠ Schedule Adequacy [1] Site Vist Reports \n(SOR/SV)
@@ -46,6 +47,7 @@ Under Construction [1.5] ⚠ Change Order Issues
 ⚠ Contingency Adequacy [1] Site Vist Reports \n(SOR/SV)
 ⚠ Change Order Issues [1] Site Vist Reports \n(SOR/SV)
 
+⚠ NPS Part 2 HTC Work Items [3] NPS Part 2 HTC \nTracking Reports
 
 Site Vist Reports \n(SOR/SV) [6] Closeout Report
 
@@ -70,16 +72,16 @@ Historic Property [1] ⚠ Conditions
 Historic Property [1] ⚠ Commitments
 Historic Property [1] ⚠ Plan conformance 
 
-⚠ Existing Status  [1] Historic Tax Credit Due \nDiligence/Tracking
-⚠ Submissions [1] Historic Tax Credit Due \nDiligence/Tracking
-⚠ Conditions [1] Historic Tax Credit Due \nDiligence/Tracking
-⚠ Commitments [1] Historic Tax Credit Due \nDiligence/Tracking
-⚠ Plan conformance [1] Historic Tax Credit Due \nDiligence/Tracking
+⚠ Existing Status  [1] NPS Part 1 HTC \nDue Diligence Report
+⚠ Submissions [1] NPS Part 1 HTC \nDue Diligence Report
+⚠ Conditions [1] NPS Part 1 HTC \nDue Diligence Report
+⚠ Commitments [1] NPS Part 1 HTC \nDue Diligence Report
+⚠ Plan conformance [1] NPS Part 1 HTC \nDue Diligence Report
 
 
 Cost to Complete Report [6] Existing Property
-Plan and Cost Report \n(PCR/PnC) [9] Under Construction
-Historic Tax Credit Due \nDiligence/Tracking [5] Existing Property
+Plan and Cost \n Report (PCR/PnC) [9] Under Construction
+NPS Part 1 HTC \nDue Diligence Report [5] Existing Property
 
 
 

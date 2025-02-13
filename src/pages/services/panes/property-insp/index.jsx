@@ -29,7 +29,7 @@ function PropertyInspections() {
 						</p>
 					</div>
 
-					<PanelContainer style={{ maxWidth: 300 }}>
+					<PanelContainer style={{ maxWidth: 310 }}>
 						<PanelHeader>Pre-Construction</PanelHeader>
 						<ActionContainer>
 							A comprehensive report which is prepared in conjunction with a Plan and Cost Review Report where demolition and/or renovation is involved in a project. The purpose of
