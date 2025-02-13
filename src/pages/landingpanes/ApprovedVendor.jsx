@@ -16,7 +16,7 @@ function ApprovedVendor() {
 				fontSize: "1.1em",
 				textWrap: "pretty",
 				lineHeight: "1.5",
-				marginTop: 40,
+				marginTop: 0,
 				marginBottom: 40,
 			}}
 		>
