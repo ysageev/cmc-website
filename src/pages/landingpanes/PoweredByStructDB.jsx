@@ -7,6 +7,7 @@ function PoweredByStructDB() {
 			style={{
 				padding: 30,
 				backgroundColor: "#343434",
+				marginBottom: 40,
 			}}
 		>
 			<div
@@ -19,7 +20,7 @@ function PoweredByStructDB() {
 				}}
 			>
 				<div style={{ fontStyle: "italic", fontSize: ".6em" }}>CMC is powered by:</div>
-				<br />
+
 				<div style={{}}>
 					<img src="img/structdb-logo-light.png" alt="rma logo" style={{ width: 300 }} />
 					<div
@@ -32,8 +33,8 @@ function PoweredByStructDB() {
 						Portfolio Management Software
 					</div>
 				</div>
-				<br />
-				<div style={{ margin: 10 }}>
+
+				<div style={{ marginTop: 10, marginBottom: 10 }}>
 					<Link className="button button--primary button--lg" to="https://structdb.net">
 						More info &nbsp;
 						<i className="fa-duotone fa-solid fa-right-from-line" />

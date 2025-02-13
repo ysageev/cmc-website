@@ -10,11 +10,14 @@ function ApprovedVendor() {
 				alignItems: "center",
 				justifyContent: "space-between",
 				flexWrap: "wrap",
-				padding: 30,
+				paddingLeft: 30,
+				paddingRight: 40,
 				fontFamily: "Lexend, sans-serif",
 				fontSize: "1.1em",
 				textWrap: "pretty",
-				lineHeight: "2",
+				lineHeight: "1.5",
+				marginTop: 40,
+				marginBottom: 40,
 			}}
 		>
 			<img
@@ -27,7 +30,7 @@ function ApprovedVendor() {
 					paddingRight: 40,
 				}}
 			/>
-			<div style={{ maxWidth: 600, textWrap: "pretty", marginTop: 20, marginBottom: 20 }}>
+			<div style={{ maxWidth: 600, textWrap: "pretty", paddingTop: 20, paddingBottom: 20 }}>
 				Be sure to add CMC to your institution's <span style={{ fontWeight: 500 }}>Approved Vendor List,</span> and request our
 				<span style={{ fontWeight: 500 }}> supporting documents.</span> &nbsp;&nbsp;&nbsp;
 			</div>

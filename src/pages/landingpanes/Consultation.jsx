@@ -5,34 +5,32 @@ const emailURL = "mailto:info@go-cmc.com?subject=CMC Consultation Request&body=E
 function Consultation() {
 	return (
 		<div
+			className="blurb-strip"
 			style={{
 				display: "flex",
-				alignItems: "flex-start",
+				alignItems: "center",
+				justifyContent: "space-around",
 				flexWrap: "wrap",
-				padding: 30,
+				padding: 20,
 				backgroundColor: "#343434",
 				color: "white",
-				gap: 20,
 			}}
 		>
 			<span
 				style={{
-					display: "flex",
-					alignItems: "flex-start",
-					flexWrap: "wrap",
 					color: "white",
 					fontSize: 28,
 					marginRight: 20,
-					lineHeight: 1.2,
 				}}
 			>
-				<span style={{ color: "#C4F1FF" }}>Talk</span>&nbsp;to us.
+				<span style={{ color: "#C4F1FF" }}>Talk</span> to us. &nbsp;
+				<Link className="button button--primary button--lg" to={emailURL}>
+					Free Consultation
+					<i className="fa-duotone fa-solid fa-envelope" style={{ marginLeft: 10 }} />
+				</Link>
 			</span>
-			<Link className="button button--primary button--lg" to={emailURL}>
-				Free Consultation
-				<i className="fa-duotone fa-solid fa-envelope" style={{ marginLeft: 10 }} />
-			</Link>
 		</div>
 	)
 }
+
 export default Consultation

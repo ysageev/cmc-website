@@ -17,14 +17,14 @@ function Hero() {
 					<br />
 					We empower our clients to understand and mitigate construction loan risks.
 				</div>
-				<div className="page-links">
-					{/* <Link className="button button--secondary button--lg" to="/services">
-						Learn More
-					</Link> */}
+				<div style={{ display: "flex", gap: "10px", flexWrap: "wrap", maxWidth: 100 }}>
 					<Link className="button button--primary button--lg" to="/docs/public/introvideo">
 						Video <i className="fa-duotone fa-solid fa-video" />
 					</Link>
-					<br />
+
+					<a className="button button--primary button--lg" href="pdf/cmc-services-brochure.pdf" rel="noreferrer" target="_blank">
+						Fact Sheet <i className="fa-duotone fa-solid fa-download" />
+					</a>
 				</div>
 			</div>
 

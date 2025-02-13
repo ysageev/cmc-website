@@ -5,7 +5,7 @@ function OurClients() {
 				paddingLeft: 30,
 				paddingTop: 0,
 				paddingRight: 20,
-				marginBottom: 30,
+				marginBottom: 40,
 			}}
 		>
 			<span style={{ fontSize: "2em", fontWeight: "bold" }}>Our Clients</span>

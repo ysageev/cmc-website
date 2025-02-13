@@ -8,8 +8,8 @@ const graphHeaderStyle = {
 
 function PipeLine() {
 	return (
-		<>
-			<div style={{ fontSize: "2em", fontWeight: "bold", paddingLeft: 30, marginTop: 30, textWrap: "wrap" }}>Services Pipeline</div>
+		<div style={{ marginTop: 20 }}>
+			<div style={{ fontSize: "2em", fontWeight: "bold", paddingLeft: 30, textWrap: "wrap", marginBottom: 10 }}>Solutions Pipeline</div>
 
 			<div
 				style={{
@@ -20,12 +20,12 @@ function PipeLine() {
 					display: "flex",
 					flexWrap: "wrap",
 					alignItems: "center",
-					justifyContent: "space-between",
+					justifyContent: "space-around",
 					gap: 10,
 					marginTop: -30,
 				}}
 			>
-				<div style={{ marginBottom: -10, paddingRight: 20 }}>
+				<div style={{ marginBottom: 10, paddingRight: 20 }}>
 					<ZoomImage src="/img/services/sankeys/pipeline.svg" altText="Entire Pipeline" />
 				</div>
 				<PainPoint title="Existing Property" imageName="existing" />
@@ -35,7 +35,8 @@ function PipeLine() {
 				<PainPoint title="Under Construction" imageName="under-construction" />
 				<PainPoint title="Loan Portfolio" imageName="portfolio" />
 			</div>
-		</>
+			<br />
+		</div>
 	)
 }
 
@@ -46,7 +47,7 @@ const PainPoint = ({ title, imageName }) => {
 		<div>
 			<div style={graphHeaderStyle}>{title}</div>
 
-			<div style={{ maxWidth: 320, marginBottom: -20, paddingRight: 20 }}>
+			<div style={{ maxWidth: 320, marginBottom: -20, paddingRight: 10, paddingLeft: 10 }}>
 				<ZoomImage src={imgSrc} altText={title} />
 			</div>
 			<br />

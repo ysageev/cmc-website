@@ -3,7 +3,7 @@ import Link from "@docusaurus/Link"
 function Services() {
 	return (
 		<div style={{ paddingLeft: 30, paddingTop: 30, paddingRight: 20, marginBottom: 20 }}>
-			<span style={{ fontSize: "2em", fontWeight: "bold" }}>Our services</span>
+			<span style={{ fontSize: "2em", fontWeight: "bold" }}>Our Services</span>
 			<br />
 			<br />
 			<div style={{ display: "flex", flexWrap: "wrap" }}>
@@ -16,7 +16,6 @@ function Services() {
 				<ServicesListItem icon="fa-landmark-flag" title="Historic Preservation" details="Track compliance and tax credits." url="/services#historic" />
 				<br />
 				<ServicesListItem icon="fa-building-circle-exclamation" title="Distressed Assets and Loan Workout" details="Right the ship." url="/services#distressed" />
-				<br />
 			</div>
 		</div>
 	)
@@ -28,10 +27,12 @@ function ServicesListItem({ icon, title, details, url }) {
 			style={{
 				display: "flex",
 				alignItems: "center",
+
 				paddingRight: 20,
 				paddingBottom: 20,
 				width: 400,
 				textWrap: "pretty",
+				// border: "1px solid gray",
 			}}
 		>
 			<Link href={url}>
