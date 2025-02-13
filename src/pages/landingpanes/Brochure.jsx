@@ -1,4 +1,4 @@
-function ServicesBrochure() {
+function Brochure() {
 	return (
 		<div
 			className="blurb-strip"
@@ -18,7 +18,7 @@ function ServicesBrochure() {
 					marginRight: 20,
 				}}
 			>
-				<span style={{ color: "#C4F1FF" }}>Download</span> our services
+				<span style={{ color: "#C4F1FF" }}>Download</span> our
 				<span style={{ color: "#C4F1FF" }}> brochure</span> &nbsp;
 				<span style={{ marginTop: 10, marginBottom: 10 }}>
 					<a className="button button--primary button--lg" href="pdf/cmc-services-brochure.pdf" rel="noreferrer" target="_blank">
@@ -29,4 +29,4 @@ function ServicesBrochure() {
 		</div>
 	)
 }
-export default ServicesBrochure
+export default Brochure

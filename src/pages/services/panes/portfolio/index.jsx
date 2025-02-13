@@ -7,7 +7,7 @@ function PortfolioManagement() {
 		<>
 			<div id="port-man" style={{ scrollMarginTop: 60 }} />
 			<div>
-				<ServiceBanner icon="fa-suitcase" title="Portfolio Management" details="Master your portfolio. Maximize the potential." divId="portfolio-content" />
+				<ServiceBanner icon="fa-suitcase" title="Portfolio Management" details="All your projects, one screen." divId="portfolio-content" />
 
 				<div id="portfolio-content" style={{ clear: "both" }}>
 					<div className="service-content" style={{ width: "100%", clear: "both" }}>

@@ -1,4 +1,4 @@
-function WhoWeHelp() {
+function OurClients() {
 	return (
 		<div
 			style={{
@@ -58,4 +58,4 @@ function EntityItem({ label }) {
 	)
 }
 
-export default WhoWeHelp
+export default OurClients

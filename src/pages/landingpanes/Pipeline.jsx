@@ -1,19 +1,15 @@
 import ZoomImage from "@site/src/components/common/ZoomImage"
 
 const graphHeaderStyle = {
-	fontSize: "1.3em",
+	fontSize: "1.2em",
 	fontWeight: 500,
 	color: "gray",
-	// marginLeft: 30,
-	// padding: 10,
-	// backgroundColor: "#343434",
-	// paddingLeft: 30,
 }
 
-function ProblemsWeSolve() {
+function PipeLine() {
 	return (
 		<>
-			<div style={{ fontSize: "2em", fontWeight: "bold", paddingLeft: 30, marginTop: 30, textWrap: "wrap" }}>Solution Pipeline</div>
+			<div style={{ fontSize: "2em", fontWeight: "bold", paddingLeft: 30, marginTop: 30, textWrap: "wrap" }}>Services Pipeline</div>
 
 			<div
 				style={{
@@ -26,10 +22,12 @@ function ProblemsWeSolve() {
 					alignItems: "center",
 					justifyContent: "space-between",
 					gap: 10,
-					marginTop: -40,
+					marginTop: -30,
 				}}
 			>
-				<ZoomImage src="/img/services/sankeys/pipeline.svg" altText="Entire Pipeline" />
+				<div style={{ marginBottom: -10, paddingRight: 20 }}>
+					<ZoomImage src="/img/services/sankeys/pipeline.svg" altText="Entire Pipeline" />
+				</div>
 				<PainPoint title="Existing Property" imageName="existing" />
 				<PainPoint title="Historic Property" imageName="historic" />
 				<PainPoint title="Distressed Asset" imageName="distressed" />
@@ -48,7 +46,7 @@ const PainPoint = ({ title, imageName }) => {
 		<div>
 			<div style={graphHeaderStyle}>{title}</div>
 
-			<div style={{ maxWidth: 320, marginBottom: -20 }}>
+			<div style={{ maxWidth: 320, marginBottom: -20, paddingRight: 20 }}>
 				<ZoomImage src={imgSrc} altText={title} />
 			</div>
 			<br />
@@ -56,4 +54,4 @@ const PainPoint = ({ title, imageName }) => {
 	)
 }
 
-export default ProblemsWeSolve
+export default PipeLine

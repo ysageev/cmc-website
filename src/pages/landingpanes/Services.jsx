@@ -1,6 +1,6 @@
 import Link from "@docusaurus/Link"
 
-function WhatWeDo() {
+function Services() {
 	return (
 		<div style={{ paddingLeft: 30, paddingTop: 30, paddingRight: 20, marginBottom: 20 }}>
 			<span style={{ fontSize: "2em", fontWeight: "bold" }}>Our services</span>
@@ -11,7 +11,7 @@ function WhatWeDo() {
 				<br />
 				<ServicesListItem icon="fa-building-magnifying-glass" title="Property Inspection and Due Diligence" details="Understand what you have." url="/services#prop-insp" />
 				<br />
-				<ServicesListItem icon="fa-suitcase" title="Portfolio Management" details="Manage all projects in one place." url="/services#port-man" />
+				<ServicesListItem icon="fa-suitcase" title="Portfolio Management" details="All your projects, one screen." url="/services#port-man" />
 				<br />
 				<ServicesListItem icon="fa-landmark-flag" title="Historic Preservation" details="Track compliance and tax credits." url="/services#historic" />
 				<br />
@@ -46,4 +46,4 @@ function ServicesListItem({ icon, title, details, url }) {
 		</div>
 	)
 }
-export default WhatWeDo
+export default Services

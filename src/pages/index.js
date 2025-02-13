@@ -1,11 +1,11 @@
 import Layout from "@theme/Layout"
 import Hero from "./landingpanes/Hero.jsx"
 import Consultation from "./landingpanes/Consultation.jsx"
-import ServicesBrochure from "./landingpanes/ServicesBrochure.jsx"
-import WhatWeDo from "./landingpanes/WhatWeDo.jsx"
-import ProblemsWeSolve from "./landingpanes/ProblemsWeSolve.jsx"
+import Brochure from "./landingpanes/Brochure.jsx"
+import Services from "./landingpanes/Services.jsx"
+import PipeLine from "./landingpanes/Pipeline.jsx"
 import Standards from "./landingpanes/Standards.jsx"
-import WhoWeHelp from "./landingpanes/WhoWeHelp.jsx"
+import OurClients from "./landingpanes/OurClients.jsx"
 import ApprovedVendor from "./landingpanes/ApprovedVendor.jsx"
 import PoweredByStructDB from "./landingpanes/PoweredByStructDB.jsx"
 
@@ -15,12 +15,12 @@ function Home() {
 			<div className="container">
 				<Hero />
 				<Consultation />
-				<WhatWeDo />
-				<ServicesBrochure />
-				<ProblemsWeSolve />
+				<Services />
+				<Brochure />
+				<PipeLine />
 				<PoweredByStructDB />
 				<ApprovedVendor />
-				<WhoWeHelp />
+				<OurClients />
 				<Standards />
 				<br />
 			</div>
