@@ -24,6 +24,7 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-fast-marquee": "^1.6.5",
+    "react-lite-yt-embed": "^1.2.7",
     "react-medium-image-zoom": "^5.2.13",
     "react-player": "^2.16.0",
     "styled-components": "^6.1.15"
