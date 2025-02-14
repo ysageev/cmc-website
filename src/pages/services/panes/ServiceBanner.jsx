@@ -13,14 +13,8 @@ function ServiceBanner({ icon, title, details, divId }) {
 	const handleClick = () => {
 		if (!divId) return
 		const containerElem = document.getElementById(divId)
-
-		if (expanded) {
-			containerElem.style.maxHeight = "1px"
-			setExpanded(false)
-		} else {
-			containerElem.style.maxHeight = "2000px"
-			setExpanded(true)
-		}
+		containerElem.style.maxHeight = expanded ? "1px" : "2000px"
+		setExpanded(!expanded)
 	}
 
 	return (

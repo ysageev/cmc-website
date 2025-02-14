@@ -1,7 +1,6 @@
 import Layout from "@theme/Layout"
 import Hero from "./landingpanes/Hero.jsx"
 import Consultation from "./landingpanes/Consultation.jsx"
-// import Brochure from "./landingpanes/Brochure.jsx"
 import Services from "./landingpanes/Services.jsx"
 import PipeLine from "./landingpanes/Pipeline.jsx"
 import Standards from "./landingpanes/Standards.jsx"
@@ -15,7 +14,6 @@ function Home() {
 			<div className="container">
 				<Hero />
 				<Services />
-				{/* <Brochure /> */}
 				<Consultation />
 				<PipeLine />
 				<ApprovedVendor />
