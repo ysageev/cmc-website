@@ -7,7 +7,7 @@ function PropertyInspections() {
 		<div id="prop-insp" style={{ scrollMarginTop: 60 }}>
 			<ServiceBanner icon="fa-building-magnifying-glass" title="Property Due Diligence" details="Understand what you have." divId="property-insp-content" />
 
-			<div id="property-insp-content">
+			<div id="property-insp-content" className="collapse-div">
 				<div className="service-content" style={{ width: "100%" }}>
 					<div>
 						<p>

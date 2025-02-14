@@ -7,7 +7,7 @@ function HistoricPreservation() {
 		<div id="historic" style={{ scrollMarginTop: 60 }}>
 			<ServiceBanner icon="fa-landmark-flag" title="Historic Preservation" details="NPS Compliance" divId="historic-content" />
 
-			<div id="historic-content">
+			<div id="historic-content" className="collapse-div">
 				<div className="service-content" style={{ width: "100%" }}>
 					<div>
 						<p>

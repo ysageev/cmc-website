@@ -9,7 +9,7 @@ function PortfolioManagement() {
 			<div>
 				<ServiceBanner icon="fa-suitcase" title="Portfolio Management" details="All your projects, one screen." divId="portfolio-content" />
 
-				<div id="portfolio-content" style={{ clear: "both" }}>
+				<div id="portfolio-content" className="collapse-div">
 					<div className="service-content" style={{ width: "100%", clear: "both" }}>
 						Most lenders find it difficult to understand their entire loan portfolio. They might understand specific projects well, but have trouble identifying:
 						<br />

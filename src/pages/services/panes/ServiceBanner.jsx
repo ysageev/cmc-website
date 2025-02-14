@@ -13,10 +13,7 @@ function ServiceBanner({ icon, title, details, divId }) {
 	const handleClick = () => {
 		if (!divId) return
 		const containerElem = document.getElementById(divId)
-		// const chevronElem = document.getElementById(currentChevronId)
-		// chevronElem.style.transition = "1s ease"
-		containerElem.style.overflow = "hidden"
-		containerElem.style.transition = "max-height .5s ease"
+
 		if (expanded) {
 			containerElem.style.maxHeight = "1px"
 			setExpanded(false)

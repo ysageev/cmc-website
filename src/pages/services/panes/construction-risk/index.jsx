@@ -11,7 +11,7 @@ function RiskManagement() {
 		<div id="risk-man" style={{ scrollMarginTop: 60 }}>
 			<ServiceBanner icon="fa-hard-hat" title="Construction Risk Management" details="Reduce construction loan risk." divId="risk-man-content" />
 
-			<div id="risk-man-content">
+			<div id="risk-man-content" className="collapse-div">
 				<div className="service-content" style={{ width: "100%" }}>
 					<div>
 						<p>
