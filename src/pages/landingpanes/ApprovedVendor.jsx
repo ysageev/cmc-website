@@ -8,10 +8,10 @@ function ApprovedVendor() {
             style={{
                 display: "flex",
                 alignItems: "center",
-                justifyContent: "space-between",
+                justifyContent: "space-around",
                 flexWrap: "wrap",
-                paddingLeft: 30,
-                paddingRight: 40,
+                paddingLeft: 20,
+                paddingRight: 20,
                 fontFamily: "Lexend, sans-serif",
                 fontSize: "1.1em",
                 textWrap: "pretty",
@@ -20,19 +20,9 @@ function ApprovedVendor() {
                 marginBottom: 40,
             }}
         >
-            {/* <img
-				src="img/approved-vendor.png"
-				alt="rma logo"
-				style={{
-					display: "flex",
-					alignItems: "flex-end",
-					maxWidth: 300,
-					paddingRight: 40,
-				}}
-			/> */}
             <ApprovalImage />
-            <div style={{ maxWidth: 600, textWrap: "pretty", paddingTop: 20, paddingBottom: 20 }}>
-                Be sure to add CMC to your institution's <span style={{ fontWeight: 900 }}>Approved Vendor List,</span> and request our
+            <div style={{ maxWidth: 600, textWrap: "pretty", paddingTop: 20, paddingBottom: 20, textAlign: "center" }}>
+                Be sure to add CMC to your institution's <span style={{ fontWeight: 900 }}>Approved Vendor List.</span> Request our
                 <span style={{ fontWeight: 500 }}> supporting documents.</span> &nbsp;&nbsp;&nbsp;
             </div>
             <div style={{ marginTop: 20, marginBottom: 20 }}>
