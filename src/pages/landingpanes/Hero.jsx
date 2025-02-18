@@ -26,10 +26,9 @@ function Hero() {
                         Fact Sheet <i className="fa-duotone fa-solid fa-download" />
                     </a>
                 </div>
-            </div>
-
-            <div style={{ height: 38, marginTop: 20, marginBottom: 20, paddingTop: 10 }}>
-                <CompaniesUsing />
+                <div style={{ height: 38, marginTop: 40, marginBottom: 10 }}>
+                    <CompaniesUsing />
+                </div>
             </div>
         </div>
     )
