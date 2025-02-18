@@ -17,8 +17,8 @@ function Home() {
 				<Consultation />
 				<PipeLine />
 				<PoweredByStructDB />
-				<ApprovedVendor />
 				<OurClients />
+				<ApprovedVendor />
 				<Standards />
 				<br />
 			</div>

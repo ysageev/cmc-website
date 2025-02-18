@@ -10,14 +10,14 @@ function ApprovedVendor() {
                 alignItems: "center",
                 justifyContent: "space-around",
                 flexWrap: "wrap",
-                paddingLeft: 20,
-                paddingRight: 20,
                 fontFamily: "Lexend, sans-serif",
                 fontSize: "1.1em",
                 textWrap: "pretty",
                 lineHeight: "1.5",
-                marginTop: 0,
-                marginBottom: 20,
+                marginTop: 50,
+                marginBottom: 40,
+                backgroundColor: "#343434",
+                color: "white",
             }}
         >
             <ApprovalImage />
@@ -48,6 +48,8 @@ const ApprovalImage = () => {
                 fontFamily: "lexend, sans-serif",
                 fontWeight: "bold",
                 boxShadow: "0px 0px 7px 2px",
+                backgroundColor: "white",
+                color: "black",
             }}
         >
             <div style={{ display: "flex", alignItems: "center", gap: 5 }}>
