@@ -13,7 +13,7 @@
     padding-top: 20px;
     padding-right: 10px;
     margin-left: -5px;
-    text-wrap: pretty;
+    text-wrap: balance;
 }
 
 .page-header-details-text {
@@ -22,7 +22,7 @@
     font-size: 1.2em;
     line-height: 1.3em;
     padding-top: 20px;
-    padding-right: 50px;
+    padding-right: 10px;
     margin-bottom: 20px;
     text-wrap: balance;
 }

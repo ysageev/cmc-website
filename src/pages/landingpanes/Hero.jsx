@@ -17,7 +17,7 @@ function Hero() {
                     <br />
                     We empower our clients to understand and mitigate construction loan risks.
                 </div>
-                <div style={{ display: "flex", gap: "10px", flexWrap: "wrap", maxWidth: 100 }}>
+                <div style={{ display: "flex", gap: "10px", flexWrap: "wrap", maxWidth: 400 }}>
                     <Link className="button button--primary button--lg" to="/docs/public/introvideo">
                         Video <i className="fa-duotone fa-solid fa-video" />
                     </Link>
