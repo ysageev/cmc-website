@@ -1,43 +1,37 @@
-import PanelContainer, { PanelHeader, ActionLabel, ActionItemList, ActionContainer } from "../PhaseStyles.jsx"
+import "../services.css"
+import ServiceItem from "../ServiceItem"
+import ActionItem from "../ActionItem"
 
-//_____________________________
 function Phase_PreConstruction() {
-	return (
-		<PanelContainer>
-			<PanelHeader>Phase 1: Pre-Construction</PanelHeader>
-			<ActionContainer>
-				<ActionLabel>Assess:</ActionLabel>
-				<ActionItemList>
-					<ul>
-						<li>Condition of existing buildings</li>
-					</ul>
-				</ActionItemList>
-				<ActionLabel>Review and Analyze:</ActionLabel>
-				<ActionItemList>
-					<ul>
-						<li>Plans, drawings and specifications</li>
-						<li>Regulatory documents</li>
-						<li>Contract documents: design, construction, and loan (BLA)</li>
-						<li>Construction and disbursement schedules</li>
-						<li>Direct cost budget for appropriateness</li>
-						<li>Contingency budget(s)</li>
-					</ul>
-				</ActionItemList>
+    return (
+        <ServiceItem title="Phase 1: Pre-Construction">
+            <ActionItem title="Assess">
+                <ul>
+                    <li>Condition of existing buildings</li>
+                </ul>
+            </ActionItem>
+            <ActionItem title="Review and Analyze">
+                <ul>
+                    <li>Plans, drawings and specifications</li>
+                    <li>Regulatory documents</li>
+                    <li>Contract documents: design, construction, and loan (BLA)</li>
+                    <li>Construction and disbursement schedules</li>
+                    <li>Direct cost budget for appropriateness</li>
+                    <li>Contingency budget(s)</li>
+                </ul>
+            </ActionItem>
 
-				<ActionLabel>Recommend:</ActionLabel>
-				<ActionItemList>
-					<ul>
-						<li>Bonding or sub-guard insurance requirements</li>
-					</ul>
-				</ActionItemList>
-				<ActionLabel>Deliver:</ActionLabel>
-				<ActionItemList>
-					<ul>
-						<li>Plan & Cost Report</li>
-					</ul>
-				</ActionItemList>
-			</ActionContainer>
-		</PanelContainer>
-	)
+            <ActionItem title="Recommend">
+                <ul>
+                    <li>Bonding or sub-guard insurance requirements</li>
+                </ul>
+            </ActionItem>
+            <ActionItem title="Deliver">
+                <ul>
+                    <li>Plan & Cost Report</li>
+                </ul>
+            </ActionItem>
+        </ServiceItem>
+    )
 }
 export default Phase_PreConstruction

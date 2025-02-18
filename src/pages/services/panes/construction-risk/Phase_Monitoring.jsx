@@ -1,28 +1,27 @@
-import PanelContainer, { PanelHeader, ActionLabel, ActionItemList, ActionContainer } from "../PhaseStyles.jsx"
-
 //_____________________________
 function Phase_Monitoring() {
 	return (
-		<PanelContainer>
-			<PanelHeader>Phase 2: Construction</PanelHeader>
-			<ActionContainer>
-				<ActionLabel>Perform:</ActionLabel>
-				<ActionItemList>
+		<div className="panel-container">
+			<div className="panel-header">Phase 2: Construction</div>
+			<div className="action-container">
+				<div className="action-label">Perform:</div>
+				<div className="action-item-list">
 					<ul style={{ textWrap: "pretty" }}>
 						<li>Monthly project site visits and walk-throughs</li>
 						<li>Photographic documentation of progress</li>
 					</ul>
-				</ActionItemList>
+				</div>
 
-				<ActionLabel>Attend:</ActionLabel>
-				<ActionItemList>
+				<div className="action-label">Attend:</div>
+				<div className="action-item-list">
 					<ul>
 						<li>Monthly project meetings</li>
 					</ul>
-				</ActionItemList>
+				</div>
 
-				<ActionLabel>Review, Track, and Analyze:</ActionLabel>
-				<ActionItemList>
+				<div className="action-label">Attend:</div>
+				<div>Review, Track, and Analyze:</div>
+				<div className="action-item-list">
 					<ul>
 						<li>Payment requisitions, invoices, and budget reconciliation</li>
 						<li>Current Partial Lien Waivers</li>
@@ -34,22 +33,24 @@ function Phase_Monitoring() {
 						<li>Work-in-Place and Cost-to-Complete</li>
 						<li>Quality of workmanship and exceptions to the work</li>
 					</ul>
-				</ActionItemList>
+				</div>
 
-				<ActionLabel>Recommend:</ActionLabel>
-				<ActionItemList>
+				<div className="action-label">Attend:</div>
+				<div>Recommend:</div>
+				<div className="action-item-list">
 					<ul>
 						<li>Disbursement amount</li>
 					</ul>
-				</ActionItemList>
-				<ActionLabel>Deliver:</ActionLabel>
-				<ActionItemList>
+				</div>
+				<div className="action-label">Attend:</div>
+				<div>Deliver:</div>
+				<div className="action-item-list">
 					<ul>
 						<li>Site Visit Report</li>
 					</ul>
-				</ActionItemList>
-			</ActionContainer>
-		</PanelContainer>
+				</div>
+			</div>
+		</div>
 	)
 }
 export default Phase_Monitoring

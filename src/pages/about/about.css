@@ -1,0 +1,46 @@
+.company-line-item {
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.cmc-icon {
+    width: 30px;
+    margin-right: 10px;
+}
+
+.cmc-line-text {
+    max-width: max(260px, 80%);
+    text-wrap: pretty;
+    padding-right: 10px;
+}
+
+.company-container {
+    font-family: Lexend;
+    font-weight: 300;
+    font-size: 0.9em;
+    line-height: 1.3em;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.section-header {
+    font-family: Lexend;
+    font-weight: 600;
+    font-size: 1.4em;
+    margin-bottom: 10px;
+}
+
+.leadership-container {
+    font-family: Lexend;
+    font-weight: 300;
+    font-size: 0.9em;
+    line-height: 1.3em;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+.content-block {
+    display: flex;
+    flex-wrap: wrap;
+}

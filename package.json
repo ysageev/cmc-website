@@ -25,8 +25,7 @@
     "react-dom": "^19.0.0",
     "react-fast-marquee": "^1.6.5",
     "react-lite-yt-embed": "^1.2.7",
-    "react-medium-image-zoom": "^5.2.13",
-    "styled-components": "^6.1.15"
+    "react-medium-image-zoom": "^5.2.13"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.7.0",
@@ -47,5 +46,5 @@
   "engines": {
     "node": ">=18.0"
   },
-  "packageManager": "pnpm@10.4.0"
+  "packageManager": "pnpm@10.4.1"
 }

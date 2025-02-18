@@ -1,0 +1,33 @@
+.contact-type {
+    font-size: 1.1em;
+    font-weight: 400;
+    font-family: Lexend;
+    line-height: 1.3em;
+}
+
+.contact-details {
+    height: 100px;
+    font-size: 1.1em;
+    font-family: Lexend;
+    line-height: 1.3em;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.contact-body {
+    display: flex;
+    align-items: top;
+    width: 300px;
+    font-size: 1em;
+    margin-top: 10px;
+    clear: both;
+}
+
+.contact-icon {
+    float: left;
+    margin-right: 10;
+}
+.contact-link {
+    width: 300px;
+    padding-left: 10px;
+}

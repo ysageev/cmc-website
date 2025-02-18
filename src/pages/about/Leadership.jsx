@@ -1,33 +1,11 @@
 import PhotoCard from "./PhotoCard"
-import styled from "styled-components"
 
-const ContentBlock = styled.div`
-	display: flex;
-	flex-wrap: wrap;
-`
-
-const SectionHeader = styled.div`
-	font-family: Lexend;
-	font-weight: 600;
-	font-size: 1.4em;
-	padding-left: 20px;
-	
-`
-
-const LeadershipContainer = styled.div`
-	font-family: Lexend;
-	font-weight: 300;
-	font-size: .9em;
-	line-height: 1.3em;
-	padding-top: 20px;
-	margin-bottom: 20px;
-`
 
 function Leadership() {
 	return (
-		<LeadershipContainer>
-			<SectionHeader>Leadership</SectionHeader>
-			<ContentBlock>
+		<div className="leadership-container">
+			<div className="section-header">Leadership</div>
+			<div className="content-block">
 				<PhotoCard
 					photo="/img/about/peter-schregel.png"
 					name="Peter Schregel"
@@ -59,8 +37,8 @@ function Leadership() {
 					linkedInURL="https://www.linkedin.com/in/derek-perry-cmc/"
 					details="Derek handles all aspects of construction monitoring and reporting for numerous projects, particularly in Ohio and Pennsylvania. He is also active in pre-shovel due diligence, including property condition assessments (PCA/ASTM), and Plan & Cost reporting. Derek serves as team leader for CMC's 360° video program. He oversees onboarding of all consultants and video surveyors. Finally, Derek plays a key role in CMC's outreach efforts to industry stakeholders. A graduate of SUNY Alfred's construction management program, he has been a part of the team since 2016."
 				/>
-			</ContentBlock>
-		</LeadershipContainer>
+			</div>
+		</div>
 	)
 }
 

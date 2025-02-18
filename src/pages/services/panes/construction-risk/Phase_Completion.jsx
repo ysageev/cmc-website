@@ -1,13 +1,11 @@
-import PanelContainer, { PanelHeader, ActionLabel, ActionItemList, ActionContainer } from "../PhaseStyles.jsx"
-
 //_____________________________
 function Phase_Completion() {
 	return (
-		<PanelContainer>
-			<PanelHeader>Phase 3: Completion</PanelHeader>
-			<ActionContainer>
-				<ActionLabel>Review and Track:</ActionLabel>
-				<ActionItemList>
+		<div className="panel-container">
+			<div className="panel-header">Phase 3: Completion</div>
+			<div className="action-container">
+				<div className="action-label">Review and Track:</div>
+				<div className="action-item-list">
 					<ul>
 						<li>Substantial completion</li>
 						<li>Final lien waivers</li>
@@ -19,23 +17,23 @@ function Phase_Completion() {
 						<li>As-built plans</li>
 						<li>Warranty information</li>
 					</ul>
-				</ActionItemList>
+				</div>
 
-				<ActionLabel>Recommend:</ActionLabel>
-				<ActionItemList>
+				<div className="action-label">Recommend:</div>
+				<div className="action-item-list">
 					<ul>
 						<li>Final advance</li>
 					</ul>
-				</ActionItemList>
+				</div>
 
-				<ActionLabel>Deliver:</ActionLabel>
-				<ActionItemList>
+				<div className="action-label">Deliver:</div>
+				<div className="action-item-list">
 					<ul>
 						<li>Closeout Report</li>
 					</ul>
-				</ActionItemList>
-			</ActionContainer>
-		</PanelContainer>
+				</div>
+			</div>
+		</div>
 	)
 }
 export default Phase_Completion

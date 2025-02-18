@@ -1,6 +1,5 @@
 {
   "editor.wordWrapColumn": 160,
-  "editor.wordWrap": "wordWrapColumn",
   "prettier.semi": false,
   "javascript.format.semicolons": "remove",
   "typescript.format.semicolons": "remove"

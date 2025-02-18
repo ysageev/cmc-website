@@ -3,6 +3,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     padding-bottom: 30px;
+    padding-left: 30px;
 }
 
 .page-header-text {
@@ -21,8 +22,8 @@
     font-size: 1.2em;
     line-height: 1.3em;
     padding-top: 20px;
-    margin-bottom: 20px;
     padding-right: 50px;
+    margin-bottom: 20px;
     text-wrap: pretty;
 }
 
@@ -40,4 +41,19 @@
     width: 100%;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+.block-header {
+    font-weight: 600;
+    font-size: 0.9em;
+    padding: 10px;
+    text-transform: uppercase;
+    text-wrap: pretty;
+}
+.block-content {
+    font-weight: 400;
+    font-size: 0.7em;
+    padding: 10px;
+    line-height: 1.4;
+    text-wrap: pretty;
 }
