@@ -13,16 +13,14 @@ function PipeLine() {
                     justifyContent: "space-around",
                 }}
             >
-                <div style={{ marginBottom: 0, paddingRight: 20, width: "80vh" }}>
-                    <ZoomImage src="/img/services/sankeys/pipeline.svg" altText="Entire Pipeline" figcaption="🔎︎ Click any image to enlarge" />
-                </div>
                 <div className="pain-point-container">
-                    <PainPoint title="Existing Property" imageName="existing" />
-                    <PainPoint title="Historic Property" imageName="historic" />
-                    <PainPoint title="Distressed Asset" imageName="distressed" />
-                    <PainPoint title="Proposed Project" imageName="proposed-project" />
-                    <PainPoint title="Under Construction" imageName="under-construction" />
-                    <PainPoint title="Loan Portfolio" imageName="portfolio" />
+                    <ZoomImage src="/img/services/sankeys/pipeline.svg" altText="Entire Pipeline" figcaption="🔎︎ Click any image to enlarge" cn="pos-pipeline" />
+                    <PainPoint title="Existing Property" imageName="existing" cn="pos1" />
+                    <PainPoint title="Historic Property" imageName="historic" cn="pos2" />
+                    <PainPoint title="Distressed Asset" imageName="distressed" cn="pos3" />
+                    <PainPoint title="Proposed Project" imageName="proposed-project" cn="pos4" />
+                    <PainPoint title="Under Construction" imageName="under-construction" cn="pos5" />
+                    <PainPoint title="Loan Portfolio" imageName="portfolio" cn="pos6" />
                 </div>
             </div>
             <br />
@@ -33,14 +31,13 @@ const graphHeaderStyle = {
     fontSize: "1em",
     fontWeight: 500,
     color: "gray",
-    paddingLeft: 10,
 }
 
-const PainPoint = ({ title, imageName }) => {
+const PainPoint = ({ title, imageName, cn }) => {
     const imgSrc = `/img/services/sankeys/${imageName}.svg`
 
     return (
-        <div>
+        <div className={`${cn} ppbase`}>
             <div style={graphHeaderStyle}>{title}</div>
             <ZoomImage src={imgSrc} altText={title} style={{ height: 110, paddingLeft: 10 }} />
         </div>

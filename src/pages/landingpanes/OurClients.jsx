@@ -3,7 +3,7 @@ function OurClients() {
         <div
             style={{
                 paddingLeft: 30,
-                paddingTop: 0,
+                paddingTop: 10,
                 paddingRight: 20,
                 marginBottom: 40,
             }}
@@ -33,7 +33,7 @@ function OurClients() {
                 </div>
                 <div style={{ display: "flex", flexWrap: "wrap", width: 300 }}>
                     <EntityItem label="Institutional Investors" />
-                    <EntityItem label="Government/Municipalities" />
+                    <EntityItem label="Municipalities" />
                     <EntityItem label="Mortgage Companies" />
                 </div>
             </div>

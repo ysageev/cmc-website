@@ -8,7 +8,7 @@ function Hero() {
     return (
         <div>
             <div className="page-header">
-                <CMCLogoLarge style={{ paddingRight: 40 }} />
+                <CMCLogoLarge style={{ paddingRight: 20, paddingLeft: 0 }} />
                 <div className="page-header-text">Reduce Risk, Lend Confidently</div>
                 <div className="page-header-details-text">
                     For more than 35 years, CMC has served <strong>banks</strong> and <strong>investors</strong> in
