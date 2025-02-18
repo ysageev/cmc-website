@@ -53,7 +53,6 @@
 .service-items {
     @media (width > 800px) {
         display: grid;
-
         gap: 10px;
     }
 }

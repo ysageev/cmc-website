@@ -17,7 +17,7 @@ function ApprovedVendor() {
                 textWrap: "pretty",
                 lineHeight: "1.5",
                 marginTop: 0,
-                marginBottom: 40,
+                marginBottom: 20,
             }}
         >
             <ApprovalImage />

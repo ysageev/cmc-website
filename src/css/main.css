@@ -24,7 +24,7 @@
     padding-top: 20px;
     padding-right: 50px;
     margin-bottom: 20px;
-    text-wrap: pretty;
+    text-wrap: balance;
 }
 
 .page-body {
@@ -56,4 +56,12 @@
     padding: 10px;
     line-height: 1.4;
     text-wrap: pretty;
+}
+
+.pain-point-container {
+    @media (width > 800px) {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 10px 30px;
+    }
 }
