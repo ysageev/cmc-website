@@ -11,8 +11,7 @@ function Hero() {
                 <CMCLogoLarge style={{ paddingRight: 20, paddingLeft: 0 }} />
                 <div className="page-header-text">Reduce Risk, Lend Confidently</div>
                 <div className="page-header-details-text">
-                    For more than 35 years, CMC has served <strong>banks</strong> and <strong>investors</strong> in
-                    <strong>&nbsp;commercial construction lending.</strong>
+                    For more than 35 years, CMC has served banks and investors in commercial construction lending.
                     <br />
                     <br />
                     We empower our clients to understand and mitigate construction loan risks.
@@ -34,3 +33,4 @@ function Hero() {
     )
 }
 export default Hero
+//filter: "drop-shadow(0px 0px 9px darkgray)"

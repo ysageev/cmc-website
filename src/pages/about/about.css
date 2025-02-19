@@ -39,6 +39,7 @@
     line-height: 1.3em;
     padding-top: 20px;
     margin-bottom: 20px;
+    padding-left: 20px;
 }
 .content-block {
     display: flex;

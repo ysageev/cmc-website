@@ -7,8 +7,9 @@
 }
 
 .page-header-text {
-    font-size: 2.2em;
-    font-weight: bold;
+    font-family: lexend, sans-serif;
+    font-size: 2.1em;
+    font-weight: 600;
     line-height: 1.3em;
     padding-top: 20px;
     padding-right: 10px;
@@ -35,12 +36,13 @@
     padding-left: 30px;
 }
 
-.page-container {
-    clear: both;
-    height: 50px;
-    width: 100%;
-    margin-top: 20px;
+.page-section-header {
+    font-family: Lexend, sans-serif;
+    font-size: 2em;
+    font-weight: 600;
     margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
 }
 
 .block-header {

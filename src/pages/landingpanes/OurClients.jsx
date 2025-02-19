@@ -6,9 +6,10 @@ function OurClients() {
                 paddingTop: 10,
                 paddingRight: 20,
                 marginBottom: 40,
+                textAlign: "center",
             }}
         >
-            <span style={{ fontSize: "2em", fontWeight: "bold" }}>Our Clients</span>
+            <div className="page-section-header">Our Clients</div>
 
             <div
                 style={{

@@ -17,7 +17,10 @@
     --ifm-color-primary-light: #93d2ed;
     --ifm-color-primary-lighter: #c5e7f5;
     --ifm-color-primary-lightest: #f8fcfe;
+    /* --ifm-font-family-base: "Lexend"; */
+    /* --ifm-heading-font-family: "Lexend"; */
     --ifm-code-font-size: 95%;
+    --ifm-button-font-weight: 600;
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 

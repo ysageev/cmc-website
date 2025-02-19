@@ -7,11 +7,11 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color: var(--ifm-color-primary-darker);
-    color: var(--ifm-color-primary-lightest);
     padding: 10px;
     padding-left: 20px;
     gap: 10px;
+    background-color: var(--ifm-color-primary-darker);
+    color: var(--ifm-color-primary-lightest);
 }
 
 .service-banner-icon {
@@ -23,10 +23,12 @@
 }
 
 .service-banner-title {
-    font-weight: bold;
     font-size: 1.5em;
+    font-family: "Lexend";
+    font-weight: 600;
     width: 30vw;
     color: var(--ifm-color-primary-lighter);
+
     @media (width <= 600px) {
         font-size: 1em;
         width: 50vw;
@@ -35,7 +37,8 @@
 
 .service-banner-detail {
     font-weight: normal;
-    font-size: 0.8em;
+    font-size: 0.85em;
+    font-family: "Lexend";
     color: var(--ifm-color-primary-lightest);
     @media (width <= 600px) {
         font-size: 0.6em;

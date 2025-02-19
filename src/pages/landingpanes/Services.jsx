@@ -2,18 +2,14 @@ import Link from "@docusaurus/Link"
 
 function Services() {
     return (
-        <div style={{ paddingLeft: 30, paddingTop: 30, paddingRight: 20, marginBottom: 30 }}>
-            <div style={{ fontSize: "2em", fontWeight: "bold", marginBottom: 20 }}>Our Services</div>
+        <div style={{ paddingLeft: 30, paddingTop: 30, paddingRight: 20, marginBottom: 30, textAlign: "center" }}>
+            <div className="page-section-header">Our Services</div>
 
-            <div style={{ display: "flex", flexWrap: "wrap" }}>
+            <div style={{ display: "flex", flexWrap: "wrap", gap: 10, textAlign: "left", marginTop: 20 }}>
                 <ServicesListItem icon="fa-helmet-safety" title="Construction Loan Risk Management" details="Reduce construction loan risk" url="/services#risk-man" />
-                <br />
                 <ServicesListItem icon="fa-building-magnifying-glass" title="Property Inspection and Due Diligence" details="Understand what you have." url="/services#prop-insp" />
-                <br />
                 <ServicesListItem icon="fa-suitcase" title="Portfolio Management" details="All your projects, one screen." url="/services#port-man" />
-                <br />
                 <ServicesListItem icon="fa-landmark-flag" title="Historic Preservation" details="Track compliance and tax credits." url="/services#historic" />
-                <br />
                 <ServicesListItem icon="fa-building-circle-exclamation" title="Distressed Assets and Loan Workout" details="Right the ship." url="/services#distressed" />
             </div>
         </div>
@@ -26,7 +22,6 @@ function ServicesListItem({ icon, title, details, url }) {
             style={{
                 display: "flex",
                 alignItems: "center",
-
                 paddingRight: 20,
                 paddingBottom: 20,
                 width: 400,

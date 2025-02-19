@@ -15,10 +15,10 @@ function Home() {
 				<Hero />
 				<Services />
 				<Consultation />
-				<PipeLine />
-				<PoweredByStructDB />
 				<OurClients />
 				<ApprovedVendor />
+				<PipeLine />
+				<PoweredByStructDB />
 				<Standards />
 				<br />
 			</div>
