@@ -47,7 +47,7 @@ const ApprovalImage = () => {
                 padding: 10,
                 fontFamily: "lexend, sans-serif",
                 fontWeight: "bold",
-                boxShadow: "0px 0px 7px 2px",
+                boxShadow: "0px 0px 7px 2px gray",
                 backgroundColor: "white",
                 color: "black",
                 margin: "20px",
