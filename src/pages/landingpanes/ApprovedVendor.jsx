@@ -23,7 +23,7 @@ function ApprovedVendor() {
             <ApprovalImage />
             <div style={{ maxWidth: 600, textWrap: "pretty", paddingTop: 20, paddingBottom: 20, textAlign: "center" }}>
                 Be sure to add CMC to your institution's <span style={{ fontWeight: 900 }}>Approved Vendor List.</span> Request our
-                <span style={{ fontWeight: 500 }}> supporting documents.</span> &nbsp;&nbsp;&nbsp;
+                <span style={{ fontWeight: 500 }}> supporting documents.</span>
             </div>
             <div style={{ marginTop: 20, marginBottom: 20 }}>
                 <Link className="button button--primary button--lg" to={docsRequestEmailURL}>
@@ -50,6 +50,7 @@ const ApprovalImage = () => {
                 boxShadow: "0px 0px 7px 2px",
                 backgroundColor: "white",
                 color: "black",
+                margin: "20px",
             }}
         >
             <div style={{ display: "flex", alignItems: "center", gap: 5 }}>
