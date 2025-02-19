@@ -1,4 +1,4 @@
-<svg height="300" width="800" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2.33 22.7 795.67 252.88">
 <title>Your Diagram Title</title>
 <!-- Generated with SankeyMATIC: 2/12/2025, 10:16:52 AM -->
 <g transform="translate(129.37117,2)">
@@ -24,83 +24,83 @@
 </g>
 <g id="sankey_nodes">
 <g class="node">
-<rect id="r0_border" class="for_r0" x="0" y="64.35" height="166.3" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r0_border" class="for_r0" x="0" y="64.35" height="166.3" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"/>
 <rect id="r0" class="for_r0" x="0" y="64.35" height="166.3" width="15" fill="#f28e2c" fill-opacity="0.6"><title>Proposed Project:
 9</title></rect>
 </g>
 <g class="node">
-<rect id="r1_border" class="for_r1" x="248.13908" y="22.5225" height="18.47778" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r1_border" class="for_r1" x="248.13908" y="22.5225" height="18.47778" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r1" class="for_r1" x="248.13908" y="22.5225" height="18.47778" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Inadequate Plans:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r2_border" class="for_r2" x="248.13908" y="51.45715" height="18.47778" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r2_border" class="for_r2" x="248.13908" y="51.45715" height="18.47778" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r2" class="for_r2" x="248.13908" y="51.45715" height="18.47778" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Inadequate Schedule:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r3_border" class="for_r3" x="248.13908" y="80.39181" height="18.47778" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r3_border" class="for_r3" x="248.13908" y="80.39181" height="18.47778" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r3" class="for_r3" x="248.13908" y="80.39181" height="18.47778" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Inadequate Budget:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r4_border" class="for_r4" x="248.13908" y="109.32646" height="18.47778" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r4_border" class="for_r4" x="248.13908" y="109.32646" height="18.47778" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r4" class="for_r4" x="248.13908" y="109.32646" height="18.47778" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Contract Issues:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r5_border" class="for_r5" x="248.13908" y="138.26111" height="18.47778" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r5_border" class="for_r5" x="248.13908" y="138.26111" height="18.47778" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r5" class="for_r5" x="248.13908" y="138.26111" height="18.47778" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Geotechnical Report:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r6_border" class="for_r6" x="248.13908" y="167.19576" height="18.47778" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r6_border" class="for_r6" x="248.13908" y="167.19576" height="18.47778" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r6" class="for_r6" x="248.13908" y="167.19576" height="18.47778" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Environmental Reports:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r7_border" class="for_r7" x="248.13908" y="196.13042" height="18.47778" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r7_border" class="for_r7" x="248.13908" y="196.13042" height="18.47778" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r7" class="for_r7" x="248.13908" y="196.13042" height="18.47778" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Permits:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r8_border" class="for_r8" x="248.13908" y="225.06507" height="18.47778" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r8_border" class="for_r8" x="248.13908" y="225.06507" height="18.47778" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r8" class="for_r8" x="248.13908" y="225.06507" height="18.47778" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Bonding:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r9_border" class="for_r9" x="248.13908" y="253.99972" height="18.47778" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r9_border" class="for_r9" x="248.13908" y="253.99972" height="18.47778" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r9" class="for_r9" x="248.13908" y="253.99972" height="18.47778" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Contingency:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r10_border" class="for_r10" x="496.27816" y="64.35" height="166.3" width="15" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"></rect>
+<rect id="r10_border" class="for_r10" x="496.27816" y="64.35" height="166.3" width="15" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"/>
 <rect id="r10" class="for_r10" x="496.27816" y="64.35" height="166.3" width="15" fill="#76b7b2" fill-opacity="0.6"><title>Plan and Cost Report  (PCR/PnC):
 9</title></rect>
 </g>
 </g>
 <g id="sankey_labels" font-family="sans-serif" font-size="14px" fill="#000000">
-<rect id="label0_bg" class="for_r0" x="-127.03816" y="136.44" width="125.34566" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label0_bg" class="for_r0" x="-127.03816" y="136.44" width="125.34566" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label0" class="for_r0" text-anchor="end" x="-6.3841" y="147.5" font-weight="700" font-size="14px" dy="4.64">Proposed Project</text>
-<rect id="label1_bg" class="for_r1" x="103.92904" y="20.70139" width="142.39742" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label1_bg" class="for_r1" x="103.92904" y="20.70139" width="142.39742" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label1" class="for_r1" text-anchor="end" x="241.75498" y="31.76139" font-weight="700" font-size="14px" dy="4.64">⚠ Inadequate Plans</text>
-<rect id="label2_bg" class="for_r2" x="79.03841" y="49.63604" width="167.28707" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label2_bg" class="for_r2" x="79.03841" y="49.63604" width="167.28707" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label2" class="for_r2" text-anchor="end" x="241.75498" y="60.69604" font-weight="700" font-size="14px" dy="4.64">⚠ Inadequate Schedule</text>
-<rect id="label3_bg" class="for_r3" x="93.05404" y="78.57069" width="153.38375" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label3_bg" class="for_r3" x="93.05404" y="78.57069" width="153.38375" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label3" class="for_r3" text-anchor="end" x="241.75498" y="89.63069" font-weight="700" font-size="14px" dy="4.64">⚠ Inadequate Budget</text>
-<rect id="label4_bg" class="for_r4" x="114.03841" y="107.50535" width="132.28707" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label4_bg" class="for_r4" x="114.03841" y="107.50535" width="132.28707" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label4" class="for_r4" text-anchor="end" x="241.75498" y="118.56535" font-weight="700" font-size="14px" dy="4.64">⚠ Contract Issues</text>
-<rect id="label5_bg" class="for_r5" x="82.14779" y="136.44" width="164.29391" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label5_bg" class="for_r5" x="82.14779" y="136.44" width="164.29391" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label5" class="for_r5" text-anchor="end" x="241.75498" y="147.5" font-weight="700" font-size="14px" dy="4.64">⚠ Geotechnical Report</text>
-<rect id="label6_bg" class="for_r6" x="65.03841" y="165.37465" width="181.28023" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label6_bg" class="for_r6" x="65.03841" y="165.37465" width="181.28023" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label6" class="for_r6" text-anchor="end" x="241.75498" y="176.43465" font-weight="700" font-size="14px" dy="4.64">⚠ Environmental Reports</text>
-<rect id="label7_bg" class="for_r7" x="167.71029" y="194.30931" width="78.61129" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label7_bg" class="for_r7" x="167.71029" y="194.30931" width="78.61129" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label7" class="for_r7" text-anchor="end" x="241.75498" y="205.36931" font-weight="700" font-size="14px" dy="4.64">⚠ Permits</text>
-<rect id="label8_bg" class="for_r8" x="162.30404" y="223.24395" width="83.80953" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label8_bg" class="for_r8" x="162.30404" y="223.24395" width="83.80953" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label8" class="for_r8" text-anchor="end" x="241.75498" y="234.30396" font-weight="700" font-size="14px" dy="4.64">⚠ Bonding</text>
-<rect id="label9_bg" class="for_r9" x="134.28841" y="252.17863" width="112.03219" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label9_bg" class="for_r9" x="134.28841" y="252.17863" width="112.03219" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label9" class="for_r9" text-anchor="end" x="241.75498" y="263.23861" font-weight="700" font-size="14px" dy="4.64">⚠ Contingency</text>
-<rect id="label10_bg" class="for_r10" x="513.3037" y="127.69" width="155.32516" height="38.9" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label10_bg" class="for_r10" x="513.3037" y="127.69" width="155.32516" height="38.9" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label10" class="for_r10" text-anchor="start" x="517.66227" y="147.5" font-weight="700" font-size="14px" dy="-4.11">Plan and Cost Report <tspan x="517.66227" dy="17.5" font-weight="700" font-size="14px">(PCR/PnC)</tspan></text>
 </g>
 </g></svg>

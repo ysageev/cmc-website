@@ -1,4 +1,4 @@
-<svg height="300" width="800" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2.03 46.31 795.97 206.37">
 <title>Your Diagram Title</title>
 <!-- Generated with SankeyMATIC: 2/11/2025, 4:10:48 PM -->
 <g transform="translate(89.16998,2)">
@@ -14,48 +14,48 @@
 </g>
 <g id="sankey_nodes">
 <g class="node">
-<rect id="r0_border" class="for_r0" x="0" y="81.48" height="132.04" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r0_border" class="for_r0" x="0" y="81.48" height="132.04" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"/>
 <rect id="r0" class="for_r0" x="0" y="81.48" height="132.04" width="15" fill="#f28e2c" fill-opacity="0.6"><title>Loan Portfolio:
 4</title></rect>
 </g>
 <g class="node">
-<rect id="r1_border" class="for_r1" x="283.6872" y="44.814" height="33.01" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r1_border" class="for_r1" x="283.6872" y="44.814" height="33.01" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r1" class="for_r1" x="283.6872" y="44.814" height="33.01" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Footprint:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r2_border" class="for_r2" x="283.6872" y="102.268" height="33.01" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r2_border" class="for_r2" x="283.6872" y="102.268" height="33.01" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r2" class="for_r2" x="283.6872" y="102.268" height="33.01" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Quality:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r3_border" class="for_r3" x="283.6872" y="159.722" height="33.01" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r3_border" class="for_r3" x="283.6872" y="159.722" height="33.01" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r3" class="for_r3" x="283.6872" y="159.722" height="33.01" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Status:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r4_border" class="for_r4" x="283.6872" y="217.176" height="33.01" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r4_border" class="for_r4" x="283.6872" y="217.176" height="33.01" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r4" class="for_r4" x="283.6872" y="217.176" height="33.01" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Loan Priority:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r5_border" class="for_r5" x="567.37439" y="81.48" height="132.04" width="15" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"></rect>
+<rect id="r5_border" class="for_r5" x="567.37439" y="81.48" height="132.04" width="15" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"/>
 <rect id="r5" class="for_r5" x="567.37439" y="81.48" height="132.04" width="15" fill="#76b7b2" fill-opacity="0.6"><title>Realtime Dashboards and Portfolio Reports:
 4</title></rect>
 </g>
 </g>
 <g id="sankey_labels" font-family="sans-serif" font-size="12px" fill="#000000">
-<rect id="label0_bg" class="for_r0" x="-87.14313" y="138.58" width="85.32247" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label0_bg" class="for_r0" x="-87.14313" y="138.58" width="85.32247" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label0" class="for_r0" text-anchor="end" x="-5.6975" y="147.5" font-weight="700" font-size="11.4px" dy="3.48">Loan Portfolio</text>
-<rect id="label1_bg" class="for_r1" x="202.16906" y="51.979" width="80.46628" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label1_bg" class="for_r1" x="202.16906" y="51.979" width="80.46628" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label1" class="for_r1" text-anchor="end" x="277.9897" y="61.319" font-weight="700" font-size="12.6px" dy="4.06">⚠ Footprint</text>
-<rect id="label2_bg" class="for_r2" x="214.73156" y="109.433" width="68.08539" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label2_bg" class="for_r2" x="214.73156" y="109.433" width="68.08539" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label2" class="for_r2" text-anchor="end" x="277.9897" y="118.773" font-weight="700" font-size="12.6px" dy="4.06">⚠ Quality</text>
-<rect id="label3_bg" class="for_r3" x="218.93469" y="166.887" width="62.905" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label3_bg" class="for_r3" x="218.93469" y="166.887" width="62.905" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label3" class="for_r3" text-anchor="end" x="277.9897" y="176.227" font-weight="700" font-size="12.6px" dy="4.06">⚠ Status</text>
-<rect id="label4_bg" class="for_r4" x="179.73156" y="224.341" width="103.08603" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label4_bg" class="for_r4" x="179.73156" y="224.341" width="103.08603" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label4" class="for_r4" text-anchor="end" x="277.9897" y="233.681" font-weight="700" font-size="12.6px" dy="4.06">⚠ Loan Priority</text>
-<rect id="label5_bg" class="for_r5" x="584.2219" y="131.455" width="124.60813" height="31.05" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label5_bg" class="for_r5" x="584.2219" y="131.455" width="124.60813" height="31.05" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label5" class="for_r5" text-anchor="start" x="588.07189" y="147.5" font-weight="700" font-size="11.4px" dy="-3.645">Realtime Dashboards<tspan x="588.07189" dy="14.25" font-weight="700" font-size="11.4px">and Portfolio Reports</tspan></text>
 </g>
 </g></svg>

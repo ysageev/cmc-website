@@ -5,7 +5,7 @@ const ZoomImage = ({ src, style, altText, figcaption, cn }) => (
     <div className={cn}>
         <Zoom a11yNameButtonZoom="Expand">
             <img alt={altText} src={src} loading="lazy" style={style} />
-            {figcaption ? <figcaption style={{ fontSize: ".7em", marginTop: -10, marginBottom: 15 }}>{figcaption}</figcaption> : <div />}
+            {figcaption ? <figcaption style={{ fontSize: ".7em", marginTop: 2, marginBottom: 10 }}>{figcaption}</figcaption> : <div />}
         </Zoom>
     </div>
 )

@@ -1,4 +1,4 @@
-<svg height="300" width="800" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2.21 65.56 795.79 167.89">
 <title>Your Diagram Title</title>
 <!-- Generated with SankeyMATIC: 2/12/2025, 10:11:17 AM -->
 <g transform="translate(129.24715,2)">
@@ -11,48 +11,48 @@
 </g>
 <g id="sankey_nodes">
 <g class="node">
-<rect id="r0_border" class="for_r0" x="0" y="109.5" height="76" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r0_border" class="for_r0" x="0" y="109.5" height="76" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"/>
 <rect id="r0" class="for_r0" x="0" y="109.5" height="76" width="15" fill="#f28e2c" fill-opacity="0.6"><title>Existing Property:
 3</title></rect>
 </g>
 <g class="node">
-<rect id="r1_border" class="for_r1" x="205.09221" y="79.205" height="25.33333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r1_border" class="for_r1" x="205.09221" y="79.205" height="25.33333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r1" class="for_r1" x="205.09221" y="79.205" height="25.33333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Future Maintenance Costs:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r2_border" class="for_r2" x="205.09221" y="149.98083" height="50.66667" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r2_border" class="for_r2" x="205.09221" y="149.98083" height="50.66667" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r2" class="for_r2" x="205.09221" y="149.98083" height="50.66667" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Unknown Condition:
 2</title></rect>
 </g>
 <g class="node">
-<rect id="r3_border" class="for_r3" x="410.18441" y="64.0575" height="25.33333" width="15" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"></rect>
+<rect id="r3_border" class="for_r3" x="410.18441" y="64.0575" height="25.33333" width="15" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"/>
 <rect id="r3" class="for_r3" x="410.18441" y="64.0575" height="25.33333" width="15" fill="#76b7b2" fill-opacity="0.6"><title>Extended Useful Life Report (EUL):
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r4_border" class="for_r4" x="410.18441" y="134.83333" height="25.33333" width="15" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
+<rect id="r4_border" class="for_r4" x="410.18441" y="134.83333" height="25.33333" width="15" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"/>
 <rect id="r4" class="for_r4" x="410.18441" y="134.83333" height="25.33333" width="15" fill="#59a14f" fill-opacity="0.6"><title>Property Needs Assessment (PNA):
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r5_border" class="for_r5" x="410.18441" y="205.60917" height="25.33333" width="15" stroke="rgb(116, 98, 36)" stroke-width="1" fill="none"></rect>
+<rect id="r5_border" class="for_r5" x="410.18441" y="205.60917" height="25.33333" width="15" stroke="rgb(116, 98, 36)" stroke-width="1" fill="none"/>
 <rect id="r5" class="for_r5" x="410.18441" y="205.60917" height="25.33333" width="15" fill="#edc949" fill-opacity="0.6"><title>Preconstruction Report (PRE):
 1</title></rect>
 </g>
 </g>
 <g id="sankey_labels" font-family="sans-serif" font-size="14px" fill="#000000">
-<rect id="label0_bg" class="for_r0" x="-127.03816" y="136.44" width="125.22164" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label0_bg" class="for_r0" x="-127.03816" y="136.44" width="125.22164" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label0" class="for_r0" text-anchor="end" x="-6.3841" y="147.5" font-weight="700" font-size="14px" dy="4.64">Existing Property</text>
-<rect id="label1_bg" class="for_r1" x="0.99154" y="80.81167" width="202.28023" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label1_bg" class="for_r1" x="0.99154" y="80.81167" width="202.28023" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label1" class="for_r1" text-anchor="end" x="198.70811" y="91.87167" font-weight="700" font-size="14px" dy="4.64">⚠ Future Maintenance Costs</text>
-<rect id="label2_bg" class="for_r2" x="43.81966" y="164.25416" width="159.24703" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label2_bg" class="for_r2" x="43.81966" y="164.25416" width="159.24703" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label2" class="for_r2" text-anchor="end" x="198.70811" y="175.31417" font-weight="700" font-size="14px" dy="4.64">⚠ Unknown Condition</text>
-<rect id="label3_bg" class="for_r3" x="427.20992" y="65.66417" width="238.11126" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label3_bg" class="for_r3" x="427.20992" y="65.66417" width="238.11126" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label3" class="for_r3" text-anchor="start" x="431.56852" y="76.72417" font-weight="700" font-size="14px" dy="4.64">Extended Useful Life Report (EUL)</text>
-<rect id="label4_bg" class="for_r4" x="427.20992" y="136.44" width="241.5429" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label4_bg" class="for_r4" x="427.20992" y="136.44" width="241.5429" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label4" class="for_r4" text-anchor="start" x="431.56852" y="147.5" font-weight="700" font-size="14px" dy="4.64">Property Needs Assessment (PNA)</text>
-<rect id="label5_bg" class="for_r5" x="427.20992" y="207.21583" width="207.7802" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label5_bg" class="for_r5" x="427.20992" y="207.21583" width="207.7802" height="21.4" rx="3.5" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label5" class="for_r5" text-anchor="start" x="431.56852" y="218.27583" font-weight="700" font-size="14px" dy="4.64">Preconstruction Report (PRE)</text>
 </g>
 </g></svg>

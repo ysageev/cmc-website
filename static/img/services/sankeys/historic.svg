@@ -1,4 +1,4 @@
-<svg height="400" width="1200" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2.65 49.64 1194.35 299.72">
 <title>Your Diagram Title</title>
 <!-- Generated with SankeyMATIC: 2/13/2025, 10:33:09 AM -->
 <g transform="translate(105.02862,2)">
@@ -17,62 +17,62 @@
 </g>
 <g id="sankey_nodes">
 <g class="node">
-<rect id="r0_border" class="for_r0" x="0" y="121.875" height="151.25" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r0_border" class="for_r0" x="0" y="121.875" height="151.25" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"/>
 <rect id="r0" class="for_r0" x="0" y="121.875" height="151.25" width="15" fill="#f28e2c" fill-opacity="0.6"><title>Historic Property:
 5</title></rect>
 </g>
 <g class="node">
-<rect id="r1_border" class="for_r1" x="324.65108" y="48.14063" height="30.25" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r1_border" class="for_r1" x="324.65108" y="48.14063" height="30.25" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r1" class="for_r1" x="324.65108" y="48.14063" height="30.25" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Existing Status:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r2_border" class="for_r2" x="324.65108" y="115.25781" height="30.25" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r2_border" class="for_r2" x="324.65108" y="115.25781" height="30.25" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r2" class="for_r2" x="324.65108" y="115.25781" height="30.25" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ NPS Part 1 Submissions:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r3_border" class="for_r3" x="324.65108" y="182.375" height="30.25" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r3_border" class="for_r3" x="324.65108" y="182.375" height="30.25" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r3" class="for_r3" x="324.65108" y="182.375" height="30.25" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ NPS Part 1 Conditions:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r4_border" class="for_r4" x="324.65108" y="249.49219" height="30.25" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r4_border" class="for_r4" x="324.65108" y="249.49219" height="30.25" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r4" class="for_r4" x="324.65108" y="249.49219" height="30.25" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ NPS Part 1 Commitments:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r5_border" class="for_r5" x="324.65108" y="316.60938" height="30.25" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r5_border" class="for_r5" x="324.65108" y="316.60938" height="30.25" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r5" class="for_r5" x="324.65108" y="316.60938" height="30.25" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Plan conformance:
 1</title></rect>
 </g>
 <g class="node">
-<rect id="r6_border" class="for_r6" x="649.30217" y="121.875" height="151.25" width="15" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"></rect>
+<rect id="r6_border" class="for_r6" x="649.30217" y="121.875" height="151.25" width="15" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"/>
 <rect id="r6" class="for_r6" x="649.30217" y="121.875" height="151.25" width="15" fill="#76b7b2" fill-opacity="0.6"><title>NPS HTC Part 1   Due Diligence Report:
 5</title></rect>
 </g>
 <g class="node">
-<rect id="r7_border" class="for_r7" x="973.95325" y="121.875" height="151.25" width="15" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"></rect>
+<rect id="r7_border" class="for_r7" x="973.95325" y="121.875" height="151.25" width="15" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"/>
 <rect id="r7" class="for_r7" x="973.95325" y="121.875" height="151.25" width="15" fill="#76b7b2" fill-opacity="0.6"><title>NPS Part 2 HTC   Tracking Reports:
 5</title></rect>
 </g>
 </g>
 <g id="sankey_labels" font-family="sans-serif" font-size="12px" fill="#000000">
-<rect id="label0_bg" class="for_r0" x="-102.3775" y="188.58" width="101.18115" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label0_bg" class="for_r0" x="-102.3775" y="188.58" width="101.18115" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label0" class="for_r0" text-anchor="end" x="-5.6975" y="197.5" font-weight="700" font-size="11.4px" dy="3.48">Historic Property</text>
-<rect id="label1_bg" class="for_r1" x="207.39858" y="53.92563" width="115.405" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label1_bg" class="for_r1" x="207.39858" y="53.92563" width="115.405" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label1" class="for_r1" text-anchor="end" x="318.95358" y="63.26563" font-weight="700" font-size="12.6px" dy="4.06">⚠ Existing Status</text>
-<rect id="label2_bg" class="for_r2" x="152.07046" y="121.04281" width="170.73313" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label2_bg" class="for_r2" x="152.07046" y="121.04281" width="170.73313" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label2" class="for_r2" text-anchor="end" x="318.95358" y="130.38281" font-weight="700" font-size="12.6px" dy="4.06">⚠ NPS Part 1 Submissions</text>
-<rect id="label3_bg" class="for_r3" x="164.69546" y="188.16" width="158.10813" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label3_bg" class="for_r3" x="164.69546" y="188.16" width="158.10813" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label3" class="for_r3" text-anchor="end" x="318.95358" y="197.5" font-weight="700" font-size="12.6px" dy="4.06">⚠ NPS Part 1 Conditions</text>
-<rect id="label4_bg" class="for_r4" x="146.47671" y="255.27719" width="176.32688" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label4_bg" class="for_r4" x="146.47671" y="255.27719" width="176.32688" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label4" class="for_r4" text-anchor="end" x="318.95358" y="264.61719" font-weight="700" font-size="12.6px" dy="4.06">⚠ NPS Part 1 Commitments</text>
-<rect id="label5_bg" class="for_r5" x="189.17983" y="322.39437" width="133.62375" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label5_bg" class="for_r5" x="189.17983" y="322.39437" width="133.62375" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label5" class="for_r5" text-anchor="end" x="318.95358" y="331.73438" font-weight="700" font-size="12.6px" dy="4.06">⚠ Plan conformance</text>
-<rect id="label6_bg" class="for_r6" x="524.1278" y="181.455" width="124.51944" height="31.05" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label6_bg" class="for_r6" x="524.1278" y="181.455" width="124.51944" height="31.05" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label6" class="for_r6" text-anchor="end" x="643.60467" y="197.5" font-weight="700" font-size="11.4px" dy="-3.645">NPS HTC Part 1 <tspan x="643.60467" dy="14.25" font-weight="700" font-size="11.4px"> Due Diligence Report</tspan></text>
-<rect id="label7_bg" class="for_r7" x="989.80076" y="181.455" width="102.17063" height="31.05" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label7_bg" class="for_r7" x="989.80076" y="181.455" width="102.17063" height="31.05" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label7" class="for_r7" text-anchor="start" x="994.65075" y="197.5" font-weight="700" font-size="11.4px" dy="-3.645">NPS Part 2 HTC <tspan x="994.65075" dy="14.25" font-weight="700" font-size="11.4px"> Tracking Reports</tspan></text>
 </g>
 </g></svg>

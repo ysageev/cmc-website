@@ -1,4 +1,4 @@
-<svg height="700" width="2000" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2.22 62.89 1995.78 573.34">
 <title>Your Diagram Title</title>
 <!-- Generated with SankeyMATIC: 2/13/2025, 10:47:45 AM -->
 <g transform="translate(110.77203,2)">
@@ -79,356 +79,356 @@
 </g>
 <g id="sankey_nodes">
 <g class="node">
-<rect id="r0_border" class="for_r0" x="441.9101" y="198.31862" height="143.14667" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r0_border" class="for_r0" x="441.9101" y="198.31862" height="143.14667" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"/>
 <rect id="r0" class="for_r0" x="441.9101" y="198.31862" height="143.14667" width="15" fill="#f28e2c" fill-opacity="0.6"><title>Existing Property:
 11.0</title></rect>
 </g>
 <g class="node">
-<rect id="r1_border" class="for_r1" x="589.21346" y="182.66406" height="52.05333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r1_border" class="for_r1" x="589.21346" y="182.66406" height="52.05333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r1" class="for_r1" x="589.21346" y="182.66406" height="52.05333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Future Maintenance Costs:
 4.0</title></rect>
 </g>
 <g class="node">
-<rect id="r2_border" class="for_r2" x="589.21346" y="261.31389" height="91.09333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r2_border" class="for_r2" x="589.21346" y="261.31389" height="91.09333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r2" class="for_r2" x="589.21346" y="261.31389" height="91.09333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Unknown Condition:
 7.0</title></rect>
 </g>
 <g class="node">
-<rect id="r3_border" class="for_r3" x="736.51683" y="176.87755" height="52.05333" width="15" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"></rect>
+<rect id="r3_border" class="for_r3" x="736.51683" y="176.87755" height="52.05333" width="15" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"/>
 <rect id="r3" class="for_r3" x="736.51683" y="176.87755" height="52.05333" width="15" fill="#76b7b2" fill-opacity="0.6"><title>Extended Useful Life   Report (EUL):
 4.0</title></rect>
 </g>
 <g class="node">
-<rect id="r4_border" class="for_r4" x="736.51683" y="255.52738" height="52.05333" width="15" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
+<rect id="r4_border" class="for_r4" x="736.51683" y="255.52738" height="52.05333" width="15" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"/>
 <rect id="r4" class="for_r4" x="736.51683" y="255.52738" height="52.05333" width="15" fill="#59a14f" fill-opacity="0.6"><title>Property Needs   Assessment (PNA):
 4.0</title></rect>
 </g>
 <g class="node">
-<rect id="r5_border" class="for_r5" x="736.51683" y="334.17722" height="39.04" width="15" stroke="rgb(116, 98, 36)" stroke-width="1" fill="none"></rect>
+<rect id="r5_border" class="for_r5" x="736.51683" y="334.17722" height="39.04" width="15" stroke="rgb(116, 98, 36)" stroke-width="1" fill="none"/>
 <rect id="r5" class="for_r5" x="736.51683" y="334.17722" height="39.04" width="15" fill="#edc949" fill-opacity="0.6"><title>Preconstruction Report (PRE):
 3.0</title></rect>
 </g>
 <g class="node">
-<rect id="r6_border" class="for_r6" x="883.82019" y="351.98243" height="117.12" width="15" stroke="rgb(86, 60, 79)" stroke-width="1" fill="none"></rect>
+<rect id="r6_border" class="for_r6" x="883.82019" y="351.98243" height="117.12" width="15" stroke="rgb(86, 60, 79)" stroke-width="1" fill="none"/>
 <rect id="r6" class="for_r6" x="883.82019" y="351.98243" height="117.12" width="15" fill="#af7aa1" fill-opacity="0.6"><title>Proposed Project:
 9.0</title></rect>
 </g>
 <g class="node">
-<rect id="r7_border" class="for_r7" x="736.51683" y="399.81372" height="78.08" width="15" stroke="rgb(125, 77, 82)" stroke-width="1" fill="none"></rect>
+<rect id="r7_border" class="for_r7" x="736.51683" y="399.81372" height="78.08" width="15" stroke="rgb(125, 77, 82)" stroke-width="1" fill="none"/>
 <rect id="r7" class="for_r7" x="736.51683" y="399.81372" height="78.08" width="15" fill="#ff9da7" fill-opacity="0.6"><title>New Build:
 6.0</title></rect>
 </g>
 <g class="node">
-<rect id="r8_border" class="for_r8" x="1031.12356" y="245.94525" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r8_border" class="for_r8" x="1031.12356" y="245.94525" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r8" class="for_r8" x="1031.12356" y="245.94525" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Inadequate Plans:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r9_border" class="for_r9" x="1031.12356" y="285.55509" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r9_border" class="for_r9" x="1031.12356" y="285.55509" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r9" class="for_r9" x="1031.12356" y="285.55509" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Inadequate Schedule:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r10_border" class="for_r10" x="1031.12356" y="325.16492" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r10_border" class="for_r10" x="1031.12356" y="325.16492" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r10" class="for_r10" x="1031.12356" y="325.16492" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Inadequate Budget:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r11_border" class="for_r11" x="1031.12356" y="364.77475" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r11_border" class="for_r11" x="1031.12356" y="364.77475" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r11" class="for_r11" x="1031.12356" y="364.77475" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Contract Issues:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r12_border" class="for_r12" x="1031.12356" y="404.38459" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r12_border" class="for_r12" x="1031.12356" y="404.38459" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r12" class="for_r12" x="1031.12356" y="404.38459" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Geotechnical Report:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r13_border" class="for_r13" x="1031.12356" y="443.99442" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r13_border" class="for_r13" x="1031.12356" y="443.99442" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r13" class="for_r13" x="1031.12356" y="443.99442" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Environmental Reports:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r14_border" class="for_r14" x="1031.12356" y="483.60425" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r14_border" class="for_r14" x="1031.12356" y="483.60425" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r14" class="for_r14" x="1031.12356" y="483.60425" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Permits:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r15_border" class="for_r15" x="1031.12356" y="523.21409" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r15_border" class="for_r15" x="1031.12356" y="523.21409" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r15" class="for_r15" x="1031.12356" y="523.21409" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Bonding:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r16_border" class="for_r16" x="1031.12356" y="562.82392" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r16_border" class="for_r16" x="1031.12356" y="562.82392" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r16" class="for_r16" x="1031.12356" y="562.82392" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Contingency:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r17_border" class="for_r17" x="1178.42692" y="352.88354" height="117.12" width="15" stroke="rgb(76, 57, 47)" stroke-width="1" fill="none"></rect>
+<rect id="r17_border" class="for_r17" x="1178.42692" y="352.88354" height="117.12" width="15" stroke="rgb(76, 57, 47)" stroke-width="1" fill="none"/>
 <rect id="r17" class="for_r17" x="1178.42692" y="352.88354" height="117.12" width="15" fill="#9c755f" fill-opacity="0.6"><title>Plan and Cost   Report (PCR/PnC):
 9.0</title></rect>
 </g>
 <g class="node">
-<rect id="r18_border" class="for_r18" x="1325.73029" y="314.72336" height="156.16" width="15" stroke="rgb(91, 86, 84)" stroke-width="1" fill="none"></rect>
+<rect id="r18_border" class="for_r18" x="1325.73029" y="314.72336" height="156.16" width="15" stroke="rgb(91, 86, 84)" stroke-width="1" fill="none"/>
 <rect id="r18" class="for_r18" x="1325.73029" y="314.72336" height="156.16" width="15" fill="#bab0ab" fill-opacity="0.6"><title>Under Construction:
 12.0</title></rect>
 </g>
 <g class="node">
-<rect id="r19_border" class="for_r19" x="1473.03365" y="225.96077" height="19.52" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r19_border" class="for_r19" x="1473.03365" y="225.96077" height="19.52" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r19" class="for_r19" x="1473.03365" y="225.96077" height="19.52" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Budget Adequacy:
 1.5</title></rect>
 </g>
 <g class="node">
-<rect id="r20_border" class="for_r20" x="1473.03365" y="272.07727" height="19.52" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r20_border" class="for_r20" x="1473.03365" y="272.07727" height="19.52" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r20" class="for_r20" x="1473.03365" y="272.07727" height="19.52" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Schedule Adequacy:
 1.5</title></rect>
 </g>
 <g class="node">
-<rect id="r21_border" class="for_r21" x="1473.03365" y="318.19377" height="19.52" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r21_border" class="for_r21" x="1473.03365" y="318.19377" height="19.52" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r21" class="for_r21" x="1473.03365" y="318.19377" height="19.52" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Plan Compliance:
 1.5</title></rect>
 </g>
 <g class="node">
-<rect id="r22_border" class="for_r22" x="1473.03365" y="364.31027" height="19.52" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r22_border" class="for_r22" x="1473.03365" y="364.31027" height="19.52" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r22" class="for_r22" x="1473.03365" y="364.31027" height="19.52" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Workmanship:
 1.5</title></rect>
 </g>
 <g class="node">
-<rect id="r23_border" class="for_r23" x="1473.03365" y="410.42677" height="19.52" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r23_border" class="for_r23" x="1473.03365" y="410.42677" height="19.52" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r23" class="for_r23" x="1473.03365" y="410.42677" height="19.52" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Contingency Adequacy:
 1.5</title></rect>
 </g>
 <g class="node">
-<rect id="r24_border" class="for_r24" x="1473.03365" y="456.54327" height="19.52" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r24_border" class="for_r24" x="1473.03365" y="456.54327" height="19.52" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r24" class="for_r24" x="1473.03365" y="456.54327" height="19.52" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Change Order Issues:
 1.5</title></rect>
 </g>
 <g class="node">
-<rect id="r25_border" class="for_r25" x="1473.03365" y="502.65977" height="39.04" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r25_border" class="for_r25" x="1473.03365" y="502.65977" height="39.04" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r25" class="for_r25" x="1473.03365" y="502.65977" height="39.04" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ NPS Part 2 HTC Work Items:
 3.0</title></rect>
 </g>
 <g class="node">
-<rect id="r26_border" class="for_r26" x="1620.33702" y="314.68304" height="78.08" width="15" stroke="rgb(38, 59, 82)" stroke-width="1" fill="none"></rect>
+<rect id="r26_border" class="for_r26" x="1620.33702" y="314.68304" height="78.08" width="15" stroke="rgb(38, 59, 82)" stroke-width="1" fill="none"/>
 <rect id="r26" class="for_r26" x="1620.33702" y="314.68304" height="78.08" width="15" fill="#4e79a7" fill-opacity="0.6"><title>Site Vist Reports  (SOR/SV):
 6.0</title></rect>
 </g>
 <g class="node">
-<rect id="r27_border" class="for_r27" x="1620.33702" y="502.45581" height="39.04" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r27_border" class="for_r27" x="1620.33702" y="502.45581" height="39.04" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"/>
 <rect id="r27" class="for_r27" x="1620.33702" y="502.45581" height="39.04" width="15" fill="#f28e2c" fill-opacity="0.6"><title>NPS Part 2 HTC  Tracking Reports:
 3.0</title></rect>
 </g>
 <g class="node">
-<rect id="r28_border" class="for_r28" x="1767.64039" y="314.44564" height="78.08" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r28_border" class="for_r28" x="1767.64039" y="314.44564" height="78.08" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r28" class="for_r28" x="1767.64039" y="314.44564" height="78.08" width="15" fill="#e15759" fill-opacity="0.6"><title>Closeout Report:
 6.0</title></rect>
 </g>
 <g class="node">
-<rect id="r29_border" class="for_r29" x="0" y="130.12273" height="78.08" width="15" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"></rect>
+<rect id="r29_border" class="for_r29" x="0" y="130.12273" height="78.08" width="15" stroke="rgb(58, 90, 87)" stroke-width="1" fill="none"/>
 <rect id="r29" class="for_r29" x="0" y="130.12273" height="78.08" width="15" fill="#76b7b2" fill-opacity="0.6"><title>Distressed Asset:
 6.0</title></rect>
 </g>
 <g class="node">
-<rect id="r30_border" class="for_r30" x="147.30337" y="63.7245" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r30_border" class="for_r30" x="147.30337" y="63.7245" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r30" class="for_r30" x="147.30337" y="63.7245" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Budget Shortfalls:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r31_border" class="for_r31" x="147.30337" y="103.33433" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r31_border" class="for_r31" x="147.30337" y="103.33433" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r31" class="for_r31" x="147.30337" y="103.33433" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Lien Risks:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r32_border" class="for_r32" x="147.30337" y="142.94417" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r32_border" class="for_r32" x="147.30337" y="142.94417" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r32" class="for_r32" x="147.30337" y="142.94417" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Contract Risks:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r33_border" class="for_r33" x="147.30337" y="182.554" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r33_border" class="for_r33" x="147.30337" y="182.554" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r33" class="for_r33" x="147.30337" y="182.554" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Scope Adequacy:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r34_border" class="for_r34" x="147.30337" y="222.16383" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r34_border" class="for_r34" x="147.30337" y="222.16383" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r34" class="for_r34" x="147.30337" y="222.16383" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Schedule Issues:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r35_border" class="for_r35" x="147.30337" y="261.77367" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r35_border" class="for_r35" x="147.30337" y="261.77367" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r35" class="for_r35" x="147.30337" y="261.77367" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Regulatory Compliance:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r36_border" class="for_r36" x="294.60673" y="164.11185" height="78.08" width="15" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"></rect>
+<rect id="r36_border" class="for_r36" x="294.60673" y="164.11185" height="78.08" width="15" stroke="rgb(44, 79, 39)" stroke-width="1" fill="none"/>
 <rect id="r36" class="for_r36" x="294.60673" y="164.11185" height="78.08" width="15" fill="#59a14f" fill-opacity="0.6"><title>Cost to Complete Report:
 6.0</title></rect>
 </g>
 <g class="node">
-<rect id="r37_border" class="for_r37" x="0" y="354.48348" height="65.06667" width="15" stroke="rgb(116, 98, 36)" stroke-width="1" fill="none"></rect>
+<rect id="r37_border" class="for_r37" x="0" y="354.48348" height="65.06667" width="15" stroke="rgb(116, 98, 36)" stroke-width="1" fill="none"/>
 <rect id="r37" class="for_r37" x="0" y="354.48348" height="65.06667" width="15" fill="#edc949" fill-opacity="0.6"><title>Historic Property:
 5.0</title></rect>
 </g>
 <g class="node">
-<rect id="r38_border" class="for_r38" x="147.30337" y="301.3835" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r38_border" class="for_r38" x="147.30337" y="301.3835" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r38" class="for_r38" x="147.30337" y="301.3835" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Existing Status:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r39_border" class="for_r39" x="147.30337" y="340.99333" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r39_border" class="for_r39" x="147.30337" y="340.99333" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r39" class="for_r39" x="147.30337" y="340.99333" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Submissions:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r40_border" class="for_r40" x="147.30337" y="380.60317" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r40_border" class="for_r40" x="147.30337" y="380.60317" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r40" class="for_r40" x="147.30337" y="380.60317" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Conditions:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r41_border" class="for_r41" x="147.30337" y="420.213" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r41_border" class="for_r41" x="147.30337" y="420.213" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r41" class="for_r41" x="147.30337" y="420.213" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Commitments:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r42_border" class="for_r42" x="147.30337" y="459.82283" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r42_border" class="for_r42" x="147.30337" y="459.82283" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r42" class="for_r42" x="147.30337" y="459.82283" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Plan conformance:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r43_border" class="for_r43" x="294.60673" y="315.33223" height="65.06667" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"></rect>
+<rect id="r43_border" class="for_r43" x="294.60673" y="315.33223" height="65.06667" width="15" stroke="rgb(119, 70, 22)" stroke-width="1" fill="none"/>
 <rect id="r43" class="for_r43" x="294.60673" y="315.33223" height="65.06667" width="15" fill="#f28e2c" fill-opacity="0.6"><title>NPS Part 1 HTC  Due Diligence Report:
 5.0</title></rect>
 </g>
 <g class="node">
-<rect id="r44_border" class="for_r44" x="0" y="539.2344" height="52.05333" width="15" stroke="rgb(86, 60, 79)" stroke-width="1" fill="none"></rect>
+<rect id="r44_border" class="for_r44" x="0" y="539.2344" height="52.05333" width="15" stroke="rgb(86, 60, 79)" stroke-width="1" fill="none"/>
 <rect id="r44" class="for_r44" x="0" y="539.2344" height="52.05333" width="15" fill="#af7aa1" fill-opacity="0.6"><title>Loan Portfolio:
 4.0</title></rect>
 </g>
 <g class="node">
-<rect id="r45_border" class="for_r45" x="147.30337" y="499.43267" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r45_border" class="for_r45" x="147.30337" y="499.43267" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r45" class="for_r45" x="147.30337" y="499.43267" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Footprint:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r46_border" class="for_r46" x="147.30337" y="539.0425" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r46_border" class="for_r46" x="147.30337" y="539.0425" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r46" class="for_r46" x="147.30337" y="539.0425" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Quality:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r47_border" class="for_r47" x="147.30337" y="578.65233" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r47_border" class="for_r47" x="147.30337" y="578.65233" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r47" class="for_r47" x="147.30337" y="578.65233" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Status:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r48_border" class="for_r48" x="147.30337" y="618.26217" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"></rect>
+<rect id="r48_border" class="for_r48" x="147.30337" y="618.26217" height="13.01333" width="15" stroke="rgb(110, 43, 44)" stroke-width="1" fill="none"/>
 <rect id="r48" class="for_r48" x="147.30337" y="618.26217" height="13.01333" width="15" fill="#e15759" fill-opacity="0.6"><title>⚠ Loan Priority:
 1.0</title></rect>
 </g>
 <g class="node">
-<rect id="r49_border" class="for_r49" x="294.60673" y="539.10857" height="52.05333" width="15" stroke="rgb(125, 77, 82)" stroke-width="1" fill="none"></rect>
+<rect id="r49_border" class="for_r49" x="294.60673" y="539.10857" height="52.05333" width="15" stroke="rgb(125, 77, 82)" stroke-width="1" fill="none"/>
 <rect id="r49" class="for_r49" x="294.60673" y="539.10857" height="52.05333" width="15" fill="#ff9da7" fill-opacity="0.6"><title>Realtime Dashboards and Portfolio Reports:
 4.0</title></rect>
 </g>
 </g>
 <g id="sankey_labels" font-family="sans-serif" font-size="12px" fill="#000000">
-<rect id="label0_bg" class="for_r0" x="336.81384" y="260.97195" width="103.85178" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label0_bg" class="for_r0" x="336.81384" y="260.97195" width="103.85178" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label0" class="for_r0" text-anchor="end" x="436.2126" y="269.89195" font-weight="700" font-size="11.50909px" dy="3.48">Existing Property</text>
-<rect id="label1_bg" class="for_r1" x="409.94531" y="199.35072" width="177.58225" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label1_bg" class="for_r1" x="409.94531" y="199.35072" width="177.58225" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label1" class="for_r1" text-anchor="end" x="583.51596" y="208.69072" font-weight="700" font-size="12.27273px" dy="4.06">⚠ Future Maintenance Costs</text>
-<rect id="label2_bg" class="for_r2" x="450.99218" y="297.52056" width="136.37375" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label2_bg" class="for_r2" x="450.99218" y="297.52056" width="136.37375" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label2" class="for_r2" text-anchor="end" x="583.51596" y="306.86056" font-weight="700" font-size="11.94545px" dy="4.06">⚠ Unknown Condition</text>
-<rect id="label3_bg" class="for_r3" x="753.36436" y="185.89376" width="132.81125" height="34.14091" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label3_bg" class="for_r3" x="753.36436" y="185.89376" width="132.81125" height="34.14091" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label3" class="for_r3" text-anchor="start" x="757.21433" y="202.90422" font-weight="700" font-size="12.27273px" dy="-3.61046">Extended Useful Life <tspan x="757.21433" dy="15.34091" font-weight="700" font-size="12.27273px"> Report (EUL)</tspan></text>
-<rect id="label4_bg" class="for_r4" x="752.36436" y="264.54357" width="118.82688" height="34.14091" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label4_bg" class="for_r4" x="752.36436" y="264.54357" width="118.82688" height="34.14091" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label4" class="for_r4" text-anchor="start" x="757.21433" y="281.55405" font-weight="700" font-size="12.27273px" dy="-3.61046">Property Needs <tspan x="757.21433" dy="15.34091" font-weight="700" font-size="12.27273px"> Assessment (PNA)</tspan></text>
-<rect id="label5_bg" class="for_r5" x="551.23309" y="344.35723" width="183.43625" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label5_bg" class="for_r5" x="551.23309" y="344.35723" width="183.43625" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label5" class="for_r5" text-anchor="end" x="730.81933" y="353.69722" font-weight="700" font-size="12.38182px" dy="4.06">Preconstruction Report (PRE)</text>
-<rect id="label6_bg" class="for_r6" x="776.89581" y="400.91241" width="106.16611" height="17.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label6_bg" class="for_r6" x="776.89581" y="400.91241" width="106.16611" height="17.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label6" class="for_r6" text-anchor="end" x="878.12269" y="410.54243" font-weight="700" font-size="11.72727px" dy="3.77">Proposed Project</text>
-<rect id="label7_bg" class="for_r7" x="668.38934" y="429.51373" width="66.28" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label7_bg" class="for_r7" x="668.38934" y="429.51373" width="66.28" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label7" class="for_r7" text-anchor="end" x="730.81933" y="438.85372" font-weight="700" font-size="12.05455px" dy="4.06">New Build</text>
-<rect id="label8_bg" class="for_r8" x="901.26165" y="243.11193" width="128.01438" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label8_bg" class="for_r8" x="901.26165" y="243.11193" width="128.01438" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label8" class="for_r8" text-anchor="end" x="1025.42606" y="252.45192" font-weight="700" font-size="12.6px" dy="4.06">⚠ Inadequate Plans</text>
-<rect id="label9_bg" class="for_r9" x="878.8554" y="282.72173" width="150.42063" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label9_bg" class="for_r9" x="878.8554" y="282.72173" width="150.42063" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label9" class="for_r9" text-anchor="end" x="1025.42606" y="292.06175" font-weight="700" font-size="12.6px" dy="4.06">⚠ Inadequate Schedule</text>
-<rect id="label10_bg" class="for_r10" x="891.4804" y="322.3316" width="138.59348" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label10_bg" class="for_r10" x="891.4804" y="322.3316" width="138.59348" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label10" class="for_r10" text-anchor="end" x="1025.42606" y="331.67159" font-weight="700" font-size="12.6px" dy="4.06">⚠ Inadequate Budget</text>
-<rect id="label11_bg" class="for_r11" x="910.3554" y="361.94143" width="118.92063" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label11_bg" class="for_r11" x="910.3554" y="361.94143" width="118.92063" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label11" class="for_r11" text-anchor="end" x="1025.42606" y="371.28142" font-weight="700" font-size="12.6px" dy="4.06">⚠ Contract Issues</text>
-<rect id="label12_bg" class="for_r12" x="881.65228" y="401.55123" width="148.41257" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label12_bg" class="for_r12" x="881.65228" y="401.55123" width="148.41257" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label12" class="for_r12" text-anchor="end" x="1025.42606" y="410.89125" font-weight="700" font-size="12.6px" dy="4.06">⚠ Geotechnical Report</text>
-<rect id="label13_bg" class="for_r13" x="866.26165" y="441.1611" width="163.01438" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label13_bg" class="for_r13" x="866.26165" y="441.1611" width="163.01438" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label13" class="for_r13" text-anchor="end" x="1025.42606" y="450.50109" font-weight="700" font-size="12.6px" dy="4.06">⚠ Environmental Reports</text>
-<rect id="label14_bg" class="for_r14" x="958.6679" y="480.77093" width="70.60813" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label14_bg" class="for_r14" x="958.6679" y="480.77093" width="70.60813" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label14" class="for_r14" text-anchor="end" x="1025.42606" y="490.11092" font-weight="700" font-size="12.6px" dy="4.06">⚠ Permits</text>
-<rect id="label15_bg" class="for_r15" x="953.80853" y="520.38076" width="75.76975" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label15_bg" class="for_r15" x="953.80853" y="520.38076" width="75.76975" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label15" class="for_r15" text-anchor="end" x="1025.42606" y="529.72075" font-weight="700" font-size="12.6px" dy="4.06">⚠ Bonding</text>
-<rect id="label16_bg" class="for_r16" x="928.58978" y="559.99056" width="101.67722" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label16_bg" class="for_r16" x="928.58978" y="559.99056" width="101.67722" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label16" class="for_r16" text-anchor="end" x="1025.42606" y="569.33059" font-weight="700" font-size="12.6px" dy="4.06">⚠ Contingency</text>
-<rect id="label17_bg" class="for_r17" x="1068.26812" y="394.484" width="108.39377" height="32.45909" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label17_bg" class="for_r17" x="1068.26812" y="394.484" width="108.39377" height="32.45909" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label17" class="for_r17" text-anchor="end" x="1172.72942" y="411.44354" font-weight="700" font-size="11.72727px" dy="-3.55954">Plan and Cost <tspan x="1172.72942" dy="14.65909" font-weight="700" font-size="11.72727px"> Report (PCR/PnC)</tspan></text>
-<rect id="label18_bg" class="for_r18" x="1208.82159" y="383.88339" width="115.09714" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label18_bg" class="for_r18" x="1208.82159" y="383.88339" width="115.09714" height="16.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label18" class="for_r18" text-anchor="end" x="1320.03279" y="392.80336" font-weight="700" font-size="11.4px" dy="3.48">Under Construction</text>
-<rect id="label19_bg" class="for_r19" x="1340.73431" y="226.38076" width="131.47775" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label19_bg" class="for_r19" x="1340.73431" y="226.38076" width="131.47775" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label19" class="for_r19" text-anchor="end" x="1467.33615" y="235.72077" font-weight="700" font-size="12.54545px" dy="4.06">⚠ Budget Adequacy</text>
-<rect id="label20_bg" class="for_r20" x="1328.15618" y="272.49728" width="144.04221" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label20_bg" class="for_r20" x="1328.15618" y="272.49728" width="144.04221" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label20" class="for_r20" text-anchor="end" x="1467.33615" y="281.83727" font-weight="700" font-size="12.54545px" dy="4.06">⚠ Schedule Adequacy</text>
-<rect id="label21_bg" class="for_r21" x="1345.82806" y="318.61376" width="125.38327" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label21_bg" class="for_r21" x="1345.82806" y="318.61376" width="125.38327" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label21" class="for_r21" text-anchor="end" x="1467.33615" y="327.95377" font-weight="700" font-size="12.54545px" dy="4.06">⚠ Plan Compliance</text>
-<rect id="label22_bg" class="for_r22" x="1364.17181" y="364.73028" width="107.34067" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label22_bg" class="for_r22" x="1364.17181" y="364.73028" width="107.34067" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label22" class="for_r22" text-anchor="end" x="1467.33615" y="374.07027" font-weight="700" font-size="12.54545px" dy="4.06">⚠ Workmanship</text>
-<rect id="label23_bg" class="for_r23" x="1307.96868" y="410.84677" width="164.22983" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label23_bg" class="for_r23" x="1307.96868" y="410.84677" width="164.22983" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label23" class="for_r23" text-anchor="end" x="1467.33615" y="420.18677" font-weight="700" font-size="12.54545px" dy="4.06">⚠ Contingency Adequacy</text>
-<rect id="label24_bg" class="for_r24" x="1320.71868" y="456.96328" width="150.48166" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label24_bg" class="for_r24" x="1320.71868" y="456.96328" width="150.48166" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label24" class="for_r24" text-anchor="end" x="1467.33615" y="466.30327" font-weight="700" font-size="12.54545px" dy="4.06">⚠ Change Order Issues</text>
-<rect id="label25_bg" class="for_r25" x="1284.92181" y="512.83975" width="186.37839" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label25_bg" class="for_r25" x="1284.92181" y="512.83975" width="186.37839" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label25" class="for_r25" text-anchor="end" x="1467.33615" y="522.17977" font-weight="700" font-size="12.38182px" dy="4.06">⚠ NPS Part 2 HTC Work Items</text>
-<rect id="label26_bg" class="for_r26" x="1510.89703" y="336.84896" width="107.5925" height="33.86818" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label26_bg" class="for_r26" x="1510.89703" y="336.84896" width="107.5925" height="33.86818" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label26" class="for_r26" text-anchor="end" x="1614.63952" y="353.72304" font-weight="700" font-size="12.05455px" dy="-3.47409">Site Vist Reports <tspan x="1614.63952" dy="15.06818" font-weight="700" font-size="12.05455px">(SOR/SV)</tspan></text>
-<rect id="label27_bg" class="for_r27" x="1636.18455" y="504.89718" width="110.27634" height="34.27729" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label27_bg" class="for_r27" x="1636.18455" y="504.89718" width="110.27634" height="34.27729" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label27" class="for_r27" text-anchor="start" x="1641.03452" y="521.97581" font-weight="700" font-size="12.38182px" dy="-3.67863">NPS Part 2 HTC <tspan x="1641.03452" dy="15.47727" font-weight="700" font-size="12.38182px">Tracking Reports</tspan></text>
-<rect id="label28_bg" class="for_r28" x="1784.48789" y="344.14562" width="102.74008" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label28_bg" class="for_r28" x="1784.48789" y="344.14562" width="102.74008" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label28" class="for_r28" text-anchor="start" x="1788.33789" y="353.48564" font-weight="700" font-size="12.05455px" dy="4.06">Closeout Report</text>
-<rect id="label29_bg" class="for_r29" x="-107.22125" y="159.82273" width="106.35857" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label29_bg" class="for_r29" x="-107.22125" y="159.82273" width="106.35857" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label29" class="for_r29" text-anchor="end" x="-5.6975" y="169.16273" font-weight="700" font-size="12.05455px" dy="4.06">Distressed Asset</text>
-<rect id="label30_bg" class="for_r30" x="16.06649" y="60.89117" width="129.38938" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label30_bg" class="for_r30" x="16.06649" y="60.89117" width="129.38938" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label30" class="for_r30" text-anchor="end" x="141.60587" y="70.23117" font-weight="700" font-size="12.6px" dy="4.06">⚠ Budget Shortfalls</text>
-<rect id="label31_bg" class="for_r31" x="58.03524" y="100.501" width="87.42063" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label31_bg" class="for_r31" x="58.03524" y="100.501" width="87.42063" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label31" class="for_r31" text-anchor="end" x="141.60587" y="109.841" font-weight="700" font-size="12.6px" dy="4.06">⚠ Lien Risks</text>
-<rect id="label32_bg" class="for_r32" x="32.14462" y="140.11083" width="113.31125" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label32_bg" class="for_r32" x="32.14462" y="140.11083" width="113.31125" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label32" class="for_r32" text-anchor="end" x="141.60587" y="149.45083" font-weight="700" font-size="12.6px" dy="4.06">⚠ Contract Risks</text>
-<rect id="label33_bg" class="for_r33" x="20.00399" y="179.72067" width="126.44032" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label33_bg" class="for_r33" x="20.00399" y="179.72067" width="126.44032" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label33" class="for_r33" text-anchor="end" x="141.60587" y="189.06067" font-weight="700" font-size="12.6px" dy="4.06">⚠ Scope Adequacy</text>
-<rect id="label34_bg" class="for_r34" x="22.31649" y="219.3305" width="123.13938" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label34_bg" class="for_r34" x="22.31649" y="219.3305" width="123.13938" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label34" class="for_r34" text-anchor="end" x="141.60587" y="228.6705" font-weight="700" font-size="12.6px" dy="4.06">⚠ Schedule Issues</text>
-<rect id="label35_bg" class="for_r35" x="-19.66788" y="258.94033" width="165.12375" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label35_bg" class="for_r35" x="-19.66788" y="258.94033" width="165.12375" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label35" class="for_r35" text-anchor="end" x="141.60587" y="268.28033" font-weight="700" font-size="12.6px" dy="4.06">⚠ Regulatory Compliance</text>
-<rect id="label36_bg" class="for_r36" x="142.79174" y="193.81185" width="150.93997" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label36_bg" class="for_r36" x="142.79174" y="193.81185" width="150.93997" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label36" class="for_r36" text-anchor="end" x="288.90923" y="203.15185" font-weight="700" font-size="12.05455px" dy="4.06">Cost to Complete Report</text>
-<rect id="label37_bg" class="for_r37" x="-108.54938" y="377.67681" width="106.92456" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label37_bg" class="for_r37" x="-108.54938" y="377.67681" width="106.92456" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label37" class="for_r37" text-anchor="end" x="-5.6975" y="387.01682" font-weight="700" font-size="12.16364px" dy="4.06">Historic Property</text>
-<rect id="label38_bg" class="for_r38" x="30.05087" y="298.55016" width="115.405" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label38_bg" class="for_r38" x="30.05087" y="298.55016" width="115.405" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label38" class="for_r38" text-anchor="end" x="141.60587" y="307.89017" font-weight="700" font-size="12.6px" dy="4.06">⚠ Existing Status</text>
-<rect id="label39_bg" class="for_r39" x="42.64462" y="338.16" width="102.81125" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label39_bg" class="for_r39" x="42.64462" y="338.16" width="102.81125" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label39" class="for_r39" text-anchor="end" x="141.60587" y="347.5" font-weight="700" font-size="12.6px" dy="4.06">⚠ Submissions</text>
-<rect id="label40_bg" class="for_r40" x="55.28524" y="377.76983" width="90.17063" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label40_bg" class="for_r40" x="55.28524" y="377.76983" width="90.17063" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label40" class="for_r40" text-anchor="end" x="141.60587" y="387.10983" font-weight="700" font-size="12.6px" dy="4.06">⚠ Conditions</text>
-<rect id="label41_bg" class="for_r41" x="37.05087" y="417.37966" width="108.405" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label41_bg" class="for_r41" x="37.05087" y="417.37966" width="108.405" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label41" class="for_r41" text-anchor="end" x="141.60587" y="426.71967" font-weight="700" font-size="12.6px" dy="4.06">⚠ Commitments</text>
-<rect id="label42_bg" class="for_r42" x="11.83212" y="456.9895" width="133.62375" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label42_bg" class="for_r42" x="11.83212" y="456.9895" width="133.62375" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label42" class="for_r42" text-anchor="end" x="141.60587" y="466.3295" font-weight="700" font-size="12.6px" dy="4.06">⚠ Plan conformance</text>
-<rect id="label43_bg" class="for_r43" x="161.74487" y="330.9233" width="131.95206" height="34.00453" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label43_bg" class="for_r43" x="161.74487" y="330.9233" width="131.95206" height="34.00453" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label43" class="for_r43" text-anchor="end" x="288.90923" y="347.86556" font-weight="700" font-size="12.16364px" dy="-3.54228">NPS Part 1 HTC <tspan x="288.90923" dy="15.20455" font-weight="700" font-size="12.16364px">Due Diligence Report</tspan></text>
-<rect id="label44_bg" class="for_r44" x="-93.03375" y="555.92104" width="91.68692" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label44_bg" class="for_r44" x="-93.03375" y="555.92104" width="91.68692" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label44" class="for_r44" text-anchor="end" x="-5.6975" y="565.26107" font-weight="700" font-size="12.27273px" dy="4.06">Loan Portfolio</text>
-<rect id="label45_bg" class="for_r45" x="65.78524" y="496.59933" width="80.46626" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label45_bg" class="for_r45" x="65.78524" y="496.59933" width="80.46626" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label45" class="for_r45" text-anchor="end" x="141.60587" y="505.93933" font-weight="700" font-size="12.6px" dy="4.06">⚠ Footprint</text>
-<rect id="label46_bg" class="for_r46" x="78.34774" y="536.20919" width="68.08539" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label46_bg" class="for_r46" x="78.34774" y="536.20919" width="68.08539" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label46" class="for_r46" text-anchor="end" x="141.60587" y="545.54917" font-weight="700" font-size="12.6px" dy="4.06">⚠ Quality</text>
-<rect id="label47_bg" class="for_r47" x="82.55087" y="575.81899" width="62.905" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label47_bg" class="for_r47" x="82.55087" y="575.81899" width="62.905" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label47" class="for_r47" text-anchor="end" x="141.60587" y="585.159" font-weight="700" font-size="12.6px" dy="4.06">⚠ Status</text>
-<rect id="label48_bg" class="for_r48" x="43.34774" y="615.42886" width="103.08605" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label48_bg" class="for_r48" x="43.34774" y="615.42886" width="103.08605" height="18.8" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label48" class="for_r48" text-anchor="end" x="141.60587" y="624.76883" font-weight="700" font-size="12.6px" dy="4.06">⚠ Loan Priority</text>
-<rect id="label49_bg" class="for_r49" x="311.45423" y="548.12478" width="133.67377" height="34.14094" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<rect id="label49_bg" class="for_r49" x="311.45423" y="548.12478" width="133.67377" height="34.14094" rx="3" fill="#fff" fill-opacity="0.45" stroke="none" stroke-width="0" stroke-opacity="0"/>
 <text id="label49" class="for_r49" text-anchor="start" x="315.30423" y="565.13524" font-weight="700" font-size="12.27273px" dy="-3.61046">Realtime Dashboards<tspan x="315.30423" dy="15.34091" font-weight="700" font-size="12.27273px">and Portfolio Reports</tspan></text>
 </g>
 </g></svg>
