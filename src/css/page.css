@@ -1,0 +1,52 @@
+.page-header {
+    background-image: url("/img/hero-background.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+.page-header-text {
+    font-family: lexend, sans-serif;
+    font-size: 2.1em;
+    font-weight: 600;
+    line-height: 1.3em;
+    padding-top: 20px;
+    padding-right: 10px;
+    margin-left: -5px;
+    text-wrap: balance;
+}
+
+.page-header-details-text {
+    font-family: Lexend, sans-serif;
+    font-weight: normal;
+    font-size: 1.2em;
+    line-height: 1.3em;
+    padding-top: 20px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+    text-wrap: balance;
+}
+
+.page-body {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.page-section {
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right: 20px;
+    margin-bottom: 30px;
+}
+.page-section-header {
+    font-family: Lexend, sans-serif;
+    font-size: 1.8em;
+    font-weight: 600;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: left;
+}

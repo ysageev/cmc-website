@@ -1,0 +1,16 @@
+.standards-bar {
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    background-color: var(--ifm-color-primary-lightest);
+}
+
+.standards-logo {
+    height: 4vh;
+}

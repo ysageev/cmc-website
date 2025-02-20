@@ -1,5 +1,4 @@
 import Layout from "@theme/Layout"
-import "./contact.css"
 
 const emailURL = "mailto:info@go-cmc.com?subject=CMC Information Request&body=Enter your questions here"
 

@@ -15,14 +15,13 @@ function ApprovedVendor() {
                 textWrap: "pretty",
                 lineHeight: "1.5",
                 marginTop: 50,
-                marginBottom: 40,
                 backgroundColor: "#343434",
                 color: "white",
             }}
         >
             <ApprovalImage />
-            <div style={{ maxWidth: 600, textWrap: "pretty", paddingTop: 20, paddingBottom: 20, textAlign: "center" }}>
-                Be sure to add CMC to your institution's <span style={{ fontWeight: 900 }}>Approved Vendor List.</span> Request our
+            <div style={{ maxWidth: 600, textWrap: "pretty", padding: 20, textAlign: "center", textWrap: "balanced" }}>
+                Be sure to add CMC to your institution's <span style={{ fontWeight: 900 }}>Approved Vendor List. </span> Request our
                 <span style={{ fontWeight: 500 }}> supporting documents.</span>
             </div>
             <div style={{ marginTop: 20, marginBottom: 20 }}>
@@ -50,7 +49,7 @@ const ApprovalImage = () => {
                 boxShadow: "0px 0px 7px 2px gray",
                 backgroundColor: "white",
                 color: "black",
-                margin: "20px",
+                margin: "20px 20px 20px 0px",
             }}
         >
             <div style={{ display: "flex", alignItems: "center", gap: 5 }}>

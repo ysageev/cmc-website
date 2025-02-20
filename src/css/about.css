@@ -1,0 +1,80 @@
+.company-line-item {
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.about-section-header {
+    font-family: Lexend;
+    font-weight: 600;
+    font-size: 1.4em;
+    margin-bottom: 10px;
+}
+
+.company-line-item-icon {
+    width: 30px;
+    margin-right: 10px;
+}
+
+.company-line-item-text {
+    max-width: max(260px, 80%);
+    text-wrap: pretty;
+    padding-right: 10px;
+}
+
+.leadership-content-block {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.photo-card {
+    max-width: 300px;
+}
+.photo-card-icon {
+    position: relative;
+    left: 240px;
+    top: 40px;
+    zindex: 1000;
+
+    &:hover {
+        filter: drop-shadow(0px 0px 3px orange);
+    }
+
+    &:active {
+        filter: drop-shadow(0px 0px 3px black);
+    }
+}
+
+.photo-card-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-right: 10px;
+    padding: 0px;
+}
+
+.photo-card-name {
+    font-weight: bold;
+    font-size: 1.3em;
+    margin-top: 10px;
+}
+
+.photo-card-photo {
+    width: 240px;
+}
+
+.photo-card-title {
+    font-weight: 500;
+    font-style: italic;
+    font-size: 1em;
+    margin-top: 5;
+}
+.photo-card-details {
+    font-size: 0.9em;
+    margin-top: 10px;
+    padding-left: 15px;
+    padding-right: 5px;
+}

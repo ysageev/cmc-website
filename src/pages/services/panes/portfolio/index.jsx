@@ -1,5 +1,4 @@
 import ServiceBanner from "../ServiceBanner.jsx"
-import "../services.css"
 import StructDBText from "/src/components/common/StructDBText"
 
 function PortfolioManagement() {

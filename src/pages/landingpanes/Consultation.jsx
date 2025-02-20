@@ -5,7 +5,6 @@ const emailURL = "mailto:info@go-cmc.com?subject=CMC Consultation Request&body=E
 function Consultation() {
     return (
         <div
-            className="blurb-strip"
             style={{
                 display: "flex",
                 alignItems: "center",

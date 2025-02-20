@@ -2,10 +2,10 @@ import ZoomImage from "@site/src/components/common/ZoomImage"
 
 function PipeLine() {
     return (
-        <div>
-            <div className="page-section-header">Solutions Pipeline</div>
+        <div className="page-section">
+            <div className="page-section-header">Product Workflows</div>
 
-            <div className="pain-point-container">
+            <div className="pipeline-container">
                 <ZoomImage src="/img/services/sankeys/pipeline.svg" altText="Entire Pipeline" figcaption="🔎︎ Click any image to enlarge" cn="pos-pipeline" />
                 <PainPoint title="Existing Property" imageName="existing" cn="pos1" />
                 <PainPoint title="Historic Property" imageName="historic" cn="pos2" />
@@ -27,7 +27,7 @@ const PainPoint = ({ title, imageName, cn }) => {
     const imgSrc = `/img/services/sankeys/${imageName}.svg`
 
     return (
-        <div className={`${cn} ppbase`}>
+        <div className={`${cn} pipeline-item`}>
             <div style={graphHeaderStyle}>{title}</div>
             <ZoomImage src={imgSrc} altText={title} style={{ height: 110, paddingLeft: 10 }} />
         </div>

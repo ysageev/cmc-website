@@ -1,0 +1,52 @@
+.pipeline-container {
+    align-items: center;
+    max-width: 1200px;
+
+    @media (width > 800px) {
+        display: grid;
+        grid-template:
+            [row1-start] "pipeline pipeline pos1 pos2" [row1-end]
+            [row2-start] "pos3 pos4 pos5 pos6" [row2-end];
+        gap: 20px 10px;
+    }
+}
+
+.pipeline-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 10px;
+}
+
+/* These will probably have to be renamed to better scope them, e.g., pipeline-item-pos-1 */
+.pos1 {
+    margin-top: 10px;
+    grid-area: pos1;
+}
+.pos2 {
+    grid-area: pos2;
+}
+.pos2 {
+    grid-area: pos2;
+}
+.pos3 {
+    grid-area: pos3;
+}
+.pos4 {
+    grid-area: pos4;
+}
+.pos5 {
+    grid-area: pos5;
+}
+.pos6 {
+    grid-area: pos6;
+}
+
+.pos-pipeline {
+    grid-area: pipeline;
+    border: 1px solid gray;
+    border-radius: 1em;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+}

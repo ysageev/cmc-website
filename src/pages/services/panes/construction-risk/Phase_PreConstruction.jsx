@@ -1,4 +1,3 @@
-import "../services.css"
 import ServiceItem from "../ServiceItem"
 import ActionItem from "../ActionItem"
 

@@ -6,7 +6,15 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
 @import url("https://kit.fontawesome.com/919a0a8626.css");
-@import url("main.css");
+@import url("page.css");
+@import url("about.css");
+@import url("contact.css");
+@import url("services.css");
+@import url("hero.css");
+@import url("legal.css");
+@import url("pipeline.css");
+@import url("clients.css");
+@import url("standards.css");
 
 /* You can override the default Infima variables here. */
 :root {
@@ -36,41 +44,6 @@
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-.grayimage {
-    filter: grayscale(1);
-    opacity: 0.8;
-    margin-right: 40px;
-    height: auto;
-    width: auto;
-    max-height: 30px;
-}
-
-.invertgray {
-    filter: grayscale(1) invert(1);
-}
-
-.blurb-strip {
-    background-color: var(--ifm-color-primary-lightest);
-}
-
-.player-wrapper {
-    width: auto;
-    height: auto;
-}
-.react-player {
-    padding-top: 56.25%; /* 56.25%; */
-    position: relative;
-}
-
-.react-player > div {
-    position: absolute;
-    top: 0;
-}
-
-.pnc > .menu__link {
-    color: red;
-}
-
 .theme-doc-sidebar-item-category-level-2 {
     font-size: 0.8em !important;
 }
@@ -97,4 +70,25 @@
 .menu-hide {
     /* display: none !important; */
     color: green !important;
+}
+.grayimage {
+    filter: grayscale(1);
+    opacity: 0.8;
+    margin-right: 40px;
+    height: auto;
+    width: auto;
+    max-height: 30px;
+}
+
+.invertgray {
+    filter: grayscale(1) invert(1);
+}
+
+.player-wrapper {
+    width: auto;
+    height: auto;
+}
+
+.pnc > .menu__link {
+    color: red;
 }

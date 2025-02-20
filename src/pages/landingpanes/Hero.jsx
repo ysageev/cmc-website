@@ -8,7 +8,7 @@ function Hero() {
     return (
         <div>
             <div className="page-header">
-                <CMCLogoLarge style={{ paddingRight: 20, paddingLeft: 0 }} />
+                <CMCLogoLarge style={{ paddingRight: 50, paddingLeft: 0 }} />
                 <div className="page-header-text">Reduce Risk, Lend Confidently</div>
                 <div className="page-header-details-text">
                     For more than 35 years, CMC has served banks and investors in commercial construction lending.
@@ -16,7 +16,7 @@ function Hero() {
                     <br />
                     We empower our clients to understand and mitigate construction loan risks.
                 </div>
-                <div style={{ display: "flex", gap: "10px", flexWrap: "wrap", maxWidth: 400 }}>
+                <div className="hero-buttons">
                     <Link className="button button--primary button--lg" to="/docs/public/introvideo">
                         Video <i className="fa-duotone fa-solid fa-video" />
                     </Link>
@@ -25,7 +25,7 @@ function Hero() {
                         Fact Sheet <i className="fa-duotone fa-solid fa-download" />
                     </a>
                 </div>
-                <div style={{ height: 38, marginTop: 40, marginBottom: 10 }}>
+                <div className="hero-scroller">
                     <CompaniesUsing />
                 </div>
             </div>

@@ -1,0 +1,14 @@
+.block-header {
+    font-weight: 600;
+    font-size: 0.9em;
+    padding: 10px;
+    text-transform: uppercase;
+    text-wrap: pretty;
+}
+.block-content {
+    font-weight: 400;
+    font-size: 0.7em;
+    padding: 10px;
+    line-height: 1.4;
+    text-wrap: pretty;
+}

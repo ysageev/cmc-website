@@ -1,96 +1,89 @@
 
 
 
-Existing Property [4] ⚠ Future Maintenance Costs 
-Existing Property [7] ⚠ Unknown Condition 
+Existing\nProperty [4] ⚠ Future\nMaintenance 
+Existing\nProperty [7] ⚠ Unknown\nCondition 
 
-⚠ Future Maintenance Costs [4] Extended Useful Life \n Report (EUL)
-⚠ Unknown Condition [4] Property Needs \n Assessment (PNA)
-⚠ Unknown Condition [3]  Preconstruction Report (PRE)
-
-
-Preconstruction Report (PRE) [3] Proposed Project
-New Build [6] Proposed Project
-
-Proposed Project [1] ⚠ Inadequate Plans
-Proposed Project [1] ⚠ Inadequate Schedule
-Proposed Project [1] ⚠ Inadequate Budget
-Proposed Project [1] ⚠ Contract Issues
-Proposed Project [1] ⚠ Geotechnical Report 
-Proposed Project [1] ⚠ Environmental Reports 
-Proposed Project [1] ⚠ Permits 
-Proposed Project [1] ⚠ Bonding 
-Proposed Project [1] ⚠ Contingency 
-
-⚠ Inadequate Plans [1] Plan and Cost \n Report (PCR/PnC)
-⚠ Inadequate Schedule [1] Plan and Cost \n Report (PCR/PnC)
-⚠ Inadequate Budget [1] Plan and Cost \n Report (PCR/PnC)
-⚠ Contract Issues [1] Plan and Cost \n Report (PCR/PnC)
-⚠ Geotechnical Report  [1] Plan and Cost \n Report (PCR/PnC)
-⚠ Environmental Reports  [1] Plan and Cost \n Report (PCR/PnC)
-⚠ Permits  [1] Plan and Cost \n Report (PCR/PnC)
-⚠ Bonding  [1] Plan and Cost \n Report (PCR/PnC)
-⚠ Contingency  [1] Plan and Cost \n Report (PCR/PnC)
-
-Under Construction [1.5] ⚠ Budget Adequacy
-Under Construction [1.5] ⚠ Schedule Adequacy
-Under Construction [1.5] ⚠ Plan Compliance
-Under Construction [1.5] ⚠ Workmanship
-Under Construction [1.5] ⚠ Contingency Adequacy
-Under Construction [1.5] ⚠ Change Order Issues
-Under Construction [3] ⚠ NPS Part 2 HTC Work Items
-
-⚠ Budget Adequacy [1] Site Vist Reports \n(SOR/SV)
-⚠ Schedule Adequacy [1] Site Vist Reports \n(SOR/SV)
-⚠ Plan Compliance [1] Site Vist Reports \n(SOR/SV)
-⚠ Workmanship [1] Site Vist Reports \n(SOR/SV)
-⚠ Contingency Adequacy [1] Site Vist Reports \n(SOR/SV)
-⚠ Change Order Issues [1] Site Vist Reports \n(SOR/SV)
-
-⚠ NPS Part 2 HTC Work Items [3] NPS Part 2 HTC \nTracking Reports
-
-Site Vist Reports \n(SOR/SV) [6] Closeout Report
-
-Distressed Asset [1] ⚠ Budget Shortfalls
-Distressed Asset [1] ⚠ Lien Risks
-Distressed Asset [1] ⚠ Contract Risks
-Distressed Asset [1] ⚠ Scope Adequacy
-Distressed Asset [1] ⚠ Schedule Issues
-Distressed Asset [1] ⚠ Regulatory Compliance
-
-⚠ Budget Shortfalls [1] Cost to Complete Report
-⚠ Lien Risks [1] Cost to Complete Report
-⚠ Contract Risks [1] Cost to Complete Report
-⚠ Scope Adequacy [1] Cost to Complete Report
-⚠ Schedule Issues [1] Cost to Complete Report
-⚠ Regulatory Compliance [1] Cost to Complete Report
+⚠ Future\nMaintenance [4] Extended Useful Life \n Report (EUL)
+⚠ Unknown\nCondition [4] Property Needs \n Assessment (PNA)
+⚠ Unknown\nCondition [3]  Preconstruction\nReport (PRE)
 
 
-Historic Property [1] ⚠ Existing Status
-Historic Property [1] ⚠ Submissions
-Historic Property [1] ⚠ Conditions
-Historic Property [1] ⚠ Commitments
-Historic Property [1] ⚠ Plan conformance 
+Preconstruction\nReport (PRE) [3] Proposed\nProject
+New Build [6] Proposed\nProject
 
-⚠ Existing Status  [1] NPS Part 1 HTC \nDue Diligence Report
-⚠ Submissions [1] NPS Part 1 HTC \nDue Diligence Report
-⚠ Conditions [1] NPS Part 1 HTC \nDue Diligence Report
-⚠ Commitments [1] NPS Part 1 HTC \nDue Diligence Report
-⚠ Plan conformance [1] NPS Part 1 HTC \nDue Diligence Report
+Proposed\nProject [1] ⚠ Plans
+Proposed\nProject [1] ⚠ Schedule
+Proposed\nProject [1] ⚠ Budget
+Proposed\nProject [1] ⚠ Contract Issues
+Proposed\nProject [1] ⚠ Geotechnical 
+Proposed\nProject [1] ⚠ Environmental
+Proposed\nProject [1] ⚠ Permits 
+Proposed\nProject [1] ⚠ Bonding 
+Proposed\nProject [1] ⚠ Contingency 
+
+ Low Budget\nSimple Project [3] Under\nConstruction
+
+⚠ Plans [1] Plan and Cost \n Report\n(PCR/PnC)
+⚠ Schedule [1] Plan and Cost \n Report\n(PCR/PnC)
+⚠ Budget [1] Plan and Cost \n Report\n(PCR/PnC)
+⚠ Contract Issues [1] Plan and Cost \n Report\n(PCR/PnC)
+⚠ Geotechnical  [1] Plan and Cost \n Report\n(PCR/PnC)
+⚠ Environmental [1] Plan and Cost \n Report\n(PCR/PnC)
+⚠ Permits  [1] Plan and Cost \n Report\n(PCR/PnC)
+⚠ Bonding  [1] Plan and Cost \n Report\n(PCR/PnC)
+⚠ Contingency  [1] Plan and Cost \n Report\n(PCR/PnC)
+
+Under\nConstruction [1.5] ⚠ Contingency Adequacy
+Under\nConstruction [1.5] ⚠ Budget Adequacy
+Under\nConstruction [1.5] ⚠ Schedule Adequacy
+Under\nConstruction [1.5] ⚠ Plan Compliance
+Under\nConstruction [1.5] ⚠ Workmanship
+Under\nConstruction [1.5] ⚠ Change Order Issues
+Under\nConstruction [3] ⚠ NPS Part 2\nHTC Work Items
+
+⚠ Contingency Adequacy [1.5] Site Visit\nReports\n(SOR/SV)
+⚠ Budget Adequacy [1.5] Site Visit\nReports\n(SOR/SV)
+⚠ Schedule Adequacy [1.5] Site Visit\nReports\n(SOR/SV)
+⚠ Plan Compliance [1.5] Site Visit\nReports\n(SOR/SV)
+⚠ Workmanship [1.5] Site Visit\nReports\n(SOR/SV)
+⚠ Change Order Issues [1.5] Site Visit\nReports\n(SOR/SV)
+
+⚠ NPS Part 2\nHTC Work Items [3] NPS Part 2 HTC \nTracking Reports
+
+Site Visit\nReports\n(SOR/SV) [6] Closeout\nReport
+
+Distressed\nAsset [1] ⚠ Budget Shortfalls
+Distressed\nAsset [1] ⚠ Lien Risks
+Distressed\nAsset [1] ⚠ Contract Risks
+Distressed\nAsset [1] ⚠ Scope Adequacy
+Distressed\nAsset [1] ⚠ Schedule Issues
+Distressed\nAsset [1] ⚠ Regulatory Compliance
+
+⚠ Budget Shortfalls [1] Cost to Complete\nReport (CTC)
+⚠ Lien Risks [1] Cost to Complete\nReport (CTC)
+⚠ Contract Risks [1] Cost to Complete\nReport (CTC)
+⚠ Scope Adequacy [1] Cost to Complete\nReport (CTC)
+⚠ Schedule Issues [1] Cost to Complete\nReport (CTC)
+⚠ Regulatory Compliance [1] Cost to Complete\nReport (CTC)
 
 
-Cost to Complete Report [6] Existing Property
-Plan and Cost \n Report (PCR/PnC) [9] Under Construction
-NPS Part 1 HTC \nDue Diligence Report [5] Existing Property
+Historic\nProperty [1] ⚠ Existing Status
+Historic\nProperty [1] ⚠ Submissions
+Historic\nProperty [1] ⚠ Conditions
+Historic\nProperty [1] ⚠ Commitments
+Historic\nProperty [1] ⚠ Plan conformance 
+
+⚠ Existing Status  [1] NPS Part 1 HTC \nDue Diligence\nReport
+⚠ Submissions [1] NPS Part 1 HTC \nDue Diligence\nReport
+⚠ Conditions [1] NPS Part 1 HTC \nDue Diligence\nReport
+⚠ Commitments [1] NPS Part 1 HTC \nDue Diligence\nReport
+⚠ Plan conformance [1] NPS Part 1 HTC \nDue Diligence\nReport
+
+
+Cost to Complete\nReport (CTC) [6] Existing\nProperty
+Plan and Cost \n Report\n(PCR/PnC) [9] Under\nConstruction
+NPS Part 1 HTC \nDue Diligence\nReport [5] Existing\nProperty
 
 
 
-Loan Portfolio [1]  ⚠ Footprint 
-Loan Portfolio [1]  ⚠ Quality
-Loan Portfolio [1]  ⚠ Status
-Loan Portfolio [1]  ⚠ Loan Priority
-
-⚠ Footprint [1] Realtime Dashboards\nand Portfolio Reports
-⚠ Quality [1] Realtime Dashboards\nand Portfolio Reports
-⚠ Status [1] Realtime Dashboards\nand Portfolio Reports
-⚠ Loan Priority[1] Realtime Dashboards\nand Portfolio Reports

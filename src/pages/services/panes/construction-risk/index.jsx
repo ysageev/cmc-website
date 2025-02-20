@@ -1,5 +1,4 @@
 import ServiceBanner from "../ServiceBanner.jsx"
-import "../services.css"
 import Phase_PreConstruction from "./Phase_PreConstruction.jsx"
 import Phase_Monitoring from "./Phase_Monitoring.jsx"
 import Phase_Completion from "./Phase_Completion.jsx"

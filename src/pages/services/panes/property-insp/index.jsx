@@ -1,6 +1,5 @@
 import ServiceBanner from "../ServiceBanner.jsx"
 import ServiceItem from "../ServiceItem.jsx"
-import "../services.css"
 
 function PropertyInspections() {
     return (

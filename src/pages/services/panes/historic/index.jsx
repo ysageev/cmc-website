@@ -1,12 +1,11 @@
 import ServiceBanner from "../ServiceBanner.jsx"
-import "../services.css"
 import ServiceItem from "../ServiceItem.jsx"
 import ActionItem from "../ActionItem"
 
 function HistoricPreservation() {
     return (
         <div id="historic" style={{ scrollMarginTop: 60 }}>
-            <ServiceBanner icon="fa-landmark-flag" title="Historic Preservation" details="NPS Compliance" divId="historic-content" />
+            <ServiceBanner icon="fa-landmark-flag" title="Historic Preservation" details="NPS Compliance and Tax Credits" divId="historic-content" />
 
             <div id="historic-content" className="collapse-div">
                 <div className="service-content">

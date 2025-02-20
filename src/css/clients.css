@@ -1,0 +1,21 @@
+.clients-body {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-size: 1em;
+}
+
+.clients-entity-group {
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+}
+
+.clients-entity {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    font-size: 1.1em;
+    font-family: Lexend, sans-serif;
+}

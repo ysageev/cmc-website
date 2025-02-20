@@ -1,5 +1,4 @@
 import ServiceBanner from "../ServiceBanner.jsx"
-import "../services.css"
 
 function DistressedAssets() {
     return (

@@ -122,7 +122,7 @@ const Tos = () => {
                     IN ELECTRONIC FORM.
                 </div>
 
-                <div className="section-header">Artificial Intelligence Restriction</div>
+                <div className="section-header">ARTIFICIAL INTELLIGENCE RESTRICTION</div>
                 <div className="block-content">
                     You may not use automated bots to access, scan, scrape, data mine, copy, or use the materials or content on this website for developing, training, fine-tuning, or otherwise
                     contributing to or improving a machine learning model or artificial intelligence (AI) system or the operation thereof, unless your bot's user agent is (i) explicitly permitted
@@ -173,7 +173,7 @@ const Tos = () => {
                     THE SITE MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
                 </div>
 
-                <div className="section-header">Contacting Us</div>
+                <div className="block-header">Contacting Us</div>
                 <div className="block-content">
                     Questions about our privacy policy should be directed to CMC via our
                     <strong>
