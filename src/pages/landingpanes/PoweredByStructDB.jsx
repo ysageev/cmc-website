@@ -1,12 +1,11 @@
 import Link from "@docusaurus/Link"
 import BlurbStrip from "./BlurbStrip"
 
-const left = "CMC is powered By:"
+const left = <div>CMC is powered by:</div>
 const center = <img src="img/struct-pms.svg" alt="rma logo" style={{ width: 300 }} />
 const right = (
     <Link className="button button--primary button--lg" to="https://structdb.net">
-        More info &nbsp;
-        <i className="fa-duotone fa-solid fa-right-from-line" />
+        More info <i className="fa-duotone fa-solid fa-right-from-line" />
     </Link>
 )
 

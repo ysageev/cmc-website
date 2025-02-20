@@ -1,38 +1,7 @@
 import Link from "@docusaurus/Link"
+import BlurbStrip from "./BlurbStrip"
 
 const docsRequestEmailURL = "mailto:info@go-cmc.com?subject=CMC Approval Documents Request&body=Enter your email here"
-
-function ApprovedVendor() {
-    return (
-        <div
-            style={{
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "space-around",
-                flexWrap: "wrap",
-                fontFamily: "Lexend, sans-serif",
-                fontSize: "1.1em",
-                textWrap: "pretty",
-                lineHeight: "1.5",
-                marginTop: 50,
-                backgroundColor: "#343434",
-                color: "white",
-            }}
-        >
-            <ApprovalImage />
-            <div style={{ maxWidth: 600, textWrap: "pretty", padding: 20, textAlign: "center", textWrap: "balanced" }}>
-                Be sure to add CMC to your institution's <span style={{ fontWeight: 900 }}>Approved Vendor List. </span> Request our
-                <span style={{ fontWeight: 500 }}> supporting documents.</span>
-            </div>
-            <div style={{ marginTop: 20, marginBottom: 20 }}>
-                <Link className="button button--primary button--lg" to={docsRequestEmailURL}>
-                    Request &nbsp;
-                    <i className="fa-duotone fa-envelope" />
-                </Link>
-            </div>
-        </div>
-    )
-}
 
 const ApprovalImage = () => {
     return (
@@ -49,7 +18,6 @@ const ApprovalImage = () => {
                 boxShadow: "0px 0px 7px 2px gray",
                 backgroundColor: "white",
                 color: "black",
-                margin: "20px 20px 20px 0px",
             }}
         >
             <div style={{ display: "flex", alignItems: "center", gap: 5 }}>
@@ -59,4 +27,18 @@ const ApprovalImage = () => {
         </div>
     )
 }
+
+const left = <ApprovalImage />
+
+const center = <div>Be sure to add CMC to your institution's Approved Vendor List. Request our supporting documents.</div>
+const right = (
+    <Link className="button button--primary button--lg" to={docsRequestEmailURL}>
+        Request <i className="fa-duotone fa-envelope" />
+    </Link>
+)
+
+function ApprovedVendor() {
+    return <BlurbStrip left={left} center={center} right={right} />
+}
+
 export default ApprovedVendor

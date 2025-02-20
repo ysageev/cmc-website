@@ -4,19 +4,20 @@ function BlurbStrip({ left, center, right }) {
             style={{
                 padding: 30,
                 backgroundColor: "#343434",
-                marginBottom: 40,
                 display: "flex",
-                justifyContent: "space-between",
+                justifyContent: "space-around",
+                alignItems: "center",
                 flexWrap: "wrap",
                 color: "white",
-                fontSize: 28,
+                fontSize: "1.2em",
+                fontFamily: "Lexend, sans-serif",
             }}
         >
-            <div style={{ fontSize: ".6em" }}>{left}</div>
+            <div>{left}</div>
 
-            <div>{center}</div>
+            <div style={{ maxWidth: 640, textAlign: "center", textWrap: "pretty", paddingTop: 20, paddingBottom: 20 }}>{center}</div>
 
-            <div style={{ marginTop: 10, marginBottom: 10 }}>{right}</div>
+            <div>{right}</div>
         </div>
     )
 }

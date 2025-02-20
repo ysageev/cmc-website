@@ -21,11 +21,12 @@ function ServicesListItem({ icon, title, details, url }) {
         <div
             style={{
                 display: "flex",
-                alignItems: "center",
-                paddingRight: 20,
+                paddingRight: 15,
                 paddingBottom: 20,
                 width: 400,
                 textWrap: "pretty",
+                fontFamily: "Lexend, sans-serif",
+                alignItems: "center",
             }}
         >
             <Link href={url}>
@@ -33,9 +34,9 @@ function ServicesListItem({ icon, title, details, url }) {
             </Link>
             <div style={{ marginLeft: 20, lineHeight: 1.4 }}>
                 <Link href={url}>
-                    <div style={{ fontWeight: "bold", fontSize: "1.1em", textWrap: "pretty" }}>{title}</div>
+                    <div style={{ fontWeight: 600, fontSize: "1.13em", textWrap: "pretty" }}>{title}</div>
                 </Link>
-                <div style={{ fontSize: ".75em" }}>{details}</div>
+                <div style={{ fontSize: ".7em" }}>{details}</div>
             </div>
         </div>
     )
