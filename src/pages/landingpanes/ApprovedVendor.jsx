@@ -21,7 +21,7 @@ const ApprovalImage = () => {
             }}
         >
             <div style={{ display: "flex", alignItems: "center", gap: 5 }}>
-                <img src="/img/cmc-icon.png" style={{ height: 22 }} alt="cmc-icon" /> APPROVED <img src="/img/cmc-icon.svg" style={{ height: 20 }} alt="cmc-icon" />
+                <img src="/img/cmc-icon.svg" style={{ height: 22 }} alt="cmc-icon" /> APPROVED <img src="/img/cmc-icon.svg" style={{ height: 20 }} alt="cmc-icon" />
             </div>
             <div style={{ fontSize: "2em" }}>VENDOR</div>
         </div>
