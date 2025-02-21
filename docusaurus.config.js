@@ -72,12 +72,12 @@ const config = {
 		({
 			// Replace with your project's social card
 			docs: { sidebar: { autoCollapseCategories: true } },
-			image: "img/cmc-icon.png",
+			image: "img/cmc-icon.svg",
 			navbar: {
 				title: "CMC",
 				logo: {
 					alt: "Construction Monitoring Consultants",
-					src: "img/cmc-icon.png",
+					src: "img/cmc-icon.svg",
 				},
 				items: [
 					{

@@ -22,7 +22,7 @@ function Company() {
 const CompanyLineItem = ({ children }) => {
     return (
         <div className="company-line-item">
-            <img className="company-line-item-icon" src="img/cmc-icon.png" alt="cmc-icon" />
+            <img className="company-line-item-icon" src="img/cmc-icon.svg" alt="cmc-icon" />
             <div className="company-line-item-text">{children}</div>
         </div>
     )

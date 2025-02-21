@@ -33,10 +33,10 @@ function PipelineCarousel() {
                 infinite={true}
                 autoPlaySpeed={1000}
                 keyBoardControl={true}
-                customTransition="all .5"
+                customTransition="all 1"
                 partialVisible={false}
                 centerMode={false}
-                transitionDuration={500}
+                transitionDuration={1000}
                 removeArrowOnDeviceType={["tablet", "mobile"]}
                 // containerClass="carousel-container"
                 // dotListClass="custom-dot-list-style"
