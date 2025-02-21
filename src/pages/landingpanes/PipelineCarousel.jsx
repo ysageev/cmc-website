@@ -104,7 +104,8 @@ function PipelineCarousel() {
     )
 }
 const graphHeaderStyle = {
-    fontSize: "1.2em",
+    fontFamily: "Lexend, sans-serif",
+    fontSize: "1.4em",
     fontWeight: 500,
     color: "gray",
     clear: "both",
@@ -115,10 +116,10 @@ const PainPoint = ({ title, imageName, children, cn }) => {
     const imgSrc = `/img/services/sankeys/${imageName}.svg`
 
     return (
-        <div style={{ display: "flex", justifyContent: "center", flexDirection: "column", width: "76w", flexWrap: "wrap", alignItems: "center", marginBottom: 20 }}>
+        <div style={{ display: "flex", justifyContent: "center", flexDirection: "column", alignContent: "center", width: "76w", flexWrap: "wrap", alignItems: "center", marginBottom: 20 }}>
             <div style={graphHeaderStyle}>{title}</div>
             <div style={{ clear: "both" }}>
-                <img src={imgSrc} altText={title} style={{ width: "50vw" }} />
+                <img src={imgSrc} altText={title} style={{ width: "60vw", paddingRight: "3vw", paddingLeft: "3vw" }} />
             </div>
             <div style={{ fontSize: ".9em", padding: 20, clear: "both", maxWidth: 600 }}>{children}</div>
         </div>
