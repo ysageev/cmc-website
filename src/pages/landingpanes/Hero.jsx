@@ -11,10 +11,10 @@ function Hero() {
                 <CMCLogoLarge style={{ paddingRight: 50, paddingLeft: 0 }} />
                 <div className="page-header-text">Reduce Risk, Lend Confidently</div>
                 <div className="page-header-details-text">
-                    For more than 35 years, CMC has served banks and investors in commercial construction lending.
+                    For over 35 years, CMC has partnered with banks and investors in commercial construction lending to provide clarity and confidence
                     <br />
                     <br />
-                    We empower our clients to understand and mitigate construction loan risks.
+                    We empower our clients to effectively measure, assess, and mitigate construction loan risks.
                 </div>
                 <div className="hero-buttons">
                     <Link className="button button--primary button--lg" to="/docs/public/introvideo">
