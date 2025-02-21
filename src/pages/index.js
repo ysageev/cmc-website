@@ -2,7 +2,7 @@ import Layout from "@theme/Layout"
 import Hero from "./landingpanes/Hero.jsx"
 import Consultation from "./landingpanes/Consultation.jsx"
 import Services from "./landingpanes/Services.jsx"
-import PipeLine from "./landingpanes/Pipeline.jsx"
+import PipelineCarousel from "./landingpanes/PipelineCarousel.jsx"
 import Standards from "./landingpanes/Standards.jsx"
 import OurClients from "./landingpanes/OurClients.jsx"
 import ApprovedVendor from "./landingpanes/ApprovedVendor.jsx"
@@ -17,7 +17,7 @@ function Home() {
 				<Consultation />
 				<OurClients />
 				<ApprovedVendor />
-				<PipeLine />
+				<PipelineCarousel />
 				<PoweredByStructDB />
 				<Standards />
 				<br />

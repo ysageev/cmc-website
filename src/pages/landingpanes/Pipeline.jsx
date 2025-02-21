@@ -4,7 +4,6 @@ function PipeLine() {
     return (
         <div className="page-section">
             <div className="page-section-header">Product Workflows</div>
-
             <div className="pipeline-container">
                 <ZoomImage src="/img/services/sankeys/pipeline.svg" altText="Entire Pipeline" figcaption="🔎︎ Click any image to enlarge" cn="pos-pipeline" />
                 <PainPoint title="Existing Property" imageName="existing" cn="pos1" />
