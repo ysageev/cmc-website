@@ -67,7 +67,6 @@ const config = {
 			}),
 		],
 	],
-	//<img src="/img/map-marker.png" style="width:20px;"/>
 	themeConfig:
 		/** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 		({
