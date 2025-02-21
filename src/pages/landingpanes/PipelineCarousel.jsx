@@ -88,7 +88,7 @@ const PainPoint = ({ title, imageName, children, cn }) => {
         <div style={{ display: "flex", justifyContent: "center", flexDirection: "column", width: "76w", flexWrap: "wrap", alignItems: "center" }}>
             <div style={graphHeaderStyle}>{title}</div>
             <div style={{ clear: "both" }}>
-                <img src={imgSrc} altText={title} style={{ width: "50vw" }} />
+                <ZoomImage src={imgSrc} altText={title} style={{ width: "50vw" }} />
             </div>
             <div style={{ fontSize: ".9em", padding: 20, clear: "both", maxWidth: 600 }}>{children}</div>
         </div>
