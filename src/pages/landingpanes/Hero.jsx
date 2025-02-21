@@ -8,8 +8,12 @@ function Hero() {
     return (
         <div>
             <div className="page-header">
-                <CMCLogoLarge style={{ paddingRight: 50, paddingLeft: 0 }} />
-                <div className="page-header-text">Reduce Risk, Lend Confidently</div>
+                <img src="img/cmc-logo-blue-long.svg" alt="cmc logo" style={{ width: "100px", marginTop: 60 }} />
+
+                <div className="page-header-text" style={{ fontSize: "clamp(1rem, 9vw, 3rem)", fontWeight: 800, marginTop: 0, paddingTop: 0 }}>
+                    Reduce Risk, <br />
+                    Lend Confidently
+                </div>
                 <div className="page-header-details-text">
                     For over 35 years, CMC has partnered with banks and investors in commercial construction lending to provide clarity and confidence
                     <br />
