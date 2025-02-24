@@ -1,0 +1,25 @@
+.menu-hide {
+    /* display: none !important; */
+    color: green !important;
+}
+.grayimage {
+    filter: grayscale(1);
+    opacity: 0.8;
+    margin-right: 40px;
+    height: auto;
+    width: auto;
+    max-height: 30px;
+}
+
+.invertgray {
+    filter: grayscale(1) invert(1);
+}
+
+.player-wrapper {
+    width: auto;
+    height: auto;
+}
+
+.pnc > .menu__link {
+    color: red;
+}

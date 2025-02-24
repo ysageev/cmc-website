@@ -8,9 +8,9 @@ function Hero() {
     return (
         <div>
             <div className="page-header">
-                <img src="img/cmc-logo-blue-long.svg" alt="cmc logo" style={{ width: "100px", marginTop: 60 }} />
+                <img src="img/cmc-logo-blue-long.svg" alt="cmc logo" className="cmc-logo" />
 
-                <div className="page-header-text" style={{ fontSize: "clamp(1rem, 9vw, 3rem)", fontWeight: 800, marginTop: 0, paddingTop: 0 }}>
+                <div className="page-header-text hero-header-text">
                     Reduce Risk, <br />
                     Lend Confidently
                 </div>

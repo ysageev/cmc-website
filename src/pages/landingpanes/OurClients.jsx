@@ -25,8 +25,8 @@ function OurClients() {
 
 const ICON = "fa-duotone fa-solid fa-badge-check fa-xl fa-fw"
 const ICON_STYLE = {
-    "--fa-primary-color": "green",
-    "--fa-secondary-color": "gray",
+    "--fa-primary-color": "#47B2E0",
+    "--fa-secondary-color": "#47B2E0",
 }
 
 function EntityItem({ label }) {

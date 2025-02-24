@@ -15,6 +15,7 @@
 @import url("pipeline.css");
 @import url("clients.css");
 @import url("standards.css");
+@import url("misc.css");
 
 /* You can override the default Infima variables here. */
 :root {
@@ -30,6 +31,28 @@
     --ifm-code-font-size: 95%;
     --ifm-button-font-weight: 600;
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+main header h1 {
+    font-family: Lexend, sans-serif !important;
+    font-weight: 600 !important;
+    font-size: 2rem !important;
+}
+
+article h1 {
+    font-family: Lexend, sans-serif !important;
+    font-weight: 600 !important;
+    font-size: 2rem !important;
+}
+article h2 {
+    font-family: Lexend, sans-serif !important;
+    font-weight: 500 !important;
+    font-size: 1.6rem !important;
+}
+article h3 {
+    font-family: Lexend, sans-serif !important;
+    font-weight: 500 !important;
+    font-size: 1.2rem !important;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -65,30 +88,4 @@
 .theme-doc-sidebar-item-link-level-4 {
     font-size: 0.7em !important;
     font-family: Lexend, sans-serif !important;
-}
-
-.menu-hide {
-    /* display: none !important; */
-    color: green !important;
-}
-.grayimage {
-    filter: grayscale(1);
-    opacity: 0.8;
-    margin-right: 40px;
-    height: auto;
-    width: auto;
-    max-height: 30px;
-}
-
-.invertgray {
-    filter: grayscale(1) invert(1);
-}
-
-.player-wrapper {
-    width: auto;
-    height: auto;
-}
-
-.pnc > .menu__link {
-    color: red;
 }

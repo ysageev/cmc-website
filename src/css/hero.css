@@ -11,3 +11,14 @@
     margin-bottom: 10px;
     margin-left: -20px;
 }
+.cmc-logo {
+    width: 120px;
+    margin-top: 60px;
+}
+
+.hero-header-text {
+    font-size: clamp(1rem, 9vw, 3rem);
+    font-weight: 800;
+    margin-top: 0;
+    padding-top: 0;
+}

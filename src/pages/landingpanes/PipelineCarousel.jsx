@@ -45,14 +45,14 @@ function PipelineCarousel() {
                 // itemClass="carousel-item-padding-40-px"
             >
                 <PainPoint title="Overview" imageName="pipeline" cn="pos1">
-                    Here we see the big picture. Pain points (red paths) associated with different assets and goals are resolved by CMC services and then flow into other CMC services.
+                    Pain points (red paths) associated with different assets and goals are resolved by CMC services and then flow into other CMC services.
                     <br />
                     <br />
-                    Use this carousel to navigate sub-flows in the overall workflow.
+                    Swipe left/right to navigate sub-flows in the overall workflow.
                 </PainPoint>
                 <PainPoint title="Existing Property" imageName="existing" cn="pos1">
                     Existing properties can be kept as an asset or be intended for renovation. A frequent pain-point for asset owners is knowing the Expected Useful Life of asset components and
-                    knowing the future annual maintencance costs over term.
+                    knowing the future annual maintenance costs over term.
                     <br />
                     <br />
                     For pre-renovation properties, lenders need to assess the condition of the property and it's proplems, prior to evaluating plans.
@@ -62,23 +62,23 @@ function PipelineCarousel() {
                     <Link to={"/services#prop-insp"}>CMC's property due-diligence services.</Link>
                 </PainPoint>
                 <PainPoint title="Historic Property" imageName="historic" cn="pos2">
-                    Historic properties require careful vetting of the National Parks Service application (NPS Part 1) and, during construction, conformance tracking to reliably receive tax credits
-                    and to prevent project delays (NPS Part 2).
+                    Historic properties require careful vetting during pre-construction of the National Parks Service (NPS) Part 1 application. During construction, projects require conformance
+                    tracking to reliably receive tax credits and to prevent project delays (NPS Part 2).
                     <br />
                     <br />
                     Learn more about&nbsp;
                     <Link to={"/services#historic"}>CMC's historic property services.</Link>
                 </PainPoint>
                 <PainPoint title="Distressed Asset" imageName="distressed" cn="pos3">
-                    Occasionally, clients come to CMC with projects under construction that have encountered show-stopping problems. Owners or contractors may have walked away, unforeseen structural
-                    defects may have arisen that require significant reevaluation of project scope.
+                    Occasionally, clients come to CMC with projects under construction that have encountered show-stopping problems. Owners or contractors may have "walked away", or unforeseen
+                    structural defects may have arisen that require significant reevaluation of project scope.
                     <br />
                     <br />
                     Learn more about&nbsp;
                     <Link to={"/services#distressed"}>CMC's distressed asset services.</Link>
                 </PainPoint>
                 <PainPoint title="Proposed Project" imageName="proposed-project" cn="pos4">
-                    Proposed projects consist of New Builds and Renovations.
+                    Proposed projects consist of New Builds and Renovations. CMC's Plan and Cost Report (PNC) addresses all the pain points necessary to vet a project for construction.
                     <br />
                     <br />
                     Learn more about&nbsp;
