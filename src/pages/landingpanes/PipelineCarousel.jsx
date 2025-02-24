@@ -38,7 +38,7 @@ function PipelineCarousel() {
                 customTransition="all 1"
                 partialVisible={false}
                 centerMode={false}
-                transitionDuration={1000}
+                transitionDuration={0.1}
                 removeArrowOnDeviceType={["tablet", "mobile"]}
                 // containerClass="carousel-container"
                 // dotListClass="custom-dot-list-style"
