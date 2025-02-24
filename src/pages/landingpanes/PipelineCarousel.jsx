@@ -24,7 +24,7 @@ const responsive = {
 function PipelineCarousel() {
     return (
         <div className="page-section">
-            <div className="page-section-header">Product Workflows</div>
+            <div className="page-section-header">Workflows and Pain Points</div>
 
             <Carousel
                 swipeable={true}
