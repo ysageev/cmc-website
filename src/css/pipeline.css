@@ -50,3 +50,36 @@
     padding-top: 15px;
     padding-right: 15px;
 }
+
+.pain-point-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    width: 76vw;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.pain-point-title {
+    font-family: Lexend, sans-serif;
+    font-size: 1.4em;
+    font-weight: 500;
+    color: gray;
+    clear: both;
+    margin-bottom: 10px;
+}
+
+.pain-point-image {
+    width: 60vw;
+    padding-right: 3vw;
+    padding-left: 3vw;
+}
+
+.pain-point-children {
+    font-size: 0.9em;
+    padding: 20px;
+    clear: both;
+    max-width: 600px;
+}

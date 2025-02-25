@@ -1,0 +1,37 @@
+.service-items-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.service-item-container {
+    display: flex;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    width: 400px;
+    text-wrap: pretty;
+    font-family: Lexend, sans-serif;
+    align-items: center;
+}
+
+.service-item-icon {
+    --fa-primary-color: #47b2e0;
+    --fa-secondary-color: gray;
+}
+
+.service-item-details {
+    font-size: 0.7em;
+}
+
+.service-item-link {
+    margin-left: 20px;
+    line-height: 1.4;
+}
+
+.service-item-title {
+    font-weight: 600;
+    font-size: 1.13em;
+    text-wrap: pretty;
+}

@@ -1,0 +1,27 @@
+.approved-vendor-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid #47b2e0;
+    border-radius: 7px;
+    padding: 10px;
+    font-family: Lexend, sans-serif;
+    font-weight: bold;
+    box-shadow: 0px 0px 7px 2px gray;
+    background-color: white;
+    color: black;
+}
+
+.approved-vendor-strip {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.approved-vendor-icon-cmc {
+    height: 22px;
+}
+
+.approved-vendor-text {
+    font-size: 2em;
+}

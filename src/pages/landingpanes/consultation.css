@@ -1,0 +1,12 @@
+.consultation-container {
+    font-size: 1.2em;
+}
+
+.consultation-text {
+    margin: 15px;
+    text-align: center;
+}
+
+.consultation-highlight {
+    color: #c4f1ff;
+}

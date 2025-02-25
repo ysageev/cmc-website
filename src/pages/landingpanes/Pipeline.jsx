@@ -5,7 +5,7 @@ function PipeLine() {
         <div className="page-section">
             <div className="page-section-header">Product Workflows</div>
             <div className="pipeline-container">
-                <ZoomImage src="/img/services/sankeys/pipeline.svg" altText="Entire Pipeline" figcaption="🔎︎ Click any image to enlarge" cn="pos-pipeline" />
+                <ZoomImage src="/img/services/sankeys/pipeline.svg" alttext="Entire Pipeline" figcaption="🔎︎ Click any image to enlarge" cn="pos-pipeline" />
                 <PainPoint title="Existing Property" imageName="existing" cn="pos1" />
                 <PainPoint title="Historic Property" imageName="historic" cn="pos2" />
                 <PainPoint title="Distressed Asset" imageName="distressed" cn="pos3" />
@@ -28,7 +28,7 @@ const PainPoint = ({ title, imageName, cn }) => {
     return (
         <div className={`${cn} pipeline-item`}>
             <div style={graphHeaderStyle}>{title}</div>
-            <ZoomImage src={imgSrc} altText={title} style={{ height: 110, paddingLeft: 10 }} />
+            <ZoomImage src={imgSrc} alttext={title} style={{ height: 110, paddingLeft: 10 }} />
         </div>
     )
 }

@@ -1,11 +1,13 @@
 import Link from "@docusaurus/Link"
+import "./services-landing.css"
+import clsx from "clsx"
 
 function Services() {
     return (
         <div className="page-section">
             <div className="page-section-header">Our Services</div>
 
-            <div style={{ display: "flex", flexWrap: "wrap", gap: 10, textAlign: "left", marginTop: 20 }}>
+            <div className="service-items-list">
                 <ServicesListItem icon="fa-helmet-safety" title="Construction Loan Risk Management" details="Reduce construction loan risk" url="/services#risk-man" />
                 <ServicesListItem icon="fa-building-magnifying-glass" title="Property Inspection and Due Diligence" details="Understand what you have." url="/services#prop-insp" />
                 <ServicesListItem icon="fa-suitcase" title="Portfolio Management" details="All your projects, one screen." url="/services#port-man" />
@@ -18,25 +20,15 @@ function Services() {
 
 function ServicesListItem({ icon, title, details, url }) {
     return (
-        <div
-            style={{
-                display: "flex",
-                paddingRight: 15,
-                paddingBottom: 20,
-                width: 400,
-                textWrap: "pretty",
-                fontFamily: "Lexend, sans-serif",
-                alignItems: "center",
-            }}
-        >
+        <div className="service-item-container">
             <Link href={url}>
-                <i className={`fa-duotone fa-solid ${icon} fa-3x fa-fw`} style={{ "--fa-primary-color": "#47B2E0", "--fa-secondary-color": "gray" }} />
+                <i className={clsx("fa-duotone fa-solid fa-3x fa-fw", icon, "service-item-icon")} />
             </Link>
-            <div style={{ marginLeft: 20, lineHeight: 1.4 }}>
+            <div className="service-item-link">
                 <Link href={url}>
-                    <div style={{ fontWeight: 600, fontSize: "1.13em", textWrap: "pretty" }}>{title}</div>
+                    <div className="service-item-title">{title}</div>
                 </Link>
-                <div style={{ fontSize: ".7em" }}>{details}</div>
+                <div className="service-item-details">{details}</div>
             </div>
         </div>
     )
