@@ -20,7 +20,7 @@ function HistoricPreservation() {
                             <div className="action-container">
                                 <ActionItem title="Perform">
                                     <ul>
-                                        <li>Monthly project visits to monitor conformance</li>
+                                        <li>Single visit to determine NPS submission conformance</li>
                                     </ul>
                                 </ActionItem>
 
@@ -40,7 +40,7 @@ function HistoricPreservation() {
                             <div className="action-container">
                                 <ActionItem title="Perform">
                                     <ul>
-                                        <li>Single visit to determine NPS submission conformance</li>
+                                        <li>Monthly project visits to monitor conformance</li>
                                     </ul>
                                 </ActionItem>
 
