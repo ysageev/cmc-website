@@ -12,3 +12,10 @@
     line-height: 1.4;
     text-wrap: pretty;
 }
+
+.section-header {
+    font-weight: 600;
+    font-size: 1.4em;
+    margin-left: 10px;
+    text-transform: uppercase;
+}
