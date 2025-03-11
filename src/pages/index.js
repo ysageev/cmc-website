@@ -7,6 +7,7 @@ import Standards from "./landingpanes/Standards.jsx"
 import OurClients from "./landingpanes/OurClients.jsx"
 import ApprovedVendor from "./landingpanes/ApprovedVendor.jsx"
 import PoweredByStructDB from "./landingpanes/PoweredByStructDB.jsx"
+import Footprint from "./landingpanes/Footprint.jsx"
 
 function Home() {
 	return (
@@ -14,6 +15,7 @@ function Home() {
 			<div className="container">
 				<Hero />
 				<Services />
+				<Footprint />
 				<Consultation />
 				<OurClients />
 				<ApprovedVendor />

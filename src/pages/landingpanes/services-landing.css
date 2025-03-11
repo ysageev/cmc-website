@@ -35,3 +35,18 @@
     font-size: 1.13em;
     text-wrap: pretty;
 }
+
+.service-area-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+    text-align: left;
+}
+
+.service-area-blurb {
+    font-family: Lexend, sans-serif;
+    font-size: 12pt;
+    text-wrap: wrap;
+    max-width: 600px;
+}
