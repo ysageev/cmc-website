@@ -1,0 +1,17 @@
+.footprint-container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    font-family: Lexend, sans-serif;
+    text-wrap: pretty;
+}
+
+.service-area-blurb {
+    font-family: Lexend, sans-serif;
+    font-size: 12pt;
+    text-wrap: wrap;
+    max-width: 600px;
+}

@@ -1,13 +1,13 @@
 import Layout from "@theme/Layout"
-import Hero from "./landingpanes/Hero.jsx"
-import Consultation from "./landingpanes/Consultation.jsx"
-import Services from "./landingpanes/Services.jsx"
-import PipelineCarousel from "./landingpanes/PipelineCarousel.jsx"
-import Standards from "./landingpanes/Standards.jsx"
-import OurClients from "./landingpanes/OurClients.jsx"
-import ApprovedVendor from "./landingpanes/ApprovedVendor.jsx"
-import PoweredByStructDB from "./landingpanes/PoweredByStructDB.jsx"
-import Footprint from "./landingpanes/Footprint.jsx"
+import Hero from "./main/Hero.jsx"
+import Consultation from "./main/Consultation.jsx"
+import Services from "./main/Services.jsx"
+import PipelineCarousel from "./main/PipelineCarousel.jsx"
+import Standards from "./main/Standards.jsx"
+import OurClients from "./main/OurClients.jsx"
+import ApprovedVendor from "./main/ApprovedVendor.jsx"
+import PoweredByStructDB from "./main/PoweredByStructDB.jsx"
+import Footprint from "./main/Footprint.jsx"
 
 function Home() {
 	return (

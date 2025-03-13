@@ -43,10 +43,3 @@
     gap: 10px;
     text-align: left;
 }
-
-.service-area-blurb {
-    font-family: Lexend, sans-serif;
-    font-size: 12pt;
-    text-wrap: wrap;
-    max-width: 600px;
-}

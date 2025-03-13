@@ -1,4 +1,4 @@
-import "./blurb-strip.css"
+import "./css/blurb-strip.css"
 
 function BlurbStrip({ left, center, right }) {
     return (

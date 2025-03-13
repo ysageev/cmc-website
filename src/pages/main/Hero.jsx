@@ -1,7 +1,6 @@
 import Link from "@docusaurus/Link"
 import CompaniesUsing from "@site/src/components/CompaniesUsing"
-import CMCLogoLarge from "@site/src/components/common/CMCLogoLarge"
-
+import "./css/hero.css"
 //TODO: NAMING AND HIERARCHY IS WRONG WRT STYLES
 //_____________________________________________
 function Hero() {

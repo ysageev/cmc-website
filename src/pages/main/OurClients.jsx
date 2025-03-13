@@ -1,3 +1,5 @@
+import "./css/clients.css"
+
 function OurClients() {
     return (
         <div className="page-section">

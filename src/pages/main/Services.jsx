@@ -1,5 +1,5 @@
 import Link from "@docusaurus/Link"
-import "./services-landing.css"
+import "./css/services-landing.css"
 import clsx from "clsx"
 
 function Services() {

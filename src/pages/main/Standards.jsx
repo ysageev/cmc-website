@@ -1,3 +1,5 @@
+import "./css/standards.css"
+
 function Standards() {
     return (
         <div className="standards-bar">

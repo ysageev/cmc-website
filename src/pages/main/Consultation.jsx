@@ -1,6 +1,6 @@
 import Link from "@docusaurus/Link"
 import BlurbStrip from "./BlurbStrip"
-import "./consultation.css"
+import "./css/consultation.css"
 
 const emailURL = "mailto:info@go-cmc.com?subject=CMC Consultation Request&body=Enter your information here"
 
