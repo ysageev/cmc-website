@@ -18,6 +18,7 @@
 
 .service-map {
     max-width: 300px;
+    background: transparent;
 }
 
 .service-area-info {
