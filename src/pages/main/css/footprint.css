@@ -15,3 +15,28 @@
     text-wrap: wrap;
     max-width: 600px;
 }
+
+.service-map {
+    max-width: 300px;
+}
+
+.service-area-info {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: clamp(8pt, 0.8vw, 12pt);
+}
+
+.service-area-item {
+    display: flex;
+    align-items: center;
+}
+
+.color-chip {
+    width: 20px;
+    height: 20px;
+    border: 1px solid gray;
+    border-radius: 2px;
+    padding: 5px;
+    margin: 5px;
+}
