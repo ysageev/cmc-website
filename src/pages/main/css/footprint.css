@@ -25,12 +25,13 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    font-size: clamp(8pt, 0.8vw, 12pt);
+    font-size: clamp(8pt, 1vw, 12pt);
 }
 
 .service-area-item {
     display: flex;
     align-items: center;
+    font-size: clamp(8pt, 0.7vw, 10pt);
 }
 
 .color-chip {
