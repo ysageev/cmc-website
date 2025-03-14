@@ -3,8 +3,9 @@
 ## Goal
 
 Every four (4) months, on average:
-_ Achieve enough new book of business to hire another consultant.
-_ Open up 1 new service area, or expand two underperforming existing ones, such as PA and NC
+
+-   Achieve enough new book of business to hire another consultant.
+-   Open up 1 new service area, or expand two underperforming existing ones, such as PA and NC
 
 ---
 
@@ -30,12 +31,12 @@ _ Open up 1 new service area, or expand two underperforming existing ones, such 
 -   Website
     -   Front page
         -   Service area section
-        -   Expand, Finalize language
-    -   Project "all scopes and sizes" section with graphics and verbiage.
+            -   Expand, Finalize language
+        -   Project "all scopes and sizes" section with graphics and verbiage.
     -   Detailed "white paper" pages
         -   Service Area
         -   Scopes
-    -   Ensure, as Anthony always wants, consistency of graphics and messaging between website, LinkedIn, Statement of qualifications, etc
+    -   Ensure consistency of graphics and messaging between website, LinkedIn, Statement of qualifications, etc
 
 ### Email signatures
 
@@ -55,7 +56,7 @@ _ Open up 1 new service area, or expand two underperforming existing ones, such 
 -   For every QEB, we first create a blog post in the "News" section
 -   Content should include:
     -   Service area reinforcement
-    -   Project All scopes and sizes reinforcement
+    -   All scopes and sizes reinforcement
     -   "Spotlight" on say, 6 active projects that juxtapose state, size, type
     -   Useful analysis of current events related to CRE. E.g., stuff Chris Maxwell asks for.
     -   Links to interesting articles related to CRE
@@ -64,7 +65,7 @@ _ Open up 1 new service area, or expand two underperforming existing ones, such 
 ### B. Send QEB
 
 -   Should contain all content from 3A.
--   Determine layout of email.
+-   Determine layout of email, reusable template
 -   Determine recipients
 -   Send
 
@@ -90,7 +91,7 @@ _ Open up 1 new service area, or expand two underperforming existing ones, such 
     -   Meet with and take out to lunch, key personnel of existing customers.
     -   Meeting goals
         -   Determine if the customer has projects outside of traditional CMC assigned service-area.
-        -   If bank service areas are managed by separate Silos, goal of meeting is to get contact info and introductions to these people.
+        -   If bank service areas are managed by separate silos, goal of meeting is to get contact info and introductions to these people.
         -   Ensure that they understand our desire for new service areas, and willingness to handle smaller projects.
 
 ### New Customers
