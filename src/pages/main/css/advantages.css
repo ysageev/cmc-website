@@ -17,13 +17,14 @@
     border: 1px solid lightgray;
     border-radius: 10px;
     padding: 10px;
+    min-height: 202px;
 }
 
 .adv-blurb {
     font-family: Lexend, sans-serif;
     font-size: 12pt;
     text-wrap: wrap;
-    max-width: 300px;
+    max-width: 310px;
 }
 
 .adv-blurb-long {
@@ -48,7 +49,7 @@
 }
 
 .service-map {
-    max-width: 270px;
+    max-width: 240px;
     background: transparent;
 }
 
