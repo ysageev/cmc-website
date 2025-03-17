@@ -108,7 +108,7 @@ const PainPoint = ({ title, imageName, children, cn }) => {
 
     return (
         <div className="pain-point-container">
-            <img src={imgSrc} altText={title} className="pain-point-image" />
+            <img src={imgSrc} alttext={title} className="pain-point-image" />
             <div className="pain-point-title">{title}</div>
             <div className="pain-point-children">{children}</div>
         </div>
