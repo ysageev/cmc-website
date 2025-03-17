@@ -1,6 +1,6 @@
+import Link from "@docusaurus/Link"
 import Carousel from "react-multi-carousel"
 import "react-multi-carousel/lib/styles.css"
-import Link from "@docusaurus/Link"
 import "./css/pipeline.css"
 const responsive = {
     desktop: {

@@ -1,31 +1,54 @@
-.footprint-container {
+.adv-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.adv-subcontainer {
     display: flex;
     align-items: flex-start;
     flex-wrap: wrap;
+    justify-content: space-between;
     gap: 20px;
-    padding-right: 15px;
-    padding-bottom: 20px;
     font-family: Lexend, sans-serif;
     text-wrap: pretty;
-    /* border: 1px solid gray;
-    border-radius: 5px; */
-    padding: 15px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding: 10px;
 }
 
-.service-area-blurb {
+.adv-blurb {
     font-family: Lexend, sans-serif;
     font-size: 12pt;
     text-wrap: wrap;
+    max-width: 300px;
 }
 
-.service-area-blurb-label {
+.adv-blurb-long {
+    font-family: Lexend, sans-serif;
+    font-size: 12pt;
+    text-wrap: wrap;
+
+    max-width: 950px;
+}
+
+.adv-blurb-label {
     font-weight: 600;
     font-size: 14pt;
     margin-bottom: 10px;
 }
 
+.adv-img {
+    width: 250px;
+    height: 180px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
 .service-map {
-    width: 225px;
+    max-width: 270px;
     background: transparent;
 }
 
@@ -36,7 +59,7 @@
     font-size: clamp(8pt, 1vw, 12pt);
 }
 
-.service-area-item {
+.service-area-legend-item {
     display: flex;
     align-items: center;
     font-size: clamp(8pt, 0.7vw, 10pt);

@@ -1,12 +1,12 @@
-import "./css/footprint.css"
+import "./css/advantages.css"
 
 function Footprint() {
     return (
-        <div className="page-section">
-            <div className="page-section-header">Service Area</div>
-            <div className="footprint-container">
-                <ServiceAreaGraphic />
-                <div className="service-area-blurb">CMC has an extensive, primary service area that spans the Eastern Seaboard and Great Lakes Region.</div>
+        <div className="adv-subcontainer">
+            <ServiceAreaGraphic />
+            <div className="adv-blurb">
+                <div className="adv-blurb-label">Extensive Service Area</div>
+                CMC has an extensive, primary service area that spans the Eastern Seaboard and Great Lakes Region.
             </div>
         </div>
     )
@@ -20,10 +20,10 @@ const ServiceAreaGraphic = () => {
             <img src="/img/about/service-map-bare.png" className="service-map" />
 
             <div className="service-area-info">
-                <div className="service-area-item">
+                <div className="service-area-legend-item">
                     <ColorChip clr="#D9782E" /> Secondary Market
                 </div>
-                <div className="service-area-item">
+                <div className="service-area-legend-item">
                     <ColorChip clr="#47B2E0" /> Active Market
                 </div>
             </div>

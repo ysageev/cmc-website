@@ -8,24 +8,25 @@ import OurClients from "./main/OurClients.jsx"
 import ApprovedVendor from "./main/ApprovedVendor.jsx"
 import PoweredByStructDB from "./main/PoweredByStructDB.jsx"
 import Footprint from "./main/Footprint.jsx"
+import Advantages from "./main/Advantages.jsx"
 
 function Home() {
-	return (
-		<Layout>
-			<div className="container">
-				<Hero />
-				<Services />
-				<Footprint />
-				<Consultation />
-				<OurClients />
-				<ApprovedVendor />
-				<PipelineCarousel />
-				<PoweredByStructDB />
-				<Standards />
-				<br />
-			</div>
-		</Layout>
-	)
+    return (
+        <Layout>
+            <div className="container">
+                <Hero />
+                <Services />
+                <Advantages />
+                <Consultation />
+                <OurClients />
+                <ApprovedVendor />
+                <PipelineCarousel />
+                <PoweredByStructDB />
+                <Standards />
+                <br />
+            </div>
+        </Layout>
+    )
 }
 
 export default Home
