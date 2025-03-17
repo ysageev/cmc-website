@@ -3,6 +3,7 @@
     flex-wrap: wrap;
     align-items: flex-start;
     justify-content: space-between;
+    align-content: stretch;
     gap: 30px;
 }
 
@@ -10,14 +11,12 @@
     display: flex;
     align-items: flex-start;
     flex-wrap: wrap;
-    justify-content: space-between;
     gap: 20px;
     font-family: Lexend, sans-serif;
     text-wrap: pretty;
     border: 1px solid lightgray;
     border-radius: 10px;
     padding: 10px;
-    min-height: 202px;
 }
 
 .adv-blurb {
@@ -31,7 +30,6 @@
     font-family: Lexend, sans-serif;
     font-size: 12pt;
     text-wrap: wrap;
-
     max-width: 950px;
 }
 
@@ -43,13 +41,13 @@
 
 .adv-img {
     width: 250px;
-    height: 180px;
+    height: 190px;
     border-radius: 10px;
     object-fit: cover;
 }
 
 .service-map {
-    max-width: 240px;
+    max-width: 255px;
     background: transparent;
 }
 
@@ -57,7 +55,6 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    font-size: clamp(8pt, 1vw, 12pt);
 }
 
 .service-area-legend-item {
@@ -67,10 +64,10 @@
 }
 
 .color-chip {
-    width: 20px;
-    height: 20px;
+    width: 16px;
+    height: 16px;
     border: 1px solid gray;
     border-radius: 2px;
-    padding: 5px;
+
     margin: 5px;
 }
