@@ -2,35 +2,52 @@
     display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
-    justify-content: space-between;
+    justify-content: center;
     align-content: stretch;
-    gap: 30px;
+    gap: 10px;
 }
 
 .adv-subcontainer {
     display: flex;
     align-items: flex-start;
     flex-wrap: wrap;
-    gap: 20px;
-    font-family: Lexend, sans-serif;
-    text-wrap: pretty;
+    gap: 10px;
+    width: 610px;
+    padding: 10px;
     border: 1px solid lightgray;
     border-radius: 10px;
-    padding: 10px;
+    font-family: Lexend, sans-serif;
+    text-wrap: pretty;
+
+    @media (width <= 500px) {
+        width: 100%;
+    }
+}
+
+.adv-img {
+    width: 250px;
+    height: 190px;
+    border-radius: 10px;
+    object-fit: cover;
+    background: transparent;
+
+    @media (width <= 500px) {
+        width: 100%;
+    }
 }
 
 .adv-blurb {
     font-family: Lexend, sans-serif;
-    font-size: 12pt;
+    font-size: 11pt;
     text-wrap: wrap;
-    max-width: 300px;
+    width: 300px;
 }
 
 .adv-blurb-long {
     font-family: Lexend, sans-serif;
     font-size: 12pt;
     text-wrap: wrap;
-    max-width: 950px;
+    max-width: 70%;
 }
 
 .adv-blurb-label {
@@ -39,16 +56,12 @@
     margin-bottom: 10px;
 }
 
-.adv-img {
-    width: 250px;
-    height: 190px;
-    border-radius: 10px;
-    object-fit: cover;
-}
-
 .service-map {
-    max-width: 255px;
+    width: 255px;
     background: transparent;
+    @media (width <= 500px) {
+        width: 100%;
+    }
 }
 
 .service-area-info {

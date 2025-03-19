@@ -5,7 +5,7 @@ function Footprint() {
         <div className="adv-subcontainer">
             <ServiceAreaGraphic />
             <div className="adv-blurb">
-                <div className="adv-blurb-label">Extensive Service Area</div>
+                <div className="adv-blurb-label">Service Area</div>
                 CMC has an extensive, primary service area that spans the Eastern Seaboard and Great Lakes Region.
             </div>
         </div>
