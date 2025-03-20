@@ -21,7 +21,7 @@ const ServiceAreaGraphic = () => {
 
             <div className="service-area-info">
                 <div className="service-area-legend-item">
-                    <ColorChip clr="#D9782E" /> Secondary Market
+                    <ColorChip clr="#D9782E" /> Emerging Market
                 </div>
                 <div className="service-area-legend-item">
                     <ColorChip clr="#47B2E0" /> Active Market
