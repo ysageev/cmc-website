@@ -5,7 +5,7 @@ function BlurbStrip({ left, center, right }) {
         <div className="blurb-strip">
             <div>{left}</div>
 
-            <div className="blurb-strip-center">{center}</div>
+            {center && <div className="blurb-strip-center">{center}</div>}
 
             <div>{right}</div>
         </div>
