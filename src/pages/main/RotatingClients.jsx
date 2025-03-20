@@ -12,7 +12,8 @@ const clientsArr = ["National Banks", "Regional Banks", "Community Banks", "Cred
 function RotatingClients() {
     return (
         <div className="clients-rotate-static">
-            <i className={ICON} />
+            {/* <i className={ICON} /> */}
+            We serve:&nbsp;&nbsp;
             <RotatingText
                 texts={clientsArr}
                 mainClassName="clients-rotate-main"
