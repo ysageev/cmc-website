@@ -25,6 +25,8 @@
     padding-right: 10px;
     margin-bottom: 20px;
     text-wrap: balance;
+    max-width: 900px;
+    min-width: 200px;
 }
 
 .page-body {
@@ -48,4 +50,9 @@
     margin-bottom: 20px;
     margin-top: 20px;
     text-align: left;
+}
+
+.shrink-button {
+    padding-left: 10px;
+    padding-right: 10px;
 }
