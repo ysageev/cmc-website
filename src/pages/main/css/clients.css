@@ -27,7 +27,7 @@
     /* background-color: #47b2e0; */
     background-color: white;
     border-radius: 5px;
-    padding: 10px;
+    padding: 6px 3px 6px 10px;
     overflow: hidden;
     width: max(260px, 23vw);
     font-family: monospace;
