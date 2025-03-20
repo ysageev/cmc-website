@@ -19,10 +19,10 @@
 .page-header-details-text {
     font-family: Lexend, sans-serif;
     font-weight: normal;
-    font-size: 1.2em;
+    font-size: clamp(1em, 2vw, 1.3em);
     line-height: 1.3em;
     padding-top: 20px;
-    padding-right: 10px;
+    padding-right: 15px;
     margin-bottom: 20px;
     text-wrap: balance;
     max-width: 900px;
