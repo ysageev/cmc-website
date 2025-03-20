@@ -10,7 +10,8 @@
     background-color: white;
     font-family: Lexend, sans-serif;
     font-weight: bold;
-    height: 106px;
+    height: 100px;
+    margin: 10px;
 }
 
 .approved-vendor-strip {
