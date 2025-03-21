@@ -24,7 +24,6 @@
 }
 
 .eyes-on-container {
-    width: clamp(290px, 26vw, 500px);
     clear: both;
     float: right;
     @media (width <= 1000px) {
@@ -37,7 +36,7 @@
     /* filter: drop-shadow(1px 1px 0px black); */
     margin-right: 30px;
     opacity: 1;
-    padding-top: 10px;
+    padding-top: 20px;
     /* 
     @media (width <= 500) {
         filter: none;
