@@ -21,10 +21,10 @@ function RotatingClients() {
                 initial={{ y: "100%" }}
                 animate={{ y: 0 }}
                 exit={{ y: "-120%" }}
-                staggerDuration={0.025}
+                staggerDuration={0.01}
                 splitLevelClassName=""
                 transition={{ type: "spring", damping: 30, stiffness: 400 }}
-                rotationInterval={1800}
+                rotationInterval={2200}
             />
         </div>
     )
