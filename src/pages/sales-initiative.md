@@ -4,8 +4,7 @@
 
 Every four (4) months, on average:
 
--   [x]
--   [ ] Achieve enough new book of business to hire another consultant.
+-   Achieve enough new book of business to hire another consultant.
 -   Open up 1 new service area, or expand two underperforming existing ones, such as PA and NC
 
 ---
@@ -18,9 +17,9 @@ Every four (4) months, on average:
 
 <details>
 
--   This will be the single "source of truth"
--   All existing locations must be merged into this one location
--   No other locations are permissible
+-   [x] This will be the single "source of truth"
+-   [x] All existing locations must be merged into this one location
+-   [x] No other locations are permissible
 
 </details>
 
