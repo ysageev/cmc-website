@@ -4,6 +4,7 @@
 
 Every four (4) months, on average:
 
+-   [x]
 -   [ ] Achieve enough new book of business to hire another consultant.
 -   Open up 1 new service area, or expand two underperforming existing ones, such as PA and NC
 
