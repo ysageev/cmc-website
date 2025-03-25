@@ -20,23 +20,25 @@
     font-size: clamp(1rem, 9vw, 4rem);
     font-weight: 800;
     margin-top: 10px;
-    padding-top: 0;
+    padding-top: 3;
 }
 
-.eyes-on-container {
+.hero-logos {
+    display: flex;
+    justify-content: space-between;
     clear: both;
-    float: right;
+
     @media (width <= 1000px) {
         float: none !important;
     }
 }
 
 .eyes-on-img {
-    width: clamp(290px, 26vw, 500px);
-    /* filter: drop-shadow(1px 1px 0px black); */
-    margin-right: 30px;
+    height: clamp(40px, 4.2vh, 80px);
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 40px;
     opacity: 1;
-    padding-top: 20px;
     /* 
     @media (width <= 500) {
         filter: none;

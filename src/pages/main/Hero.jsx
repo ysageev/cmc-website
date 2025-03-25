@@ -7,11 +7,20 @@ function Hero() {
     return (
         <div>
             <div className="page-header">
-                <img src="img/cmc-logo-blue-long.svg" alt="cmc logo" className="cmc-logo" />
-                <div className="page-header-text hero-header-text">Reduce Risk, Lend Confidently</div>
-                <div className="eyes-on-container">
-                    <img src="img/eoc-min.png" alt="eyes-on-construction" className="eyes-on-img" />
+                <div className="hero-logos">
+                    <img
+                        src="img/cmc-logo-blue-long.svg"
+                        alt="cmc logo"
+                        className="cmc-logo"
+                    />
+                    <img
+                        src="img/main/eoc-new-min.png"
+                        alt="eyes-on-construction"
+                        className="eyes-on-img"
+                    />
                 </div>
+                <div className="page-header-text hero-header-text">Reduce Risk, Lend Confidently</div>
+
                 <div className="page-header-details-text">
                     For over 35 years, CMC has partnered with banks and investors in commercial construction lending to provide clarity and confidence.
                     <br />
@@ -19,11 +28,19 @@ function Hero() {
                     We empower our clients to effectively measure, assess, and mitigate construction loan risks.
                 </div>
                 <div className="hero-buttons">
-                    <Link className="button button--primary button--lg shrink-button" to="/docs/public/introvideo">
+                    <Link
+                        className="button button--primary button--lg shrink-button"
+                        to="/docs/public/introvideo"
+                    >
                         Video <i className="fa-duotone fa-solid fa-video" />
                     </Link>
 
-                    <a className="button button--primary button--lg shrink-button" href="pdf/cmc-services-brochure.pdf" rel="noreferrer" target="_blank">
+                    <a
+                        className="button button--primary button--lg shrink-button"
+                        href="pdf/cmc-services-brochure.pdf"
+                        rel="noreferrer"
+                        target="_blank"
+                    >
                         Fact Sheet <i className="fa-duotone fa-solid fa-download" />
                     </a>
                 </div>
