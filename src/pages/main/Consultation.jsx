@@ -7,9 +7,6 @@ const emailURL = "mailto:info@go-cmc.com?subject=CMC Consultation Request&body=E
 
 const consult = (
     <div className="consultation-container">
-        {/* <span className="consultation-text">
-            <span className="consultation-highlight">Solutions</span> made clear.
-        </span> */}
         <Link
             className="button button--primary button--lg consultation-button"
             to={emailURL}
