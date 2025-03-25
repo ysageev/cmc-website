@@ -11,7 +11,7 @@ const consult = (
             <span className="consultation-highlight">Solutions</span> made clear.
         </span> */}
         <Link
-            className="button button--primary button--lg"
+            className="button button--primary button--lg consultation-button"
             to={emailURL}
         >
             Free Consultation <i className="fa-duotone fa-solid fa-envelope" />
