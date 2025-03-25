@@ -18,9 +18,11 @@
 
 .consultation-button {
     @media (width <= 600px) {
-        margin-left: 68px;
-        width: max(270px, 23vw);
-        margin-top: 10px;
+        margin-left: 60px;
+        width: max(230px, 23vw);
+        margin-top: 15px;
+        padding-left: 15px;
+        padding-right: 10px;
     }
 }
 .consultation-label {
