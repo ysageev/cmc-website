@@ -12,8 +12,8 @@ const ApprovalImage = () => {
                     src="/img/cmc-icon.svg"
                     className="approved-vendor-icon-cmc"
                     alt="cmc-icon"
-                />{" "}
-                APPROVED{" "}
+                />
+                APPROVED
                 <img
                     src="/img/cmc-icon.svg"
                     className="approved-vendor-icon-cmc"
@@ -30,7 +30,7 @@ const left = (
     <img
         src="/img/main/approved-vendor-orange.svg"
         alt="approved-vendor"
-        style={{ maxWidth: "300px" }}
+        style={{ maxWidth: "300px", padding: 10, paddingRight: 20 }}
     />
 )
 
