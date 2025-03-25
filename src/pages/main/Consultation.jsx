@@ -7,10 +7,13 @@ const emailURL = "mailto:info@go-cmc.com?subject=CMC Consultation Request&body=E
 
 const consult = (
     <div className="consultation-container">
-        <span className="consultation-text">
+        {/* <span className="consultation-text">
             <span className="consultation-highlight">Solutions</span> made clear.
-        </span>
-        <Link className="button button--primary button--lg" to={emailURL}>
+        </span> */}
+        <Link
+            className="button button--primary button--lg"
+            to={emailURL}
+        >
             Free Consultation <i className="fa-duotone fa-solid fa-envelope" />
         </Link>
     </div>
@@ -19,7 +22,13 @@ const consult = (
 const clients = <RotatingClients />
 
 function Consultation() {
-    return <BlurbStrip left={clients} center={<div />} right={consult} />
+    return (
+        <BlurbStrip
+            left={clients}
+            center={<div />}
+            right={consult}
+        />
+    )
 }
 
 export default Consultation
