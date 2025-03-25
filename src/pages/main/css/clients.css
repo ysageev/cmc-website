@@ -22,9 +22,6 @@
 
 .clients-rotate-main {
     color: black;
-    /* filter: drop-shadow(0px 0px 7px white); */
-    /* margin-left: 10px; */
-    /* background-color: #47b2e0; */
     background-color: white;
     border-radius: 5px;
     padding: 6px 3px 6px 10px;
@@ -35,16 +32,20 @@
 }
 .clients-rotate-static {
     display: flex;
+    flex-direction: row;
     justify-content: flex-start;
     align-items: center;
+    gap: 10px;
     overflow: hidden;
     color: white;
     background-color: #343434;
-    /* padding: 10px; */
-    /* margin-left: 10px; */
     font-family: Lexend, sans-serif;
     font-size: clamp(0.9em, 1.5vw, 1.8em);
     font-weight: 600;
     width: min(80vw, 500px);
     line-height: 1;
+
+    @media (width <= 500px) {
+        flex-direction: column;
+    }
 }
