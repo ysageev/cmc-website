@@ -1,26 +1,27 @@
 .adv-container {
     display: flex;
     flex-wrap: wrap;
-    align-items: flex-start;
-    justify-content: center;
-    align-content: stretch;
-    gap: 10px;
+    /* align-items: flex-start; */
+    /* justify-content: center; */
+    /* align-content: stretch; */
+    gap: 20px;
 }
 
 .adv-subcontainer {
     display: flex;
     align-items: flex-start;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 15px;
     width: 610px;
-    padding: 10px;
-    border: 1px solid lightgray;
-    border-radius: 10px;
+
     font-family: Lexend, sans-serif;
     text-wrap: pretty;
 
     @media (width <= 500px) {
         width: 100%;
+        padding: 10px;
+        border: 1px solid lightgray;
+        border-radius: 10px;
     }
 }
 
