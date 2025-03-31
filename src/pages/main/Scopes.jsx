@@ -4,7 +4,7 @@ function Scopes() {
     return (
         <div className="adv-subcontainer">
             <img
-                src="/img/main/project-min.png"
+                src="/img/main/cranes.jpg"
                 className="adv-img"
             />
             <div className="adv-blurb">

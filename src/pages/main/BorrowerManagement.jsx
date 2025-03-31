@@ -4,7 +4,7 @@ function BorrowerManagement() {
     return (
         <div className="adv-subcontainer">
             <img
-                src="/img/main/admin-min.png"
+                src="/img/main/docman.jpg"
                 className="adv-img"
             />
             <div className="adv-blurb">

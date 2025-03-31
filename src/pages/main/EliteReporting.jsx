@@ -4,7 +4,7 @@ function EliteReporting() {
     return (
         <div className="adv-subcontainer">
             <img
-                src="/img/main/reporting-min.png"
+                src="/img/main/reporting.jpg"
                 className="adv-img"
             />
             <div className="adv-blurb">
