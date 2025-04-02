@@ -14,7 +14,7 @@ function Hero() {
                         className="cmc-logo"
                     />
                     <img
-                        src="img/main/eoc-new-min.png"
+                        src="img/eoc-new-min.png"
                         alt="eyes-on-construction"
                         className="eyes-on-img"
                     />
