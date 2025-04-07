@@ -4,11 +4,22 @@ import StructDBText from "/src/components/common/StructDBText"
 function PortfolioManagement() {
     return (
         <>
-            <div id="port-man" style={{ scrollMarginTop: 60 }} />
+            <div
+                id="port-man"
+                style={{ scrollMarginTop: 60 }}
+            />
             <div>
-                <ServiceBanner icon="fa-suitcase" title="Portfolio Management" details="All your projects, one screen." divId="portfolio-content" />
+                <ServiceBanner
+                    icon="fa-kit fa-portfolio"
+                    title="Portfolio Management"
+                    details="All your projects, one screen."
+                    divId="portfolio-content"
+                />
 
-                <div id="portfolio-content" className="collapse-div">
+                <div
+                    id="portfolio-content"
+                    className="collapse-div"
+                >
                     <div className="service-content">
                         Most lenders find it difficult to understand their entire loan portfolio. They might understand specific projects well, but have trouble identifying:
                         <br />
@@ -36,7 +47,11 @@ function PortfolioManagement() {
                                 Lenders can sign in and view all their projects handled by vendors who use <StructDBText />.
                                 <br />
                                 <br />
-                                <a href="https://structdb.net/docs/Lenders/Video/dashboard" rel="noreferrer" target="_blank">
+                                <a
+                                    href="https://structdb.net/docs/Lenders/Video/dashboard"
+                                    rel="noreferrer"
+                                    target="_blank"
+                                >
                                     In-depth information about lender dashboards
                                 </a>{" "}
                                 can be found at their site.

@@ -16,7 +16,7 @@
 
 .service-banner-icon {
     font-size: 3em;
-    color: var(--ifm-color-primary-lighter);
+    /* color: var(--ifm-color-primary-lighter); */
     @media (width <= 600px) {
         font-size: 2em;
     }

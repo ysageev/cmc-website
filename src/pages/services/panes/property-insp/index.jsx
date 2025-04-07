@@ -3,10 +3,21 @@ import ServiceItem from "../ServiceItem.jsx"
 
 function PropertyInspections() {
     return (
-        <div id="prop-insp" style={{ scrollMarginTop: 60 }}>
-            <ServiceBanner icon="fa-building-magnifying-glass" title="Property Due Diligence" details="Understand what you have." divId="property-insp-content" />
+        <div
+            id="prop-insp"
+            style={{ scrollMarginTop: 60 }}
+        >
+            <ServiceBanner
+                icon="fa-kit fa-propinspect"
+                title="Property Due Diligence"
+                details="Understand what you have."
+                divId="property-insp-content"
+            />
 
-            <div id="property-insp-content" className="collapse-div">
+            <div
+                id="property-insp-content"
+                className="collapse-div"
+            >
                 <div className="service-content">
                     <div>
                         <p>

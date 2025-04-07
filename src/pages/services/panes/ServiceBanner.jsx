@@ -18,12 +18,16 @@ function ServiceBanner({ icon, title, details, divId }) {
 
     return (
         <div className="service-banner">
-            <i className={clsx("fa-duotone fa-fw", icon, "service-banner-icon")} />
+            <i className={clsx("fa-solid fa-fw", icon, "service-banner-icon")} />
             <div>
                 <div className="service-banner-title">{title}</div>
                 <div className="service-banner-detail">{details}</div>
             </div>
-            <i id={currentChevronId} className={clsx(expanded ? chevronDownIcon : chevronLeftIcon, "chevron-hover")} onClick={handleClick} />
+            <i
+                id={currentChevronId}
+                className={clsx(expanded ? chevronDownIcon : chevronLeftIcon, "chevron-hover")}
+                onClick={handleClick}
+            />
             <br />
         </div>
     )
