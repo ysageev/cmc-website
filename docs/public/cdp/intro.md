@@ -5,10 +5,7 @@ sidebar_position: 1
 # CDP Flow Diagram
 
 ```mermaid
-
 graph LR
-
-
 
 A@{label: "
 <div >
@@ -19,7 +16,6 @@ A@{label: "
 </div>"}
 
 A==>B
-
 
 B@{label: "
 <div style='text-wrap: wrap;text-align:left;font-size:12pt;'>
