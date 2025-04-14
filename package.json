@@ -21,14 +21,14 @@
     "@fortawesome/react-fontawesome": "^0.2.2",
     "@mdx-js/react": "^3.1.0",
     "clsx": "^2.1.1",
-    "framer-motion": "^12.6.3",
+    "framer-motion": "^12.7.2",
     "prism-react-renderer": "^2.4.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-fast-marquee": "^1.6.5",
     "react-lite-yt-embed": "^1.2.7",
     "react-medium-image-zoom": "^5.2.14",
-    "react-multi-carousel": "^2.8.5"
+    "react-multi-carousel": "^2.8.6"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.7.0",
@@ -49,7 +49,7 @@
   "engines": {
     "node": ">=18.0"
   },
-  "packageManager": "pnpm@10.7.1",
+  "packageManager": "pnpm@10.8.1",
   "pnpm": {
     "ignoredBuiltDependencies": [
       "core-js",
