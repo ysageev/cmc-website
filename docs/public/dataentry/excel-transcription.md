@@ -30,7 +30,6 @@ The preparer transcribes the PDF document into an Excel document conformant to t
 ### 3. Response
 
 The preparer will reply to the original email, attaching the Excel file. Any other notes the preparer wishes to make should go in the body of the email. Notes can include, "Difficulty reading line XXX", etc.
-<br/>
 
 ### Notes on Timing
 
