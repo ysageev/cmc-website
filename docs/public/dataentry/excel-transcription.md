@@ -32,6 +32,17 @@ The preparer transcribes the PDF document into an Excel document conformant to t
 The preparer will reply to the original email, attaching the Excel file. Any other notes the preparer wishes to make should go in the body of the email. Notes can include, "Difficulty reading line XXX", etc.
 <br/>
 
+### Notes on Timing
+
+The following table shows **roughly** the time it typically takes consultants to perform transcriptions themselves.
+
+| Difficulty | Description                                   | Time                 |
+| :--------- | :-------------------------------------------- | :------------------- |
+| Very Easy  | one building, no Change Orders, decent OCR    | ~15 min per 50 lines |
+| Easy       | one building, Change Orders, decent OCR       | ~20 min per 50 lines |
+| Medium     | multiple buildings, Change Orders, decent OCR | ~30 min per 50 lines |
+| Hard       | multiple buildings, bad OCR or not OCRd       | ~40 min per 50 lines |
+
 ## III. COMMON INFORMATION
 
 This section contains information that applies to any transcription.
@@ -47,20 +58,20 @@ At present, there are two types of budgets that can be imported:
 
 You can always download `import templates` here.
 
-| Type/Code    | Description          |                                               Download Link                                                |
-| :----------- | :------------------- | :--------------------------------------------------------------------------------------------------------: |
-| PNC          | Plan and Cost Budget | <a href="/excel/import-template-pnc.xlsx" download><i className="fa-duotone fa-file-excel fa-xl"></i></a>  |
-| HC [SV/G703] | Hard Cost Budget     | <a href="/excel/import-template-g703.xlsx" download><i className="fa-duotone fa-file-excel fa-xl"></i></a> |
+| Type/Code    | Description          |                                                  Download Link                                                  |
+| :----------- | :------------------- | :-------------------------------------------------------------------------------------------------------------: |
+| PNC          | Plan and Cost Budget | <a href="/excel/import-template-pnc.xlsx" download><img src="/img/dataentry/xlsx-icon.png" height="40px"/></a>  |
+| HC [SV/G703] | Hard Cost Budget     | <a href="/excel/import-template-g703.xlsx" download><img src="/img/dataentry/xlsx-icon.png" height="40px"/></a> |
 
 ### Customizing the template per project
 
 Not all of the fields in an import template are required for each project. Some projects will have multiple buildings, most will have just one. Occasionally, projects will have `tenant improvements`.
 
--   When a column in the import template is not needed, you can delete it the entire column by right-clicking on the column header (A, B, C ...) and selecting "Delete".
+-   When a column in the import template is not needed, you can delete the entire column by right-clicking on the column header (A, B, C ...) and selecting "Delete".
 
     <img src="/img/dataentry/delete-column.png"/>
 
--   Before you enter in data, you must delete all sample data. **Make sure that you keep the table header names, however.** The easiest way to do this is to select the first data cell in the table, for example, "1" in the ItemNumber column, then type `CTRL+SHIFT+END`, then press `DELETE`.
+-   Before you enter in data, you must delete all sample data. **Make sure that you keep the table header names, however.** The easiest way to do this is to select the first data cell in the table, for example, "1" in the `ItemNumber` column, then type `CTRL+SHIFT+END`, then press `DELETE`.
 
 ## IV. HARD COST BUDGET TRANSCRIPTIONS
 
@@ -68,8 +79,6 @@ This section applies to transcribing AIA G703-type documents for use in Site Vis
 
 In general, if the project has multiple buildings or tenant improvements, it is the job of the Consultant, in the body of the request email, to provide the building names and IDs or TI names and IDs.
 If the consultant fails to provide this information and you see that it is required, be sure to request this info from the consultant before proceeding with the transcription.
-
-### Required fields
 
 -   All budgets must have, at minimum, the following columns filled in:
 
