@@ -33,7 +33,7 @@ function Services() {
                     url='/services#historic'
                 />
                 <ServicesListItem
-                    icon='fa-kit fa-distress'
+                    icon='fa-kit fa-distressasset'
                     title='Distressed Assets and Loan Workout'
                     details='Right the ship.'
                     url='/services#distressed'
