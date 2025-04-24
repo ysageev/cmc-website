@@ -70,7 +70,11 @@ Not all of the fields in an import template are required for each project. Some 
 
     <img src="/img/dataentry/delete-column.png"/>
 
--   Before you enter in data, you must delete all sample data. **Make sure that you keep the table header names, however.** The easiest way to do this is to select the first data cell in the table, for example, "1" in the `ItemNumber` column, then type `CTRL+SHIFT+END`, then press `DELETE`.
+-   Before you enter in data, you must delete all sample data. **Make sure that you keep the table header names, however.**
+
+:::tip
+The easiest way to do this is to select the first data cell in the table, for example, "1" in the `ItemNumber` column, then type `CTRL+SHIFT+END`, then press `DELETE`.
+:::
 
 ## IV. HARD COST BUDGET TRANSCRIPTIONS
 
