@@ -40,6 +40,7 @@ const config = {
     },
     themes: ["@docusaurus/theme-mermaid"],
     future: {
+        v4: true,
         experimental_faster: true,
     },
     presets: [
