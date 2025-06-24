@@ -22,7 +22,7 @@
     "@fortawesome/react-fontawesome": "^0.2.2",
     "@mdx-js/react": "^3.1.0",
     "clsx": "^2.1.1",
-    "framer-motion": "^12.18.1",
+    "framer-motion": "^12.19.1",
     "prism-react-renderer": "^2.4.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
@@ -50,7 +50,7 @@
   "engines": {
     "node": ">=18.0"
   },
-  "packageManager": "pnpm@10.12.1",
+  "packageManager": "pnpm@10.12.3",
   "pnpm": {
     "ignoredBuiltDependencies": [
       "core-js",
