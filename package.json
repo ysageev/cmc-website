@@ -19,16 +19,16 @@
     "@docusaurus/preset-classic": "3.8.1",
     "@docusaurus/theme-common": "^3.8.1",
     "@docusaurus/theme-mermaid": "^3.8.1",
-    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@fortawesome/react-fontawesome": "^0.2.3",
     "@mdx-js/react": "^3.1.0",
     "clsx": "^2.1.1",
-    "framer-motion": "^12.19.1",
+    "framer-motion": "^12.23.11",
     "prism-react-renderer": "^2.4.1",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
     "react-fast-marquee": "^1.6.5",
     "react-lite-yt-embed": "^1.2.7",
-    "react-medium-image-zoom": "^5.2.14",
+    "react-medium-image-zoom": "^5.3.0",
     "react-multi-carousel": "^2.8.6"
   },
   "devDependencies": {
@@ -50,7 +50,7 @@
   "engines": {
     "node": ">=18.0"
   },
-  "packageManager": "pnpm@10.12.3",
+  "packageManager": "pnpm@10.13.1",
   "pnpm": {
     "ignoredBuiltDependencies": [
       "core-js",
