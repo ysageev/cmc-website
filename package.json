@@ -14,26 +14,26 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "3.8.1",
-    "@docusaurus/faster": "^3.8.1",
-    "@docusaurus/preset-classic": "3.8.1",
-    "@docusaurus/theme-common": "^3.8.1",
-    "@docusaurus/theme-mermaid": "^3.8.1",
-    "@fortawesome/react-fontawesome": "^3.0.2",
+    "@docusaurus/core": "3.9.2",
+    "@docusaurus/faster": "^3.9.2",
+    "@docusaurus/preset-classic": "3.9.2",
+    "@docusaurus/theme-common": "^3.9.2",
+    "@docusaurus/theme-mermaid": "^3.9.2",
+    "@fortawesome/react-fontawesome": "^3.1.0",
     "@mdx-js/react": "^3.1.1",
     "clsx": "^2.1.1",
-    "framer-motion": "^12.23.12",
+    "framer-motion": "^12.23.24",
     "prism-react-renderer": "^2.4.1",
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
     "react-fast-marquee": "^1.6.5",
     "react-lite-yt-embed": "^1.2.7",
-    "react-medium-image-zoom": "^5.3.0",
+    "react-medium-image-zoom": "^5.4.0",
     "react-multi-carousel": "^2.8.6"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.8.1",
-    "@docusaurus/types": "3.8.1"
+    "@docusaurus/module-type-aliases": "3.9.2",
+    "@docusaurus/types": "3.9.2"
   },
   "browserslist": {
     "production": [
@@ -50,7 +50,7 @@
   "engines": {
     "node": ">=18.0"
   },
-  "packageManager": "pnpm@10.15.1",
+  "packageManager": "pnpm@10.19.0",
   "pnpm": {
     "ignoredBuiltDependencies": [
       "core-js",
