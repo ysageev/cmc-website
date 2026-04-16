@@ -1,6 +1,9 @@
 {
-  "editor.wordWrapColumn": 160,
-  "prettier.semi": false,
-  "javascript.format.semicolons": "remove",
-  "typescript.format.semicolons": "remove"
-}
+  {
+    "editor.defaultFormatter": "oxc.oxc-vscode",
+    "editor.formatOnSave": true,
+    "oxc.enable": true,
+    "[jsonc]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    }
+  }
