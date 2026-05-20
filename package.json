@@ -35,8 +35,8 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.10.1",
     "@docusaurus/types": "3.10.1",
-    "oxfmt": "^0.50.0",
-    "oxlint": "^1.65.0"
+    "oxfmt": "^0.51.0",
+    "oxlint": "^1.66.0"
   },
   "browserslist": {
     "production": [
@@ -53,16 +53,5 @@
   "engines": {
     "node": ">=18.0"
   },
-  "packageManager": "pnpm@11.1.2",
-  "pnpm": {
-    "ignoredBuiltDependencies": [
-      "core-js",
-      "core-js-pure"
-    ],
-    "onlyBuiltDependencies": [
-      "@swc/core",
-      "core-js",
-      "core-js-pure"
-    ]
-  }
+  "packageManager": "pnpm@11.1.3"
 }
