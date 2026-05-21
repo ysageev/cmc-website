@@ -1,5 +1,4 @@
 blockExoticSubdeps: true
-
 strictDepBuilds: true
 allowBuilds:
   "@swc/core": true
@@ -8,6 +7,10 @@ allowBuilds:
 
 trustPolicy: no-downgrade
 trustPolicyIgnoreAfter: 20080
+minimumReleaseAgeExclude:
+  - framer-motion@12.40.0
+  - motion-dom@12.40.0
+
 # trustPolicyExclude:
 #   - "detect-port@1.6.1"
 #   - "semver@6.3.1"
