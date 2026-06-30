@@ -23,20 +23,20 @@
     "@mdx-js/react": "^3.1.1",
     "clsx": "^2.1.1",
     "dotenv": "^17.4.2",
-    "framer-motion": "^12.40.0",
+    "framer-motion": "^12.42.0",
     "prism-react-renderer": "^2.4.1",
-    "react": "^19.2.6",
-    "react-dom": "^19.2.6",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
     "react-fast-marquee": "^1.6.5",
     "react-lite-yt-embed": "^1.2.7",
-    "react-medium-image-zoom": "^5.4.5",
+    "react-medium-image-zoom": "^5.4.8",
     "react-multi-carousel": "^2.8.6"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.10.1",
     "@docusaurus/types": "3.10.1",
-    "oxfmt": "^0.51.0",
-    "oxlint": "^1.66.0"
+    "oxfmt": "^0.56.0",
+    "oxlint": "^1.71.0"
   },
   "browserslist": {
     "production": [
@@ -53,5 +53,5 @@
   "engines": {
     "node": ">=18.0"
   },
-  "packageManager": "pnpm@11.2.2"
+  "packageManager": "pnpm@11.9.0"
 }
