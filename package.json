@@ -14,16 +14,16 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "3.10.1",
-    "@docusaurus/faster": "^3.10.1",
-    "@docusaurus/preset-classic": "3.10.1",
-    "@docusaurus/theme-common": "^3.10.1",
-    "@docusaurus/theme-mermaid": "^3.10.1",
-    "@fortawesome/react-fontawesome": "^3.3.1",
+    "@docusaurus/core": "3.10.2",
+    "@docusaurus/faster": "^3.10.2",
+    "@docusaurus/preset-classic": "3.10.2",
+    "@docusaurus/theme-common": "^3.10.2",
+    "@docusaurus/theme-mermaid": "^3.10.2",
+    "@fortawesome/react-fontawesome": "^3.5.0",
     "@mdx-js/react": "^3.1.1",
     "clsx": "^2.1.1",
     "dotenv": "^17.4.2",
-    "framer-motion": "^12.42.0",
+    "framer-motion": "^12.42.2",
     "prism-react-renderer": "^2.4.1",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
@@ -33,10 +33,10 @@
     "react-multi-carousel": "^2.8.6"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.10.1",
-    "@docusaurus/types": "3.10.1",
-    "oxfmt": "^0.56.0",
-    "oxlint": "^1.71.0"
+    "@docusaurus/module-type-aliases": "3.10.2",
+    "@docusaurus/types": "3.10.2",
+    "oxfmt": "^0.59.0",
+    "oxlint": "^1.74.0"
   },
   "browserslist": {
     "production": [
@@ -53,5 +53,5 @@
   "engines": {
     "node": ">=18.0"
   },
-  "packageManager": "pnpm@11.9.0"
+  "packageManager": "pnpm@11.15.1"
 }
