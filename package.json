@@ -23,7 +23,7 @@
     "@mdx-js/react": "^3.1.1",
     "clsx": "^2.1.1",
     "dotenv": "^17.4.2",
-    "framer-motion": "^12.42.2",
+    "framer-motion": "^12.43.0",
     "prism-react-renderer": "^2.4.1",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
@@ -35,8 +35,8 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.10.2",
     "@docusaurus/types": "3.10.2",
-    "oxfmt": "^0.60.0",
-    "oxlint": "^1.75.0"
+    "oxfmt": "^0.62.0",
+    "oxlint": "^1.77.0"
   },
   "browserslist": {
     "production": [
@@ -53,5 +53,5 @@
   "engines": {
     "node": ">=18.0"
   },
-  "packageManager": "pnpm@11.17.0"
+  "packageManager": "pnpm@11.19.0"
 }
