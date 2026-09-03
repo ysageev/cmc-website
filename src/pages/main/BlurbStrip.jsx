@@ -1,14 +1,14 @@
-import "./css/blurb-strip.css"
+import "./css/blurb-strip.css";
 
 function BlurbStrip({ left, center, right }) {
-    return (
-        <div className="blurb-strip">
-            <div>{left}</div>
+  return (
+    <div className="blurb-strip">
+      <div>{left}</div>
 
-            {center && <div className="blurb-strip-center">{center}</div>}
+      {center && <div className="blurb-strip-center">{center}</div>}
 
-            <div>{right}</div>
-        </div>
-    )
+      <div>{right}</div>
+    </div>
+  );
 }
-export default BlurbStrip
+export default BlurbStrip;

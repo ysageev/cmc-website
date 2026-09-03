@@ -1,58 +1,58 @@
 .page-header {
-    background-image: url("/img/hero-background.webp");
-    background-size: cover;
-    background-repeat: no-repeat;
-    padding-bottom: 30px;
-    padding-left: 25px;
+  background-image: url("/img/hero-background.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-bottom: 30px;
+  padding-left: 25px;
 }
 
 .page-header-text {
-    font-family: lexend, sans-serif;
-    font-size: 2.1em;
-    font-weight: 600;
-    line-height: 1.3em;
-    padding-top: 20px;
-    padding-right: 10px;
-    text-wrap: balance;
+  font-family: lexend, sans-serif;
+  font-size: 2.1em;
+  font-weight: 600;
+  line-height: 1.3em;
+  padding-top: 20px;
+  padding-right: 10px;
+  text-wrap: balance;
 }
 
 .page-header-details-text {
-    font-family: Lexend, sans-serif;
-    font-weight: normal;
-    font-size: clamp(1em, 2vw, 1.3em);
-    line-height: 1.3em;
-    padding-top: 20px;
-    padding-right: 15px;
-    margin-bottom: 20px;
-    text-wrap: pretty;
-    max-width: 700px;
-    min-width: 200px;
+  font-family: Lexend, sans-serif;
+  font-weight: normal;
+  font-size: clamp(1em, 2vw, 1.3em);
+  line-height: 1.3em;
+  padding-top: 20px;
+  padding-right: 15px;
+  margin-bottom: 20px;
+  text-wrap: pretty;
+  max-width: 700px;
+  min-width: 200px;
 }
 
 .page-body {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    padding-bottom: 20px;
-    padding-left: 20px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-bottom: 20px;
+  padding-left: 20px;
 }
 
 .page-section {
-    padding-left: 25px;
-    /* padding-top: 20px; */
-    padding-right: 20px;
-    margin-bottom: 30px;
+  padding-left: 25px;
+  /* padding-top: 20px; */
+  padding-right: 20px;
+  margin-bottom: 30px;
 }
 .page-section-header {
-    font-family: Lexend, sans-serif;
-    font-size: 1.8em;
-    font-weight: 600;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    text-align: left;
+  font-family: Lexend, sans-serif;
+  font-size: 1.8em;
+  font-weight: 600;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  text-align: left;
 }
 
 .shrink-button {
-    padding-left: 10px;
-    padding-right: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
 }

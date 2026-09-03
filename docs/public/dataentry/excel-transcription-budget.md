@@ -50,8 +50,8 @@ This section contains information that applies to any transcription.
 
 At present, there are two types of budgets that can be imported:
 
--   Plan and Cost (PNC) Budgets
--   Hard Cost (HC) Budgets
+- Plan and Cost (PNC) Budgets
+- Hard Cost (HC) Budgets
 
 ### Import Templates
 
@@ -66,11 +66,11 @@ You can always download `import templates` here.
 
 Not all of the fields in an import template are required for each project. Some projects will have multiple buildings, most will have just one. Occasionally, projects will have `tenant improvements`.
 
--   When a column in the import template is not needed, you can delete the entire column by right-clicking on the column header (A, B, C ...) and selecting "Delete".
+- When a column in the import template is not needed, you can delete the entire column by right-clicking on the column header (A, B, C ...) and selecting "Delete".
 
-    <img src="/img/dataentry/delete-column.png"/>
+  <img src="/img/dataentry/delete-column.png"/>
 
--   Before you enter in data, you must delete all sample data. **Make sure that you keep the table header names, however.**
+- Before you enter in data, you must delete all sample data. **Make sure that you keep the table header names, however.**
 
 :::tip
 The easiest way to do this is to select the first data cell in the table, for example, "1" in the `ItemNumber` column, then type `CTRL+SHIFT+END`, then press `DELETE`.
@@ -83,36 +83,36 @@ This section applies to transcribing AIA G703-type documents for use in Site Vis
 In general, if the project has multiple buildings or tenant improvements, it is the job of the Consultant, in the body of the request email, to provide the building names and IDs or TI names and IDs.
 If the consultant fails to provide this information and you see that it is required, be sure to request this info from the consultant before proceeding with the transcription.
 
--   All budgets must have, at minimum, the following columns filled in:
+- All budgets must have, at minimum, the following columns filled in:
 
-    -   `ItemNumber`
-    -   `Description`
-    -   `ScheduledValue`
-    -   `GMSchedValue` (=`ScheduledValue`)
+  - `ItemNumber`
+  - `Description`
+  - `ScheduledValue`
+  - `GMSchedValue` (=`ScheduledValue`)
 
--   Always delete columns `ItemType` and `RSDivision` (We autopopulate those)
--   If the budget does not have any change orders, delete the `IsChangeOrder` column.
--   If the column **does** have Change Orders, enter `TRUE` in the cell, else enter `FALSE`.
--   If the budget has a column called "Percent Complete" or similar, and the value is 100%, enter `TRUE` in the `ItemComplete` column, else enter `FALSE`.
--   If the project does not have multiple buildings, delete columns `IsBuilding` and `BuildingId`
--   If the project **does** have multiple buildings, enter `TRUE` into `IsBuilding` and the Building Id provided to you into the `BuildingId` field.
--   If the project does not have tenant improvements (most projects), delete columns `IsTenantImprovement` and `TenantImprovementId`
--   If the project **does** have TIs, enter `TRUE` into `IsTenantImprovement` and the TI Id provided to you into the `TenantImprovementId` field.
+- Always delete columns `ItemType` and `RSDivision` (We autopopulate those)
+- If the budget does not have any change orders, delete the `IsChangeOrder` column.
+- If the column **does** have Change Orders, enter `TRUE` in the cell, else enter `FALSE`.
+- If the budget has a column called "Percent Complete" or similar, and the value is 100%, enter `TRUE` in the `ItemComplete` column, else enter `FALSE`.
+- If the project does not have multiple buildings, delete columns `IsBuilding` and `BuildingId`
+- If the project **does** have multiple buildings, enter `TRUE` into `IsBuilding` and the Building Id provided to you into the `BuildingId` field.
+- If the project does not have tenant improvements (most projects), delete columns `IsTenantImprovement` and `TenantImprovementId`
+- If the project **does** have TIs, enter `TRUE` into `IsTenantImprovement` and the TI Id provided to you into the `TenantImprovementId` field.
 
 ## V. PLAN AND COST BUDGET TRANSCRIPTIONS
 
 This section applies to transcribing budgets for use in Plan and Cost reports. It is almost always abbreviated PNC, but you may see PCR.
 
--   All budgets must have, at minimum, the following columns filled in:
+- All budgets must have, at minimum, the following columns filled in:
 
-    -   `ItemNumber`
-    -   `Description`
-    -   `ContractorsValue`
-    -   `ConsultantsValue` (=`ContractorsValue`)
-    -   `IsBuilding`
-    -   `BuildingId`
+  - `ItemNumber`
+  - `Description`
+  - `ContractorsValue`
+  - `ConsultantsValue` (=`ContractorsValue`)
+  - `IsBuilding`
+  - `BuildingId`
 
--   Always delete columns `ItemType` and `RSDivision` (We autopopulate those)
--   If the consultant has not mentioned any thing about `IsValueCopied`, `OwnersWork`, or `Allowance`, delete those columns respectively.
--   If an item refers to a building, set `IsBuilding` to `TRUE` and enter the building Id into `BuildingId`
--   If an item refers to the project as a whole, not a specific building, enter `FALSE` into `IsBuilding` and leave `BuildingId` empty.
+- Always delete columns `ItemType` and `RSDivision` (We autopopulate those)
+- If the consultant has not mentioned any thing about `IsValueCopied`, `OwnersWork`, or `Allowance`, delete those columns respectively.
+- If an item refers to a building, set `IsBuilding` to `TRUE` and enter the building Id into `BuildingId`
+- If an item refers to the project as a whole, not a specific building, enter `FALSE` into `IsBuilding` and leave `BuildingId` empty.

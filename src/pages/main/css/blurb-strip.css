@@ -1,20 +1,20 @@
 .blurb-strip {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    flex-wrap: wrap;
-    padding: 20px;
-    color: white;
-    background-color: #343434;
-    font-size: 1em;
-    font-family: Lexend, sans-serif;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 20px;
+  color: white;
+  background-color: #343434;
+  font-size: 1em;
+  font-family: Lexend, sans-serif;
 }
 
 .blurb-strip-center {
-    max-width: 640px;
-    text-align: center;
-    text-wrap: pretty;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    /* border: 1px solid red; */
+  max-width: 640px;
+  text-align: center;
+  text-wrap: pretty;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  /* border: 1px solid red; */
 }

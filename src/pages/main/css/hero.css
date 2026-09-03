@@ -1,45 +1,45 @@
 .hero-buttons {
-    display: flex;
-    gap: 10px;
-    flex-wrap: wrap;
-    max-width: 400px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  max-width: 400px;
 }
 
 .hero-scroller {
-    height: 38px;
-    margin-top: 40px;
-    margin-bottom: 10px;
-    margin-left: -20px;
+  height: 38px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  margin-left: -20px;
 }
 .cmc-logo {
-    width: 160px;
+  width: 160px;
 }
 
 .hero-header-text {
-    font-size: clamp(1rem, 9vw, 4rem);
-    font-weight: 800;
-    margin-top: 10px;
-    padding-top: 3;
+  font-size: clamp(1rem, 9vw, 4rem);
+  font-weight: 800;
+  margin-top: 10px;
+  padding-top: 3;
 }
 
 .hero-logos {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 40px;
 
-    @media (width <= 1000px) {
-        float: none !important;
-    }
+  @media (width <= 1000px) {
+    float: none !important;
+  }
 }
 
 .eyes-on-img {
-    height: clamp(40px, 4.2vh, 80px);
-    margin-right: 10px;
-    margin-left: 10px;
+  height: clamp(40px, 4.2vh, 80px);
+  margin-right: 10px;
+  margin-left: 10px;
 
-    opacity: 1;
-    /* 
+  opacity: 1;
+  /* 
     @media (width <= 500) {
         filter: none;
     } */

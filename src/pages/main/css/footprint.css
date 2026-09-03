@@ -1,52 +1,52 @@
 .footprint-container {
-    display: flex;
-    align-items: flex-start;
-    flex-wrap: wrap;
-    gap: 20px;
-    padding-right: 15px;
-    padding-bottom: 20px;
-    font-family: Lexend, sans-serif;
-    text-wrap: pretty;
-    /* border: 1px solid gray;
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding-right: 15px;
+  padding-bottom: 20px;
+  font-family: Lexend, sans-serif;
+  text-wrap: pretty;
+  /* border: 1px solid gray;
     border-radius: 5px; */
-    padding: 15px;
+  padding: 15px;
 }
 
 .service-area-blurb {
-    font-family: Lexend, sans-serif;
-    font-size: 12pt;
-    text-wrap: wrap;
+  font-family: Lexend, sans-serif;
+  font-size: 12pt;
+  text-wrap: wrap;
 }
 
 .service-area-blurb-label {
-    font-weight: 600;
-    font-size: 14pt;
-    margin-bottom: 10px;
+  font-weight: 600;
+  font-size: 14pt;
+  margin-bottom: 10px;
 }
 
 .service-map {
-    width: 225px;
-    background: transparent;
+  width: 225px;
+  background: transparent;
 }
 
 .service-area-info {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    font-size: clamp(8pt, 1vw, 12pt);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: clamp(8pt, 1vw, 12pt);
 }
 
 .service-area-item {
-    display: flex;
-    align-items: center;
-    font-size: clamp(8pt, 0.7vw, 10pt);
+  display: flex;
+  align-items: center;
+  font-size: clamp(8pt, 0.7vw, 10pt);
 }
 
 .color-chip {
-    width: 20px;
-    height: 20px;
-    border: 1px solid gray;
-    border-radius: 2px;
-    padding: 5px;
-    margin: 5px;
+  width: 20px;
+  height: 20px;
+  border: 1px solid gray;
+  border-radius: 2px;
+  padding: 5px;
+  margin: 5px;
 }

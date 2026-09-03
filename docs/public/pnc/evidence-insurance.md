@@ -4,10 +4,10 @@ The following are documents that verify that the borrower or contractor has adeq
 
 Types of insurance may include:
 
--   Builders Risk
--   Workers Compensation
--   General Liability
--   Excess Liability
--   Automobile Liability
--   Flood Insurance (If Necessary)
--   Earthquake Insurance (If Necessary)
+- Builders Risk
+- Workers Compensation
+- General Liability
+- Excess Liability
+- Automobile Liability
+- Flood Insurance (If Necessary)
+- Earthquake Insurance (If Necessary)

@@ -16,73 +16,73 @@
 
 /* You can override the default Infima variables here. */
 :root {
-    --ifm-color-primary: #47b2e0;
-    --ifm-color-primary-dark: #2ea7dc;
-    --ifm-color-primary-darker: #155f7e;
-    --ifm-color-primary-darkest: #041319;
-    --ifm-color-primary-light: #93d2ed;
-    --ifm-color-primary-lighter: #c5e7f5;
-    --ifm-color-primary-lightest: #f8fcfe;
-    /* --ifm-font-family-base: "Lexend"; */
-    /* --ifm-heading-font-family: "Lexend"; */
-    --ifm-code-font-size: 95%;
-    --ifm-button-font-weight: 600;
-    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-color-primary: #47b2e0;
+  --ifm-color-primary-dark: #2ea7dc;
+  --ifm-color-primary-darker: #155f7e;
+  --ifm-color-primary-darkest: #041319;
+  --ifm-color-primary-light: #93d2ed;
+  --ifm-color-primary-lighter: #c5e7f5;
+  --ifm-color-primary-lightest: #f8fcfe;
+  /* --ifm-font-family-base: "Lexend"; */
+  /* --ifm-heading-font-family: "Lexend"; */
+  --ifm-code-font-size: 95%;
+  --ifm-button-font-weight: 600;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 main header h1 {
-    font-family: Lexend, sans-serif !important;
-    font-weight: 600 !important;
-    font-size: 2rem !important;
+  font-family: Lexend, sans-serif !important;
+  font-weight: 600 !important;
+  font-size: 2rem !important;
 }
 
 article h1 {
-    font-family: Lexend, sans-serif !important;
-    font-weight: 600 !important;
-    font-size: 2rem !important;
+  font-family: Lexend, sans-serif !important;
+  font-weight: 600 !important;
+  font-size: 2rem !important;
 }
 article h2 {
-    font-family: Lexend, sans-serif !important;
-    font-weight: 500 !important;
-    font-size: 1.6rem !important;
+  font-family: Lexend, sans-serif !important;
+  font-weight: 500 !important;
+  font-size: 1.6rem !important;
 }
 article h3 {
-    font-family: Lexend, sans-serif !important;
-    font-weight: 500 !important;
-    font-size: 1.2rem !important;
+  font-family: Lexend, sans-serif !important;
+  font-weight: 500 !important;
+  font-size: 1.2rem !important;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme="dark"] {
-    --ifm-color-primary: #47b2e0;
-    --ifm-color-primary-dark: #1e85b1;
-    --ifm-color-primary-darker: #092632;
-    --ifm-color-primary-darkest: #041319;
-    --ifm-color-primary-light: #60bde4;
-    --ifm-color-primary-lighter: #6dc2e6;
-    --ifm-color-primary-lightest: #93d2ed;
-    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-primary: #47b2e0;
+  --ifm-color-primary-dark: #1e85b1;
+  --ifm-color-primary-darker: #092632;
+  --ifm-color-primary-darkest: #041319;
+  --ifm-color-primary-light: #60bde4;
+  --ifm-color-primary-lighter: #6dc2e6;
+  --ifm-color-primary-lightest: #93d2ed;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
 .theme-doc-sidebar-item-category-level-2 {
-    font-size: 0.8em !important;
+  font-size: 0.8em !important;
 }
 
 .theme-doc-sidebar-item-link-level-1 {
-    font-size: 0.9em !important;
-    font-family: Lexend, sans-serif !important;
+  font-size: 0.9em !important;
+  font-family: Lexend, sans-serif !important;
 }
 .theme-doc-sidebar-item-link-level-2 {
-    font-size: 0.8em !important;
-    font-family: Lexend, sans-serif !important;
-    font-weight: 300;
+  font-size: 0.8em !important;
+  font-family: Lexend, sans-serif !important;
+  font-weight: 300;
 }
 .theme-doc-sidebar-item-link-level-3 {
-    font-size: 0.8em !important;
-    font-family: Lexend, sans-serif !important;
-    font-weight: 400;
+  font-size: 0.8em !important;
+  font-family: Lexend, sans-serif !important;
+  font-weight: 400;
 }
 .theme-doc-sidebar-item-link-level-4 {
-    font-size: 0.7em !important;
-    font-family: Lexend, sans-serif !important;
+  font-size: 0.7em !important;
+  font-family: Lexend, sans-serif !important;
 }

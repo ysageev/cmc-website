@@ -1,22 +1,22 @@
 .consultation-container {
-    font-size: 1.2em;
+  font-size: 1.2em;
 }
 
 .consultation-text {
-    margin: 15px;
-    text-align: center;
+  margin: 15px;
+  text-align: center;
 }
 
 .consultation-highlight {
-    color: #c4f1ff;
+  color: #c4f1ff;
 }
 
 .consultation-button {
-    padding-left: 15px;
-    padding-right: 15px;
-    @media (width <= 500px) {
-        margin-top: 15px;
-    }
+  padding-left: 15px;
+  padding-right: 15px;
+  @media (width <= 500px) {
+    margin-top: 15px;
+  }
 }
 .consultation-label {
 }

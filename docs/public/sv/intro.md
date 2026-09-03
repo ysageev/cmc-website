@@ -8,8 +8,3 @@ This section provides explanations and examples of documents required for Site V
 
 - Understand what files are required and why
 - Download examples of files, where available
-
-
-
-
-

@@ -1,51 +1,51 @@
 .clients-body {
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    font-size: 1em;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  font-size: 1em;
 }
 
 .clients-entity-group {
-    display: flex;
-    flex-wrap: wrap;
-    width: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
 }
 
 .clients-entity {
-    display: flex;
-    align-items: center;
-    padding: 5px;
-    font-size: 1.1em;
-    font-family: Lexend, sans-serif;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  font-size: 1.1em;
+  font-family: Lexend, sans-serif;
 }
 
 .clients-rotate-main {
-    color: black;
-    background-color: white;
-    border-radius: 5px;
-    padding: 6px 3px 6px 10px;
-    overflow: hidden;
-    width: max(280px, 23vw);
-    font-family: monospace;
-    line-height: 1.5;
+  color: black;
+  background-color: white;
+  border-radius: 5px;
+  padding: 6px 3px 6px 10px;
+  overflow: hidden;
+  width: max(280px, 23vw);
+  font-family: monospace;
+  line-height: 1.5;
 }
 .clients-rotate-static {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: center;
-    gap: 10px;
-    overflow: hidden;
-    color: white;
-    background-color: #343434;
-    font-family: Lexend, sans-serif;
-    font-size: clamp(0.9em, 1.5vw, 1.8em);
-    font-weight: 600;
-    width: min(80vw, 530px);
-    line-height: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  overflow: hidden;
+  color: white;
+  background-color: #343434;
+  font-family: Lexend, sans-serif;
+  font-size: clamp(0.9em, 1.5vw, 1.8em);
+  font-weight: 600;
+  width: min(80vw, 530px);
+  line-height: 1;
 
-    @media (width <= 500px) {
-        flex-direction: column;
-    }
+  @media (width <= 500px) {
+    flex-direction: column;
+  }
 }

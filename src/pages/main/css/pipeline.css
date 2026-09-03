@@ -1,84 +1,84 @@
 .pipeline-container {
-    align-items: center;
-    max-width: 1200px;
+  align-items: center;
+  max-width: 1200px;
 
-    @media (width > 800px) {
-        display: grid;
-        grid-template:
-            [row1-start] "pipeline pipeline pos1 pos2" [row1-end]
-            [row2-start] "pos3 pos4 pos5 pos6" [row2-end];
-        gap: 20px 10px;
-    }
+  @media (width > 800px) {
+    display: grid;
+    grid-template:
+      [row1-start] "pipeline pipeline pos1 pos2" [row1-end]
+      [row2-start] "pos3 pos4 pos5 pos6" [row2-end];
+    gap: 20px 10px;
+  }
 }
 
 .pipeline-item {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding-right: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-right: 10px;
 }
 
 /* These will probably have to be renamed to better scope them, e.g., pipeline-item-pos-1 */
 .pos1 {
-    margin-top: 10px;
-    grid-area: pos1;
+  margin-top: 10px;
+  grid-area: pos1;
 }
 .pos2 {
-    grid-area: pos2;
+  grid-area: pos2;
 }
 .pos2 {
-    grid-area: pos2;
+  grid-area: pos2;
 }
 .pos3 {
-    grid-area: pos3;
+  grid-area: pos3;
 }
 .pos4 {
-    grid-area: pos4;
+  grid-area: pos4;
 }
 .pos5 {
-    grid-area: pos5;
+  grid-area: pos5;
 }
 .pos6 {
-    grid-area: pos6;
+  grid-area: pos6;
 }
 
 .pos-pipeline {
-    grid-area: pipeline;
-    border: 1px solid gray;
-    border-radius: 1em;
-    padding-left: 15px;
-    padding-top: 15px;
-    padding-right: 15px;
+  grid-area: pipeline;
+  border: 1px solid gray;
+  border-radius: 1em;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
 }
 
 .pain-point-container {
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
-    align-content: center;
-    flex-wrap: wrap;
-    align-items: center;
-    margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 20px;
 }
 
 .pain-point-title {
-    font-family: Lexend, sans-serif;
-    font-size: 1.4em;
-    font-weight: 500;
-    color: gray;
-    clear: both;
-    margin-top: 10px;
+  font-family: Lexend, sans-serif;
+  font-size: 1.4em;
+  font-weight: 500;
+  color: gray;
+  clear: both;
+  margin-top: 10px;
 }
 
 .pain-point-image {
-    width: 60vw;
-    padding-right: 3vw;
-    padding-left: 3vw;
+  width: 60vw;
+  padding-right: 3vw;
+  padding-left: 3vw;
 }
 
 .pain-point-children {
-    font-size: 0.9em;
-    padding: 20px;
-    clear: both;
-    max-width: 600px;
+  font-size: 0.9em;
+  padding: 20px;
+  clear: both;
+  max-width: 600px;
 }

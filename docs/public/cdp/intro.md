@@ -180,17 +180,17 @@ Note: No disbursement for hard costs will be made until the Lender’s Construct
 
 :::info Conditions
 
--   All required “As‐Built” Plans and Drawings have been submitted and approved;
--   Warranties, guarantees, keys, owner and maintenance manuals have been accepted by the Owner;
--   Satisfactory documentation and evidence showing all required testing (and results thereof) of mechanical and electrical systems has been performed;
--   A complete punch list, approved by Borrower and Contractor, acceptable to Lender. To the extent punch list items have not been completed, an amount equal to a minimum of 150% of the value of such items
-    shall be withheld by Lender pending receipt of evidence showing satisfactory completion;
--   Final lien waivers from all contractors and subcontractors; - AIA G707 ‐ Consent of Surety to Final Payment ‐ (as applicable) - LEED certification documents ‐ (as applicable).
-    :::
+- All required “As‐Built” Plans and Drawings have been submitted and approved;
+- Warranties, guarantees, keys, owner and maintenance manuals have been accepted by the Owner;
+- Satisfactory documentation and evidence showing all required testing (and results thereof) of mechanical and electrical systems has been performed;
+- A complete punch list, approved by Borrower and Contractor, acceptable to Lender. To the extent punch list items have not been completed, an amount equal to a minimum of 150% of the value of such items
+  shall be withheld by Lender pending receipt of evidence showing satisfactory completion;
+- Final lien waivers from all contractors and subcontractors; - AIA G707 ‐ Consent of Surety to Final Payment ‐ (as applicable) - LEED certification documents ‐ (as applicable).
+  :::
 
-        In addition, additional documents may be required by the Lender in order to Close‐Out a project. Please refer to `Final Disbursement’ section of the Loan Agreement for additional details.
+      In addition, additional documents may be required by the Lender in order to Close‐Out a project. Please refer to `Final Disbursement’ section of the Loan Agreement for additional details.
 
-        The Retainage Release and Project Close‐Out Checklist (Exhibit G) attached hereto has been provided for your reference. Additional information may be required pursuant to your loan agreement.
+      The Retainage Release and Project Close‐Out Checklist (Exhibit G) attached hereto has been provided for your reference. Additional information may be required pursuant to your loan agreement.
 
 ## V. Other General Disbursement Matters
 
@@ -200,12 +200,12 @@ A site inspection is conducted by the Lender’sConstruction Consultant prior to
 
 :::info Submission List
 
--   An updated Construction Schedule ‐ The schedule should be reviewed and any upcoming milestones/ potential delays should be discussed at the construction draw meeting.
--   Pending Change Order Logs and or Anticipated Cost Reports‐ should be provided and discussed with the Lender’s Consultant.
--   Testing Reports‐ should be reviewed and copies of deficient tests must be provided to the Lender’s Consultant. Also, satisfactory closure to any deficient items must be provided by the Architect, Engineering or Testing Agency.
--   Updated Plans, Specifications and Addendums, when issued.
--   Shop Drawings and RFI Logs‐ should be available for review by the Lender’s Consultant.
-    :::
+- An updated Construction Schedule ‐ The schedule should be reviewed and any upcoming milestones/ potential delays should be discussed at the construction draw meeting.
+- Pending Change Order Logs and or Anticipated Cost Reports‐ should be provided and discussed with the Lender’s Consultant.
+- Testing Reports‐ should be reviewed and copies of deficient tests must be provided to the Lender’s Consultant. Also, satisfactory closure to any deficient items must be provided by the Architect, Engineering or Testing Agency.
+- Updated Plans, Specifications and Addendums, when issued.
+- Shop Drawings and RFI Logs‐ should be available for review by the Lender’s Consultant.
+  :::
 
 ### 2. Insurance
 

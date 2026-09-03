@@ -4,127 +4,127 @@
  */
 
 .service-banner {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    padding: 10px;
-    padding-left: 20px;
-    gap: 10px;
-    background-color: var(--ifm-color-primary-darker);
-    color: var(--ifm-color-primary-lightest);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px;
+  padding-left: 20px;
+  gap: 10px;
+  background-color: var(--ifm-color-primary-darker);
+  color: var(--ifm-color-primary-lightest);
 }
 
 .service-banner-icon {
-    font-size: 3em;
-    /* color: var(--ifm-color-primary-lighter); */
-    @media (width <= 600px) {
-        font-size: 2em;
-    }
+  font-size: 3em;
+  /* color: var(--ifm-color-primary-lighter); */
+  @media (width <= 600px) {
+    font-size: 2em;
+  }
 }
 
 .service-banner-title {
-    font-size: 1.5em;
-    font-family: "Lexend";
-    font-weight: 600;
-    width: 30vw;
-    color: var(--ifm-color-primary-lighter);
+  font-size: 1.5em;
+  font-family: "Lexend";
+  font-weight: 600;
+  width: 30vw;
+  color: var(--ifm-color-primary-lighter);
 
-    @media (width <= 600px) {
-        font-size: 1em;
-        width: 50vw;
-    }
+  @media (width <= 600px) {
+    font-size: 1em;
+    width: 50vw;
+  }
 }
 
 .service-banner-detail {
-    font-weight: normal;
-    font-size: 0.85em;
-    font-family: "Lexend";
-    color: var(--ifm-color-primary-lightest);
-    @media (width <= 600px) {
-        font-size: 0.6em;
-    }
+  font-weight: normal;
+  font-size: 0.85em;
+  font-family: "Lexend";
+  color: var(--ifm-color-primary-lightest);
+  @media (width <= 600px) {
+    font-size: 0.6em;
+  }
 }
 
 .service-content {
-    text-wrap: pretty;
-    font-size: 0.9em;
-    margin-left: 5px;
-    padding-top: 10px;
-    padding-right: 5px;
+  text-wrap: pretty;
+  font-size: 0.9em;
+  margin-left: 5px;
+  padding-top: 10px;
+  padding-right: 5px;
 }
 
 .service-items {
-    @media (width > 800px) {
-        display: grid;
-        gap: 10px;
-    }
+  @media (width > 800px) {
+    display: grid;
+    gap: 10px;
+  }
 }
 
 .service-items.four {
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    margin-right: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin-right: 5px;
 }
 
 .service-items.three {
-    grid-template-columns: 1fr 1fr 1fr;
-    margin-right: 5px;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-right: 5px;
 }
 
 .service-items.two {
-    grid-template-columns: 1fr 1fr;
-    margin-right: 5px;
+  grid-template-columns: 1fr 1fr;
+  margin-right: 5px;
 }
 
 .service-item {
-    display: flex;
-    align-items: center;
-    font-size: 0.7em;
+  display: flex;
+  align-items: center;
+  font-size: 0.7em;
 }
 
 .pretty-wrap {
-    text-wrap: pretty;
+  text-wrap: pretty;
 }
 
 .chevron-hover:hover {
-    opacity: 0.7;
-    color: yellow;
+  opacity: 0.7;
+  color: yellow;
 }
 
 .collapse-div {
-    overflow: hidden;
-    max-height: 2000px;
-    transition: max-height 0.5s ease;
+  overflow: hidden;
+  max-height: 2000px;
+  transition: max-height 0.5s ease;
 }
 
 .panel-container {
-    border: 1px solid lightgray;
-    border-radius: 10px;
-    gap: 10px;
-    margin-bottom: 10px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  gap: 10px;
+  margin-bottom: 10px;
 
-    font-size: 1em;
+  font-size: 1em;
 }
 
 .panel-header {
-    font-weight: bold;
-    font-size: 1.1em;
-    text-align: center;
-    padding: 8px;
-    border-radius: 10px 10px 0px 0px;
-    background-color: var(--ifm-color-primary-darkest);
-    color: var(--ifm-color-primary-lighter);
+  font-weight: bold;
+  font-size: 1.1em;
+  text-align: center;
+  padding: 8px;
+  border-radius: 10px 10px 0px 0px;
+  background-color: var(--ifm-color-primary-darkest);
+  color: var(--ifm-color-primary-lighter);
 }
 
 .action-container {
-    padding: 15px;
+  padding: 15px;
 }
 
 .action-label {
-    font-weight: bold;
-    font-size: 1em;
+  font-weight: bold;
+  font-size: 1em;
 }
 .action-item-list {
-    font-size: 0.9em;
-    padding-right: 10px;
-    text-wrap: pretty;
+  font-size: 0.9em;
+  padding-right: 10px;
+  text-wrap: pretty;
 }
